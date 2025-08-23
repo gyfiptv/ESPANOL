@@ -11,3 +11,131 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVlatino🌎",🇪🇸120780 D1R3CTV
 http://fortv.cc:8080/Boobear/Boobear/120780
 
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
+http://fortv.cc:8080/Boobear/Boobear/46692
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
+
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸3697 UNIVISION | VIX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
+
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸57969 UNIMAS (opt1)
+http://fortv.cc:8080/Boobear/Boobear/57969
+#EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸57969 UNIMAS (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3847 UNIVERSO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
+
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
+http://fortv.cc:8080/Boobear/Boobear/120691
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/120691.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt1)
+http://fortv.cc:8080/Boobear/Boobear/120768
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120768 TELEMUNDO 30 OKLAHOMA KTUZ-TV (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/120768.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt1)
+http://fortv.cc:8080/Boobear/Boobear/120833
+#EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120833 TELEMUNDO 44 WASHINGTON DC WZDC-CD (opt2)
+http://fortv.cc:8080/live/Boobear/Boobear/120833.m3u8
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3875 TELEMUNDO 47 NY
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3875
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3876 TELEMUNDO CHICAGO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3876
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3878 TELEMUNDO 62 FILADELFIA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3878
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3879 TELEMUNDO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3879
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3880 TELEMUNDO 39 DALLAS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3880
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3883 TELEMUNDO NVA INGLATERRA
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3883
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3886 TELEMUNDO 40 TX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3886
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3889 TELEMUNDO 51 MIAMI
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3889
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3890 TELEMUNDO ARIZONA KTAZ
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3890
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3892 TELEMUNDO 44 WASHINGTON DC
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3892
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸2213 FANDUEL SPORTS NETWORK EN|ES
+http://fortv.cc:8080/Boobear/Boobear/2213
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸2214 SONY MOVIES EN|ES
+http://fortv.cc:8080/Boobear/Boobear/2214
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸9237 WE TV EN|ES
+http://fortv.cc:8080/Boobear/Boobear/9237
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸9264 HBO MAX EN|ES
+http://fortv.cc:8080/Boobear/Boobear/9264
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸9265 HBO EN|ES
+http://fortv.cc:8080/Boobear/Boobear/9265
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸9266 HBO ORIGINAL EN|ES
+http://fortv.cc:8080/Boobear/Boobear/9266
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸9272 IFC Semi-Pro NEXT EN|ES
+http://fortv.cc:8080/Boobear/Boobear/9272
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸9308 MTV2 EN|ES
+http://fortv.cc:8080/Boobear/Boobear/9308
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸13379 MARQUEE Sports Network EN|ES
+http://fortv.cc:8080/Boobear/Boobear/13379
+
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸17773 HBO COMEDY
+http://fortv.cc:8080/Boobear/Boobear/17773
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸46712 SUNDANCE TV EN|ES
+http://fortv.cc:8080/Boobear/Boobear/46712
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸20865 OUTSIDE TV EN|ES
+http://fortv.cc:8080/Boobear/Boobear/20865
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸20931 FANDUEL SPORTS NETWORK EN|ES
+http://fortv.cc:8080/Boobear/Boobear/20931
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸31637 NESN |Sports EN|ES
+http://fortv.cc:8080/Boobear/Boobear/31637
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸46708 CN [ADULT SWIM] MAX EN|ES
+http://fortv.cc:8080/Boobear/Boobear/46708
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸46712 SUNDANCE TV EN|ES
+http://fortv.cc:8080/Boobear/Boobear/46712
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸46720 DISCOVERY WORLD EN|ES
+http://fortv.cc:8080/Boobear/Boobear/46720
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸46726 NESN EN|ES
+http://fortv.cc:8080/Boobear/Boobear/46726
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
