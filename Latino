@@ -4,28 +4,444 @@ http://fortv.cc:8080/Boobear/Boobear/120780
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVlatino🌎 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  185.189.225.150:85 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  megafull 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVlatino🌎",🇪🇸120780 D1R3CTV
 http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸182 AMERICA TELEVISION PE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/182.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸183 ATV PLUS PE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/183.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸184 ATV PE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/184.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸186 WILLAX PE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/186.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸187 LATINA PE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/187.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸188 LATINA PE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/188.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸96388 GOL PERU
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96388.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸537 ANTENA 3 | A3MEDIA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/537.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸539 CUATRO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/539.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸546 LA SEXTA 6 | A3MEDIA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/546.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸550 CANAL 24H | RTVE.ES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/550.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸552 AMC
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/552.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸553 ARAGON TV INT | EURO NEWS. 24/7
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/553.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸558 ANTENA 3 SERIES | A3MEDIA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/558.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸559 BE MAD.
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/559.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸560 BREAK
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/560.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸561 BABY TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/561.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸562 PTV MALAGA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/562.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸563 LALIGA | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/563.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸564 LIGA DE CAMPEONES | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/564.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸568 BOING
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/568.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸571 CANAL SUR 2
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/571.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸572 VIN TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/572.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸575 CALLE 13
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/575.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸577 CANAL COCINA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/577.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸578 DECASA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/578.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸581 CAZA Y PESCA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/581.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸582 CLAN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/582.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸585 COMEDY CENTRAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/585.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸586 COSMO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/586.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸593 DKISS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/593.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸595 EUROSPORT 1
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/595.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸596 EUROSPORT 2
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/596.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸599 E. | ENERGY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/599.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸600 F. | FDF TELECINCO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/600.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸601 STAR CHANNEL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/601.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸606 HISTORY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/606.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸607 HBO MAX AVANCES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/607.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸610 IBERALIA ORIGINAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/610.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸614 ACCION | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/614.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸622 ESTRENOS | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/622.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸623 COMEDIA | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/623.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸628 DAZN | F1
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/628.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸629 DEPORTES | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/629.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸639 HITS | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/639.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸640 INDIE | por M+
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/640.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸644 SUNDANCE TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/644.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸645 NAT GEO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/645.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸646 DISCOVERY WORLD
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/646.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸649 WB TV | WARNER BROSS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/649.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸650 TVE | LA 1
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/650.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸652 NAT GEO WILD
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/652.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸653 NEOX | A3MEDIA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/653.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸654 NICK JR.
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/654.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸658 NOVA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/658.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸660 TR3CE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/660.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸668 MEGA | A3MEDIA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/668.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸669 MTV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/669.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸671 OD!SEA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/671.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸673 SYFY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/673.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸678 TCM
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/678.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸679 EL TORO TV HD | REDIFUSION
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/679.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸682 TELEMUNDO 47 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸685 TELEMUNDO 51 MI
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸686 TELEMUNDO 39 KANSAS CITY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸687 TELEMUNDO 60
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸692 TELEMUNDO 52 LA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸694 TELEMUNDO LAS VEGAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸725 UNIVISION LOS ANGELES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸726 UNIVISION CHICAGO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸727 TUDN | UNIMAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸729 UNIVISION 23 MI
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸730 UNIVISION 41 NY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
+
+
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸857 TNT SPORTS PREMIUM | HBO MAX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/857.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸858 TNT SPORTS PREMIUM | HBO MAX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/858.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸861 FOX SPORTS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/861.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸864 CHILEVISION | CANAL CIV CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/864.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸865 CHILEVISION CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/865.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸869 TVN CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/869.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸870 CANAL 13 CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/870.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸871 T13  CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/871.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸875 MEGA CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/875.ts
+#EXTINF:-1 group-title="📺IPTVworld🌐",🇪🇸876 MEGA CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/876.ts
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸878 HIPODROMO Chile CL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/878.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸905 RCN CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/905.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸906 CANAL 1 CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/906.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸908 CABLE NOTICIAS CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/908.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸909 TV CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/909.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸911 CARACOL CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/911.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸912 CARACOL INTERNACIONAL CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/912.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸913 CITYTV CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/913.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸915 COSMOVISION CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/915.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸920 RCN CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/920.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸921 RCN CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/921.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸924 TELE AMAZONAS CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/924.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸925 TELE CAFE CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/925.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸926 T EN VIVO TV CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/926.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸928 WIN SPORTS CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/928.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸929 WIN SPORTS CO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/929.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸931 BeIN SPORTS N ESPANOL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/931.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸933 CORAZON AZTECA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/933.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸934 TV AZTECA INTERNACIONAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/934.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸936 AZTECA 7
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/936.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸937 AZTECA 7
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/937.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸938 AZTECA UNO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/938.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸939 AZTECA UNO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/939.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸942 CANAL 5*
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/942.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸943 CANAL 5*
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/943.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸944 NU9VE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/944.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸946 CANAL ONCE MX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/946.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸948 TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/948.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸949 IMAGEN MX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/949.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸951 LAS ESTRELLAS TV MX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/951.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸952 LAS ESTRELLAS TV MX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/952.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸954 CANAL 8 TD Cerca de Voz CR
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/954.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸955 MM MONTEREY MX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/955.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸960 CNN ESPANOL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/960.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸962 N+ FORO MX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/962.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸969 ANIMAL PLANET DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/969.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸970 ANIMAL PLANET DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/970.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸971 WORLD DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/971.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸972 DISCOVERY ESPANOL GO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/972.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸973 HGTV DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/973.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸974 H&H DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/974.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸976 INVESTIGATION DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/976.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸977 INVESTIGATION DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/977.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸978 SCIENCE DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/978.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸980 THEATER DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/980.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸981 TLC DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/981.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸982 TURBO DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/982.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸983 WORLD DISCOVERY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/983.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸984 TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/984.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸985 GOURMET
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/985.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸987 HISTORY 2
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/987.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸989 HISTORY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/989.ts
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸990 NAT GEO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/990.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸991 NAT GEO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/991.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸995 WABI
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/995.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸996 A&E
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/996.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸997 A&E
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/997.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸999 AMC
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/999.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1000 A&E
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1000.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1002 AXN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1002.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1003 AXN
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1003.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1004 COMEDY CENTRAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1004.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1005 COMEDY CENTRAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1005.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1007 DISTRITO COMEDIA
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1007.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1008 E!
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1008.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1009 LAS ESTRELLAS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1009.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1010 STAR CHANNEL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1010.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1012 FX
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1012.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1017 LIFETIME
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1017.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1019 PARAMOUNT NETWORK
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1019.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1020 PASIONES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1020.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1022 SONY CHANNEL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1022.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1024 SPACE
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1024.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1032 TNT SERIES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1032.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1033 TNT SERIES
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1033.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1034 WB TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1034.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1039 CINECANAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1039.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1042 D PELICULA PLUS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1042.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1043 D PELICULA PLUS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1043.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1045 FILM & ARTS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1045.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1047 UNIVERSAL+ REALITY
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1047.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1053 UNIVERSAL+ CRIME
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1053.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1061 GOLDEN PLUS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1061.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1062 GOLDEN PREMIER
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1062.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1064 HBO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1064.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1065 HBO 2
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1065.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1070 HBO XTREME
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1070.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1075 SUNDANCE TV
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1075.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1078 TNT
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1078.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1080 STUDIO UNIVERSAL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1080.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1082 CARTOONITO
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1082.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1083 CARTOON NETWORK
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1083.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1084 DISCOVERY KIDS
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1084.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1085 DISNEY CHANNEL
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1085.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1086 DISNEY JR.
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1086.ts
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1090 DISNEY JR.
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1090.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1092 NICK JR.
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1092.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1093 NICKELODEON
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1093.ts
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1098 TOONCAST
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1098.ts
+
+
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸40008 ESPANA | Movistar DISNEY Channel
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/40008.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸40066 ESPANA | Movistar DISNEY+ Channel (DUAL AUDIO)
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/40066.ts
+
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸96359 AMERICA TEVE US WJAN | NBC 6
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96359.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸96360 CARTOON NETWORK
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96360.ts
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸96388 GOL PERU
+http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96388.ts
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣2️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVlatino🌎 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  fortv 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVlatino🌎",🇪🇸120780 D1R3CTV
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3847 UNIVERSO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
+
+#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸3697 UNIVISION | VIX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
 
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸46692 UNIVISION 23 MIAMI (opt1)
 http://fortv.cc:8080/Boobear/Boobear/46692
 #EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸46692 UNIVISION 23 MIAMI (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/46692.m3u8
 
-#EXTINF:-1 tvg-id="UnivisionEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸3697 UNIVISION | VIX
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
-
 #EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸57969 UNIMAS (opt1)
 http://fortv.cc:8080/Boobear/Boobear/57969
 #EXTINF:-1 tvg-id="UnimasEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸57969 UNIMAS (opt2)
 http://fortv.cc:8080/live/Boobear/Boobear/57969.m3u8
-
-#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3847 UNIVERSO
-http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3847
 
 #EXTINF:-1 tvg-id="TelemundoEast.us" tvg-logo="" group-title="📺IPTVlatino🌎",🇪🇸120691 TELEMUNDO 44 CHICAGO WSNS-TV (opt1)
 http://fortv.cc:8080/Boobear/Boobear/120691
@@ -85,8 +501,6 @@ http://fortv.cc:8080/Boobear/Boobear/9308
 #EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸13379 MARQUEE Sports Network EN|ES
 http://fortv.cc:8080/Boobear/Boobear/13379
 
-
-
 #EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸17773 HBO COMEDY
 http://fortv.cc:8080/Boobear/Boobear/17773
 #EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸46712 SUNDANCE TV EN|ES
@@ -109,6 +523,164 @@ http://fortv.cc:8080/Boobear/Boobear/46726
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣3️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVlatino🌎 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVlatino🌎",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVlatino🌎",🇪🇸120780 D1R3CTV
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸833 ONETORO TV ES
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/833
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸949 CAZA Y PESCA PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/949
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1607 EL TRECE INTERNACIONAL
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1607
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1613 AMC
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1613
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1619 CANAL ONCE
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1619
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1631 DISCOVERY TURBO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1631
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1646 ESTRELLA NEWS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1646
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1655 NAT GEO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1655
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1666 TLN TLNOVELAS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1666
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1678 TLN TLNOVELAS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1678
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1686 TELE RITMO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1686
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3857 CNN EN ESPANOL
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3857
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3625 CNN
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3625
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸1636 ESPN
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1636
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3613 BEIN SPORTS N
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3613
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3706 BEIN SPORTS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3706
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3636 ESPN
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3636
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3637 ESPN 8 | THE OCHO
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3637
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3638 ESPN U
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3638
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3639 ESPN DEPORTES
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3639
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3809 FOX DEPORTES
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3809
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3811 ESPN DEPORTES
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3811
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3853 FOX DEPORTES
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3853
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3645 FS1
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3645
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3646 FS2
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3646
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3725 ESPN
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3725
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3726 ESPN 2
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3726
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3732 FS1 | LEAGUES CUP
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3732
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3800 FOX SOCCER PLUS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3800
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3685 TENNIS CHANNEL UHD
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3685
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3762 TENNIS CHANNEL
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3762
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹836 SYFY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/836
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹894 HOLLYWOOD PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/894
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹899 STAR MOVIES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/899
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹900 STAR MOVIES PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/900
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹901 STAR LIFE PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/901
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹902 STAR CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/902
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹903 STAR CRIME PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/903
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹904 STAR CRIME PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/904
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹905 STAR COMEDY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/905
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹906 STAR COMEDY PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/906
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹907 STAR CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/907
+
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹936 CINE MUNDO PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/936
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹937 CINE MUNDO PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/937
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇵🇹1661 SONY CHANNEL PT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/1661
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3683 TNT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3683
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3684 TBS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3684
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3688 TRU TV
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3688
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3694 USA NETWORK
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3694
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇪🇸3697 UNIVISION | VIX
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3697
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3761 TBS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3761
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3762 TENNIS CHANNEL
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3762
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3764 TNT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3764
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3766 TRU TV
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3766
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3767 USA NETWORK
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3767
+
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3842 TBS
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3842
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3843 TNT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3843
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3844 TNT
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3844
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3846 TRU TV
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3846
+#EXTINF:-1 group-title="📺IPTVlatino🌎",🇺🇸3848 USA NETWORK
+http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3848
 
 
 
