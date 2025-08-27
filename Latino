@@ -10,19 +10,19 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVspanish🇪🇸",🇪🇸120780 D1R3CTV
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸182 AMERICA TELEVISION PE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪182 AMERICA TELEVISION PE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/182.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸183 ATV PLUS PE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪183 ATV PLUS PE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/183.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸184 ATV PE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪184 ATV PE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/184.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸186 WILLAX PE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪186 WILLAX PE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/186.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸187 LATINA PE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪187 LATINA PE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/187.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸188 LATINA PE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪188 LATINA PE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/188.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸96388 GOL PERU
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇵🇪96388 GOL PERU
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/96388.ts
 
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸537 ANTENA 3 | A3MEDIA
@@ -140,128 +140,133 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/673.ts
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/678.ts
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸679 EL TORO TV HD | REDIFUSION
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/679.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸682 TELEMUNDO 47 NY
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸682 TELEMUNDO 47 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/682.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸685 TELEMUNDO 51 MI
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸685 TELEMUNDO 51 MI
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/685.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸686 TELEMUNDO 39 KANSAS CITY
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸686 TELEMUNDO 39 KANSAS CITY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/686.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸687 TELEMUNDO 60
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸687 TELEMUNDO 60
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/687.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸692 TELEMUNDO 52 LA
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸692 TELEMUNDO 52 LA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/692.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸694 TELEMUNDO LAS VEGAS
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸694 TELEMUNDO LAS VEGAS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/694.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸725 UNIVISION LOS ANGELES
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸725 UNIVISION LOS ANGELES
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/725.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸726 UNIVISION CHICAGO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸726 UNIVISION CHICAGO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/726.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸727 TUDN | UNIMAS
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸727 TUDN | UNIMAS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/727.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸729 UNIVISION 23 MI
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸729 UNIVISION 23 MI
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/729.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸730 UNIVISION 41 NY
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸730 UNIVISION 41 NY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/730.ts
 
 
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸857 TNT SPORTS PREMIUM | HBO MAX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱857 TNT SPORTS PREMIUM | HBO MAX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/857.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸858 TNT SPORTS PREMIUM | HBO MAX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱858 TNT SPORTS PREMIUM | HBO MAX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/858.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸861 FOX SPORTS
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱861 FOX SPORTS
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/861.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸864 CHILEVISION | CANAL CIV CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱864 CHILEVISION | CANAL CIV CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/864.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸865 CHILEVISION CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱865 CHILEVISION CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/865.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸869 TVN CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱869 TVN CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/869.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸870 CANAL 13 CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱870 CANAL 13 CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/870.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸871 T13  CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱871 T13  CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/871.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸875 MEGA CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱875 MEGA CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/875.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸876 MEGA CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱876 MEGA CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/876.ts
-
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸878 HIPODROMO Chile CL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇱878 HIPODROMO Chile CL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/878.ts
 
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸905 RCN CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴905 RCN CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/905.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸906 CANAL 1 CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴906 CANAL 1 CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/906.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸908 CABLE NOTICIAS CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴908 CABLE NOTICIAS CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/908.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸909 TV CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴909 TV CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/909.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸911 CARACOL CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴911 CARACOL CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/911.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸912 CARACOL INTERNACIONAL CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴912 CARACOL INTERNACIONAL CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/912.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸913 CITYTV CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴913 CITYTV CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/913.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸915 COSMOVISION CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴915 COSMOVISION CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/915.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸920 RCN CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴920 RCN CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/920.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸921 RCN CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴921 RCN CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/921.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸924 TELE AMAZONAS CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴924 TELE AMAZONAS CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/924.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸925 TELE CAFE CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴925 TELE CAFE CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/925.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸926 T EN VIVO TV CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴926 T EN VIVO TV CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/926.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸928 WIN SPORTS CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴928 WIN SPORTS CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/928.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸929 WIN SPORTS CO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴929 WIN SPORTS CO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/929.ts
+
+
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸931 BeIN SPORTS N ESPANOL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/931.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸933 CORAZON AZTECA
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽933 CORAZON AZTECA
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/933.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸934 TV AZTECA INTERNACIONAL
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽934 TV AZTECA INTERNACIONAL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/934.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸936 AZTECA 7
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽936 AZTECA 7
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/936.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸937 AZTECA 7
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽937 AZTECA 7
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/937.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸938 AZTECA UNO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽938 AZTECA UNO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/938.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸939 AZTECA UNO
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽939 AZTECA UNO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/939.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸942 CANAL 5*
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽942 CANAL 5*
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/942.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸943 CANAL 5*
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽943 CANAL 5*
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/943.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸944 NU9VE
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽944 NU9VE
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/944.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸946 CANAL ONCE MX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽946 CANAL ONCE MX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/946.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸948 TV
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽948 TV
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/948.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸949 IMAGEN MX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽949 IMAGEN MX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/949.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸951 LAS ESTRELLAS TV MX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽951 LAS ESTRELLAS TV MX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/951.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸952 LAS ESTRELLAS TV MX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽952 LAS ESTRELLAS TV MX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/952.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸954 CANAL 8 TD Cerca de Voz CR
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇨🇴954 CANAL 8 TD Cerca de Voz CR
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/954.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸955 MM MONTEREY MX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽955 MM MONTEREY MX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/955.ts
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸960 CNN ESPANOL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/960.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸962 N+ FORO MX
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽962 N+ FORO MX
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/962.ts
+
+
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸969 ANIMAL PLANET DISCOVERY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/969.ts
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸970 ANIMAL PLANET DISCOVERY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/970.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸971 WORLD DISCOVERY
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸971 DISCOVERY CHANNEL
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/971.ts
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸972 DISCOVERY ESPANOL GO
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/972.ts
@@ -283,7 +288,7 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/981.ts
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/982.ts
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸983 WORLD DISCOVERY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/983.ts
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸984 TV
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸984 WORLD DISCOVERY
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/984.ts
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸985 GOURMET
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/985.ts
@@ -393,16 +398,11 @@ http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1093.ts
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/1098.ts
 
 
-
-
-
-
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸40008 ESPANA | Movistar DISNEY Channel
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/40008.ts
 
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸40066 ESPANA | Movistar DISNEY+ Channel (DUAL AUDIO)
 http://megafull.site:8080/live/JoseLuisVillar369/67Qgq5HgKu/40066.ts
-
 
 
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸96359 AMERICA TEVE US WJAN | NBC 6
@@ -685,7 +685,298 @@ http://realsport.scalecdn.co:8080/hankstreamer/sYWcksogwN/3848
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣4️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVspanish🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
+http://185.189.225.149/BabyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="BomCine.es" tvg-logo="https://i.imgur.com/65OX8Gj.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² Bom Cine | Movies (ᵀᵛ²)
+http://185.189.225.149/BOM/index.m3u8
+
+#EXTINF:-1 tvg-id=“cocina.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² Canal Cocina ES (ᵀᵛ²)
+http://185.189.225.149/cocina/index.m3u8
+
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/FDF_2012.png/500px-FDF_2012.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² F. Fdf ES (ᵀᵛ²)
+http://185.189.225.149/fdf/index.m3u8
+
+#EXTINF:-1 tvg-id=“GOLPLAY.es" tvg-logo="https://i.imgur.com/USbmwiC.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² GOLPLAY ES (ᵀᵛ²)
+http://185.189.225.149/GOLPLAY/index.m3u8
+
+#EXTINF:-1 tvg-id="HITTV.es" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/HIT-TV.jpg?resize=300%2C236&ssl=1" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² Hit Tv |Music (ᵀᵛ²)
+http://185.189.225.149/HitTV/index.m3u8
+
+#EXTINF:-1 tvg-id=“iberalia.es" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² IBERALIA ES (ᵀᵛ²)
+http://185.189.225.149/iberalia/index.m3u8
+
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://i.imgur.com/ZjnlY3D.jpeg" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² 8madrid TV | Movies (ᵀᵛ²)
+http://185.189.225.149/8madrid/index.m3u8
+
+#EXTINF:-1 tvg-id="Mega.es" tvg-logo="https://i.imgur.com/Udrt2eK.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² MEGA ES (ᵀᵛ²)
+http://185.189.225.149/mega/index.m3u8 
+
+#EXTINF:-1 tvg-id="ParamountNetwork.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² Paramount Network ES (ᵀᵛ²)
+http://185.189.225.149/paramount/index.m3u8 
+
+#EXTINF:-1 tvg-id=“STAR.es" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² Star Channel ES (ᵀᵛ²)
+http://185.189.225.149/STAR/index.m3u8
+
+#EXTINF:-1 tvg-id=“tcm.es"  group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² TCM ES (ᵀᵛ²)
+http://185.189.225.149/tcm/index.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣5️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVspanish🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ AXN  ES
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNCentralAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² AXN  ES
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ AMC
+https://streamer1.nexgen.bz/AMC/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² AMC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ BET
+https://streamer1.nexgen.bz/BET/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² BET
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ BRAVO
+https://streamer1.nexgen.bz/BRAVO/index.m3u8
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/bet1840.jpg" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² BRAVO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ CINEMAX
+https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id=“Cinemax.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² CINEMAX
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ CINECANAL
+https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-id=“CineCanal.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² CINECANAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ COOKING CHANNEL
+https://streamer1.nexgen.bz/COOKING/index.m3u8
+#EXTINF:-1 tvg-id="TheCookingChannel.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² COOKING CHANNEL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COOKING/index.m3u8
+
+#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ COMEDY_CENTRAL
+https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id=“ComedyCentral.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² COMEDY_CENTRAL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ DISCOVERY CHANNEL
+https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-id=“DiscoveryNetwork.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² DISCOVERY CHANNEL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
+
+#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ DISCOVERY_WORLD EN|ES
+https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
+#EXTINF:-1 tvg-id=“DiscoveryWorld.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² DISCOVERY_WORLD EN|ES
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_WORLD/index.m3u8
+
+#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ DISCOVERY_TURBO
+https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+#EXTINF:-1 tvg-id=“DiscoveryTurbo.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² DISCOVERY_TURBO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ FOOD Network
+https://streamer1.nexgen.bz/FOOD/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² FOOD Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
+
+#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ FUSE
+https://streamer1.nexgen.bz/FUSE/index.m3u8
+#EXTINF:-1 tvg-id=“Fuse.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² FUSE
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FUSE/index.m3u8
+
+#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ FX 
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 tvg-id=“FX.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² FX 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/index.m3u8
+
+#EXTINF:-1,group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ FOOD NETWORK HD
+https://streamer1.nexgen.bz/FOOD/index.m3u8
+#EXTINF:-1,group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² FOOD NETWORK HD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FOOD/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ GET TV 
+https://streamer1.nexgen.bz/GET/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² GET TV 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GET/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ GSN | Game Show Network
+https://streamer1.nexgen.bz/GSN/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² GSN | Game Show Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/GSN/index.m3u8
+
+#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ HBO 2
+https://streamer1.nexgen.bz/HBO2/index.m3u8
+#EXTINF:-1 tvg-id=“HBO2.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² HBO 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ HBO_POP
+https://streamer1.nexgen.bz/HBO_POP/index.m3u
+#EXTINF:-1 tvg-id=“HBOPop.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² HBO_POP
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/index.m3u
+
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ HBO_FAMILY
+https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² HBO_FAMILY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ HISTORY
+https://streamer1.nexgen.bz/HISTORY/index.m3u8
+#EXTINF:-1 tvg-id=“History.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² HISTORY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
+
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ HISTORY 2
+https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² HISTORY 2
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
+
+#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ HGTV
+https://streamer1.nexgen.bz/HGTV/index.m3u8
+#EXTINF:-1 tvg-id=“HGTV.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² HGTV
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ HTV MUSIC SD
+https://streamer1.nexgen.bz/HTV/index.m3u8
+#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://i.imgur.com/NlKFNHS.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² HTV MUSIC SD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ HALLMARK
+https://streamer1.nexgen.bz/HALLMARK/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² HALLMARK
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HALLMARK/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ LIFETIME
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² LIFETIME
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ LMN | LIFETIME MOVIES Network
+https://streamer1.nexgen.bz/LMN/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² LMN | LIFETIME MOVIES Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LMN/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ MAGNOLIA Network 
+https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² MAGNOLIA Network 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MAGNOLIA/index.m3u8
+
+#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ MTV 
+https://streamer1.nexgen.bz/MTV/index.m3u8
+#EXTINF:-1 tvg-id=“MTV.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² MTV 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ NAT_GEO
+https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² NAT_GEO
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+
+#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
+https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² OUTDOOR CHANNEL
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ PARAMOUNT NETWORK HD
+https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² PARAMOUNT NETWORK HD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ SYFY
+https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² SYFY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ STAR Channel x
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² STAR Channel x
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STAR/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ ✝TBN uk
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² ✝TBN uk
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBN/index.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ TELEHIT MUSIC SD
+https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² TELEHIT MUSIC SD
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TELEHIT/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ TBS |E!
+https://streamer1.nexgen.bz/TBS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² TBS |E!
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ TCM 
+https://streamer1.nexgen.bz/TCM/index.m3u8
+#EXTINF:-1 tvg-id="TCM.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² TCM 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TCM/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ¹ TLC
+https://streamer1.nexgen.bz/TLC/index.m3u8
+#EXTINF:-1 tvg-id="TLC.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² TLC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TLC/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ TNT | NBA SPORTS
+https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² TNT | NBA SPORTS
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ TRUTV | NBA SPORTS
+https://streamer1.nexgen.bz/TRUTV/index.m3u8
+#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² TRUTV | NBA SPORTS
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ USA Network
+https://streamer1.nexgen.bz/USA/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² USA Network
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/USA/index.m3u8
+
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ USA | SYFY
+https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² USA | SYFY
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+
+#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ VH1 
+https://streamer1.nexgen.bz/VH1/index.m3u8
+#EXTINF:-1 tvg-id=“VH1.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² VH1 
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/VH1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ WE_TV |Lifestyle (opt1)
+https://streamer1.nexgen.bz/WE_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/800px-Wetv-july-2024-logo.svg.png" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² WE_TV |Lifestyle (opt1)
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ¹ PIX11 NEWS NYC
+https://streamer1.nexgen.bz/WPIX/index.m3u8
+#EXTINF:-1 tvg-id=“WPIX.us" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸Ⓜ² PIX11 NEWS NYC
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/WPIX/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣6️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVspanish🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  realsport 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
