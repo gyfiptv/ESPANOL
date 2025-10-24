@@ -703,6 +703,11 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/34.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸35 GARAGE TV
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/35.m3u8
 
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸36 NICK 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/36.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸37 FOX LIFE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/37.m3u8
+
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸38 DISTRITO COMEDIA
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/38.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸39 TBS
@@ -760,6 +765,17 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/67.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸68 WOBI
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/68.m3u8
 
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸69 FOX SERIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/69.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸70 FOX ACTION PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/70.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸71 FOX MOVIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/71.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸72 FOX CINEMA PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/72.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸73 FOX CLASSICS PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/73.m3u8
+
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸74 TV AZTECA CINEMA
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/74.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸75 CINECANAL
@@ -781,7 +797,196 @@ http://s1.iptvprivado.net:8080/live/okta/lsrlo/85.m3u8
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/86.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸87 STUDIO UNIVERSAL
 http://s1.iptvprivado.net:8080/live/okta/lsrlo/87.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸89 TCM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/89.m3u8
 
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸91 ESPN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/91.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸92 ESPN 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/92.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸93 ESPN 3
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/93.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸94 FOX SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/94.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸95 FOX SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/95.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸96 PX SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/96.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸97 AYM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/97.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸98 MILENIO TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/98.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸99 BLOOMBERG EL FINANCIERO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/99.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸100 TVE.ES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/100.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸101 TV AZTECA CLIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/101.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸102 MTV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/102.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸103 TELEHIT MUSICA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/103.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸104 MTV 00s
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/104.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸105 MTV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/105.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸106 MTV HITS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/106.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸107 CLASSIC 1 MUSIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/107.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸108 TELEHIT URBANO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/108.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸109 BANDAMAX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/109.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸110 ESPN 4
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/110.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸111 TELEMUNDO INTERNACIONAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/111.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸113 CINECANAL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/113.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸115 FOX MOVIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/115.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸116 FOX ACTION PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/116.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸118 FOX SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/118.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸119 ESPN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/119.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸120 FOX SERIES PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/120.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸121 CANAL 13C
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/121.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸122 GOLDEN PLUS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/122.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸123 STAR CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/123.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸124 A&E
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/124.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸125 AXN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/125.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸128 TNT SERIES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/128.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸129 TNT
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/129.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸130 WB TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/130.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸131 UNIVERSAL TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/131.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸132 FX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/132.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸133 CLARO CINEMA
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/133.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸135 GALAVISION
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/135.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸148 FORO TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/148.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸150 LAS ESTRELLAS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/150.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸151 FOX SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/151.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸152 ESPN 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/152.m3u8
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸156 SPACE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/156.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸157 AMC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/157.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸164 TUDN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/130.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸165 XFL ADRENALINA SPORTS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/165.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸166 BT SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/166.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸174 BT SPORTS 1
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/174.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸180 MOVISTAR GOLF M+
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/180.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸181 HBO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/181.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸182 HBO FAMILY
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/182.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸224 HBO SIGNATURE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/224.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸183 HISTORY 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/183.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸186 FOX FAMILY PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/186.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸197 CNN EN ESPANOL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/197.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸204 BOX NATION
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/204.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸215 NFL NETWORK
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/215.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸217 NATIONAL GEOGRAPHIC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/217.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸222 HBO
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/222.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸224 HBO SIGNATURE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/224.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸230 FXX
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/230.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸233 FOX NEWS CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/233.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸234 ESPN U
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/234.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸337 RT
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/337.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸339 HALLMARK CHANNEL
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/339.m3u8
+
+
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2403 EL MENTALISTA 24/7
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2403.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2843 LIGA NOS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2843.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2844 FOX DEPORTES
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2844.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2848 GOL TV
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2848.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2858 ESPN
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2858.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2860 ESPN 3
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2860.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸2863 DIRECTV SPORTS 2
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/2863.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸3713 MTV ROCKS
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/3713.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸9775 TELESUR
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/9775.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸10076 TOM AND JERRY 24/7
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/10076.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸19288 EL CANAL DEL FUTBOL EC
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19288.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸19289 TNT SPORTS PREMIUM
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/19289.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸31542 CANAL N PE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/31542.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸37295 LIGA 1 MAX PE
+http://s1.iptvprivado.net:8080/live/okta/lsrlo/37295.m3u8
 
 
 
