@@ -1896,6 +1896,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+
 #EXTINF:-1 tvg-id="BabyTV.uk@Spain" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Ⓜ² BABY TV (ᵀᵛ²)
 http://185.189.225.149/BabyTV/index.m3u8
 
@@ -2211,7 +2212,7 @@ http://38.183.182.166:8000/play/a0gr/index.m3u8
 http://38.183.182.166:8000/play/a0ih/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0ii PANAMERICANA TV PE Latino
 http://38.183.182.166:8000/play/a0ii/index.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0ij PANAMERICANA TV PE Latino
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0ij RT Latino
 http://38.183.182.166:8000/play/a0ij/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0iq ESPN 7 Latino
 http://38.183.182.166:8000/play/a0iq/index.m3u8
@@ -2245,12 +2246,12 @@ http://38.183.182.166:8000/play/a0jj/index.m3u8
 http://38.183.182.166:8000/play/a0jr/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0js URBANO TV CR Latino
 http://38.183.182.166:8000/play/a0js/index.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0jt TV Latino
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0jt ADA TV TAURU Latino
 http://38.183.182.166:8000/play/a0jt/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0ju UNITEL TV BO Latino
 http://38.183.182.166:8000/play/a0ju/index.m3u8
 
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0kj VIVE TV Latino
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0kj VIVE TV CO Latino
 http://38.183.182.166:8000/play/a0kj/index.m3u8
 
 
@@ -2260,7 +2261,7 @@ http://38.183.182.166:8000/play/a0ra/index.m3u8
 http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0rc LAS ESTRELLAS MX Latino
 http://38.183.182.166:8000/play/a0rc/index.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0re ESPN Latino
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0re ESPN PREMIUM Latino
 http://38.183.182.166:8000/play/a0re/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0rf LATINA PE Latino
 http://38.183.182.166:8000/play/a0rf/index.m3u8
