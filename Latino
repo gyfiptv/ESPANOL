@@ -645,16 +645,16 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVworld🌐",🇺🇸☑  Cowboy Movie Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇺🇸☑  Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
-#EXTINF:-1 group-title="📺IPTVworld🌐",🇺🇸☑  MIRAMAX | Movie Channel
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸☑  MIRAMAX | Movie Channel
 https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVworld🌐",🇺🇸☑ MyTime Movie Network | Movies
+#EXTINF:-1 tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="📺IPTVspanish🇪🇸",🇺🇸☑ MyTime Movie Network | Movies
 https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVworld🌐",🇪🇸☑ MyTime Movie Network Spain | Movies
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVspanish🇪🇸",🇪🇸☑ MyTime Movie Network Spain | Movies
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 
