@@ -7,6 +7,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸NBCU Telemundo 51 Florida
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸NBCU Telemundo 52 West
+https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸NBCU Telemundo 47 North East
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="📺IPTVspanish🇪🇸",🇪🇸NBCU Telemundo HOUSTON Texas
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LAT: TELEMUNDO 51 MIAMI HD
 http://1tv41.icu:8080/zqQ0Q2/591076/56410
 
