@@ -2,11 +2,536 @@
 #EXTINF:-1 tvg-name="📺IPTVspanish🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVspanish🇪🇸", ##########  ♥ 01📺IPTVspain🇪🇸 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVspain🇪🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ TELEMUNDO📺IPTVusalatino🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LAT: TELEMUNDO 51 MIAMI HD
+http://1tv41.icu:8080/zqQ0Q2/591076/56410
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8336
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62093
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Miami (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8356
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Miami (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8357
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - National East (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8359
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - National West (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8360
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Orlando Florida (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8365
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Atlanta (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8338
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Boston (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8339
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Boston (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62100
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Boston (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8340
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Chicago (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8342
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Chicago (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8343
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Chicago (Z)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8344
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Dallas (L)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8345
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Dallas (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8346
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Dallas 39 (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8347
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Denver (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8348
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Fresno (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8349
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Houston (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8350
+
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="📺IPTVspanish🇪🇸",🇪🇸 NOV-Telemundo - Internacional (L)(HQ)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8351
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Las Vegas (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8352
+
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸 NOV-Telemundo - Los Angeles (KVEA-TV)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8353
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸 NOV-Telemundo - Los Angeles (KVEA-TV)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8354
+#EXTINF:-1 tvg-id="KVEADT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺IPTVspanish🇪🇸",🇪🇸 NOV-Telemundo - Los Angeles (KVEA-TV)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8355
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - New Orleans (L)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8361
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - New York (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8362
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - New York (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8364
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Philadelphia (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8366
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Phoenix (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8367
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Phoenix Arizona (L)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8368
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - San Diego (L)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8371
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - San Francisco (L)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8372
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - San francisco (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8373
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Tampa (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8374
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Texas (M)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8375
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Washington (L)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8376
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Washington (T)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8379
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Washington (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8377
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo - Washington (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8378
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo 31 - Orlando WTMO (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62094
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo 33 - Phoenix KTAZ (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62095
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo 39 - Las Vegas (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62096
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo 44 - Chicago (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62097
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo 48 - San Fransico KSTS (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62098
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="📺IPTVspanish🇪🇸",🇪🇸 NOV-Telemundo Internacional (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/62101
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Telemundo Los Angeles (Z)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8337
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : TELEMUNDO
+http://mains.services/live/4523074511/3178768/9ae0b0d9-2157-436a-902a-c7171a3c15f7.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : TELEMUNDO WEST
+http://mains.services/live/4523074511/3178768/485d1ba0-f450-4827-82e7-1ad577f6294a.m3u
+#EXTINF:-1 tvg-id="TelemundoInternacional.us" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="📺IPTVspanish🇪🇸",🇪🇸 LATINO : TELEMUNDO INTERNATIONAL
+http://mains.services/live/4523074511/3178768/48ff3531-2b8a-48cf-9eb6-247ba380084c.m3u
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WSCV) FORT LAUDERDALE FLORIDA
+http://mains.services/live/4523074511/3178768/6e961371-2c3d-44ec-8ee3-e090adbe2c66.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WRMD) TAMPA FLORIDA
+http://mains.services/live/4523074511/3178768/50bfbc4d-c992-4908-905a-1485e906a60d.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WTMO) ORLANDO FLORIDA
+http://mains.services/live/4523074511/3178768/756a8d78-3661-47d4-9905-264d59dc1ed8.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WWDT) NAPLES FLORIDA
+http://mains.services/live/4523074511/3178768/c53bfd47-cc2e-4373-8d24-24355e96db2f.m3u
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LOCALNOW: TELEMUNDO AL DIA
+http://mains.services/live/4523074511/3178768/4674ab5b-3415-46b5-9bb8-87ed93d49492.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LOCALNOW: TELEMUNDO NOTICIAS CALIFORNIA
+http://mains.services/live/4523074511/3178768/a813ddef-2385-4428-94b1-9b77cea6383f.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LOCALNOW: TELEMUNDO NOTICIAS FLORIDA
+http://mains.services/live/4523074511/3178768/4af701ba-7f2e-42ff-a5c6-768c22a6a518.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LOCALNOW: TELEMUNDO NOTICIAS NORESTE
+http://mains.services/live/4523074511/3178768/c9432a77-c874-4d6f-b6f3-ce6034c77395.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LOCALNOW: TELEMUNDO NOTICIAS TEXAS
+http://mains.services/live/4523074511/3178768/febb2bbc-f806-4b1a-8f7a-2a6e910c7301.m3u
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WSNS) CHICAGO ILLINOIS
+http://mains.services/live/4523074511/3178768/f93f02eb-6ea7-44bc-82d9-af813cd48798.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KASA) SANTA FE NEW MEXICO
+http://mains.services/live/4523074511/3178768/527acc17-dce9-4562-9260-5efe48faa8b6.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KBLR) PARADISE NEVADA
+http://mains.services/live/4523074511/3178768/5d4ef9d8-c304-4494-8405-44a43169066e.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KCSO) SACRAMENTO CALIFORNIA
+http://mains.services/live/4523074511/3178768/d5660d08-bb40-4d73-b1cb-050319f4103f.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KDEN) LONGMONT COLORADO
+http://mains.services/live/4523074511/3178768/9383772f-139b-41a2-8834-670d6b985f19.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KFBI) MEDFORD OREGON
+http://mains.services/live/4523074511/3178768/3620d7ba-9502-432f-ba08-5dacb86399ca.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KFDY) LINCOLN NEBRASKA
+http://mains.services/live/4523074511/3178768/92753d89-480a-48f5-a732-cab5574479ed.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KGLA) HAMMOND LOUISIANA
+http://mains.services/live/4523074511/3178768/3a3483f3-1d73-4405-8ab9-57296e9739c9.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KHRR) TUCSON ARIZONA
+http://mains.services/live/4523074511/3178768/fdde72a7-6782-4bd2-943a-f667ae535a26.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KNSO) MERCED CALIFORNIA
+http://mains.services/live/4523074511/3178768/dce3f1aa-d778-48bb-89cf-5b9e24cedb57.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KSTS) SAN JOSE CALIFORNIA
+http://mains.services/live/4523074511/3178768/8a1df1e9-3fee-4faf-a630-089546caa445.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KTAZ) PHOENIX ARIZONA
+http://mains.services/live/4523074511/3178768/8e3e4f0d-5451-48bb-844c-11bd7fcf57f7.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KTDO) LAS CRUCES NEW MEXICO
+http://mains.services/live/4523074511/3178768/e53918a5-6247-4383-9262-95c567759b28.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KTLM) RIO GRANDE CITY TEXAS
+http://mains.services/live/4523074511/3178768/b515ac87-c9e0-4bfa-b0ba-1ec8b868b6e5.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KTMW) SALT LAKE CITY UTAH
+http://mains.services/live/4523074511/3178768/2895530a-4738-4240-8dcb-76c444c44060.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KTUZ) SHAWNEE OKLAHOMA
+http://mains.services/live/4523074511/3178768/7d0b60ff-8382-4f11-80e3-ec1014b2f3e3.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KUAN) POWAY CALIFORNIA
+http://mains.services/live/4523074511/3178768/cae15dad-1137-4623-9224-fa0796831d43.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KUTU) TULSA OKLAHOMA
+http://mains.services/live/4523074511/3178768/1817f3e3-dfea-4dc9-bf04-e0bb0dd6c4fb.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KVDA) SAN ANTONIO TEXAS
+http://mains.services/live/4523074511/3178768/669ab0f3-d712-4a9d-a6a6-9080833df215.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KVEA) CORONA CALIFORNIA
+http://mains.services/live/4523074511/3178768/1b2a1b1d-9302-4452-8f0f-73729187313f.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KXTQ) LUBBOCK TEXAS
+http://mains.services/live/4523074511/3178768/60100222-4611-44d8-b163-6838fe197161.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (KXTX) DALLAS TEXAS
+http://mains.services/live/4523074511/3178768/d5cc60c4-6dd1-46ef-93b6-9313c813ffab.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WKTB) NORCROSS GEORGIA
+http://mains.services/live/4523074511/3178768/b97c1d83-e020-4ffb-b893-132e4e757f37.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WNEU) MERRIMACK NEW HAMPSHIRE
+http://mains.services/live/4523074511/3178768/c6b3e2c8-61e3-4442-8844-50efc2d3e93a.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WNJU) LINDEN NJ / 47 NEW YORK
+http://mains.services/live/4523074511/3178768/5438ded0-6c42-472b-a3b1-74c65804a3d0.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WRDM) HARTFORD CONNECTICUT
+http://mains.services/live/4523074511/3178768/3c321230-3223-42ea-89b9-08565c304186.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WWSI) MOUNT LAUREL PENNSYLVANIA
+http://mains.services/live/4523074511/3178768/cb8c4ab0-4e18-4604-b005-eaea188f5997.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO (WZDC) WASHINGTON DC
+http://mains.services/live/4523074511/3178768/05534228-28e7-480d-9c12-3855fbb8fca8.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: TELEMUNDO 47 (KTMD) GALVESTON/HOUSTON TEXAS
+http://mains.services/live/4523074511/3178768/de6e7741-d968-4026-b49c-d22269686759.m3u
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ UNIVISION📺IPTVusalatino🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Miami (M)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8398
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Miami (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8399
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Network (TV)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8400
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision New York (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8401
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision New York (Z)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8402
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision (WXTV-New York NY) (M)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8392
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision - TeleNovelas (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67012
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision 14 - San Francisco (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67010
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Chicago (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8394
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Houston (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8395
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Los Angeles (M)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8396
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision Los Angeles (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8397
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision TLNovelas (TV)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8405
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-TLNovelas (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8406
+
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIVISION (KUVN) DALLAS
+http://mains.services/live/4523074511/3178768/e974828f-b520-446d-b6dd-21b18a407d68.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIVISION (WLTV) FORT LAUDERDALE
+http://mains.services/live/4523074511/3178768/e78e4113-c646-43f2-9394-ba9284e456a2.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIVISION DEPORTES
+http://mains.services/live/4523074511/3178768/3153b8e8-d861-4a2a-b5ce-6ff938ad412f.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIVISION EAST
+http://mains.services/live/4523074511/3178768/01702c16-939b-4641-b3bd-f165e6ef76a3.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIVISION TLNOVELAS
+http://mains.services/live/4523074511/3178768/91e2a73b-759a-46e1-9145-9be5b949daed.m3u
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (WLTV) MIAMI FLORIDA
+http://mains.services/live/4523074511/3178768/a6e2229a-aa63-41b3-be33-33bb7adc1342.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KAKW) KILLEEN TEXAS
+http://mains.services/live/4523074511/3178768/87782346-220a-4656-a617-19ccedad627c.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KDTV) SAN FRANCISCO CALIFORNIA
+http://mains.services/live/4523074511/3178768/3328d102-d4a4-418e-93b7-2826af9dcd8d.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KFTV) HANFORD CALIFORNIA
+http://mains.services/live/4523074511/3178768/944ad417-b3dc-4161-8d21-4822e2724774.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KMEX) LOS ANGELES CALIFORNIA
+http://mains.services/live/4523074511/3178768/b7495da9-e6d5-4ba7-bde3-60cd44cc6e10.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KTVW) FLAGSTAFF AZ
+http://mains.services/live/4523074511/3178768/8ebf63fa-2fde-4e14-aa9d-a7f295a4f101.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KUVE) GREEN VALLEY AZ
+http://mains.services/live/4523074511/3178768/9c8db173-3d0c-448c-9d1e-131b131a0275.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KUVN) GARLAND TEXAS
+http://mains.services/live/4523074511/3178768/45e20144-b141-4fea-9d1f-c9e8f5e2c856.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KUVS) MODESTO CALIFORNIA
+http://mains.services/live/4523074511/3178768/e04cb08f-9010-4ab7-a50a-1fade5b99115.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (KWEX) SAN ANTONIO TX
+http://mains.services/live/4523074511/3178768/b3826bba-604e-4b35-a100-3e398c733bd7.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (WGBO) CHICAGO IL
+http://mains.services/live/4523074511/3178768/04570862-351d-43c4-8414-a03e8b95f6ae.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (WQHS) CLEVELAND OHIO
+http://mains.services/live/4523074511/3178768/f08576ec-1daa-4456-8410-7e2ff963e8a4.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (WUVG) ATHENS GEORGIA
+http://mains.services/live/4523074511/3178768/bc3871c9-17f5-4dbe-bac5-eb53acb9b5c3.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (WUVP) VINELAND
+http://mains.services/live/4523074511/3178768/44f74380-2b56-473f-8dbc-fa6d2be4c346.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION (WXTV) PATERSON NEW JERSEY
+http://mains.services/live/4523074511/3178768/6e66d980-9ec2-4c02-8d88-21675888d04a.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIVISION 45 (KXLN) HOUSTON TEXAS
+http://mains.services/live/4523074511/3178768/f0a3ae40-f2f9-4b30-8315-5b7e2b2bb373.m3u
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ UNIMAS📺IPTVusalatino🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Unimas (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67007
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-UNIMáS (KFTR-Los Angeles CA) (M)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8384
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-UNIMáS (M)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8386
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-UNIMáS (WFUT-New York NY) (M)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8388
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-UNIMáS New York (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8390
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Univision (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67009
+
+
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIMAS
+http://mains.services/live/4523074511/3178768/470d14ba-7478-4bc8-ac6f-a2dd55c643d3.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIMAS EAST
+http://mains.services/live/4523074511/3178768/01a3ec63-2005-4d8c-a300-3ef9d4c368f2.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIMAS WEST
+http://mains.services/live/4523074511/3178768/609b015c-91e2-433b-9fed-b8a57d6a92c5.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (KFSF) VALLEJO CALIFORNIA
+http://mains.services/live/4523074511/3178768/17da25c5-76b5-4c0e-afc9-c6816c0c1e00.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (KFTH) ALVIN TEXAS
+http://mains.services/live/4523074511/3178768/1e681d22-9841-4fe8-ae9a-50375ced8d57.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (KSTR) IRVING TEXAS
+http://mains.services/live/4523074511/3178768/a1530753-bc53-4488-8967-0d7dd5389b2f.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (KTFO) AUSTIN TEXAS
+http://mains.services/live/4523074511/3178768/de4c53e3-4c91-48b7-99a1-413c05427a2b.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (WAMI) HOLLYWOOD FLORIDA
+http://mains.services/live/4523074511/3178768/1ab19fdf-e421-4af6-82eb-96c4cb991382.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (WFPA) PHILADELPHIA PENNSYLVANIA
+http://mains.services/live/4523074511/3178768/6fe2060e-23cd-4ed4-8ea7-7d6ba116c742.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO: UNIMAS (WFUT) NEWARK NEW JERSEY
+http://mains.services/live/4523074511/3178768/00dad0fa-c4cf-4e56-ad93-e0eec51637dc.m3u
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ TUDN📺IPTVusalatino🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ TUDN MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ TUDN MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ TUDN MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : TUDN
+http://mains.services/live/4523074511/3178768/aa0b1c53-3b61-4d47-b958-fe9fbeeb3230.m3u
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ UsaLATINO📺IPTVlatino🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸⚽ MEGA TV US (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.cl.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸⚽ MEGA TV US (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.cl.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸⚽ MEGA TV US (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.cl.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Mega Tv Miami (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67003
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Universo (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67008
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Universo (TV)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8391
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Unicable (L)(1080)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8381
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Unicable (L)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/8382
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸NOV-Unicable (T)(720)
+http://tv.proyectox.vip:8080/Alejandroprado3/MZHaJ9yP8e/67006
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : NOTICIAS FL
+http://mains.services/live/4523074511/3178768/b9484914-504c-4e99-97e6-70c01812496a.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : NOTICIAS LA
+http://mains.services/live/4523074511/3178768/912d194d-cb1f-42fd-8380-9fdbe51a92b0.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : NOTICIAS NYC
+http://mains.services/live/4523074511/3178768/eaf99d2b-c1dc-44ef-9830-dbef1c3fce05.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : CNN EN ESPANOL
+http://mains.services/live/4523074511/3178768/af329d82-294b-485c-8384-050ccb57173d.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : CNN INTERNACIONAL
+http://mains.services/live/4523074511/3178768/a9bd024a-94b2-402f-b575-2ee68acfbcef.m3u
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : NBC UNIVERSO
+http://mains.services/live/4523074511/3178768/feb6192a-2ed4-4422-bffa-9d745d1a014a.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : UNIVERSAL
+http://mains.services/live/4523074511/3178768/d6debe1e-34e5-44a9-aea1-cfc92fc28d7d.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : WAPA AMERICA
+http://mains.services/live/4523074511/3178768/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LOCALNOW: AZTECA INTERNACIONAL
+http://mains.services/live/4523074511/3178768/588600f5-68fa-4d68-8394-b8a1082d24ac.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : AZ CORAZON
+http://mains.services/live/4523074511/3178768/a25c8ec1-7d78-4077-821a-cc8ba90373b4.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : AZTECA UNO
+http://mains.services/live/4523074511/3178768/030bf2fa-c7ce-4d0e-ae9e-b24c20ad4b3c.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : AZTECA 7
+http://mains.services/live/4523074511/3178768/ac603c3e-2c08-4fd4-b4f0-de2ad069cfc1.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : FORO TV
+http://mains.services/live/4523074511/3178768/854a494d-8a86-4943-bd56-eb2499f98c82.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : ADN 40
+http://mains.services/live/4523074511/3178768/49a71507-a382-4dc3-8449-f189d3f3063a.m3u
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸LATINO : SUR PERU
+http://mains.services/live/4523074511/3178768/d6f09119-1f98-4c5f-8672-e5f856e367a2.m3u
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣1️⃣ 🇺🇸  🌐🌎⭐ LATINO📺IPTVlatino🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.espanol.co.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cnn.espanol.co.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cnn.espanol.co.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ WAPA+ PR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/afizzionados.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ WAPA+ PR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/afizzionados.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ WAPA+ PR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/afizzionados.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ MILENIO TV MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/milenio.tv.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ MILENIO TV MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/milenio.tv.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ MILENIO TV MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/milenio.tv.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA 7 MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA 7 MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA 7 MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.7.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.uno.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.uno.mx.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.uno.mx.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ ATB BO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/atb.bo.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ ATB BO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/atb.bo.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ ATB BO (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/atb.bo.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ BOLIVISION BO (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bolivision.bo.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ BOLIVISION BO (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bolivision.bo.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ BOLIVISION BO (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bolivision.bo.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/america.24.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/america.24.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/america.24.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ C5N AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/c5n.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ C5N AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/c5n.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ C5N AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/c5n.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/encuentro.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/encuentro.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/encuentro.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELEFE AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELEFE AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELEFE AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telefe.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.9.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/canal.9.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/canal.9.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ VOLVER AR (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/volver.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ VOLVER AR (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/volver.ar.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ VOLVER AR (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/volver.ar.m3u8
+
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ TELEPAIS HN (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ TELEPAIS HN (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/teleprogreso.hon.m3u8
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ TELEPAIS HN (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/teleprogreso.hon.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺IPTVspanish🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVspanish🇪🇸", ##########  ♥ 02📺IPTVlatino🇪🇸 ♥  ##########
+http://fortv.cc:8080/Boobear/Boobear/120780
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣2️⃣ 🇺🇸  🌐🌎⭐ SPAIN📺IPTVespana🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ LA 1 RTVE.ES (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/la.1.es.m3u8
@@ -157,155 +682,13 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tcm.es.m3u
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺IPTVspanish🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVspanish🇪🇸", ##########  ♥ 02📺IPTVlatino🇪🇸 ♥  ##########
-http://fortv.cc:8080/Boobear/Boobear/120780
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣2️⃣ 🇺🇸  🌐🌎⭐ LATINO📺IPTVlatino🇪🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/cnn.espanol.co.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/cnn.espanol.co.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ CNN ESPANOL CO (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/cnn.espanol.co.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ TUDN MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ TUDN MX (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/tudn.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ TUDN MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/tudn.mx.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/univision.eastern.us.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ UNIVISION 41 Eastern NY (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/america.24.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/america.24.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ AMERICA24 | A24 AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/america.24.ar.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.uno.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.uno.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.uno.mx.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.uno.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.uno.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA UNO MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.uno.mx.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA 7 MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.7.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA 7 MX (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/azteca.7.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ AZTECA 7 MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/azteca.7.mx.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ ATB BO (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/atb.bo.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ ATB BO (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/atb.bo.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ ATB BO (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/atb.bo.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ BOLIVISION BO (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bolivision.bo.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ BOLIVISION BO (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bolivision.bo.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇧🇴⚽ BOLIVISION BO (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bolivision.bo.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ C5N AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/c5n.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ C5N AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/c5n.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ C5N AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/c5n.ar.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/encuentro.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/encuentro.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ ENCUENTRO AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/encuentro.ar.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸⚽ MEGA TV US (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.cl.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸⚽ MEGA TV US (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mega.cl.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇺🇸⚽ MEGA TV US (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.cl.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ MILENIO TV MX (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/milenio.tv.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ MILENIO TV MX (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/milenio.tv.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇲🇽⚽ MILENIO TV MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/milenio.tv.mx.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELEFE AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELEFE AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/telefe.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELEFE AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/telefe.ar.m3u8
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/canal.9.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/canal.9.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ TELENUEVE C9 AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/canal.9.ar.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ TELEPAIS HN (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleprogreso.hon.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ TELEPAIS HN (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/teleprogreso.hon.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ TELEPAIS HN (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/teleprogreso.hon.m3u8
-
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ VOLVER AR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/volver.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ VOLVER AR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/volver.ar.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇦🇷⚽ VOLVER AR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/volver.ar.m3u8
-
-
-
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ WAPA+ PR (opt1)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/afizzionados.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ WAPA+ PR (opt2)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/afizzionados.mx.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸⚽ WAPA+ PR (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/afizzionados.mx.m3u8
-
 
 
 #EXTM3U
 #EXTINF:-1 tvg-name="📺IPTVspanish🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺IPTVspanish🇪🇸", ##########  ♥ 03📺IPTVspanish🇪🇸 ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣3️⃣ 🇺🇸  🌐🌎⭐ SPANISH📺IPTVspanish🇪🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣3️⃣ 🇺🇸  🌐🌎⭐ PREMIUM📺IPTVspanish🇪🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
