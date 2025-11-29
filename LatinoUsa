@@ -1048,8 +1048,8 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="📺IPTVspanish🇪🇸",🇪🇸☑ MyTime Movie Network Spain | Movies
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="PlutoTVLoveNature.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="📺IPTVspanish🇪🇸",🇪🇸Pluto TV Love Nature | Series (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
 
@@ -1503,7 +1503,7 @@ http://38.183.182.166:8000/play/a0iq/index.m3u8
 http://38.183.182.166:8000/play/a0it/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0iu ESPN 6 Latino
 http://38.183.182.166:8000/play/a0iu/index.m3u8
-#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0iq ESPN Latino
+#EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0iq ESPN 7 Latino
 http://38.183.182.166:8000/play/a0iq/index.m3u8
 #EXTINF:-1 group-title="📺IPTVspanish🇪🇸",🇪🇸a0it ESPN 5 Latino
 http://38.183.182.166:8000/play/a0it/index.m3u8
@@ -1775,8 +1775,10 @@ http://41.205.93.154/TLC/index.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 0️⃣8️⃣ 🇺🇸  🌐🌎⭐ 📺IPTVspanish🇪🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺IPTVspanish🇪🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 
