@@ -2,18 +2,167 @@
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://fortv.cc:8080/Boobear/Boobear/120780
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺WORLD🌐SPORTS⚽ ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺PAY-PER-VIEW🌐MUNDIAL⚽ ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (L)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn 1 (L)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156148
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn 1 (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156150
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (L)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn 2 (L)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156151
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (TV)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn 2 (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156152
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dazn_LaLiga_logo.svg/1280px-Dazn_LaLiga_logo.svg.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn LaLiga (L)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156156
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 1 (TV)" tvg-logo="https://i.postimg.cc/mDTNzGz7/Proyecto-X-espana-29.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn LaLiga 1 (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156157
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 2 (TV)" tvg-logo="https://i.postimg.cc/bJqHDjDh/Proyecto-X-espana-28.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn LaLiga 2 (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156159
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 3 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/VL9GK1nn/Proyecto-X-ppv-1.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn LaLiga 3 (TV) (Solo Eventos)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156161
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 4 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/N0jzyVyf/Proyecto-X-ppv-2.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn LaLiga 4 (TV) (Solo Eventos)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156162
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn F1 (L)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Dazn F1 (L)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156163
+#EXTINF:-1 tvg-id="" tvg-name="PPV - LaLiga: Dazn F1. (TV)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="📺WORLD🌐SPORTS⚽",PPV - LaLiga: Dazn F1. (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156164
+#EXTINF:-1 tvg-id="" tvg-name="PPV - F1 | Dazn (Z)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="📺WORLD🌐SPORTS⚽",PPV - F1 | Dazn (Z)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156165
+#EXTINF:-1 tvg-id="" tvg-name="PPV - fr: Dazn 1 (TV)( LIGUE 1 ONLY EVENTS )" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="📺WORLD🌐SPORTS⚽",PPV - fr: Dazn 1 (TV)( LIGUE 1 ONLY EVENTS )
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156171
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Bar 1 (TV)" tvg-logo="https://i.postimg.cc/NjyNBYT3/Proyecto-X-ppv.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Serie A: Dazn Bar 1 (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156172
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Sport 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="📺WORLD🌐SPORTS⚽",PPV - Serie A: Dazn Sport 1 (TV)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156173
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺PAY-PER-VIEW🌐MUNDIAL⚽ ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports Premier League (Z)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",SKY Sports Premier League (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/164159
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - SKY Sports LaLiga (Z)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",SKY Sports LaLiga (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/164158
+
+#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="📺WORLD🌐SPORTS⚽",US | Sunday NFL Red Zone PPV|(NBA,MLS,NFL,MLB,NHL)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/164403
+#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="📺WORLD🌐SPORTS⚽",US | Sunday NFL Red Zone PPV|(NBA,MLS,NFL,MLB,NHL)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/164404
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺ESPAÑA🌐SPORTS⚽ ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Liga de Campeones (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161959
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR LIGA CAMPEONES 2 [LIVE-EVENT]
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162011
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LIGA CAMPEONES" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR LIGA CAMPEONES
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162012
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar Liga de Campeones (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162019
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Liga de Campeones (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162021
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162017
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162018
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LALIGA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR LALIGA (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161931
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161940
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161940
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161912
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Deportes (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar Deportes (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162022
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Deportes 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Deportes 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162023
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161915
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161942
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA TV BAR 1 [LIVE-EVENT]
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161916
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN LALIGA 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161871
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN SPORTS LA LIGA (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161872
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTE 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTE 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161873
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTE 3 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTE 3 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161874
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA 2 TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA 2 TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161875
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN SPORTS F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161876
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV (M)(720) BAR" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA TV (M)(720) BAR
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161877
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161878
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161942
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Deportes (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Deportes (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161955
+
+#EXTINF:-1 tvg-id="" tvg-name="ES DAZN 1 F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ES DAZN 1 F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161922
+#EXTINF:-1 tvg-id="" tvg-name="ES DAZN 2 F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ES DAZN 2 F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161923
+#EXTINF:-1 tvg-id="" tvg-name="ES DAZN 3 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ES DAZN 3 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161925
+#EXTINF:-1 tvg-id="" tvg-name="ESP - DAZN 4 F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - DAZN 4 F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161924
+#EXTINF:-1 tvg-id="" tvg-name="ESP -  Dazn F1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP -  Dazn F1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161953
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Fórmula 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar Fórmula 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162020
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #0 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #0 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161928
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #VAMOS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #VAMOS (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161900
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #VAMOS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #VAMOS (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161921
+
 #EXTINF:-1 tvg-id="" tvg-name="ESP - #Vamos (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/071331bfe2ef65c648c23a23720c1c7e.png" group-title="📺WORLD🌐SPORTS⚽",ESP - #Vamos (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8134
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FOTBOL F(M)(720) 4K" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR FOTBOL F(M)(720) 4K
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161907
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FORMULA 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR FORMULA 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161910
+#EXTINF:-1 tvg-id="" tvg-name="ESP - CANAL GOLF F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - CANAL GOLF F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161933
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTARr GOLF F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTARr GOLF F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161954
+#EXTINF:-1 tvg-id="" tvg-name="ESP - EUROSPORT 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - EUROSPORT 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161908
+#EXTINF:-1 tvg-id="" tvg-name="ESP - EUROSPORT 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - EUROSPORT 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161919
+
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 1 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/5019948ec61d43f5f92858f06537aef1.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Eurosport 1 (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8180
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/111256bc3d526aa689154822101f20a3.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Eurosport 2 (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8181
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Eurosport 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Eurosport 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161958
 #EXTINF:-1 tvg-id="" tvg-name="ESP - GOL (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/7fd69a57aa39430953380549ec247b4a.png" group-title="📺WORLD🌐SPORTS⚽",ESP - GOL (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8187
 #EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="📺WORLD🌐SPORTS⚽",ESP - M. Deportes (TV)(1080)
@@ -26,12 +175,34 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8204
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8205
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Mundo Toros (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8217
+#EXTINF:-1 tvg-id="" tvg-name="ESP - TOROS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - TOROS (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161948
 #EXTINF:-1 tvg-id="" tvg-name="ESP - SOMOS (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="📺WORLD🌐SPORTS⚽",ESP - SOMOS (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8234
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Teledeporte (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8243
-
-
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Teledeporte (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161951
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Mega (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Mega (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161961
+#EXTINF:-1 tvg-id="" tvg-name="ESP - ARAGON TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - ARAGON TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161981
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BARCA TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BARCA TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161978
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MADRID TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MADRID TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161952
+#EXTINF:-1 tvg-id="" tvg-name="ESP - TELEMADRID (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - TELEMADRID (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161988
+#EXTINF:-1 tvg-id="" tvg-name="ESP - IBERALIA TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - IBERALIA TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161956
+#EXTINF:-1 tvg-id="" tvg-name="ESP - GOL TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - GOL TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161957
+#EXTINF:-1 tvg-id="" tvg-name="ESP - FDF (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - FDF (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161963
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Caza y Pesca (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Caza y Pesca (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161974
+#EXTINF:-1 tvg-id="" tvg-name="ESP - ODISEA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - ODISEA (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161994
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺WORLD🌐SPORTS⚽ ⭐🌎🌐
@@ -227,7 +398,7 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9613
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺WORLD🌐SPORTS⚽ ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺NORTEAMERICA🌐SPORTS⚽ ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -278,46 +449,136 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/45873
 #EXTINF:-1 tvg-id="" tvg-name="CAN-YES TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",CAN-YES TV (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/45874
 
+#EXTINF:-1 tvg-id="" tvg-name="USA-Univision WVEN | Orlando (L)(720)" tvg-logo="https://yt3.ggpht.com/-WZQ7WlNmDchw3rGfvlu2c-cl8z-od-B_CnWtrd9xmD5g2UV6c5wBZwp3qe0Uj-cL7juThPUjxpS=ns-nd" group-title="📺WORLD🌐SPORTS⚽",USA-Univision WVEN | Orlando (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162751
+#EXTINF:-1 tvg-id="" tvg-name="USA-UNIVERSO (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="📺WORLD🌐SPORTS⚽",USA-UNIVERSO (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162567
+#EXTINF:-1 tvg-id="" tvg-name="USA-UNIVERSO (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/UNIVERSO_LOGO_color_black.png" group-title="📺WORLD🌐SPORTS⚽",USA-UNIVERSO (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162568
 #EXTINF:-1 tvg-id="" tvg-name="NOV-Universo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png" group-title="📺WORLD🌐SPORTS⚽",NOV-Universo (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8391
+#EXTINF:-1 tvg-id="" tvg-name="USA-GOL TV LATINO (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="📺WORLD🌐SPORTS⚽",USA-GOL TV LATINO (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162545
+#EXTINF:-1 tvg-id="" tvg-name="USA-GOL TV Eng (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="📺WORLD🌐SPORTS⚽",USA-GOL TV Eng (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162772
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX DEPORTES HD (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-FOX DEPORTES HD (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162691
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX DEPORTES SD (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/1280px-FOX_Deportes_logo.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-FOX DEPORTES SD (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162756
+#EXTINF:-1 tvg-id="" tvg-name="USA-FOX SOCCER PLUS (L)(720)" tvg-logo="https://tmsimg.fancybits.co/assets/s66880_ll_h3_aa.png" group-title="📺WORLD🌐SPORTS⚽",USA-FOX SOCCER PLUS (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162542
+#EXTINF:-1 tvg-id="" tvg-name="USA-FS1 (L)(720)" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-sports-fs1-logo-white.png" group-title="📺WORLD🌐SPORTS⚽",USA-FS1 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162694
+#EXTINF:-1 tvg-id="" tvg-name="USA-FS2 (L)(720)" tvg-logo="https://static-media.fox.com/fmc/prod/network_assets/FS2_Color@3x.png" group-title="📺WORLD🌐SPORTS⚽",USA-FS2 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162695
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN (L)(720)" tvg-logo="https://logos.xbots.com.mx/espn.png" group-title="📺WORLD🌐SPORTS⚽",USA-ESPN (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162675
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN 2 (L)(720)" tvg-logo="https://logos.xbots.com.mx/espn2.png" group-title="📺WORLD🌐SPORTS⚽",USA-ESPN 2 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162676
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPN U (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-ESPN U (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162536
+#EXTINF:-1 tvg-id="" tvg-name="USA-ESPNews (L)(720)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-ESPNews (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162677
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TUDN (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",MEX-TUDN (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87590
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Aym Sports (M)(720)" tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Aym Sports (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87584
-#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(720)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="📺WORLD🌐SPORTS⚽",MEX-TVC Deportes (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87610
-#EXTINF:-1 tvg-id="" tvg-name="MEX-USA Latino (L)(720)" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="📺WORLD🌐SPORTS⚽",MEX-USA Latino (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87614
-#EXTINF:-1 tvg-id="" tvg-name="MEX-ITV Deportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="📺WORLD🌐SPORTS⚽",MEX-ITV Deportes
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/114793
+#EXTINF:-1 tvg-id="" tvg-name="USA-NFL Network SD (L)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png" group-title="📺WORLD🌐SPORTS⚽",USA-NFL Network SD (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162798
+#EXTINF:-1 tvg-id="" tvg-name="USA-NFL Network HD (L)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/NFL-Network.png" group-title="📺WORLD🌐SPORTS⚽",USA-NFL Network HD (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162799
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca Deportes (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87574
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBA TV (L)(720)" tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2017/07/nba-logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-NBA TV (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162563
+#EXTINF:-1 tvg-id="" tvg-name="USA-SPECTRUM SPORTS NET LA Dodgers (L)(720)" tvg-logo="https://logos.xbots.com.mx/41042.png" group-title="📺WORLD🌐SPORTS⚽",USA-SPECTRUM SPORTS NET LA Dodgers (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162585
+#EXTINF:-1 tvg-id="" tvg-name="USA-Spectrum Sportsnet Lakers (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Spectrum_Sportsnet_logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-Spectrum Sportsnet Lakers (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162739
+#EXTINF:-1 tvg-id="" tvg-name="USA-YES Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/800px-YES_Network_logo.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-YES Network (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162753
+#EXTINF:-1 tvg-id="" tvg-name="USA-NESN (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/TVVoslwm7NJ6Zrs-BdrImPlUXu-ujBRaFVsY1LajF621lhwQkly0fZiO28Ma7kdWDsORmSVe8KRtG9D0rrrAbu9qiFmPNrdDcqwvJecZw1Q.png" group-title="📺WORLD🌐SPORTS⚽",USA-NESN (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162569
+#EXTINF:-1 tvg-id="" tvg-name="USA-NESN PLUS (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/qg4vRhyQcrmwSVRTvXE73mtC2qnBOgocGI-eAtyNnZZOelJpCUWjXpCHe4cYHPIgUivoRmsS3ItgNwHubLznaw.png" group-title="📺WORLD🌐SPORTS⚽",USA-NESN PLUS (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162570
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG (L)(720)" tvg-logo="https://thestreamable.com/media/pages/channels/msg/6af5c5c2e7-1616525318/msg-banner-1536x864-crop.png" group-title="📺WORLD🌐SPORTS⚽",USA-MSG (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162773
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus (L)(720)" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2023/03/MSGPLUS-BLACK-CIRCLE-LOGO.png" group-title="📺WORLD🌐SPORTS⚽",USA-MSG Plus (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162774
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 2 (L)(720)" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2023/03/MSGPLUS-BLACK-CIRCLE-LOGO.png" group-title="📺WORLD🌐SPORTS⚽",USA-MSG Plus 2 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162775
+#EXTINF:-1 tvg-id="" tvg-name="USA-MSG Plus 3 (L)(720)" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2023/03/MSGPLUS-BLACK-CIRCLE-LOGO.png" group-title="📺WORLD🌐SPORTS⚽",USA-MSG Plus 3 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162776
+#EXTINF:-1 tvg-id="" tvg-name="USA-TVG Network (L)(720)" tvg-logo="https://www.letsgambleusa.com/wp-content/uploads/2021/08/tvg-logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-TVG Network (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162777
+#EXTINF:-1 tvg-id="" tvg-name="USA-Marquee Sports Network (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRqFixdTcaVE-MWZeoywbgxamzczKFwX63Fy3lRPZol19uhduzunvKg5mtqqQ_DKqTSRWeke9WCPGG9Lu1GkrwVXmvNge2S0M0YqcERtPNVdRpQ8BwWRUU7SeSex2LzgDq.png" group-title="📺WORLD🌐SPORTS⚽",USA-Marquee Sports Network (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162758
+#EXTINF:-1 tvg-id="" tvg-name="USA-Root Sports (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/9f4db8bf86c80d19b083da9c9674f2c3.png" group-title="📺WORLD🌐SPORTS⚽",USA-Root Sports (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162731
+#EXTINF:-1 tvg-id="" tvg-name="USA-Eleven Sports Networks (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZNzCjiMfBvO1wvn18LhUcHkr-Dqq-jJAHvYZOgUd470i-1ebfwCtyrxJEMg78chP9rxm48PqOWZK67JZA7Ib7CP.png" group-title="📺WORLD🌐SPORTS⚽",USA-Eleven Sports Networks (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162535
+#EXTINF:-1 tvg-id="" tvg-name="USA-Altitude Sports (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMJ1C6QUldUlzFAsvUMZZFnNoF0G1bpz-zWT0WOn3f74t7tgvdST4GhfY0sykXzLl5N8ClysxGtM7BVi60UNknI1a1Bp2xb02bEKgl76eUoCGUmRh4s02T0DwdOkpYzel0.png" group-title="📺WORLD🌐SPORTS⚽",USA-Altitude Sports (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162771
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87569
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (M)(SD)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87570
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (L)(SD)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87571
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87572
+#EXTINF:-1 tvg-id="" tvg-name="USA-Bein Sports Xtra (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1280px-Bein_sport_logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-Bein Sports Xtra (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162520
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX_Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="📺WORLD🌐SPORTS⚽",MEX_Canal 5 (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87596
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Canal 5 (L)(SD)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87597
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Canal 5 (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87598
+#EXTINF:-1 tvg-id="" tvg-name="USA-CBS SPORTS NETWORK (L)(720)" tvg-logo="https://www.pngkey.com/png/full/143-1432094_ww-motocross-park-jacksonville-30-august-2017-as.png" group-title="📺WORLD🌐SPORTS⚽",USA-CBS SPORTS NETWORK (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162524
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Canal 5
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/114854
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC SPORTS BOSTON (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZN4N7CxJreiziti0XjpDcvyD5nI5dZ3F2-WYz1mW3t2lphbU2w9SAzecro8jNmSRw0.png" group-title="📺WORLD🌐SPORTS⚽",USA-NBC SPORTS BOSTON (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162566
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Sports Chicago + (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRD1AkZUaTSF1epZGo_yFYjeP2uS-j9i4YpnIFhkfMTnlK0tOpHZWJZh5B9--z1z2R2idtkCzwNDyxGwKGajL5unqPLfAPWU0rQIFOoyTqgiE.png" group-title="📺WORLD🌐SPORTS⚽",USA-NBC Sports Chicago + (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162603
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC SPORTS CALIFORNIA (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZOqpRNk9cK_UOwKT89FCqXWrTfv9mhv-njc51BxpgR1h9-dgJ_AJSM0KBtmGsoNkoQ.png" group-title="📺WORLD🌐SPORTS⚽",USA-NBC SPORTS CALIFORNIA (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162769
+#EXTINF:-1 tvg-id="" tvg-name="USA-NBC Sports Chicago (L)(720)" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-NBC Sports Chicago (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162770
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-FISHING NETWORK (L)(720)" tvg-logo="https://logos.xbots.com.mx/41027.png" group-title="📺WORLD🌐SPORTS⚽",USA-FISHING NETWORK (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162537
+#EXTINF:-1 tvg-id="" tvg-name="USA-Love Nature (L)(720)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png" group-title="📺WORLD🌐SPORTS⚽",USA-Love Nature (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162797
+#EXTINF:-1 tvg-id="" tvg-name="USA-MavTV (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/nulSsJO1HjtWmXnGvVQLKVVsT9SBFMZ2egBEu1e7ANj3HfIg7EQ-PBJURAi2aMSvN5eq22vD1vbghjo7HRBxhi6x1UGZjZSG0wxReGv-EwU.png" group-title="📺WORLD🌐SPORTS⚽",USA-MavTV (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162556
+#EXTINF:-1 tvg-id="" tvg-name="USA-MOTORTREND (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRO2_Ggsdzi1xDhxn7BiviLAs_zHoZlvm-GXEQm1DndTfmXjvbN1BDMbhl3_Zqv3-5IKLDRk7Fy6qO7s_J9ljTQg.png" group-title="📺WORLD🌐SPORTS⚽",USA-MOTORTREND (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162559
+#EXTINF:-1 tvg-id="" tvg-name="USA-OUTDOOR HD (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1280px-Outdoor_Channel_logo_2017.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-OUTDOOR HD (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162575
+#EXTINF:-1 tvg-id="" tvg-name="USA-Outside TV (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/32b53a0ff114ecacb6daff67bf4d2ce9.png" group-title="📺WORLD🌐SPORTS⚽",USA-Outside TV (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162728
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-SPORTSMAN CHANNEL (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/qg4vRhyQcrmwSVRTvXE73mtC2qnBOgocGI-eAtyNnZZOelJpCUWjXpCHe4cYHPIgUSs3ZTr91d1uo2W6VEIzsIo2sq4IkDlP1LIm1TU3hTU.png" group-title="📺WORLD🌐SPORTS⚽",USA-SPORTSMAN CHANNEL (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162586
+#EXTINF:-1 tvg-id="" tvg-name="USA-THE FIGHT NETWORK (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRBSXGYzF9DiKa1ivhuo6bqFtjctDKX2HVPIKzbtDrD_Yam-sFPCYtiEsYKjvLZTUawCyv5uQ-3CeN_NshSnEJKf_jT4Gk5lSWJRwSL9fxyWw.png" group-title="📺WORLD🌐SPORTS⚽",USA-THE FIGHT NETWORK (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162590
+#EXTINF:-1 tvg-id="" tvg-name="USA-TNT (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-TNT (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162593
+#EXTINF:-1 tvg-id="" tvg-name="USA-TNT EAST (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="📺WORLD🌐SPORTS⚽",USA-TNT EAST (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162594
+#EXTINF:-1 tvg-id="" tvg-name="USA-TRAVEL CHANNEL HD (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMRU8RVymCNJ6twZA4MRqyfbOUh3rvwzVH-UV_dbAS-FGMBNn8o3XPfs9Frs80Q2yV0Gb0GaAwnXU36CWU2_XVkooqH-TGPzTGxfRohdOzpC08.png" group-title="📺WORLD🌐SPORTS⚽",USA-TRAVEL CHANNEL HD (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162595
+#EXTINF:-1 tvg-id="" tvg-name="USA-TBS (L)(720)" tvg-logo="https://logos.xbots.com.mx/81.png" group-title="📺WORLD🌐SPORTS⚽",USA-TBS (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162749
+#EXTINF:-1 tvg-id="" tvg-name="USA-USA NETWORK (L)(720)" tvg-logo="https://i0.wp.com/www.jentel.mx/wp-content/uploads/2023/08/usa-network-logo-e1692825940934.png" group-title="📺WORLD🌐SPORTS⚽",USA-USA NETWORK (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162604
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-Game Show Network (L)(720)" tvg-logo="http://live.detodotvplay.com:8080/images/d0qBv_KS-INV6jsoN1Bns3xtbQhVQIDY9BJ2vOAB8ZMPkqdyLYqDhy0_iB-TnrMROtRMQUa-Xy8kpZrfpcaJSdoYj3_IG0QuNvOJaZXlwaWWUq4swDw0pQIRhB861JzNji9rKTvjhWJ7Vqq34417GLh8aWtc6ZqeQi0QCR5CwHA.png" group-title="📺WORLD🌐SPORTS⚽",USA-Game Show Network (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162699
+
+#EXTINF:-1 tvg-id="" tvg-name="USA-ACC Network (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1280px-ACC_Network_ESPN_logo.svg.png" group-title="📺WORLD🌐SPORTS⚽",USA-ACC Network (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162626
+#EXTINF:-1 tvg-id="" tvg-name="USA-SEC NETWORK (L)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/SEC_Network_Logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-SEC NETWORK (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162732
+#EXTINF:-1 tvg-id="" tvg-name="USA-PAC-12 Insider (L)(720)" tvg-logo="https://static.pac-12.com/images/logos/pac-12-network-logo.png" group-title="📺WORLD🌐SPORTS⚽",USA-PAC-12 Insider (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162577
 
 
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺LATINOAMERICA🌐SPORTS⚽ ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",BRA-ESPN 2 (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/10564
@@ -541,6 +802,40 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8510
 #EXTINF:-1 tvg-id="Win.Sports.Premium(Win+).co" tvg-name="COL-WinSports + (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" group-title="📺WORLD🌐SPORTS⚽",COL-WinSports + (M)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8511
 
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN (M)(720)" tvg-logo="https://i.postimg.cc/T1rDRHFT/Proyecto-X-Argentina-(12).png" group-title="📺WORLD🌐SPORTS⚽",ARG - ESPN (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157558
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN 2 (M)(720)" tvg-logo="https://i.postimg.cc/59vvq60L/Proyecto-X-Argentina-(13).png" group-title="📺WORLD🌐SPORTS⚽",ARG - ESPN 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157559
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN 3 (M)(720)" tvg-logo="https://i.postimg.cc/jqNNQL5z/Proyecto-X-Argentina-(14).png" group-title="📺WORLD🌐SPORTS⚽",ARG - ESPN 3 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157560
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN 4 (M)(720)" tvg-logo="https://i.postimg.cc/v899LcBL/Proyecto-X-Argentina-(15).png" group-title="📺WORLD🌐SPORTS⚽",ARG - ESPN 4 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157561
+#EXTINF:-1 tvg-id="" tvg-name="ARG - ESPN Premium (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ARG - ESPN Premium (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157562
+#EXTINF:-1 tvg-id="" tvg-name="ARG - DeporTV (M)(720)" tvg-logo="https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png" group-title="📺WORLD🌐SPORTS⚽",ARG - DeporTV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157573
+
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.sv" tvg-name="ARG - TyC Sports (T)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TyC Sports (T)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157614
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TyC Sports (M)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TyC Sports (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157580
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TyC Sports (L)(720)" tvg-logo="https://i.postimg.cc/GpN0rbZz/Proyecto-X-Argentina-(28).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TyC Sports (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157583
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TNT Sports (Z)(720)" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TNT Sports (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157584
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TNT Sports (L)(720)" tvg-logo="https://i.postimg.cc/7Yn2ddSJ/Proyecto-X-Argentina-(25).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TNT Sports (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157585
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TV Publica (L)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TV Publica (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157586
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TV Publica (Z)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TV Publica (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157587
+#EXTINF:-1 tvg-id="" tvg-name="ARG - TV Pública (M)(720)" tvg-logo="https://i.postimg.cc/4NQ9qqpb/Proyecto-X-Argentina-(26).png" group-title="📺WORLD🌐SPORTS⚽",ARG - TV Pública (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157578
+#EXTINF:-1 tvg-id="" tvg-name="ARG - DEPORTV (i)(720)" tvg-logo="https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png" group-title="📺WORLD🌐SPORTS⚽",ARG - DEPORTV (i)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157596
+#EXTINF:-1 tvg-id="" tvg-name="ARG - Deportv (L)(720)" tvg-logo="https://i.postimg.cc/hv9dS3w0/Proyecto-X-Argentina-(11).png" group-title="📺WORLD🌐SPORTS⚽",ARG - Deportv (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/157620
+
 #EXTINF:-1 tvg-id="CANAL.10.HD.uy" tvg-name="URU-PPV 1 - e)(1080)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",URU-PPV 1 - e)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/94286 
 #EXTINF:-1 tvg-id="DSPORTS.(ARG).dtvsp" tvg-name="URU PPV 2 - (e)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",URU PPV 2 -AUFTV  Dsports Uruguay (e)(720)
@@ -567,6 +862,48 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8542
 #EXTINF:-1 tvg-id="+TELEVISIÓN.HD.uy" tvg-name="URU-VTV Plus (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png" group-title="📺WORLD🌐SPORTS⚽",URU-VTV Plus (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8543
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣0️⃣ 🇺🇸  🌐🌎⭐  📺CENTROAMERICA🌐SPORTS⚽ ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TUDN (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",MEX-TUDN (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87590
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Aym Sports (M)(720)" tvg-logo="https://1.bp.blogspot.com/-e9y9a28jbXM/Xg-MrwQCrJI/AAAAAAAAA6I/pOByATddwpU3laULegV5jkTZjwE2gqxIACLcBGAsYHQ/s200/24.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Aym Sports (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87584
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVC Deportes (L)(720)" tvg-logo="https://i.postimg.cc/4x1DhDhb/tvc-deportes1.png" group-title="📺WORLD🌐SPORTS⚽",MEX-TVC Deportes (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87610
+#EXTINF:-1 tvg-id="" tvg-name="MEX-USA Latino (L)(720)" tvg-logo="https://i.postimg.cc/HLdSDz3S/Usa-N-Latino.png" group-title="📺WORLD🌐SPORTS⚽",MEX-USA Latino (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87614
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ITV Deportes" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="📺WORLD🌐SPORTS⚽",MEX-ITV Deportes
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/114793
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca Deportes (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87574
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87569
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (M)(SD)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87570
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (L)(SD)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87571
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Azteca 7 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87572
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX_Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="📺WORLD🌐SPORTS⚽",MEX_Canal 5 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87596
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Canal 5 (L)(SD)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87597
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Canal 5 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/87598
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="📺WORLD🌐SPORTS⚽",MEX-Canal 5
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/114854
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="GUA-Claro Sports GT (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/3c59dc048e8850243be8079a5c74d079.png" group-title="📺WORLD🌐SPORTS⚽",GUA-Claro Sports GT (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8262
 
@@ -574,6 +911,8 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8262
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/153365
 #EXTINF:-1 tvg-id="" tvg-name="HON-TVC Deportes (L)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",HON-DEPORTES TVC (L)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/10259
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS HONDURAS PRUBAZ" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",TIGO SPORTS HONDURAS PRUBAZ
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/156990
 
 
 #EXTINF:-1 tvg-id="" tvg-name="CR-Canal 14 Tv Sur (T)(720)" tvg-logo="http://l3d.us:8080/images/879ee15abcc5ae31125df0d901af9f4c.png" group-title="📺WORLD🌐SPORTS⚽",CR-Canal 14 Tv Sur (T)(720)
