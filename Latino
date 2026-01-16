@@ -990,6 +990,8 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/9296
 
 
 
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 01 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
@@ -1675,48 +1677,477 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 06 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  143.244. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  1tv41.icu 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1,LAT: TELEMUNDO 51 MIAMI HD
+http://1tv41.icu:8080/zqQ0Q2/591076/56410
+#EXTINF:-1,US Telemundo (KDEN) Parker 
+http://1tv41.icu:8080/zqQ0Q2/591076/120665
+#EXTINF:-1,US Telemundo (WSNS) Chicago 
+http://1tv41.icu:8080/zqQ0Q2/591076/120691
+#EXTINF:-1,US Telemundo (KGLA) Hammond 
+http://1tv41.icu:8080/zqQ0Q2/591076/120701
+#EXTINF:-1,US Telemundo (KUTU) Tulsa 
+http://1tv41.icu:8080/zqQ0Q2/591076/120768
+#EXTINF:-1,US Telemundo (WZDC( Leesburg (H)
+http://1tv41.icu:8080/zqQ0Q2/591076/120833
+#EXTINF:-1,US Telemundo 31 (WTMO) Orlando 
+http://1tv41.icu:8080/zqQ0Q2/591076/139149
+
+#EXTINF:-1,US UniMas  
+http://1tv41.icu:8080/zqQ0Q2/591076/57969
+
+
+#EXTINF:-1,US Univision (East) (SP)
+http://1tv41.icu:8080/zqQ0Q2/591076/15336
+#EXTINF:-1,US Univision (East) (SP)
+http://1tv41.icu:8080/zqQ0Q2/591076/46692
+#EXTINF:-1,US Latin Univision 
+http://1tv41.icu:8080/zqQ0Q2/591076/108248
+
+
+#EXTINF:-1,US Latin TUDN
+http://1tv41.icu:8080/zqQ0Q2/591076/11885
+#EXTINF:-1,US TUDN 
+http://1tv41.icu:8080/zqQ0Q2/591076/82241
+
+#EXTINF:-1,CO: CARACOL INTERNACIONAL HD
+http://1tv41.icu:8080/zqQ0Q2/591076/78701
+#EXTINF:-1,CO: CARACOL HD
+http://1tv41.icu:8080/zqQ0Q2/591076/78700
+#EXTINF:-1,COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+http://1tv41.icu:8080/zqQ0Q2/591076/78697
+#EXTINF:-1,CO: Win Sports + FHD
+http://1tv41.icu:8080/zqQ0Q2/591076/78717
+#EXTINF:-1,CO: ESPN COLOMBIA
+http://1tv41.icu:8080/zqQ0Q2/591076/86765
+
+#EXTINF:-1,BR: GLOBO HD
+http://1tv41.icu:8080/zqQ0Q2/591076/164943
+#EXTINF:-1,BR: GLOBO MINAS HD
+http://1tv41.icu:8080/zqQ0Q2/591076/164944
+#EXTINF:-1,BR: GLOBO NEWS HD
+http://1tv41.icu:8080/zqQ0Q2/591076/164945
+#EXTINF:-1,BR: ESPN
+http://1tv41.icu:8080/zqQ0Q2/591076/164948
+
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://1tv41.icu:8080/zqQ0Q2/591076/167742
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://1tv41.icu:8080/zqQ0Q2/591076/167743
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://1tv41.icu:8080/zqQ0Q2/591076/167744
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://1tv41.icu:8080/zqQ0Q2/591076/167745
+
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://1tv41.icu:8080/zqQ0Q2/591076/167748
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://1tv41.icu:8080/zqQ0Q2/591076/167749
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://1tv41.icu:8080/zqQ0Q2/591076/167750
 
 
 
+#EXTINF:-1,Carib CVM TV (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/66371
+#EXTINF:-1,Carib Flow Sports (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/79544
+#EXTINF:-1,Carib SPORT MAX2 (P)
+http://1tv41.icu:8080/zqQ0Q2/591076/78917
+#EXTINF:-1,Carib TVJ 
+http://1tv41.icu:8080/zqQ0Q2/591076/78918
+#EXTINF:-1,Carib TVJ_Sports
+http://1tv41.icu:8080/zqQ0Q2/591076/66077
+#EXTINF:-1,Carib ESPN
+http://1tv41.icu:8080/zqQ0Q2/591076/66372
+#EXTINF:-1,Carib ESPN2
+http://1tv41.icu:8080/zqQ0Q2/591076/99623
+#EXTINF:-1,Carib ESPN
+http://1tv41.icu:8080/zqQ0Q2/591076/99624
+#EXTINF:-1,Carib CBC
+http://1tv41.icu:8080/zqQ0Q2/591076/99861
+#EXTINF:-1,Carib RUSH Sports (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/100043
+
+#EXTINF:-1,Carib JNN
+http://1tv41.icu:8080/zqQ0Q2/591076/99566
+#EXTINF:-1,Carib Africa_Channel
+http://1tv41.icu:8080/zqQ0Q2/591076/99567
+#EXTINF:-1,Carib (AMP) Rush Sports 2
+http://1tv41.icu:8080/zqQ0Q2/591076/99568
+#EXTINF:-1,Carib SPORT MAX1 (P)
+http://1tv41.icu:8080/zqQ0Q2/591076/99569
+#EXTINF:-1,Carib PBS
+http://1tv41.icu:8080/zqQ0Q2/591076/99570
+#EXTINF:-1,Carib JAM_Vision
+http://1tv41.icu:8080/zqQ0Q2/591076/99571
+#EXTINF:-1,Carib HypeTV
+http://1tv41.icu:8080/zqQ0Q2/591076/99572
+#EXTINF:-1,Carib Aruba.TV (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/99574
+#EXTINF:-1,Carib Justice_Central
+http://1tv41.icu:8080/zqQ0Q2/591076/108547
+#EXTINF:-1,CAR: SPORTSMAX 2
+http://1tv41.icu:8080/zqQ0Q2/591076/119471
+
+
+#EXTINF:-1,CA One Soccer 
+http://1tv41.icu:8080/zqQ0Q2/591076/135810
+
+#EXTINF:-1,Star TV Sports
+http://1tv41.icu:8080/zqQ0Q2/591076/53708
+#EXTINF:-1,Star TV Sports 2
+http://1tv41.icu:8080/zqQ0Q2/591076/53709
 
 
 
+#EXTINF:-1,CA-FR | TVA SPORTS 1
+http://1tv41.icu:8080/zqQ0Q2/591076/57498
+#EXTINF:-1,CA (FR) TVA Sports 2
+http://1tv41.icu:8080/zqQ0Q2/591076/57337
+
+#EXTINF:-1,US Game Show Network
+http://1tv41.icu:8080/zqQ0Q2/591076/120633
+#EXTINF:-1,CA Game Show Network HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/57430
+#EXTINF:-1,CA: Ginx esports TV
+http://1tv41.icu:8080/zqQ0Q2/591076/57431
+#EXTINF:-1,CA: Golf Channel HD
+http://1tv41.icu:8080/zqQ0Q2/591076/57362
 
 
+#EXTINF:-1,CA Sportsnet East (D) 
+http://1tv41.icu:8080/zqQ0Q2/591076/41836
+#EXTINF:-1,CA Sportsnet One (E)
+http://1tv41.icu:8080/zqQ0Q2/591076/10247
+#EXTINF:-1,CA Sportsnet 360 HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/2219
+#EXTINF:-1,CA Sportsnet 360 (HD)
+http://1tv41.icu:8080/zqQ0Q2/591076/57299
+#EXTINF:-1,CA Sportsnet East HD (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/57298
+#EXTINF:-1,CA Sportsnet One (FHD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/57297
+#EXTINF:-1,CA Sportsnet One (HD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/47379
+#EXTINF:-1,CA: Sportsnet Ontario
+http://1tv41.icu:8080/zqQ0Q2/591076/57463
+#EXTINF:-1,CA Sportsnet Ontario HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/57296
+#EXTINF:-1,CA Sportsnet Ontario (FHD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/11649
+#EXTINF:-1,CA Sportsnet Pacific (FHD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/9860
+#EXTINF:-1,CA Sportsnet Pacific HD
+http://1tv41.icu:8080/zqQ0Q2/591076/47387
+#EXTINF:-1,CA Sportsnet West (FHD)
+http://1tv41.icu:8080/zqQ0Q2/591076/20975
+#EXTINF:-1,CA: SPORTSNET WEST
+http://1tv41.icu:8080/zqQ0Q2/591076/57300
+#EXTINF:-1,CA Sportsnet World HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/75675
+#EXTINF:-1,Sportsnet 590 The FAN
+http://1tv41.icu:8080/zqQ0Q2/591076/14207
+#EXTINF:-1,Sportsnet 960
+http://1tv41.icu:8080/zqQ0Q2/591076/16246
+
+#EXTINF:-1,US AT&T SportsNet Southwest (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/136909
+#EXTINF:-1,US AT&T SportsNet Pittsburgh
+http://1tv41.icu:8080/zqQ0Q2/591076/108178
+#EXTINF:-1,CA YES TV 
+http://1tv41.icu:8080/zqQ0Q2/591076/57472
+#EXTINF:-1,US YES Network
+http://1tv41.icu:8080/zqQ0Q2/591076/57972
+
+#EXTINF:-1,US NESN (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/31637
+#EXTINF:-1,US NESN 
+http://1tv41.icu:8080/zqQ0Q2/591076/46726
+#EXTINF:-1,US NESN PLUS
+http://1tv41.icu:8080/zqQ0Q2/591076/161451
+
+#EXTINF:-1,US Spectrum SportsNet LA Dodgers (HD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/31636
+#EXTINF:-1,US Spectrum SportsNet Lakers (FHD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/21842
+#EXTINF:-1,US Spectrum SportsNet Lakers (FHD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/20946
+
+#EXTINF:-1,CA TSN 1 (E)
+http://1tv41.icu:8080/zqQ0Q2/591076/57292
+#EXTINF:-1,CA TSN 1 (R)
+http://1tv41.icu:8080/zqQ0Q2/591076/47440
+#EXTINF:-1,CA TSN 2 (R)
+http://1tv41.icu:8080/zqQ0Q2/591076/16129
+#EXTINF:-1,CA TSN 2 HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/47442
+#EXTINF:-1,CA TSN 3 HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/10389
+#EXTINF:-1,CA TSN 3 HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/47444
+#EXTINF:-1,CA TSN 4 HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/16130
+#EXTINF:-1,CA TSN 4 
+http://1tv41.icu:8080/zqQ0Q2/591076/66783
+#EXTINF:-1,CA TSN 4 (B)
+http://1tv41.icu:8080/zqQ0Q2/591076/47446
+#EXTINF:-1,CA TSN 5 
+http://1tv41.icu:8080/zqQ0Q2/591076/57467
+#EXTINF:-1,CA TSN 5 HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/16131
+#EXTINF:-1,CA TSN 5 
+http://1tv41.icu:8080/zqQ0Q2/591076/57295
+
+#EXTINF:-1,CA: World Fishing Network
+http://1tv41.icu:8080/zqQ0Q2/591076/57471
+
+#EXTINF:-1,CA-NBA TV
+http://1tv41.icu:8080/zqQ0Q2/591076/22995
+#EXTINF:-1,USA: NBA TV
+http://1tv41.icu:8080/zqQ0Q2/591076/20073
+
+#EXTINF:-1,MLB Network
+http://1tv41.icu:8080/zqQ0Q2/591076/21360
+#EXTINF:-1,MLB Strike Zone
+http://1tv41.icu:8080/zqQ0Q2/591076/65699
+
+#EXTINF:-1,US NFL Network 
+http://1tv41.icu:8080/zqQ0Q2/591076/83724
+#EXTINF:-1,CA: NFL NETWORK HD
+http://1tv41.icu:8080/zqQ0Q2/591076/47346
+
+#EXTINF:-1,USA: NFL NETWORK (1)
+http://1tv41.icu:8080/zqQ0Q2/591076/159091
+#EXTINF:-1,USA: NFL NETWORK (2)
+http://1tv41.icu:8080/zqQ0Q2/591076/159117
+#EXTINF:-1,USA: NFL REDZONE
+http://1tv41.icu:8080/zqQ0Q2/591076/159118
+#EXTINF:-1,USA: NFL REDZONE (2)
+http://1tv41.icu:8080/zqQ0Q2/591076/159119
+#EXTINF:-1,NFL REDZONE (US)
+http://1tv41.icu:8080/zqQ0Q2/591076/159120
 
 
+#EXTINF:-1,UK EuroSport 1 UK (P)
+http://1tv41.icu:8080/zqQ0Q2/591076/53713
+
+#EXTINF:-1,UK: SKY SPORTS ARENA FHD
+http://1tv41.icu:8080/zqQ0Q2/591076/137719
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://1tv41.icu:8080/zqQ0Q2/591076/137720
+#EXTINF:-1,UK: SKY NEWS
+http://1tv41.icu:8080/zqQ0Q2/591076/77166
+#EXTINF:-1,UK-Sky Sports Action
+http://1tv41.icu:8080/zqQ0Q2/591076/53705
+#EXTINF:-1,UK-Sky Sports Arena
+http://1tv41.icu:8080/zqQ0Q2/591076/35238
+#EXTINF:-1,UK Sky Sports F1 FHD (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/53704
+#EXTINF:-1,UK Sky Sports Golf FHD 
+http://1tv41.icu:8080/zqQ0Q2/591076/35240
+#EXTINF:-1,UK-Sky Sports Main Event
+http://1tv41.icu:8080/zqQ0Q2/591076/35243
+#EXTINF:-1,UK Sky Sports Mix FHD (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/53706
+#EXTINF:-1,UK-Sky Sports News
+http://1tv41.icu:8080/zqQ0Q2/591076/35241
+#EXTINF:-1,UK Sky Sports Cricket FHD (D)
+http://1tv41.icu:8080/zqQ0Q2/591076/45940
+#EXTINF:-1,UK Sky Sports F1 FHD
+http://1tv41.icu:8080/zqQ0Q2/591076/35244
+#EXTINF:-1,UK: SKY SP RACING FHD
+http://1tv41.icu:8080/zqQ0Q2/591076/76842
+
+#EXTINF:-1,US Willow Cricket (X)
+http://1tv41.icu:8080/zqQ0Q2/591076/41979
+
+#EXTINF:-1,AU Redbull TV
+http://1tv41.icu:8080/zqQ0Q2/591076/78424
+
+#EXTINF:-1,US: WWE NETWORK
+http://1tv41.icu:8080/zqQ0Q2/591076/11645
+
+#EXTINF:-1,US Bally Sports Florida (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/46794
+#EXTINF:-1,US Bally Sports Southeast 
+http://1tv41.icu:8080/zqQ0Q2/591076/81111
+#EXTINF:-1,US Bally Sports Detroit (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20930
+#EXTINF:-1,US Bally Sports Midwest (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/66795
+#EXTINF:-1,US Bally Sports Oklahoma (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20934
+#EXTINF:-1,US Bally Sports Southeast 
+http://1tv41.icu:8080/zqQ0Q2/591076/2213
+#EXTINF:-1,US Bally Sports North (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/58827
+#EXTINF:-1,US Bally Sports Detroit 
+http://1tv41.icu:8080/zqQ0Q2/591076/20936
+#EXTINF:-1,US Bally Sports North (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20928
+#EXTINF:-1,US Bally Sports Carolinas (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20929
+#EXTINF:-1,US Bally Sports South
+http://1tv41.icu:8080/zqQ0Q2/591076/20931
+
+#EXTINF:-1,US FanDuel Sports South 
+http://1tv41.icu:8080/zqQ0Q2/591076/20922
+#EXTINF:-1,US Fanduel Sports Southwest 
+http://1tv41.icu:8080/zqQ0Q2/591076/21843
+#EXTINF:-1,US FanDuel Sports West (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20932
+#EXTINF:-1,US FanDuel Sports Wisconsin 
+http://1tv41.icu:8080/zqQ0Q2/591076/78599
+#EXTINF:-1,US FanDuel Sports Ohio 
+http://1tv41.icu:8080/zqQ0Q2/591076/17752
+
+#EXTINF:-1,US FanDuel Sports Sun 
+http://1tv41.icu:8080/zqQ0Q2/591076/104917
+#EXTINF:-1,US FanDuel Sports Great Lakes
+http://1tv41.icu:8080/zqQ0Q2/591076/139272
 
 
+#EXTINF:-1,PT Eleven Sports 1 FHD 
+http://1tv41.icu:8080/zqQ0Q2/591076/35264
+
+#EXTINF:-1,US MASN (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/65697
+#EXTINF:-1,US MASN2 
+http://1tv41.icu:8080/zqQ0Q2/591076/65698
+#EXTINF:-1,US MSG2 (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/21089
+
+#EXTINF:-1,US NBC Sports Network (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/46725
+#EXTINF:-1,US NBC Sports Bay Area (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/9900
+#EXTINF:-1,US NBC Sports Boston (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20939
+#EXTINF:-1,US NBC Sports California (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20940
+#EXTINF:-1,US NBC Sports Chicago 
+http://1tv41.icu:8080/zqQ0Q2/591076/20941
+#EXTINF:-1,US NBC Sports Network (FHD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/20926
+#EXTINF:-1,US NBC Sports Philly (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/20943
+#EXTINF:-1,US NBC Sports Washington (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/20944
 
 
+#EXTINF:-1,US ESPN NEWS
+http://1tv41.icu:8080/zqQ0Q2/591076/17707
+#EXTINF:-1,US ESPN SEC Network 
+http://1tv41.icu:8080/zqQ0Q2/591076/17608
+#EXTINF:-1,US ESPN 2 
+http://1tv41.icu:8080/zqQ0Q2/591076/2210
+#EXTINF:-1,US ESPN 1 (HD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/14197
+#EXTINF:-1,US ESPN 1 (HD) 
+http://1tv41.icu:8080/zqQ0Q2/591076/9802
+#EXTINF:-1,US ESPNU College Sports 
+http://1tv41.icu:8080/zqQ0Q2/591076/10255
+
+#EXTINF:-1,US FOX Sports 1 
+http://1tv41.icu:8080/zqQ0Q2/591076/46792
+#EXTINF:-1,US Fox News  
+http://1tv41.icu:8080/zqQ0Q2/591076/1818
+#EXTINF:-1,US Fox Sports 1 
+http://1tv41.icu:8080/zqQ0Q2/591076/1846
+#EXTINF:-1,US Fox Sports 2 (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/1847
 
 
+#EXTINF:-1,US Tennis Channel
+http://1tv41.icu:8080/zqQ0Q2/591076/20184
 
+#EXTINF:-1,US ACC Network (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/9273
+#EXTINF:-1,US Altitude Sports HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/79545
 
+#EXTINF:-1,US Big Ten HD
+http://1tv41.icu:8080/zqQ0Q2/591076/9828
 
+#EXTINF:-1,US CBS News 
+http://1tv41.icu:8080/zqQ0Q2/591076/21259
+#EXTINF:-1,US CBS Sports Network HD 
+http://1tv41.icu:8080/zqQ0Q2/591076/10454
 
+#EXTINF:-1,US Marquee Sports Network (HD) (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/13379
+#EXTINF:-1,US MAV TV (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/20977
+#EXTINF:-1,US MotorTrend (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/10399
 
+#EXTINF:-1,US MSG Plus 
+http://1tv41.icu:8080/zqQ0Q2/591076/9276
+#EXTINF:-1,US MSG (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/21090
+#EXTINF:-1,US MSNBC
+http://1tv41.icu:8080/zqQ0Q2/591076/21376
+#EXTINF:-1,US MSNBC 
+http://1tv41.icu:8080/zqQ0Q2/591076/9296
 
+#EXTINF:-1,USA: NBC
+http://1tv41.icu:8080/zqQ0Q2/591076/46687
+#EXTINF:-1,US Golf Channel 
+http://1tv41.icu:8080/zqQ0Q2/591076/9806
 
+#EXTINF:-1,USA: OUTSIDE TV
+http://1tv41.icu:8080/zqQ0Q2/591076/20865
 
+#EXTINF:-1,US Sportsnet New York (SNY) (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/20938
+#EXTINF:-1,US Sportsman Channel (A)
+http://1tv41.icu:8080/zqQ0Q2/591076/79913
 
+#EXTINF:-1,US TBS 
+http://1tv41.icu:8080/zqQ0Q2/591076/20867
+#EXTINF:-1,US Golf Channel 
+http://1tv41.icu:8080/zqQ0Q2/591076/46728
 
+#EXTINF:-1,US TNT (West) 
+http://1tv41.icu:8080/zqQ0Q2/591076/46688
+#EXTINF:-1,US TNT East 
+http://1tv41.icu:8080/zqQ0Q2/591076/10455
 
+#EXTINF:-1,US Travel Channel East 
+http://1tv41.icu:8080/zqQ0Q2/591076/9315
+#EXTINF:-1,US TRUTV East 
+http://1tv41.icu:8080/zqQ0Q2/591076/10224
 
+#EXTINF:-1,US TVG Network 
+http://1tv41.icu:8080/zqQ0Q2/591076/10259
+#EXTINF:-1,US TVG2 Network 
+http://1tv41.icu:8080/zqQ0Q2/591076/18940
 
+#EXTINF:-1,US USA Network (East)  
+http://1tv41.icu:8080/zqQ0Q2/591076/10252
 
+#EXTINF:-1,US VSiN (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/18941
+#EXTINF:-1,US WAPA America 
+http://1tv41.icu:8080/zqQ0Q2/591076/76481
+#EXTINF:-1,US WE tv 
+http://1tv41.icu:8080/zqQ0Q2/591076/9237
+#EXTINF:-1,US World Fishing Network (F)
+http://1tv41.icu:8080/zqQ0Q2/591076/10477
 
-
-
-
-
-
-
-
-
+#EXTINF:-1,US Root Sports Network
+http://1tv41.icu:8080/zqQ0Q2/591076/85232
+#EXTINF:-1,ROOTS2
+http://1tv41.icu:8080/zqQ0Q2/591076/87386
+#EXTINF:-1,ROOTS2
+http://1tv41.icu:8080/zqQ0Q2/591076/87596
+#EXTINF:-1,ROOTS2
+http://1tv41.icu:8080/zqQ0Q2/591076/88057
+#EXTINF:-1,ROOTS2
+http://1tv41.icu:8080/zqQ0Q2/591076/93875
 
 
 
