@@ -899,7 +899,7 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/164404
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣5️⃣ 🇺🇸  🌐🌎⭐  📺NORTEAMERICA🌐SPORTS⚽ ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣3️⃣ 🇺🇸  🌐🌎⭐  📺NORTEAMERICA🌐SPORTS⚽ ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -1076,11 +1076,57 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162577
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣3️⃣ 🇺🇸  🌐🌎⭐  📺ESPAÑA🌐SPORTS⚽ ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣4️⃣ 🇺🇸  🌐🌎⭐  📺ESPAÑA🌐SPORTS⚽ ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES: La Liga TV | por M+ (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162019
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Liga de Campeones (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162021
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES: La Liga TV | por M+ Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162017
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - La Liga TV | por M+ Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162018
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LALIGA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - La Liga TV | por M+ Movistar LALIGA (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161931
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - La Liga TV | por M+ Movistar LaLiga (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161912
+
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Deportes (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES: Movistar Deportes (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162022
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Deportes 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Deportes | por M+ Movistar Deportes 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162023
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Deportes | por M+ MOVISTAR DEPORTES(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161915
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Deportes | por M+ MOVISTAR DEPORTES 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161942
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA TV BAR 1 [LIVE-EVENT]
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161916
+
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN SPORTS N LA LIGA (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161872
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTE 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Liga de Campeones | por M+ MOVISTAR DEPORTE 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161873
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTE 3 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Liga de Campeones | por M+ MOVISTAR DEPORTE 3 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161874
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA 2 TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - DAZN LA LIGA 2 TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161875
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN SPORTS 3 F(M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161876
+#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV (M)(720) BAR" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - DAZN LA LIGA TV (M)(720) BAR
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161877
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Indie | por M+ MOVISTAR DEPORTES (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161878
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Deportes | por M+ MOVISTAR DEPORTES 2 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161942
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Deportes (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Deportes | por M+ MOVISTAR Deportes (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161955
 
 #EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Liga de Campeones (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161959
@@ -1088,56 +1134,7 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161959
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162011
 #EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LIGA CAMPEONES" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR LIGA CAMPEONES
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162012
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar Liga de Campeones (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162019
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Liga de Campeones (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Liga de Campeones (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162021
 
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar LaLiga (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162017
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162018
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR LALIGA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR LALIGA (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161931
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161940
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161940
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar LaLiga (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161912
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Deportes (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar Deportes (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162022
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Deportes 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Deportes 1 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162023
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES(M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161915
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES 2 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161942
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV BAR 1 [LIVE-EVENT]" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA TV BAR 1 [LIVE-EVENT]
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161916
-
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN LALIGA 1 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161871
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS LA LIGA (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN SPORTS LA LIGA (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161872
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTE 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTE 2 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161873
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTE 3 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTE 3 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161874
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA 2 TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA 2 TV (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161875
-#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN SPORTS F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - BEIN SPORTS F(M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161876
-#EXTINF:-1 tvg-id="" tvg-name="ESP - LA LIGA TV (M)(720) BAR" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - LA LIGA TV (M)(720) BAR
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161877
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161878
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR DEPORTES 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR DEPORTES 2 (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161942
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar Deportes (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Deportes (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161955
 
 #EXTINF:-1 tvg-id="" tvg-name="ES DAZN 1 F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ES DAZN 1 F(M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161922
@@ -1145,26 +1142,26 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161922
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161923
 #EXTINF:-1 tvg-id="" tvg-name="ES DAZN 3 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ES DAZN 3 (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161925
-#EXTINF:-1 tvg-id="" tvg-name="ESP - DAZN 4 F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - DAZN 4 F(M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - DAZN 4 F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - DAZN La Liga TV 4 F(M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161924
 #EXTINF:-1 tvg-id="" tvg-name="ESP -  Dazn F1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP -  Dazn F1 (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161953
-#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Fórmula 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES:Movistar Fórmula 1 (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="[PRIVATE] ES:Movistar Fórmula 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",[PRIVATE] ES: DAZN F1 Movistar Fórmula 1 (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/162020
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP - #0 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #0 (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #0 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #0 Originales | por M+ (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161928
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP - #VAMOS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #VAMOS (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #VAMOS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #Vamos | por M+ (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161900
-#EXTINF:-1 tvg-id="" tvg-name="ESP - #VAMOS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #VAMOS (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #VAMOS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - #Vamos | por M+ (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161921
 
-#EXTINF:-1 tvg-id="" tvg-name="ESP - #Vamos (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/071331bfe2ef65c648c23a23720c1c7e.png" group-title="📺WORLD🌐SPORTS⚽",ESP - #Vamos (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - #Vamos (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/071331bfe2ef65c648c23a23720c1c7e.png" group-title="📺WORLD🌐SPORTS⚽",ESP - #Vamos | por M+ (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8134
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FOTBOL F(M)(720) 4K" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR FOTBOL F(M)(720) 4K
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FOTBOL F(M)(720) 4K" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Deporters | por M+ MOVISTAR FOTBOL F(M)(720) 4K
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161907
-#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FORMULA 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MOVISTAR FORMULA 1 (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - MOVISTAR FORMULA 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - DAZN La Liga TV MOVISTAR FORMULA 1 (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161910
 #EXTINF:-1 tvg-id="" tvg-name="ESP - CANAL GOLF F(M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - CANAL GOLF F(M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161933
@@ -1183,7 +1180,7 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8181
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161958
 #EXTINF:-1 tvg-id="" tvg-name="ESP - GOL (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/7fd69a57aa39430953380549ec247b4a.png" group-title="📺WORLD🌐SPORTS⚽",ESP - GOL (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8187
-#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="📺WORLD🌐SPORTS⚽",ESP - M. Deportes (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - M. Deportes (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/a1c1e337292ad263f3031aab71beb7c9.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Deportes | por M+ (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8199
 #EXTINF:-1 tvg-id="" tvg-name="ESP - M. Golf (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/166be4e42f3f2542bdda06b6fa2bab9b.png" group-title="📺WORLD🌐SPORTS⚽",ESP - M. Golf (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8202
@@ -1191,17 +1188,17 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8202
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8204
 #EXTINF:-1 tvg-id="" tvg-name="ESP - MEGA (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/d859fd3f0c05be226b0523af2c709455.png" group-title="📺WORLD🌐SPORTS⚽",ESP - MEGA (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8205
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Mundo Toros (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Mundo Toros (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/227318f510fb320fafbdac770f16dcb4.png" group-title="📺WORLD🌐SPORTS⚽",ESP - ONETORO Mundo Toros (TV)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8217
 #EXTINF:-1 tvg-id="" tvg-name="ESP - TOROS (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - TOROS (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161948
 #EXTINF:-1 tvg-id="" tvg-name="ESP - SOMOS (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/34ee1df0c9b3ce9f185e5a79391bcf1b.png" group-title="📺WORLD🌐SPORTS⚽",ESP - SOMOS (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8234
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="📺WORLD🌐SPORTS⚽",ESP - Teledeporte (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (TV)(1080)" tvg-logo="http://23.153.216.121:25461/images/dca55d4c00daa95a5856ecc9530fbc0d.png" group-title="📺WORLD🌐SPORTS⚽",ESP - tdp Teledeporte (TV)(1080)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8243
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Teledeporte (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Teledeporte (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - tdp Teledeporte (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161951
-#EXTINF:-1 tvg-id="" tvg-name="ESP - Mega (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Mega (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Mega (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - MEGA (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161961
 #EXTINF:-1 tvg-id="" tvg-name="ESP - ARAGON TV (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - ARAGON TV (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161981
@@ -1223,7 +1220,7 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161974
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161994
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣4️⃣ 🇺🇸  🌐🌎⭐  📺WORLD🌐SPORTS⚽ ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 0️⃣5️⃣ 🇺🇸  🌐🌎⭐  📺WORLD🌐SPORTS⚽ ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -1424,6 +1421,41 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tv.plus 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ESP - BEIN LALIGA 1 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - L1MAX PE LALIGA 1 (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161871
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Deportes PE (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161940
+#EXTINF:-1 tvg-id="" tvg-name="ESP - Movistar LaLiga (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",ESP - Movistar Deportes PE (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/161940
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8455
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8456
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (L)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8457
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (T)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (T)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8458
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (TV)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8459
+#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (Z)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (Z)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8460
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Movistar Deportes (L)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8461
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Movistar Deportes (T)(1080)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8462
+#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Plus TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png" group-title="📺WORLD🌐SPORTS⚽",PER-Movistar Plus TV (M)(720)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8464
+
+#EXTINF:-1 tvg-id="" tvg-name="PER-GOL Peru (L)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="📺WORLD🌐SPORTS⚽",PER-GOL Peru (L)(1080)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8446
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (T)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="📺WORLD🌐SPORTS⚽",PER-Gol Peru (T)(1080)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8447
+#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="📺WORLD🌐SPORTS⚽",FOX SPORTS 3 | PER-Gol Peru (TV)(1080)
+http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8448
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN 2 (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",BRA-ESPN 2 (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/10564
 #EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Brasil (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",BRA-ESPN Brasil (M)(720)
@@ -1460,33 +1492,6 @@ http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/10639
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/10640
 #EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv (M)(720)" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",BRA-Sportv (M)(720)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/10641
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-GOL Peru (L)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="📺WORLD🌐SPORTS⚽",PER-GOL Peru (L)(1080)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8446
-#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (T)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="📺WORLD🌐SPORTS⚽",PER-Gol Peru (T)(1080)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8447
-#EXTINF:-1 tvg-id="" tvg-name="PER-Gol Peru (TV)(1080)" tvg-logo="https://i.postimg.cc/RC1WyJg9/Proyectox.png" group-title="📺WORLD🌐SPORTS⚽",PER-Gol Peru (TV)(1080)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8448
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8455
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 (L)(720)" tvg-logo="https://i.postimg.cc/yxwspHkL/Proyectox-Liga1peru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8456
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (L)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8457
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (T)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (T)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8458
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (TV)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (TV)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8459
-#EXTINF:-1 tvg-id="" tvg-name="PER-Liga 1 MAX (Z)(720)" tvg-logo="https://i.postimg.cc/wxQSmwbJ/Proyecto-X-liga1max.png" group-title="📺WORLD🌐SPORTS⚽",PER-Liga 1 MAX (Z)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8460
-
-#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (L)(720)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Movistar Deportes (L)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8461
-#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Deportes (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-UtHJhqvvDbI/Xw_Bo3Fwg0I/AAAAAAAAAZ8/C7QrwvMh00oA_Ddkfrc1UakMBItRA7WsQCLcBGAsYHQ/w200-h200/Movistar%2BDeportes%2BPeru.png" group-title="📺WORLD🌐SPORTS⚽",PER-Movistar Deportes (T)(1080)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8462
-#EXTINF:-1 tvg-id="" tvg-name="PER-Movistar Plus TV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-KlTfWdonihI/X2Ord29CNpI/AAAAAAAABTI/2AnEPL2upBA7EGhUY-Lo2fMFWoMEdfesgCLcBGAsYHQ/w200-h200/Movistar%2BPlus.png" group-title="📺WORLD🌐SPORTS⚽",PER-Movistar Plus TV (M)(720)
-http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/8464
 
 #EXTINF:-1 tvg-id="" tvg-name="EC | 01 • LIGA PR0 ( EXCLUSIVO CLIENTES ) (e)" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="📺WORLD🌐SPORTS⚽",EC | 01 • LIGA PR0 ( EXCLUSIVO CLIENTES ) (e)
 http://tv.plusglobal.xyz:8080/luissgt/hrJ793dn3A/153980
@@ -1979,7 +1984,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1677
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ GOLPERU 
 http://disfruta.net:80/fpavas/raZFGMA7GT/1215
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ GOLPERU FHD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ M DEPORTES GOLPERU FHD
 http://disfruta.net:80/fpavas/raZFGMA7GT/4802
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ GOLTV HD (EC)
@@ -2009,8 +2014,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1695
 http://disfruta.net:80/fpavas/raZFGMA7GT/1691
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ MOTORSPORTS (FR) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1912
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2902
+
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ MOVISTAR GOLF (FR) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1906
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar LaLiga (ES)
@@ -2019,6 +2023,9 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1698
 http://disfruta.net:80/fpavas/raZFGMA7GT/1699
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1701
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2902
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
@@ -2277,6 +2284,11 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/7617.ts
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇨ᵀᵛ¹ GOLTV EC
 http://disfruta.net:80/fpavas/raZFGMA7GT/1214
 
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ¹ GOLTV EC
+http://disfruta.net:80/fpavas/raZFGMA7GT/1214
+#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ² GOLTV EC
+http://disfruta.net:80/fpavas/raZFGMA7GT/1214
+
 #EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ¹ GOLPERU
 http://disfruta.net:80/fpavas/raZFGMA7GT/1215
 #EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ² GOLPERU
@@ -2287,10 +2299,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/4802
 #EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ² GOLPERU FHD
 http://disfruta.net:80/fpavas/raZFGMA7GT/4802
 
-#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ¹ GOLTV EC
-http://disfruta.net:80/fpavas/raZFGMA7GT/1214
-#EXTINF:-1 tvg-logo="https://golperu.s3.amazonaws.com/assets/golperu_sharefb.png" group-title="📺WORLD🌐SPORTS⚽",🇵🇪ᵀᵛ² GOLTV EC
-http://disfruta.net:80/fpavas/raZFGMA7GT/1214
+
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ¹ VTV + HD (UY)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1216
@@ -2317,15 +2326,17 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2727
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ² TELEMUNDO (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2727
 
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ¹ UNIVISION (opt1) 
+http://disfruta.net:80/fpavas/raZFGMA7GT/2728
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ¹ WAPA 2 Deportes (opt1) 
+http://disfruta.net:80/fpavas/raZFGMA7GT/2730
+
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ¹ WAPA (opt1)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2731
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ² WAPA (opt2)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2731
 
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ¹ UNIVISION (opt1) X
-http://disfruta.net:80/fpavas/raZFGMA7GT/2728
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇵🇷ᴾᴿ¹ WAPA 2 (opt1) X
-http://disfruta.net:80/fpavas/raZFGMA7GT/2730
+
 
 
 
@@ -2354,75 +2365,6 @@ http://41.205.93.154/TBS/index.m3u8
 
 
 
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ GSN | Game Show Network
-https://streamer1.nexgen.bz/GSN/index.m3u8
-#EXTINF:-1 tvg-id=“OutdoorChannel.us" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ OUTDOOR CHANNEL
-https://streamer1.nexgen.bz/OUTDOOR/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ TBS |E!
-https://streamer1.nexgen.bz/TBS/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ TNT | NBA SPORTS
-https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ TRUTV | NBA SPORTS
-https://streamer1.nexgen.bz/TRUTV/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ USA Network
-https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.us" tvg-logo="" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ¹ USA | SYFY
-https://streamer1.nexgen.bz/SYFY/index.m3u8
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 05 📺WORLD🌐SPORTS⚽ ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 05 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  38.183. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0gr TV PERU GO! PE Latino
-http://38.183.182.166:8000/play/a0gr/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0iq ESPN 7 Latino
-http://38.183.182.166:8000/play/a0iq/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0it ESPN 5 Latino
-http://38.183.182.166:8000/play/a0it/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0iu ESPN 6 Latino
-http://38.183.182.166:8000/play/a0iu/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0iw ESPN Latino
-http://38.183.182.166:8000/play/a0iw/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0ix ESPN 2 Latino
-http://38.183.182.166:8000/play/a0ix/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0iz ESPN 3 Latino
-http://38.183.182.166:8000/play/a0iz/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0re ESPN Latino
-http://38.183.182.166:8000/play/a0re/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0uy TURBO DISCOVERY Latino
-http://38.183.182.166:8000/play/a0uy/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0vl ESPN 4 Latino
-http://38.183.182.166:8000/play/a0vl/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0vv TNT SPORTS PREMIUM CL Latino
-http://38.183.182.166:8000/play/a0vv/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0vw ESPN 2 Latino
-http://38.183.182.166:8000/play/a0vw/index.m3u8
-
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0xa CREO SPORT PE Latino
-http://38.183.182.166:8000/play/a0xa/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0xb TE QUIERO TV | CREO TV PE Latino
-http://38.183.182.166:8000/play/a0xb/index.m3u8
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸a0xd GOL PERU PE Latino
-http://38.183.182.166:8000/play/a0xd/index.m3u8
-
-
-
-
-
-
-
-
 
 
 
@@ -2432,7 +2374,7 @@ http://38.183.182.166:8000/play/a0xd/index.m3u8
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 06 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 06 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 05 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  143.244. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
