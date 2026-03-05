@@ -166,28 +166,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ANTENA 3 ES (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/88673
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ANTENA 3 ES (opt2) 
-http://mains.vip:2086/3003556325/2772007/88673
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ANTENA 3 ES (opt3) 
-http://mains.services:2086/4523074511/3178768/88673
-
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ CUATRO ES (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/88699
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ CUATRO ES (opt2) 
-http://mains.vip:2086/3003556325/2772007/88699
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ CUATRO ES (opt3) 
-http://mains.services:2086/4523074511/3178768/88699
-
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ 24 HORAS ES (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/88757
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ 24 HORAS ES (opt2) 
-http://mains.vip:2086/3003556325/2772007/88757
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ 24 HORAS ES (opt3) 
-http://mains.services:2086/4523074511/3178768/88757
-
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ 24h RTVE.ES (opt1)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/24.horas.es.m3u8
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ 24h RTVE.ES (opt2)
@@ -280,13 +258,19 @@ https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/lasex
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚽SPORTS🇪🇸ESPAÑA⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸A🇪🇸  🌐🌎⭐ A 📺 ESPAÑA  ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTS🇪🇸ESPAÑA⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/antena.3.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt2)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/antena.3.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸⚽ ANTENA 3 A3MEDIA.ES (opt3)
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/antena.3.es.m3u8
+
+
 
 
 
@@ -296,7 +280,7 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7745.ts
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7745.m3u8
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7745 ARAGON (opt3)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7745.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7745 ARAGON (opt4)
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7745 ARAGON (opt4) x
 http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7745.ts
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7745 ARAGON (opt5)
 http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7745.ts
@@ -339,6 +323,14 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://185.189.225.149/cocina/index.m3u8
 
 
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt1)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt3)
+https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/calle.13.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/calle.13.es.m3u8
 
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ COMEDY CENTRAL ES (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/88703
@@ -370,15 +362,6 @@ http://mains.vip:2086/3003556325/2772007/88680
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ CALLE 13 ES (opt3) 
 http://mains.services:2086/4523074511/3178768/88680
 
-
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt1)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/calle.13.es.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/calle.13.es.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt3)
-https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/calle.13.es.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ CALLE 13 ES (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/calle.13.es.m3u8
 
 
 
@@ -424,12 +407,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ENERGY ES (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/88670
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ENERGY ES (opt2) 
-http://mains.vip:2086/3003556325/2772007/88670
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ENERGY ES (opt3) 
-http://mains.services:2086/4523074511/3178768/88670
 
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ E. ENERGY Series ES (opt1)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/energy.es.m3u8
@@ -439,6 +416,13 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/energy.es.m
 https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/energy.es.m3u8
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ E. ENERGY Series ES (opt4)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/energy.es.m3u8
+
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ENERGY ES (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/88670
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ENERGY ES (opt2) 
+http://mains.vip:2086/3003556325/2772007/88670
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ ENERGY ES (opt3) 
+http://mains.services:2086/4523074511/3178768/88670
 
 
 
@@ -687,6 +671,14 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTS🇪🇸ESPAÑA⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt1)
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/real.madrid.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/real.madrid.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt3)
+https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/real.madrid.es.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt4)
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/real.madrid.es.m3u8
 
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸ⓕ1741 Real Madrid TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
@@ -700,15 +692,6 @@ http://mains.vip:2086/3003556325/2772007/88842
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",☆ REAL MADRID TV ES (opt3) 
 http://mains.services:2086/4523074511/3178768/88842
 
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt1)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/real.madrid.es.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/real.madrid.es.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt3)
-https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/real.madrid.es.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ REAL MADRID ES (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/real.madrid.es.m3u8
-
 
 
 
@@ -716,31 +699,6 @@ https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/real.
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽SPORTS🇪🇸ESPAÑA⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  📺🇨🇭🙏🏻Reload PLAYLIST Daily🙏🏻🇨🇭🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7746.ts
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7746.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7746.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt4)
-http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7746.ts
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt5)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7746.ts
-
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7515.ts
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7515.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7515.m3u8
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt4)
-http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7515.ts
-#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt5)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7515.ts
-
 
 
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸⚽ TELECINCO .5 ES MEDIASETᶠᴴᴰ (opt1) 
@@ -771,6 +729,31 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telemadrid.
 https://tvnow.best/api/stream/sylviabonniwell@yahoo.com/641629/livetv.epg/telemadrid.es.m3u8
 #EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",⚽ TELEMADRID ES (opt4)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telemadrid.es.m3u8
+
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7746.ts
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7746.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7746.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt4)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7746.ts
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7746 TRECE (opt5)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7746.ts
+
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7515.ts
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7515.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7515.m3u8
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt4)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7515.ts
+#EXTINF:-1 group-title="⚽SPORTS🇪🇸ESPAÑA⚽",🇪🇸★7515 PPV | Leagues Cup | TELECINCO .5 (opt5)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7515.ts
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚽SPORTS🇪🇸ESPAÑA⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸U🇪🇸  🌐🌎⭐ U 📺 ESPAÑA  ⭐🌎🌐
@@ -862,29 +845,6 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.es.m3
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 04 📺WORLD🌐SPORTS⚽ ♥  ##########
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² ESPN
-http://41.205.93.154/ESPN/index.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² ESPNU
-http://41.205.93.154/ESPNU/index.m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² ESPNNEWS 
-http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² TBS |E!
-http://41.205.93.154/TBS/index.m3u8
-
-
-
-
 
 
 
@@ -892,7 +852,7 @@ http://41.205.93.154/TBS/index.m3u8
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 02 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -1300,7 +1260,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/4802
 
 
 
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ¹ VTV + HD (UY)
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ¹ VTV + HD (UY) x
 http://disfruta.net:80/fpavas/raZFGMA7GT/1216
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ² VTV + HD (UY)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1216
@@ -1308,7 +1268,10 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1216
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ¹ VTV HD (UY)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1217
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ² VTV HD (UY)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1217
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1217.ts
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵀᵛ² VTV HD (UY)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1217.m3u8
+
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇾ᵘʸ¹ VTV
 http://disfruta.net:80/fpavas/raZFGMA7GT/2744
@@ -1339,6 +1302,25 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/2731
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 04 📺WORLD🌐SPORTS⚽ ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/espnu-logo-4F2415EA6A-seeklogo.com.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² ESPNU
+http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESPNews-Logo.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² ESPNNEWS 
+http://41.205.93.154/ESPNNEWS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² TBS |E!
+http://41.205.93.154/TBS/index.m3u8
 
 
 
