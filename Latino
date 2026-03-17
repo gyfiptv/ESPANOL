@@ -6049,20 +6049,20 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1,PPV UFC
+#EXTINF:-1,PPV UFC x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/47231.ts
 
-#EXTINF:-1,DIRECTV SPORTS PPV 1
+#EXTINF:-1,DIRECTV SPORTS PPV 1 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/51077.ts
-#EXTINF:-1,DIRECTV SPORTS PPV 2
+#EXTINF:-1,DIRECTV SPORTS PPV 2 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/69197.ts
-#EXTINF:-1,DIRECTV SPORTS PPV 3
+#EXTINF:-1,DIRECTV SPORTS PPV 3 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/69198.ts
-#EXTINF:-1,DIRECTV SPORTS PPV 4
+#EXTINF:-1,DIRECTV SPORTS PPV 4 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/69199.ts
-#EXTINF:-1,DIRECTV SPORTS PPV 5
+#EXTINF:-1,DIRECTV SPORTS PPV 5 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/69200.ts
-#EXTINF:-1,DIRECTV SPORTS PPV 6
+#EXTINF:-1,DIRECTV SPORTS PPV 6 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/69201.ts
 
 #EXTINF:-1,UFC FIGHT PASS
@@ -6085,7 +6085,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23994.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/86087.ts
 #EXTINF:-1,BEIN SPORTS *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1849.ts
-#EXTINF:-1,BEIN SPORTS Ñ *HQ
+#EXTINF:-1,BEIN SPORTS XTRA Ñ *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23993.ts
 #EXTINF:-1,BEIN SPORTS Ñ *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1854.ts
@@ -6095,19 +6095,19 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1853.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1852.ts
 #EXTINF:-1,BEIN SPORTS Ñ *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41773.ts
-#EXTINF:-1,BEIN SPORTS LALIGA *HQ
+#EXTINF:-1,L1MAX | LIGA1 MAX PE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23995.ts
-#EXTINF:-1,BEIN SPORTS LALIGA *FHD
+#EXTINF:-1,L1MAX | LIGA1 MAX PE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40002.ts
-#EXTINF:-1,BEIN SPORTS LALIGA *FHD | op2
+#EXTINF:-1,L1MAX | LIGA1 MAX PE *FHD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1851.ts
 #EXTINF:-1,DEPORTV *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53209.ts
 
-#EXTINF:-1,CARACOL SPORTS *HD
+#EXTINF:-1,CARACOL SPORTS *HD2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52315.ts
 
-#EXTINF:-1,TNT SPORTS BRASIL *HD
+#EXTINF:-1,TNT SPORTS BRASIL *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/68836.ts
 #EXTINF:-1,TNT SPORTS HD CHILE *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/62971.ts
@@ -6123,11 +6123,11 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1846.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1847.ts
 #EXTINF:-1,TNT SPORTS HD CHILE *FHD | 60fps | H265
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/62972.ts
-#EXTINF:-1,TNT SPORTS 2 CHILE *HQ
+#EXTINF:-1,TNT SPORTS 2 CHILE *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41171.ts
-#EXTINF:-1,TNT SPORTS 2 CHILE *HD
+#EXTINF:-1,TNT SPORTS 2 CHILE *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1842.ts
-#EXTINF:-1,TNT SPORTS 2 CHILE *FHD
+#EXTINF:-1,TNT SPORTS 2 CHILE *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41589.ts
 #EXTINF:-1,TNT SPORTS 3 CHILE *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1841.ts
@@ -6135,15 +6135,17 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1841.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41170.ts
 #EXTINF:-1,TNT SPORTS 3 CHILE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/42335.ts
-#EXTINF:-1,ESTADIO TNT SPORTS *HQ
+
+#EXTINF:-1,ESTADIO TNT SPORTS *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40737.ts
-#EXTINF:-1,ESTADIO TNT SPORTS *HD
+#EXTINF:-1,ESTADIO TNT SPORTS *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40736.ts
-#EXTINF:-1,ESTADIO TNT SPORTS *FHD
+#EXTINF:-1,ESTADIO TNT SPORTS *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/62970.ts
-#EXTINF:-1,CDO BASICO *HD
+
+#EXTINF:-1,CDO 2 BASICO *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1839.ts
-#EXTINF:-1,CDO PREMIUM *HQ
+#EXTINF:-1,CDO PREMIUM *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/84181.ts
 #EXTINF:-1,CDO PREMIUM *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1840.ts
@@ -6157,84 +6159,86 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2352.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2353.ts
 #EXTINF:-1,COMBATE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2330.ts
-#EXTINF:-1,DIRECTV SPORTS 1 *HQ
+
+#EXTINF:-1,DIRECTV SPORTS 1 *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1784.ts
-#EXTINF:-1,DIRECTV SPORTS 1 *HD
+#EXTINF:-1,DIRECTV SPORTS 1 *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1786.ts
-#EXTINF:-1,DIRECTV SPORTS 1 *FHD
+#EXTINF:-1,DIRECTV SPORTS 1 *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1785.ts
-#EXTINF:-1,DIRECTV SPORTS 1 AR *HD
+#EXTINF:-1,DIRECTV SPORTS 1 AR *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/47911.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CL *HQ
+#EXTINF:-1,DIRECTV SPORTS 1 CL *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45883.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CL *HQ | op2
+#EXTINF:-1,DIRECTV SPORTS 1 CL *HQ | op2 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25834.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CL *HD
+#EXTINF:-1,DIRECTV SPORTS 1 CL *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45881.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CL *HD | op2
+#EXTINF:-1,DIRECTV SPORTS 1 CL *HD | op2 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25833.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CL *FHD
+#EXTINF:-1,DIRECTV SPORTS 1 CL *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45882.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CO *HQ
+#EXTINF:-1,DIRECTV SPORTS 1 CO *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53239.ts
-#EXTINF:-1,DIRECTV SPORTS 1 CO *HD
+#EXTINF:-1,DIRECTV SPORTS 1 CO *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53232.ts
-#EXTINF:-1,DIRECTV SPORTS 1 PE *HQ
+#EXTINF:-1,DIRECTV SPORTS 1 PE *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52498.ts
-#EXTINF:-1,DIRECTV SPORTS 1 PE *HD
+#EXTINF:-1,DIRECTV SPORTS 1 PE *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52497.ts
-#EXTINF:-1,DIRECTV SPORTS 1 PE *FHD
+#EXTINF:-1,DIRECTV SPORTS 1 PE *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/6109.ts
-#EXTINF:-1,DIRECTV SPORTS 1 EC *HD
+#EXTINF:-1,DIRECTV SPORTS 1 EC *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2346.ts
-#EXTINF:-1,DIRECTV SPORTS 1 EC *HD | op2
+#EXTINF:-1,DIRECTV SPORTS 1 EC *HD | op2 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2347.ts
-#EXTINF:-1,DIRECTV SPORTS 1 EC *FHD
+#EXTINF:-1,DIRECTV SPORTS 1 EC *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2357.ts
-#EXTINF:-1,DIRECTV SPORTS 1 UR *HQ
+#EXTINF:-1,DIRECTV SPORTS 1 UR *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54632.ts
-#EXTINF:-1,DIRECTV SPORTS 1 UR *HD
+#EXTINF:-1,DIRECTV SPORTS 1 UR *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54370.ts
-#EXTINF:-1,DIRECTV SPORTS 2 *HQ
+#EXTINF:-1,DIRECTV SPORTS 2 *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1789.ts
-#EXTINF:-1,DIRECTV SPORTS 2 *HD
+#EXTINF:-1,DIRECTV SPORTS 2 *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1788.ts
-#EXTINF:-1,DIRECTV SPORTS 2 *FHD
+#EXTINF:-1,DIRECTV SPORTS 2 *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1787.ts
-#EXTINF:-1,DIRECTV SPORTS 2 CL *HQ
+#EXTINF:-1,DIRECTV SPORTS 2 CL *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45886.ts
-#EXTINF:-1,DIRECTV SPORTS 2 CL *HD
+#EXTINF:-1,DIRECTV SPORTS 2 CL *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45885.ts
-#EXTINF:-1,DIRECTV SPORTS 2 CL *FHD
+#EXTINF:-1,DIRECTV SPORTS 2 CL *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45884.ts
-#EXTINF:-1,DIRECTV SPORTS 2 PE *FHD
+#EXTINF:-1,DIRECTV SPORTS 2 PE *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40003.ts
-#EXTINF:-1,DIRECTV SPORTS 2 EC *HD
+#EXTINF:-1,DIRECTV SPORTS 2 EC *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46741.ts
-#EXTINF:-1,DIRECTV SPORTS + *HQ
+#EXTINF:-1,DIRECTV SPORTS + *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5190.ts
-#EXTINF:-1,DIRECTV SPORTS + *HD
+#EXTINF:-1,DIRECTV SPORTS + *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5188.ts
-#EXTINF:-1,DIRECTV SPORTS + *FHD
+#EXTINF:-1,DIRECTV SPORTS + *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5189.ts
-#EXTINF:-1,DIRECTV SPORTS + *FHD | op2
+#EXTINF:-1,DIRECTV SPORTS + *FHD | op2 x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5191.ts
-#EXTINF:-1,DIRECTV SPORTS + CL *HQ
+#EXTINF:-1,DIRECTV SPORTS + CL *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45889.ts
-#EXTINF:-1,DIRECTV SPORTS + CL *HD
+#EXTINF:-1,DIRECTV SPORTS + CL *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45888.ts
-#EXTINF:-1,DIRECTV SPORTS + CL *FHD
+#EXTINF:-1,DIRECTV SPORTS + CL *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45887.ts
-#EXTINF:-1,DIRECTV SPORTS + PE *FHD
+#EXTINF:-1,DIRECTV SPORTS + PE *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40004.ts
-#EXTINF:-1,DIRECTV SPORTS + EC *HD
+#EXTINF:-1,DIRECTV SPORTS + EC *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46742.ts
-#EXTINF:-1,DIRECTV SPORTS FIGHT *HQ
+#EXTINF:-1,DIRECTV SPORTS FIGHT *HQ x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/63193.ts
-#EXTINF:-1,DIRECTV SPORTS FIGHT *HD
+#EXTINF:-1,DIRECTV SPORTS FIGHT *HD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/63191.ts
-#EXTINF:-1,DIRECTV SPORTS FIGHT *FHD
+#EXTINF:-1,DIRECTV SPORTS FIGHT *FHD x
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/63192.ts
+
 #EXTINF:-1,ESPN CL *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65004.ts
 #EXTINF:-1,ESPN CL *HQ
@@ -6385,8 +6389,10 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40910.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1780.ts
 #EXTINF:-1,ESPN PREMIUM *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2359.ts
+
 #EXTINF:-1,FOX DEPORTES *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1838.ts
+
 #EXTINF:-1,FOX SPORTS BR *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2336.ts
 #EXTINF:-1,FOX SPORTS 1 CL *LQ
@@ -6465,10 +6471,12 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/66857.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/66858.ts
 #EXTINF:-1,FOX SPORTS PREMIUM *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/66859.ts
+
 #EXTINF:-1,TD+ *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29818.ts
 #EXTINF:-1,TD+ 2 *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29817.ts
+
 #EXTINF:-1,FUTV *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23997.ts
 #EXTINF:-1,FUTV *HD | op2
