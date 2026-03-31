@@ -1032,8 +1032,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸☑ ESPN Deportes (sd)
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸☑ ESPN Deportes (hd)
+https://tvpass.org/live/espn-deportes/hd
 
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ESPN (sd)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ESPN (hd)
+https://tvpass.org/live/ESPN/hd
 
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ESPN 2 (sd)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ESPN 2 (hd)
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ESPN U (sd)
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ESPN U (hd)
+https://tvpass.org/live/ESPNU/hd
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -1368,6 +1385,17 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ FS1 | FOX Sports 1 (sd)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ FS1 | FOX Sports 1 (hd)
+https://tvpass.org/live/FoxSports1/hd
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ FS2 | FOX Sports 2 (sd)
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ FS2 | FOX Sports 2 (hd)
+https://tvpass.org/live/FoxSports2/hd
+
+
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸* FOX SPORTS *HQ (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.m3u8
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸* FOX SPORTS *HQ (opt2)
@@ -1392,13 +1420,24 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7787.m3u8
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX DEPORTES (opt4)
 http://alfa.7057460.xyz:2095/ameca01/1989/7787
 
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸USA FIFA 04 (FS1)
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7788.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7788.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7788.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt4)
+http://alfa.7057460.xyz:2095/ameca01/1989/7788
+
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
 http://mains.services/live/4523074511/3178768/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
 http://mains.services/live/640939802963/IDC01478!/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
 http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
 http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 
 
@@ -1419,16 +1458,6 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7786.m3u8
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7786.m3u8
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FS 2 (opt4)
 http://alfa.7057460.xyz:2095/ameca01/1989/7786
-
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7788.m3u8
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7788.m3u8
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7788.m3u8
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",★ 🇺🇸FOX SOCCER PLUS (opt4)
-http://alfa.7057460.xyz:2095/ameca01/1989/7788
-
 
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸★7171 FS PREMIUM | UFC (opt1)
@@ -2239,101 +2268,101 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,PPV  UFC 1
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1
 http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
-#EXTINF:-1,PPV  UFC 2
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2
 http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u
-#EXTINF:-1,PPV  WWE
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE
 http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u
-#EXTINF:-1,PPV EVENT 97 - FITE 24/7
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 97 - FITE 24/7
 http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
-#EXTINF:-1,PPV EVENT 98 - UFC FIGHT PASS 24/7
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
 http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
 
-#EXTINF:-1,PPV EVENT 01
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01
 http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
-#EXTINF:-1,PPV EVENT 02
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02
 http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
-#EXTINF:-1,PPV EVENT 03
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03
 http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
-#EXTINF:-1,PPV EVENT 04
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04
 http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
-#EXTINF:-1,PPV EVENT 05
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05
 http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
-#EXTINF:-1,PPV EVENT 06
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06
 http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
-#EXTINF:-1,PPV EVENT 07
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 07
 http://mains.services/live/4523074511/3178768/3af29b10-4492-4fb3-83b7-4f0487601359.m3u
-#EXTINF:-1,PPV EVENT 08
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 08
 http://mains.services/live/4523074511/3178768/9bde720e-a99d-4919-843d-1f392df901c5.m3u
-#EXTINF:-1,PPV EVENT 09
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 09
 http://mains.services/live/4523074511/3178768/9a948a8d-dd62-440f-9a09-9ec8be2c1e5a.m3u
-#EXTINF:-1,PPV EVENT 10
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 10
 http://mains.services/live/4523074511/3178768/72ff8ef9-8531-4ffe-a950-48b1e2a68eb1.m3u
-#EXTINF:-1,PPV EVENT 11
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 11
 http://mains.services/live/4523074511/3178768/7cb8cbc0-a78f-4ebf-b8ac-484ad7e716bb.m3u
-#EXTINF:-1,PPV EVENT 12
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 12
 http://mains.services/live/4523074511/3178768/d2aa89f9-a926-4747-a45c-51d99f807f3c.m3u
-#EXTINF:-1,PPV EVENT 13
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 13
 http://mains.services/live/4523074511/3178768/0bc68b82-64be-4249-8b5b-a743f8c42b73.m3u
-#EXTINF:-1,PPV EVENT 14
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 14
 http://mains.services/live/4523074511/3178768/0780d729-3e19-4437-a877-5fd0855fce07.m3u
-#EXTINF:-1,PPV EVENT 15
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 15
 http://mains.services/live/4523074511/3178768/cdda7b67-f5b9-4876-8f65-e58eb16f9461.m3u
-#EXTINF:-1,PPV EVENT 16
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 16
 http://mains.services/live/4523074511/3178768/a9fdb0b8-01f4-41c7-8065-381bac9af2c1.m3u
-#EXTINF:-1,PPV EVENT 17
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 17
 http://mains.services/live/4523074511/3178768/5b4928f8-b47c-4390-a3c3-f6862eebda6f.m3u
-#EXTINF:-1,PPV EVENT 18
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 18
 http://mains.services/live/4523074511/3178768/0dcfed72-f490-411f-b436-b18413350934.m3u
-#EXTINF:-1,PPV EVENT 19
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 19
 http://mains.services/live/4523074511/3178768/486da822-98c4-482d-8030-c85746589fab.m3u
-#EXTINF:-1,PPV EVENT 20
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 20
 http://mains.services/live/4523074511/3178768/76313c99-4a1a-43db-9b3d-01c5a39ec46e.m3u
-#EXTINF:-1,PPV EVENT 21
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 21
 http://mains.services/live/4523074511/3178768/6be8a1a6-f7d6-4a85-b249-1c222205ab0a.m3u
-#EXTINF:-1,PPV EVENT 22
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 22
 http://mains.services/live/4523074511/3178768/1a311397-9346-41da-a308-b54bcb3a9997.m3u
-#EXTINF:-1,PPV EVENT 23
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 23
 http://mains.services/live/4523074511/3178768/fbfca19c-c358-4405-a359-d90a8b617dc4.m3u
-#EXTINF:-1,PPV EVENT 24
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 24
 http://mains.services/live/4523074511/3178768/bc01cc47-ec2e-4219-95b5-89a74c307824.m3u
-#EXTINF:-1,PPV EVENT 25
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 25
 http://mains.services/live/4523074511/3178768/a674cf09-ba90-4f7c-92c2-e51713622bc3.m3u
-#EXTINF:-1,PPV EVENT 26
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 26
 http://mains.services/live/4523074511/3178768/0dc47944-099b-4f07-929f-83b05aaf1ab2.m3u
-#EXTINF:-1,PPV EVENT 27
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 27
 http://mains.services/live/4523074511/3178768/9c9ef4a5-2a41-44e6-96de-3968245754bd.m3u
-#EXTINF:-1,PPV EVENT 28
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 28
 http://mains.services/live/4523074511/3178768/0797bd5b-b97c-46a9-926c-1bd84db68386.m3u
-#EXTINF:-1,PPV EVENT 29
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 29
 http://mains.services/live/4523074511/3178768/b4e0b52d-176e-48d5-a68c-3a64f668c5d2.m3u
-#EXTINF:-1,PPV EVENT 30
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 30
 http://mains.services/live/4523074511/3178768/d4b66296-a7b8-4397-b93a-b8e1e4171f02.m3u
-#EXTINF:-1,PPV EVENT 31
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 31
 http://mains.services/live/4523074511/3178768/46feeff2-74cf-4f87-8478-67d990e95464.m3u
-#EXTINF:-1,PPV EVENT 32
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 32
 http://mains.services/live/4523074511/3178768/3fc1a73e-fb8a-48c0-a0fa-a4fb4223dc0d.m3u
-#EXTINF:-1,PPV EVENT 33
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 33
 http://mains.services/live/4523074511/3178768/bedb1527-bb61-45fc-81a7-374e1979783b.m3u
-#EXTINF:-1,PPV EVENT 34
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 34
 http://mains.services/live/4523074511/3178768/4d555169-36f4-4739-b6b5-0815f78bfa20.m3u
-#EXTINF:-1,PPV EVENT 35
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 35
 http://mains.services/live/4523074511/3178768/8625489c-2f71-4147-b361-6600cde90bfb.m3u
-#EXTINF:-1,PPV EVENT 36
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 36
 http://mains.services/live/4523074511/3178768/2950c356-f8e9-4fa8-b21e-14c4c8189779.m3u
-#EXTINF:-1,PPV EVENT 37
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 37
 http://mains.services/live/4523074511/3178768/c1bff286-8408-4af8-b17f-035fd2ade21f.m3u
-#EXTINF:-1,PPV EVENT 38
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 38
 http://mains.services/live/4523074511/3178768/54d399ed-8108-498b-8df7-7ad734c14f47.m3u
-#EXTINF:-1,PPV EVENT 39
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 39
 http://mains.services/live/4523074511/3178768/0c75df1d-1163-4d98-8cdb-e2a8dd5a23f7.m3u
-#EXTINF:-1,PPV EVENT 40
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 40
 http://mains.services/live/4523074511/3178768/1791335c-3096-4878-a83d-b37c14af484b.m3u
-#EXTINF:-1,PPV EVENT 97 - FITE 24/7
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 97 - FITE 24/7
 http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
-#EXTINF:-1,PPV EVENT 98 - UFC FIGHT PASS 24/7
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
 http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 04 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
@@ -2567,6 +2596,17 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ACC Network (sd)
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ACC Network (hd)
+https://tvpass.org/live/ACCNetwork/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Altitude Sports Denver (sd)
+https://tvpass.org/live/altitude-sports-denver/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Altitude Sports Denver (hd)
+https://tvpass.org/live/altitude-sports-denver/hd
+
 
 
 
@@ -3083,6 +3123,22 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ C-SPAN (sd)
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ C-SPAN (hd)
+https://tvpass.org/live/CSPAN/hd
+
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ C-SPAN 2 (sd)
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ C-SPAN 2e (hd)
+https://tvpass.org/live/CSPAN2/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Chicago Sports Network (sd)
+https://tvpass.org/live/chicago-sports-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Chicago Sports Network (hd)
+https://tvpass.org/live/chicago-sports-network/hd
+
+
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
 
@@ -3559,7 +3615,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ ⛹️*EUROSPORT 1 ES (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7828.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ ⛹️*EUROSPORT 1 ES (opt2)
@@ -3619,11 +3674,26 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ESPN Deportes (sd)
 https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ESPN Deportes (hd)
 https://tvpass.org/live/espn-deportes/hd
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ESPN (sd)
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ESPN (hd)
+https://tvpass.org/live/ESPN/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ESPN 2 (sd)
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ESPN 2 (hd)
+https://tvpass.org/live/ESPN2/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ESPN U (sd)
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ESPN U (hd)
+https://tvpass.org/live/ESPNU/hd
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -3722,6 +3792,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FS1 | FOX Sports 1 (sd)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FS1 | FOX Sports 1 (hd)
+https://tvpass.org/live/FoxSports1/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FS2 | FOX Sports 2 (sd)
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FS2 | FOX Sports 2 (hd)
+https://tvpass.org/live/FoxSports2/hd
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7812 Caliente TV de FOX SPORTS (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7812.ts
@@ -3820,6 +3899,102 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Indiana (sd)
+https://tvpass.org/live/fanduel-sports-indiana/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Indiana (hd)
+https://tvpass.org/live/fanduel-sports-indiana/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Detroit (sd)
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Detroit (hd)
+https://tvpass.org/live/fanduel-sports-network-detroit-hd/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Florida (sd)
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Florida (hd)
+https://tvpass.org/live/fanduel-sports-network-florida/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Great Lakes (sd)
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Great Lakes (hd)
+https://tvpass.org/live/fanduel-sports-network-great-lakes/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network North (sd)
+https://tvpass.org/live/fanduel-sports-network-north/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network North (hd)
+https://tvpass.org/live/fanduel-sports-network-north/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Ohio Cleveland (sd)
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Ohio Cleveland (hd)
+https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Oklahoma (sd)
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Oklahoma (hd)
+https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network San Diego (sd) x
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network San Diego (hd)
+https://tvpass.org/live/fanduel-sports-network-san-diego/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Socal (sd)
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Socal (hd)
+https://tvpass.org/live/fanduel-sports-network-socal/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network South Carolinas (sd) x
+https://tvpass.org/live/fanduel-sports-network-south-carolinas.sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network South Carolinas (hd)
+https://tvpass.org/live/fanduel-sports-network-south-carolinas.hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network South Tennessee (sd) 
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network South Tennessee (hd)
+https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network West (sd)
+https://tvpass.org/live/fanduel-sports-network-west/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network West (hd)
+https://tvpass.org/live/fanduel-sports-network-west/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Wisconsin (sd)
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Network Wisconsin (hd)
+https://tvpass.org/live/fanduel-sports-network-wisconsin/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast Georgia (sd)
+https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast Georgia (hd)
+https://tvpass.org/live/fanduel-sports-southeast-georgia/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast North Carolina (sd)
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast North Carolina (hd)
+https://tvpass.org/live/fanduel-sports-southeast-north-carolina/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast South Carolina (sd)
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast South Carolina (hd)
+https://tvpass.org/live/fanduel-sports-southeast-south-carolina/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast Tennessee Nashville (sd)
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Southeast Tennessee Nashville (hd)
+https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Sun (sd)
+https://tvpass.org/live/fanduel-sports-sun/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Sun (hd)
+https://tvpass.org/live/fanduel-sports-sun/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Tennessee East (sd)
+https://tvpass.org/live/fanduel-sports-tennessee-east/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Tennessee East (hd)
+https://tvpass.org/live/fanduel-sports-tennessee-east/hd
+
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt1)
@@ -3983,6 +4158,17 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Game Show Network East (sd)
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Game Show Network East (hd)
+https://tvpass.org/live/game-show-network-east/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Golf Channel USA (sd)
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Golf Channel USA (hd)
+https://tvpass.org/live/GolfChannel/hd
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubX7Ezq.jpeg" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Golf Kingdom
@@ -4316,6 +4502,46 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Marquee Sports Network (sd)
+https://tvpass.org/live/marquee-sports-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Marquee Sports Network (hd)
+https://tvpass.org/live/marquee-sports-network/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Midatlantic Sports Network (sd)
+https://tvpass.org/live/midatlantic-sports-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Midatlantic Sports Network (hd)
+https://tvpass.org/live/midatlantic-sports-network/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MLB Network (sd)
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MLB Network (hd)
+https://tvpass.org/live/MLBNetwork/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Monumental Sports Network (sd)
+https://tvpass.org/live/monumental-sports-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Monumental Sports Network (hd)
+https://tvpass.org/live/monumental-sports-network/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Motor Trend | Discovery TURBO (sd)
+https://tvpass.org/live/Motortrend/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Motor Trend | Discovery TURBO (hd)
+https://tvpass.org/live/Motortrend/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MSG Madison Square Gardens (sd)
+https://tvpass.org/live/msg-madison-square-gardens/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MSG Madison Square Gardens (hd)
+https://tvpass.org/live/msg-madison-square-gardens/hd
+
+#EXTINF:-1 tvg-id="MSGPlus.us" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MSG Plus (sd)
+https://tvpass.org/live/msg-plus/sd
+#EXTINF:-1 tvg-id="MSGPlus.us" tvg-logo="https://i.imgur.com/7suDpSK.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MSG Plus (hd)
+https://tvpass.org/live/msg-plus/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MSNBC USA (sd)
+https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MSNBC USA (hd)
+https://tvpass.org/live/MSNBC/hd
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7818 MLB (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7818.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7818 MLB (opt2)
@@ -4452,6 +4678,58 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBA TV (sd)
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBA TV (hd)
+https://tvpass.org/live/NBATV/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NFL Network (sd)
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NFL Network (hd)
+https://tvpass.org/live/NFLNetwork/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NFL RedZone (sd)
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NFL RedZone (hd)
+https://tvpass.org/live/NFLRedZone/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NHL Network (sd)
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NHL Network (hd)
+https://tvpass.org/live/NHLNetwork/hd
+
+
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports Bay Area (sd)
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports Bay Area (hd)
+https://tvpass.org/live/nbc-sports-bay-area/hd
+
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports Boston (sd)
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NBC_Sports_Boston.png/512px-NBC_Sports_Boston.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports Boston (hd)
+https://tvpass.org/live/nbc-sports-boston/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports California (sd)
+https://tvpass.org/live/nbc-sports-california/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports California (hd)
+https://tvpass.org/live/nbc-sports-california/hd
+
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports Philadelphia (sd)
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/512px-NBC_Sports_Philadelphia.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBC Sports Philadelphia (hd)
+https://tvpass.org/live/nbc-sports-philadelphia/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NESN | New England Sports Network (sd)
+https://tvpass.org/live/new-england-sports-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NESN | New England Sports Network (hd)
+https://tvpass.org/live/new-england-sports-network/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NewsMax TV (sd)
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NewsMax TV (hd)
+https://tvpass.org/live/NewsmaxTV/hd
+
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7817 NBA (opt1) 
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7817.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7817 NBA (opt2)
@@ -4550,116 +4828,116 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1,PPV  UFC 1
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1
 http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
-#EXTINF:-1,PPV  UFC 2
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2
 http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u
-#EXTINF:-1,PPV  WWE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE
 http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u
 
-#EXTINF:-1,PPV EVENT 01
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01
 http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
-#EXTINF:-1,PPV EVENT 02
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02
 http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
-#EXTINF:-1,PPV EVENT 03
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03
 http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
-#EXTINF:-1,PPV EVENT 04
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04
 http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
-#EXTINF:-1,PPV EVENT 05
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05
 http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
-#EXTINF:-1,PPV EVENT 06
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06
 http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
-#EXTINF:-1,PPV EVENT 07
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 07
 http://mains.services/live/4523074511/3178768/3af29b10-4492-4fb3-83b7-4f0487601359.m3u
-#EXTINF:-1,PPV EVENT 08
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 08
 http://mains.services/live/4523074511/3178768/9bde720e-a99d-4919-843d-1f392df901c5.m3u
-#EXTINF:-1,PPV EVENT 09
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 09
 http://mains.services/live/4523074511/3178768/9a948a8d-dd62-440f-9a09-9ec8be2c1e5a.m3u
-#EXTINF:-1,PPV EVENT 10
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 10
 http://mains.services/live/4523074511/3178768/72ff8ef9-8531-4ffe-a950-48b1e2a68eb1.m3u
-#EXTINF:-1,PPV EVENT 11
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 11
 http://mains.services/live/4523074511/3178768/7cb8cbc0-a78f-4ebf-b8ac-484ad7e716bb.m3u
-#EXTINF:-1,PPV EVENT 12
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 12
 http://mains.services/live/4523074511/3178768/d2aa89f9-a926-4747-a45c-51d99f807f3c.m3u
-#EXTINF:-1,PPV EVENT 13
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 13
 http://mains.services/live/4523074511/3178768/0bc68b82-64be-4249-8b5b-a743f8c42b73.m3u
-#EXTINF:-1,PPV EVENT 14
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 14
 http://mains.services/live/4523074511/3178768/0780d729-3e19-4437-a877-5fd0855fce07.m3u
-#EXTINF:-1,PPV EVENT 15
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 15
 http://mains.services/live/4523074511/3178768/cdda7b67-f5b9-4876-8f65-e58eb16f9461.m3u
-#EXTINF:-1,PPV EVENT 16
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 16
 http://mains.services/live/4523074511/3178768/a9fdb0b8-01f4-41c7-8065-381bac9af2c1.m3u
-#EXTINF:-1,PPV EVENT 17
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 17
 http://mains.services/live/4523074511/3178768/5b4928f8-b47c-4390-a3c3-f6862eebda6f.m3u
-#EXTINF:-1,PPV EVENT 18
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 18
 http://mains.services/live/4523074511/3178768/0dcfed72-f490-411f-b436-b18413350934.m3u
-#EXTINF:-1,PPV EVENT 19
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 19
 http://mains.services/live/4523074511/3178768/486da822-98c4-482d-8030-c85746589fab.m3u
-#EXTINF:-1,PPV EVENT 20
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 20
 http://mains.services/live/4523074511/3178768/76313c99-4a1a-43db-9b3d-01c5a39ec46e.m3u
-#EXTINF:-1,PPV EVENT 21
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 21
 http://mains.services/live/4523074511/3178768/6be8a1a6-f7d6-4a85-b249-1c222205ab0a.m3u
-#EXTINF:-1,PPV EVENT 22
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 22
 http://mains.services/live/4523074511/3178768/1a311397-9346-41da-a308-b54bcb3a9997.m3u
-#EXTINF:-1,PPV EVENT 23
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 23
 http://mains.services/live/4523074511/3178768/fbfca19c-c358-4405-a359-d90a8b617dc4.m3u
-#EXTINF:-1,PPV EVENT 24
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 24
 http://mains.services/live/4523074511/3178768/bc01cc47-ec2e-4219-95b5-89a74c307824.m3u
-#EXTINF:-1,PPV EVENT 25
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 25
 http://mains.services/live/4523074511/3178768/a674cf09-ba90-4f7c-92c2-e51713622bc3.m3u
-#EXTINF:-1,PPV EVENT 26
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 26
 http://mains.services/live/4523074511/3178768/0dc47944-099b-4f07-929f-83b05aaf1ab2.m3u
-#EXTINF:-1,PPV EVENT 27
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 27
 http://mains.services/live/4523074511/3178768/9c9ef4a5-2a41-44e6-96de-3968245754bd.m3u
-#EXTINF:-1,PPV EVENT 28
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 28
 http://mains.services/live/4523074511/3178768/0797bd5b-b97c-46a9-926c-1bd84db68386.m3u
-#EXTINF:-1,PPV EVENT 29
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 29
 http://mains.services/live/4523074511/3178768/b4e0b52d-176e-48d5-a68c-3a64f668c5d2.m3u
-#EXTINF:-1,PPV EVENT 30
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 30
 http://mains.services/live/4523074511/3178768/d4b66296-a7b8-4397-b93a-b8e1e4171f02.m3u
-#EXTINF:-1,PPV EVENT 31
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 31
 http://mains.services/live/4523074511/3178768/46feeff2-74cf-4f87-8478-67d990e95464.m3u
-#EXTINF:-1,PPV EVENT 32
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 32
 http://mains.services/live/4523074511/3178768/3fc1a73e-fb8a-48c0-a0fa-a4fb4223dc0d.m3u
-#EXTINF:-1,PPV EVENT 33
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 33
 http://mains.services/live/4523074511/3178768/bedb1527-bb61-45fc-81a7-374e1979783b.m3u
-#EXTINF:-1,PPV EVENT 34
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 34
 http://mains.services/live/4523074511/3178768/4d555169-36f4-4739-b6b5-0815f78bfa20.m3u
-#EXTINF:-1,PPV EVENT 35
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 35
 http://mains.services/live/4523074511/3178768/8625489c-2f71-4147-b361-6600cde90bfb.m3u
-#EXTINF:-1,PPV EVENT 36
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 36
 http://mains.services/live/4523074511/3178768/2950c356-f8e9-4fa8-b21e-14c4c8189779.m3u
-#EXTINF:-1,PPV EVENT 37
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 37
 http://mains.services/live/4523074511/3178768/c1bff286-8408-4af8-b17f-035fd2ade21f.m3u
-#EXTINF:-1,PPV EVENT 38
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 38
 http://mains.services/live/4523074511/3178768/54d399ed-8108-498b-8df7-7ad734c14f47.m3u
-#EXTINF:-1,PPV EVENT 39
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 39
 http://mains.services/live/4523074511/3178768/0c75df1d-1163-4d98-8cdb-e2a8dd5a23f7.m3u
-#EXTINF:-1,PPV EVENT 40
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 40
 http://mains.services/live/4523074511/3178768/1791335c-3096-4878-a83d-b37c14af484b.m3u
-#EXTINF:-1,PPV EVENT 97 - FITE 24/7
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 97 - FITE 24/7
 http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
-#EXTINF:-1,PPV EVENT 98 - UFC FIGHT PASS 24/7
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
 http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
 
-#EXTINF:-1,4K : BIG TEN NETWORK 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : BIG TEN NETWORK 
 http://mains.services/live/4523074511/3178768/cb5bcf86-e51f-4f3e-938d-5676cac9639d.m3u
-#EXTINF:-1,4K : TNT SPORTS ULTIMATE 4K 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : TNT SPORTS ULTIMATE 4K 
 http://mains.services/live/4523074511/3178768/2b00a63f-429a-47e0-b505-3307f100ef9c.m3u
-#EXTINF:-1,4K : FOX 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : FOX 
 http://mains.services/live/4523074511/3178768/2eb22c93-0ef8-44e5-aad7-ea6d75cd8113.m3u
-#EXTINF:-1,4K : ESPN x
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : ESPN x
 http://mains.services/live/4523074511/3178768/e35369c8-4937-49e9-a6d2-e39ae201464c.m3u
-#EXTINF:-1,4K : NOW SPORTS 4K x
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : NOW SPORTS 4K x
 http://mains.services/live/4523074511/3178768/fedfe5b8-aaa8-461c-af40-20e49107fb2d.m3u
-#EXTINF:-1,4K : SKY SPORTS 01 x
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : SKY SPORTS 01 x
 http://mains.services/live/4523074511/3178768/b35ff510-ba9a-4d60-a22c-2b3c90a6983c.m3u
-#EXTINF:-1,4K : SKY SPORTS 02 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : SKY SPORTS 02 
 http://mains.services/live/4523074511/3178768/5cea7c45-ead3-41b7-9b09-3975a9d4d2ca.m3u
-#EXTINF:-1,4K : SKY SPORTS F1 x
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : SKY SPORTS F1 x
 http://mains.services/live/4523074511/3178768/438edd20-aeb5-4e52-a443-207440415a25.m3u
-#EXTINF:-1,4K : SKY SPORTS MAIN EVENT x
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ 4K : SKY SPORTS MAIN EVENT x
 http://mains.services/live/4523074511/3178768/41dcd37a-05ce-4f7a-b9fd-240ad9a175dc.m3u
 
 
@@ -4698,20 +4976,81 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SEC Network (sd)
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SEC Network (hd)
+https://tvpass.org/live/SECN/hd
 
-#EXTINF:-1,US : SPECTRUM SPORTSNET
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SNY Sportsnet New York Comcast (sd)
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SNY Sportsnet New York Comcast (hd)
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Space City Home Network (sd)
+https://tvpass.org/live/space-city-home-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Space City Home Network (hd)
+https://tvpass.org/live/space-city-home-network/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Spectrum SportsNet LA (sd)
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Spectrum SportsNet LA (hd)
+https://tvpass.org/live/spectrum-sportsnet-la/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Spectrum SportsNet Lakers (sd)
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Spectrum SportsNet Lakers (hd)
+https://tvpass.org/live/spectrum-sportsnet/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet East (sd)
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet East (hd)
+https://tvpass.org/live/sportsnet-east/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet 360 (sd)
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet 360 (hd)
+https://tvpass.org/live/sportsnet-360/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet One (sd)
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet One (hd)
+https://tvpass.org/live/sportsnet-one/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet Ontario (sd)
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet Ontario (hd)
+https://tvpass.org/live/sportsnet-ontario/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet Pacific (sd)
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet Pacific (hd)
+https://tvpass.org/live/sportsnet-pacific/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet Pittsburgh (sd)
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet Pittsburgh (hd)
+https://tvpass.org/live/sportsnet-pittsburgh/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet West (sd)
+https://tvpass.org/live/sportsnet-west/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Sportsnet West (hd)
+https://tvpass.org/live/sportsnet-west/hd
+
+
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : SPECTRUM SPORTSNET
 http://mains.services/live/4523074511/3178768/035c7af8-be3f-41de-858d-bd4db6ae80cb.m3u
-#EXTINF:-1,US : SPECTRUM SPORTSNET LA
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : SPECTRUM SPORTSNET LA
 http://mains.services/live/4523074511/3178768/11b71244-1158-4062-b007-c77748704cdd.m3u
-#EXTINF:-1,US : SPORTS GRID FHD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : SPORTS GRID FHD
 http://mains.services/live/4523074511/3178768/c49ab113-203e-42bd-ab24-d2fd05967efa.m3u
-#EXTINF:-1,US : SPORTSMAN CHANNEL
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : SPORTSMAN CHANNEL
 http://mains.services/live/4523074511/3178768/0c112fb2-8933-4be8-9537-ebcd2ede6856.m3u
-#EXTINF:-1,US : SPORTSMAN CHANNEL FHD 1080
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : SPORTSMAN CHANNEL FHD 1080
 http://mains.services/live/4523074511/3178768/16c12030-a40b-47f7-85e5-880b141cf591.m3u
-#EXTINF:-1,US : SPORTSNET PITTSBURGH
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : SPORTSNET PITTSBURGH
 http://mains.services/live/4523074511/3178768/049e661c-3eef-4dce-96de-f69159602e44.m3u
-#EXTINF:-1,US : STADIUM
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : STADIUM
 http://mains.services/live/4523074511/3178768/e466dc7a-b87e-4afb-a16d-5db851bd371d.m3u
 
 
@@ -4822,6 +5161,63 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Telemundo Eastern (sd)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Telemundo Eastern (hd)
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 1 (sd)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 1 (hd)
+https://tvpass.org/live/tsn1/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 2 (sd)
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 2 (hd)
+https://tvpass.org/live/tsn2/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 3 (sd)
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 3 (hd)
+https://tvpass.org/live/tsn3/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 4 (sd)
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 4 (hd)
+https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 5 (sd)
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TSN 5 (hd)
+https://tvpass.org/live/tsn5/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TNT Eastern (sd)
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TNT Eastern (hd)
+https://tvpass.org/live/TNTEast/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ truTV Eastern (sd)
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ truTV Eastern (hd)
+https://tvpass.org/live/truTVEast/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TBS East (sd)
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ TBS East (hd)
+https://tvpass.org/live/TBSEast/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Travel East (sd) x
+https://tvpass.org/live/travel-us-east/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Travel East (hd)
+https://tvpass.org/live/travel-us-east/hd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ The Tennis Channel (sd) 
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ The Tennis Channel (hd)
+https://tvpass.org/live/TennisChannel/hd
+
+
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7820 TENNIS (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7820.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7820 TENNIS (opt2)
@@ -4891,19 +5287,19 @@ https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/telec
 
 
 
-#EXTINF:-1,CA : TSN 3 blackout
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ CA : TSN 3 blackout
 http://mains.services/live/4523074511/3178768/d5a0dcf4-fc1a-4355-9d0a-ade8c30bd777.m3u
 
 
-#EXTINF:-1,US : TENNIS CHANNEL FHD 1080
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : TENNIS CHANNEL FHD 1080
 http://mains.services/live/4523074511/3178768/bbfda0c0-0281-4814-9a57-dbf7bfe801c8.m3u
-#EXTINF:-1,US : THE COWBOY CHANNEL
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : THE COWBOY CHANNEL
 http://mains.services/live/4523074511/3178768/fe0bfad9-c611-439c-9a0e-66dfbe6f1da9.m3u
-#EXTINF:-1,US : THE FIGHT NETWORK
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : THE FIGHT NETWORK
 http://mains.services/live/4523074511/3178768/81eb5d51-fb15-42d2-a617-7aac78ebec1e.m3u
-#EXTINF:-1,US : TNT FHD 1080
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : TNT FHD 1080
 http://mains.services/live/4523074511/3178768/830ff393-8c58-4a08-aa79-93a830c2c583.m3u
-#EXTINF:-1,US : TUDN FHD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : TUDN FHD
 http://mains.services/live/4523074511/3178768/eb7aee58-9940-4aed-ba90-d53fd0352cc7.m3u
 
 
@@ -5140,7 +5536,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 #EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ TUDN VIX NOW TUDN-DT1 [Geo-blocked]
@@ -5243,6 +5638,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ USA Network East (sd) x
+https://tvpass.org/live/usa-network-east-feed/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ USA Network East (hd)
+https://tvpass.org/live/usa-network-east-feed/hd
+
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Univision Eastern (sd)
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Univision Eastern (hd)
+https://tvpass.org/live/UnivisionEast/hd
 
 #EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Canal VIX NOW VIX-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
@@ -5295,13 +5699,6 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 
 
-
-
-
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
-https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
-https://tvpass.org/live/UnivisionEast/hd
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ UNIVERSO Universal Kids East (sd)
 https://tvpass.org/live/UniversalKidsEast/sd
@@ -5512,141 +5909,141 @@ http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706397
 
 
 
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 01
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 01
 http://mains.services/live/4523074511/3178768/0fb2d6fa-5d2c-4d08-9ecd-790c01739c35.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 02
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 02
 http://mains.services/live/4523074511/3178768/bff66b44-14af-4a48-b695-406fa4cda90d.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 03
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 03
 http://mains.services/live/4523074511/3178768/ae0f5d22-ae56-4228-bff1-82b6e288527e.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 04
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 04
 http://mains.services/live/4523074511/3178768/b0d20244-273c-41c9-805d-9aabcd2bc32a.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 05
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 05
 http://mains.services/live/4523074511/3178768/65c6d3d6-362d-4fe3-a3b5-02658b140198.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 06
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 06
 http://mains.services/live/4523074511/3178768/a800bd74-9e52-44a2-a5aa-4c30a877475d.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 07
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 07
 http://mains.services/live/4523074511/3178768/f932b652-c1d2-406c-89d4-957abd149844.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 08
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 08
 http://mains.services/live/4523074511/3178768/38abcebc-02ac-4bc5-a5c4-cd48a5bcabae.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 09
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 09
 http://mains.services/live/4523074511/3178768/0b580862-31e4-405e-860d-0791ae912996.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 10
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 10
 http://mains.services/live/4523074511/3178768/097213d5-be27-495d-9383-408d6b902318.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 11
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 11
 http://mains.services/live/4523074511/3178768/03284fe7-516b-4577-9ddd-5ae6beaa310c.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 12
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 12
 http://mains.services/live/4523074511/3178768/1fe36cb8-433f-4b37-bdd6-d5a76f4420da.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 13
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 13
 http://mains.services/live/4523074511/3178768/871ecf28-54e3-41a3-8d19-27babaeb28f8.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 14
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 14
 http://mains.services/live/4523074511/3178768/9d9dbe19-f4b4-4c25-b24a-69da507ea0b3.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 15
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 15
 http://mains.services/live/4523074511/3178768/f51c5df5-23f9-4a56-a236-0e1e74fa458d.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 16
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 16
 http://mains.services/live/4523074511/3178768/f1697ac1-3a15-464e-bc7d-870f038fbbbd.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 17
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 17
 http://mains.services/live/4523074511/3178768/fc02b25b-39ab-4ed2-b8ce-7a82c06951b8.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 18
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 18
 http://mains.services/live/4523074511/3178768/adf6d54a-d6c2-47a7-bfbd-c2fb1d948107.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 19
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 19
 http://mains.services/live/4523074511/3178768/ed289749-205f-407e-bf17-845b32bbb7d6.m3u
-#EXTINF:-1,UEFA : CHAMPIONS LEAGUE GAME 20
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA : CHAMPIONS LEAGUE GAME 20
 http://mains.services/live/4523074511/3178768/98346197-b610-4fe0-aa66-88041334feae.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 01
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 01
 http://mains.services/live/4523074511/3178768/07221bb3-cb5d-4c62-9118-712d0ae43197.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 02
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 02
 http://mains.services/live/4523074511/3178768/95e1c90f-e0bd-43c4-ac4b-ae3b700c99a4.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 03
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 03
 http://mains.services/live/4523074511/3178768/c1ad0d14-4893-4953-a489-75ab7d7e20da.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 04
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 04
 http://mains.services/live/4523074511/3178768/05cb5447-a4d1-42e5-82a5-59b58eb08ed9.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 05
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 05
 http://mains.services/live/4523074511/3178768/323487b8-7d30-449a-a7d9-40914387bf23.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 06
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 06
 http://mains.services/live/4523074511/3178768/ce41b8c9-fc97-404f-84d7-0422171646fb.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 07
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 07
 http://mains.services/live/4523074511/3178768/5749b5a4-341a-4934-ae44-ec033c7b0854.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 08
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 08
 http://mains.services/live/4523074511/3178768/8771fa3d-2eb5-4fd4-a849-ff47d95961eb.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 09
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 09
 http://mains.services/live/4523074511/3178768/26b2377a-bb3e-482f-9487-0567fe088d55.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 10
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 10
 http://mains.services/live/4523074511/3178768/afd938ac-77f3-485a-a11e-982240d72045.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 11
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 11
 http://mains.services/live/4523074511/3178768/6cf20464-300e-4200-a0bb-9cb44d24b23c.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 12
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 12
 http://mains.services/live/4523074511/3178768/7d524cc6-1cc9-4805-81cf-057c9c034963.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 13
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 13
 http://mains.services/live/4523074511/3178768/582172d4-3343-4764-9973-fd8ba4d8e8b0.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 14
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 14
 http://mains.services/live/4523074511/3178768/b9c209cd-c0ae-4332-a9e5-85c8048de54f.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 15
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 15
 http://mains.services/live/4523074511/3178768/59553456-bda2-498f-9c76-2b800fea874c.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 16
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 16
 http://mains.services/live/4523074511/3178768/8ffd8a51-719a-4de6-b385-29cd11ef40b3.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 17
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 17
 http://mains.services/live/4523074511/3178768/893c18fb-cbb1-4243-8e19-18496dd6a3e2.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 18
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 18
 http://mains.services/live/4523074511/3178768/de551a4a-dcf6-48c8-96cd-ecf62cb5d7cc.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 19
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 19
 http://mains.services/live/4523074511/3178768/d0ebdede-cc90-4a97-8251-085d9d06d76f.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 20
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 20
 http://mains.services/live/4523074511/3178768/0385a689-11b1-42b8-a110-a9fcf8056796.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 21
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 21
 http://mains.services/live/4523074511/3178768/f06710e7-d5dd-4003-a78e-84ff41aca764.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 22
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 22
 http://mains.services/live/4523074511/3178768/12e5908c-b85d-4646-abb0-9b2b68f1d89d.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 23
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 23
 http://mains.services/live/4523074511/3178768/6d130efc-08e6-4b24-82ff-8f37000730cc.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 24
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 24
 http://mains.services/live/4523074511/3178768/93e01c67-cc41-45c4-9ea1-6975b39a68b3.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 25
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 25
 http://mains.services/live/4523074511/3178768/8c4c364f-8dbd-4dd4-87fc-1706c6838287.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 26
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 26
 http://mains.services/live/4523074511/3178768/e5b8a4d2-7d0a-4a98-a4f8-5a9b282b4df1.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 27
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ ,UEFA EUROPA CONF LEAGUE GAME 27
 http://mains.services/live/4523074511/3178768/a32498df-ac75-4d07-9533-9f4c549ee9ec.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 28
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 28
 http://mains.services/live/4523074511/3178768/eb76b58c-9132-4b81-9b41-a811adab3a9e.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 29
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 29
 http://mains.services/live/4523074511/3178768/a425911c-9ae8-48d3-bafe-31107dbdccb5.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 30
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 30
 http://mains.services/live/4523074511/3178768/b01630dc-5463-4948-ba55-aeeda9fe8668.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 31
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 31
 http://mains.services/live/4523074511/3178768/595626b1-9298-4c97-8143-73f446be18f4.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 32
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 32
 http://mains.services/live/4523074511/3178768/04749e83-d14b-4d2d-919c-d53e8a15e2a4.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 33
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 33
 http://mains.services/live/4523074511/3178768/96346caa-0fc8-4825-b1e2-affa7a65a839.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 34
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 34
 http://mains.services/live/4523074511/3178768/c589d10b-08a5-4c06-ab4f-49ddc9c287a4.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 35
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 35
 http://mains.services/live/4523074511/3178768/c4ce48a4-fae3-4631-a045-c5a161d02907.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 36
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 36
 http://mains.services/live/4523074511/3178768/958f1ca8-c1a8-4a8e-81d6-21cd0df640c5.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 37
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 37
 http://mains.services/live/4523074511/3178768/95561280-17e6-43f6-b4e8-54e44f103d83.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 38
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 38
 http://mains.services/live/4523074511/3178768/7089261f-6cd2-4243-bc88-f05c7caae470.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 39
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 39
 http://mains.services/live/4523074511/3178768/704635ab-1737-44e7-bdbe-1795a28def09.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 40
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 40
 http://mains.services/live/4523074511/3178768/8ec08ac3-3eef-4b8b-b3c5-fd6d966e1b21.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 41
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 41
 http://mains.services/live/4523074511/3178768/c0955208-2ee2-49b6-b6d1-1c7397c049be.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 42
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 42
 http://mains.services/live/4523074511/3178768/533c4b68-6e0c-4a5a-9fad-3190ae809b37.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 43
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 43
 http://mains.services/live/4523074511/3178768/da86f2eb-6e77-40e5-af4e-7a289485b564.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 44
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 44
 http://mains.services/live/4523074511/3178768/841df06c-3c3a-48ae-ad58-181b68d262ba.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 45
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 45
 http://mains.services/live/4523074511/3178768/279ec536-a16e-4484-ab82-7b6951666b5b.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 46
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 46
 http://mains.services/live/4523074511/3178768/60c1b147-0faf-4f38-ba13-a4806a985544.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 47
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 47
 http://mains.services/live/4523074511/3178768/fd907d75-5ecf-4c85-8964-dee5a3869588.m3u
-#EXTINF:-1,UEFA EUROPA CONF LEAGUE GAME 48
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ UEFA EUROPA CONF LEAGUE GAME 48
 http://mains.services/live/4523074511/3178768/c5e2536e-533e-4674-9d0e-437eb3861e2b.m3u
 
 #EXTINF:-1,UEFA EUROPA LEAGUE GAME 01
@@ -5832,13 +6229,13 @@ https://streamer1.nexgen.bz/SYFY/index.m3u8
 https://streamer1.nexgen.bz/USA/index.m3u8
 
 
-#EXTINF:-1,US : UFC FIGHT PASS
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : UFC FIGHT PASS
 http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u
-#EXTINF:-1,US : UNIVERSO WEST HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : UNIVERSO WEST HD
 http://mains.services/live/4523074511/3178768/4bdf9403-5e5f-4cc2-8a72-e8812d5fbf75.m3u
-#EXTINF:-1,US : USA NETWORK FHD 1080
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : USA NETWORK FHD 1080
 http://mains.services/live/4523074511/3178768/ef56e78a-1209-4dc4-b752-5b800378ef0b.m3u
-#EXTINF:-1,US : USA NETWORK WEST HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : USA NETWORK WEST HD
 http://mains.services/live/4523074511/3178768/abff12b9-fa23-4357-bbaa-4b5c2eef5e9e.m3u
 
 
@@ -6127,9 +6524,9 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-#EXTINF:-1,US : WORLD FISHING NETWORK FHD 1080
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : WORLD FISHING NETWORK FHD 1080
 http://mains.services/live/4523074511/3178768/09815790-b620-4504-8fca-dadcefd64c0c.m3u
-#EXTINF:-1,US : WWE NETWORK
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : WWE NETWORK
 http://mains.services/live/4523074511/3178768/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
 
 
@@ -6251,7 +6648,10 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Yes Network (sd)
+https://tvpass.org/live/yes-network/sd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Yes Network (hd)
+https://tvpass.org/live/yes-network/hd
 
 #EXTINF:-1,US : YES NETWORK
 http://mains.services/live/4523074511/3178768/3c7114a3-ee54-4bad-906e-1c31b590838b.m3u
@@ -6333,7 +6733,7 @@ http://mains.vip:2086/3003556325/2772007/102319
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 04 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -6408,7 +6808,7 @@ http://41.205.93.154/TLC/index.m3u8
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 04 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  41.205. 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -6626,7 +7026,7 @@ http://41.205.93.154/TRUTV/playlist.m3u8
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 01 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -6671,7 +7071,7 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mega.es.m3
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 02 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 02 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 04 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -6966,7 +7366,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1828
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 03 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 03 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 05 🇺🇸  🌐🌎⭐ SPORTS📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  disfruta 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
