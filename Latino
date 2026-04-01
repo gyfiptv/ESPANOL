@@ -1030,6 +1030,28 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1,ADRENALINA SPORTS NETWORK *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1848.ts
+#EXTINF:-1,AYM SPORTS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2345.ts
+
+#EXTINF:-1,SP | ACC NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67376.ts
+
+#EXTINF:-1,SP | ASTRO SUPERSPORT 1 | Premier League 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98492.ts
+#EXTINF:-1,SP | ASTRO SUPERSPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98493.ts
+#EXTINF:-1,SP | ASTRO SUPERSPORT 3 | Grandstand
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98494.ts
+#EXTINF:-1,SP | ASTRO SUPERSPORT 4 x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98495.ts
+#EXTINF:-1,SP | ASTRO SUPERSPORT 5 x
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98496.ts
+
+#EXTINF:-1,SP | AT&T SPORTSNET
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2064.ts
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ACC Network (sd)
 https://tvpass.org/live/ACCNetwork/sd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ACC Network (hd)
@@ -1281,6 +1303,40 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1,SP | BTN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
+#EXTINF:-1,SP | BARCA TV
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277.ts
+#EXTINF:-1,SP | BEIN LALIGA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2006.ts
+#EXTINF:-1,SP | BEIN LALIGA *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2004.ts
+#EXTINF:-1,SP | BEIN LALIGA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2005.ts
+#EXTINF:-1,SP | BEIN LALIGA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2003.ts
+#EXTINF:-1,SP | BEIN SPORTS *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2057.ts
+#EXTINF:-1,SP | BEIN SPORTS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2058.ts
+#EXTINF:-1,SP | BEIN SPORTS 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30199.ts
+#EXTINF:-1,SP | BEIN SPORTS 11
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40047.ts
+#EXTINF:-1,SP | BEIN SPORTS 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30200.ts
+#EXTINF:-1,SP | BEIN SPORTS 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30201.ts
+#EXTINF:-1,SP | BEIN SPORTS 4
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30202.ts
+#EXTINF:-1,SP | BEIN SPORTS 5
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30203.ts
+#EXTINF:-1,SP | BEIN SPORTS 6
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30204.ts
+#EXTINF:-1,SP | BEIN SPORTS XTRA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30195.ts
+#EXTINF:-1,SP | BEIN SPORTS XTRA Ñ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52688.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ⓕ1742 BeIN SPORTS XTRA N (opt1)
@@ -1416,6 +1472,56 @@ http://mains.vip:2086/3003556325/2772007/101217
 http://mains.services:2086/4523074511/3178768/101217
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ AU : BEIN SPORTS 3
 http://mains.services:2086/640939802963/IDC01478!/101217
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ¹  🇪🇸 BALLY SPORTS 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1,SP | BALLY SPORTS ARIZONA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97704.ts
+#EXTINF:-1,SP | BALLY SPORTS ARIZONA PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97703.ts
+#EXTINF:-1,SP | BALLY SPORTS FLORIDA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97705.ts
+#EXTINF:-1,SP | BALLY SPORTS GREAT LAKES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97706.ts
+#EXTINF:-1,SP | BALLY SPORTS INDIANA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97708.ts
+#EXTINF:-1,SP | BALLY SPORTS INDIANA PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97707.ts
+#EXTINF:-1,SP | BALLY SPORTS KANSAS CITY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97709.ts
+#EXTINF:-1,SP | BALLY SPORTS MIDWEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97710.ts
+#EXTINF:-1,SP | BALLY SPORTS NEW ORLEANS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97711.ts
+#EXTINF:-1,SP | BALLY SPORTS NORTH
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97712.ts
+#EXTINF:-1,SP | BALLY SPORTS OKLAHOMA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97713.ts
+#EXTINF:-1,SP | BALLY SPORTS SAN DIEGO PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97714.ts
+#EXTINF:-1,SP | BALLY SPORTS SOCAL PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97715.ts
+#EXTINF:-1,SP | BALLY SPORTS SOUTH
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97718.ts
+#EXTINF:-1,SP | BALLY SPORTS SOUTHWEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97717.ts
+#EXTINF:-1,SP | BALLY SPORTS SOUTHWEST PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97716.ts
+#EXTINF:-1,SP | BALLY SPORTS SUN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97719.ts
+#EXTINF:-1,SP | BALLY SPORTS WEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97721.ts
+#EXTINF:-1,SP | BALLY SPORTS West PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97720.ts
+#EXTINF:-1,SP | BALLY SPORTS WISCONSIN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97723.ts
+#EXTINF:-1,SP | BALLY SPORTS WISCONSIN PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97722.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ¹  🇪🇸 BUNDESLIGA 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
@@ -1556,6 +1662,15 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+
+#EXTINF:-1,SP | CAZA Y PESCA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2002.ts
+#EXTINF:-1,SP | CBS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2030.ts
+#EXTINF:-1,SP | CBS SPORTS NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2059.ts
+
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ C-SPAN (sd)
 https://tvpass.org/live/CSPAN/sd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ C-SPAN (hd)
@@ -1639,9 +1754,6 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 DIRECTV 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 
@@ -1681,6 +1793,22 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1,SP | DAZN 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2370.ts
+#EXTINF:-1,SP | DAZN 1 DE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2360.ts
+#EXTINF:-1,SP | DAZN 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2368.ts
+#EXTINF:-1,SP | DAZN 2 DE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2361.ts
+#EXTINF:-1,SP | DAZN 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2369.ts
+#EXTINF:-1,SP | DAZN F1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52686.ts
+#EXTINF:-1,SP | DAZN F1 *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52687.ts
+
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7806 DAZNᵁᴴᴰ | LALIGA "TV (opt1)
@@ -2047,6 +2175,29 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1,SP | ELEVEN SPORTS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2048.ts
+#EXTINF:-1,SP | ELEVEN SPORTS NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2376.ts
+
+#EXTINF:-1,SP | EUROSPORT *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2001.ts
+#EXTINF:-1,SP | EUROSPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2362.ts
+#EXTINF:-1,SP | EUROSPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2363.ts
+#EXTINF:-1,SP | EUROSPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2365.ts
+#EXTINF:-1,SP | EUROSPORT 1 HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2366.ts
+#EXTINF:-1,SP | EUROSPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2364.ts
+#EXTINF:-1,SP | EUROSPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2367.ts
+#EXTINF:-1,SP | F WORLD FISHING NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2033.ts
+#EXTINF:-1,SP | FIGHT NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2035.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ ⛹️*EUROSPORT 1 ES (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7828.m3u8
@@ -2106,6 +2257,23 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2378.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2379.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN DEPORTES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2380.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN DEPORTES op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23240.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN DEPORTES op3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41362.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN NEWS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30194.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22449.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN U
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2377.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ESPN Deportes (sd)
@@ -2224,6 +2392,23 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX DEPORTES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2068.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2050.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS CAROLINAS | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2022.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS TNNESS | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22102.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS WEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22115.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2061.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2060.ts
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FS1 | FOX Sports 1 (sd)
 https://tvpass.org/live/FoxSports1/sd
@@ -2808,6 +2993,12 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LALIGA TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1999.ts
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LIGA CAMPEONES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2000.ts
+
+
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7806 PPV | DAZNᵁᴴᴰ | LALIGA "TV (opt1)
@@ -2950,6 +3141,51 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,SP | MAVTV
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2036.ts
+#EXTINF:-1,SP | MLB NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25083.ts
+#EXTINF:-1,SP | MOTO GP
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1996.ts
+#EXTINF:-1,SP | MOVISTAR DEPORTE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1998.ts
+#EXTINF:-1,SP | MOVISTAR DEPORTE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1994.ts
+#EXTINF:-1,SP | MOVISTAR DEPORTE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1993.ts
+#EXTINF:-1,SP | MOVISTAR F1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1992.ts
+#EXTINF:-1,SP | MOVISTAR F1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1991.ts
+#EXTINF:-1,SP | MOVISTAR GOLF
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1997.ts
+#EXTINF:-1,SP | MOVISTAR GOLF *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1988.ts
+#EXTINF:-1,SP | MOVISTAR LALIGA *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29080.ts
+#EXTINF:-1,SP | MOVISTAR LALIGA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29079.ts
+#EXTINF:-1,SP | MOVISTAR LALIGA *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29081.ts
+#EXTINF:-1,SP | MOVISTAR LALIGA 1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29082.ts
+#EXTINF:-1,SP | MOVISTAR TOROS TV
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1995.ts
+
+#EXTINF:-1,SP | MSG
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22142.ts
+#EXTINF:-1,SP | MSG PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22143.ts
+#EXTINF:-1,SP | MSG PLUS 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22144.ts
+#EXTINF:-1,SP | MSG PLUS 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22145.ts
+#EXTINF:-1,SP | MSNBC
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2032.ts
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Marquee Sports Network (sd)
 https://tvpass.org/live/marquee-sports-network/sd
@@ -3126,6 +3362,40 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,SP | NBC
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2031.ts
+#EXTINF:-1,SP | NBC GOLF
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30197.ts
+#EXTINF:-1,SP | NBC Sports
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60699.ts
+#EXTINF:-1,SP | NBC SPORTS BAY AREA PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22123.ts
+#EXTINF:-1,SP | NBC Sports Boston
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60701.ts
+#EXTINF:-1,SP | NBC SPORTS CALIFORNIA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22120.ts
+#EXTINF:-1,SP | NBC Sports California
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60702.ts
+#EXTINF:-1,SP | NBC Sports Chicago
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60703.ts
+#EXTINF:-1,SP | NBC Sports Philadelphia
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60704.ts
+#EXTINF:-1,SP | NBC Sports Philadelphia Plus
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60705.ts
+#EXTINF:-1,SP | NBC Sports Washington
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60706.ts
+#EXTINF:-1,SP | NBCSN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2026.ts
+#EXTINF:-1,SP | NCB NEW YORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2027.ts
+#EXTINF:-1,SP | NESN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2029.ts
+#EXTINF:-1,SP | NESN PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2028.ts
+#EXTINF:-1,SP | NHL
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/25087.ts
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ NBA TV (sd)
 https://tvpass.org/live/NBATV/sd
@@ -3425,6 +3695,85 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1,SP | SKY MOTO GP *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5435.ts
+#EXTINF:-1,SP | SKY SPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30429.ts
+#EXTINF:-1,SP | SKY SPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2384.ts
+#EXTINF:-1,SP | SKY SPORT Bundesliga 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2383.ts
+#EXTINF:-1,SP | SKY SPORT NEWS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2382.ts
+#EXTINF:-1,SP | SKY SPORTS 1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5444.ts
+#EXTINF:-1,SP | SKY SPORTS 1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5443.ts
+#EXTINF:-1,SP | SKY SPORTS 2 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5445.ts
+#EXTINF:-1,SP | SKY SPORTS 4 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5446.ts
+#EXTINF:-1,SP | SKY SPORTS ACTION
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5439.ts
+#EXTINF:-1,SP | SKY SPORTS F1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5448.ts
+#EXTINF:-1,SP | SKY SPORTS F1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5433.ts
+#EXTINF:-1,SP | SKY SPORTS F1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5442.ts
+#EXTINF:-1,SP | SKY SPORTS GOLF
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5438.ts
+#EXTINF:-1,SP | SKY SPORTS MAIN EVENT
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5441.ts
+#EXTINF:-1,SP | SKY SPORTS PREMIER LEAGUE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5437.ts
+#EXTINF:-1,SP | SNY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60708.ts
+#EXTINF:-1,SP | SPECTRUM SPORTSNET
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30198.ts
+#EXTINF:-1,SP | SPORT TV1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2371.ts
+#EXTINF:-1,SP | SPORT TV2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2372.ts
+#EXTINF:-1,SP | SPORT TV3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2373.ts
+#EXTINF:-1,SP | SPORT TV4
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2374.ts
+#EXTINF:-1,SP | SPORT TV5
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2375.ts
+#EXTINF:-1,SP | SPORTSGRID
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67369.ts
+#EXTINF:-1,SP | SPORTSMAN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29794.ts
+#EXTINF:-1,SP | SPORTSNET NY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22127.ts
+#EXTINF:-1,SP | SSC SPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91705.ts
+#EXTINF:-1,SP | SSC SPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91704.ts
+#EXTINF:-1,SP | SSC SPORT 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91703.ts
+#EXTINF:-1,SP | SSC SPORT 4
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91702.ts
+#EXTINF:-1,SP | SSC SPORT 5
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91701.ts
+#EXTINF:-1,SP | SSC SPORT 6
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91700.ts
+#EXTINF:-1,SP | SSC SPORT 7
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91699.ts
+#EXTINF:-1,SP | STADIUM
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67370.ts
+#EXTINF:-1,SP | STADIUM OVERFLOW 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67371.ts
+#EXTINF:-1,SP | STADIUM OVERFLOW 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67372.ts
+#EXTINF:-1,SP | STADIUM OVERFLOW 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67373.ts
+#EXTINF:-1,SP | SUPER TENNIS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22280.ts
+
+
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SEC Network (sd)
 https://tvpass.org/live/SECN/sd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SEC Network (hd)
@@ -3588,6 +3937,82 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/5446.ts
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/5446
 
 
+#EXTINF:-1,SP | SKY MOTO GP *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5435.ts
+#EXTINF:-1,SP | SKY SPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30429.ts
+#EXTINF:-1,SP | SKY SPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2384.ts
+#EXTINF:-1,SP | SKY SPORT Bundesliga 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2383.ts
+#EXTINF:-1,SP | SKY SPORT NEWS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2382.ts
+#EXTINF:-1,SP | SKY SPORTS 1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5444.ts
+#EXTINF:-1,SP | SKY SPORTS 1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5443.ts
+#EXTINF:-1,SP | SKY SPORTS 2 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5445.ts
+#EXTINF:-1,SP | SKY SPORTS 4 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5446.ts
+#EXTINF:-1,SP | SKY SPORTS ACTION
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5439.ts
+#EXTINF:-1,SP | SKY SPORTS F1 *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5448.ts
+#EXTINF:-1,SP | SKY SPORTS F1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5433.ts
+#EXTINF:-1,SP | SKY SPORTS F1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5442.ts
+#EXTINF:-1,SP | SKY SPORTS GOLF
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5438.ts
+#EXTINF:-1,SP | SKY SPORTS MAIN EVENT
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5441.ts
+#EXTINF:-1,SP | SKY SPORTS PREMIER LEAGUE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5437.ts
+#EXTINF:-1,SP | SNY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/60708.ts
+#EXTINF:-1,SP | SPECTRUM SPORTSNET
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30198.ts
+#EXTINF:-1,SP | SPORT TV1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2371.ts
+#EXTINF:-1,SP | SPORT TV2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2372.ts
+#EXTINF:-1,SP | SPORT TV3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2373.ts
+#EXTINF:-1,SP | SPORT TV4
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2374.ts
+#EXTINF:-1,SP | SPORT TV5
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2375.ts
+#EXTINF:-1,SP | SPORTSGRID
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67369.ts
+#EXTINF:-1,SP | SPORTSMAN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29794.ts
+#EXTINF:-1,SP | SPORTSNET NY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22127.ts
+#EXTINF:-1,SP | SSC SPORT 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91705.ts
+#EXTINF:-1,SP | SSC SPORT 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91704.ts
+#EXTINF:-1,SP | SSC SPORT 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91703.ts
+#EXTINF:-1,SP | SSC SPORT 4
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91702.ts
+#EXTINF:-1,SP | SSC SPORT 5
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91701.ts
+#EXTINF:-1,SP | SSC SPORT 6
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91700.ts
+#EXTINF:-1,SP | SSC SPORT 7
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/91699.ts
+#EXTINF:-1,SP | STADIUM
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67370.ts
+#EXTINF:-1,SP | STADIUM OVERFLOW 1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67371.ts
+#EXTINF:-1,SP | STADIUM OVERFLOW 2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67372.ts
+#EXTINF:-1,SP | STADIUM OVERFLOW 3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67373.ts
+#EXTINF:-1,SP | SUPER TENNIS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22280.ts
 
 
 
@@ -3690,6 +4115,110 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1,TIGO SPORTS 1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820.ts
+#EXTINF:-1,TIGO SPORTS 2 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1,TIGO SPORTS 1 BO *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45890.ts
+#EXTINF:-1,TIGO SPORTS 2 BO *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45891.ts
+#EXTINF:-1,TIGO SPORTS 3 BO *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45892.ts
+#EXTINF:-1,TIGO SPORTS PARAGUAY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819.ts
+#EXTINF:-1,TIGO SPORTS COSTA RICA *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620.ts
+#EXTINF:-1,TIGO SPORTS COSTA RICA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817.ts
+#EXTINF:-1,TIGO SPORTS COSTA RICA *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818.ts
+#EXTINF:-1,TIGO SPORTS COSTA RICA *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619.ts
+#EXTINF:-1,TIGO SPORTS HONDURAS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345.ts
+#EXTINF:-1,TIGO SPORTS GUATEMALA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458.ts
+#EXTINF:-1,TIGO SPORTS EL SALVADOR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459.ts
+
+#EXTINF:-1,TNT SPORTS AR *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53187.ts
+#EXTINF:-1,TNT SPORTS AR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29664.ts
+#EXTINF:-1,TNT SPORTS AR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1815.ts
+#EXTINF:-1,TNT SPORTS AR *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53189.ts
+#EXTINF:-1,TNT SPORTS AR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1816.ts
+#EXTINF:-1,TNT SPORTS AR *FHD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53188.ts
+
+#EXTINF:-1,TUDN MEX
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22258.ts
+#EXTINF:-1,TUDN *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1808.ts
+#EXTINF:-1,TUDN *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1809.ts
+
+#EXTINF:-1,TVC DEPORTES *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1813.ts
+#EXTINF:-1,TVC DEPORTES *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1814.ts
+
+#EXTINF:-1,TyC SPORTS *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17274.ts
+#EXTINF:-1,TyC SPORTS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1811.ts
+#EXTINF:-1,TyC SPORTS *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1812.ts
+#EXTINF:-1,TyC SPORTS INTERNACIONAL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1810.ts
+#EXTINF:-1,TyC SPORTS INTERNACIONAL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1864.ts
+
+#EXTINF:-1,TELEDEPORTE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1824.ts
+#EXTINF:-1,TELETRACK *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1823.ts
+
+#EXTINF:-1,SP | TELEDEPORTE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1986.ts
+#EXTINF:-1,SP | TENNIS CHANNEL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1822.ts
+#EXTINF:-1,SP | TENNIS CHANNEL PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30143.ts
+#EXTINF:-1,SP | TNT
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2046.ts
+#EXTINF:-1,SP | TUDN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2069.ts
+#EXTINF:-1,SP | TVG 2 NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30192.ts
+#EXTINF:-1,SP | TVG NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30191.ts
+#EXTINF:-1,SP | TYC SPORTS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2049.ts
+
+#EXTINF:-1,SP | TELEDEPORTE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1986.ts
+#EXTINF:-1,SP | TENNIS CHANNEL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1822.ts
+#EXTINF:-1,SP | TENNIS CHANNEL PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30143.ts
+#EXTINF:-1,SP | TNT
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2046.ts
+#EXTINF:-1,SP | TUDN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2069.ts
+#EXTINF:-1,SP | TVG 2 NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30192.ts
+#EXTINF:-1,SP | TVG NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30191.ts
+#EXTINF:-1,SP | TYC SPORTS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2049.ts
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Telemundo Eastern (sd)
 https://tvpass.org/live/TelemundoEast/sd
@@ -5043,6 +5572,27 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,US VSiN (F)
 http://1tv41.icu:8080/zqQ0Q2/591076/18941
 
+#EXTINF:-1,VTV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1805.ts
+#EXTINF:-1,VTV *HQ | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17334.ts
+#EXTINF:-1,VTV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1806.ts
+#EXTINF:-1,VTV *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369.ts
+#EXTINF:-1,VTV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1807.ts
+#EXTINF:-1,VTV + *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17333.ts
+#EXTINF:-1,VTV + *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16453.ts
+#EXTINF:-1,VTV + *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16454.ts
+#EXTINF:-1,VTV + *HD | op3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54368.ts
+
+
+
 
 
 
@@ -5052,7 +5602,27 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1,WINSPORTS *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67074.ts
+#EXTINF:-1,WINSPORTS *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1802.ts
+#EXTINF:-1,WINSPORTS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1803.ts
+#EXTINF:-1,WINSPORTS *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1804.ts
+#EXTINF:-1,WINSPORTS PLUS *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30293.ts
+#EXTINF:-1,WINSPORTS PLUS *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21863.ts
+#EXTINF:-1,WINSPORTS PLUS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21862.ts
+#EXTINF:-1,WINSPORTS PLUS *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21861.ts
+#EXTINF:-1,WINSPORTS PLUS *FHD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22149.ts
 
+#EXTINF:-1,WWE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2344.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : WORLD FISHING NETWORK FHD 1080
 http://mains.services/live/4523074511/3178768/09815790-b620-4504-8fca-dadcefd64c0c.m3u
@@ -5338,7 +5908,27 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/45891.ts
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/45892.ts
 
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt4)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7815.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt5)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.ts
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt1)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt2)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt4)
+http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7811.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt5)
+http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.ts
 
 
 
@@ -5379,47 +5969,20 @@ https://tvpass.org/live/UnivisionEast/sd
 https://tvpass.org/live/UnivisionEast/hd
 
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ ESPN Deportes (sd)
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ ESPN Deportes (hd)
-https://tvpass.org/live/espn-deportes/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS1 | FOX Sports 1 (sd)
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS1 | FOX Sports 1 (hd)
-https://tvpass.org/live/FoxSports1/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS2 | FOX Sports 2 (sd)
-https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS2 | FOX Sports 2 (hd)
-https://tvpass.org/live/FoxSports2/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 1 (sd)
-https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 1 (hd)
-https://tvpass.org/live/tsn1/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 2 (sd)
-https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 2 (hd)
-https://tvpass.org/live/tsn2/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 3 (sd)
-https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 3 (hd)
-https://tvpass.org/live/tsn3/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 4 (sd)
-https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 4 (hd)
-https://tvpass.org/live/tsn4/hd
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 5 (sd)
-https://tvpass.org/live/tsn5/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 5 (hd)
-https://tvpass.org/live/tsn5/hd
-
-
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FOX DEPORTES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2068.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2050.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FOX SPORTS CAROLINAS | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2022.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FOX SPORTS TNNESS | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22102.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FOX SPORTS WEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22115.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2061.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* SP | FS2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2060.ts
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* Universo
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/374.ts
@@ -5510,6 +6073,50 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/27842.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67649.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸* Telemundo Internacional *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67650.ts
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ ESPN Deportes (sd)
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ ESPN Deportes (hd)
+https://tvpass.org/live/espn-deportes/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS1 | FOX Sports 1 (sd)
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS1 | FOX Sports 1 (hd)
+https://tvpass.org/live/FoxSports1/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS2 | FOX Sports 2 (sd)
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ FS2 | FOX Sports 2 (hd)
+https://tvpass.org/live/FoxSports2/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 1 (sd)
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 1 (hd)
+https://tvpass.org/live/tsn1/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 2 (sd)
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 2 (hd)
+https://tvpass.org/live/tsn2/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 3 (sd)
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 3 (hd)
+https://tvpass.org/live/tsn3/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 4 (sd)
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 4 (hd)
+https://tvpass.org/live/tsn4/hd
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 5 (sd)
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ TSN 5 (hd)
+https://tvpass.org/live/tsn5/hd
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽FIFA🌐World Cup 2026™⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 CENTROAMERICA 🇺🇸  🌐🌎⭐ ⚽FIFA🌐World Cup 2026™⚽ ⭐🌎🌐
@@ -5688,6 +6295,161 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1,ESPN CL *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65004.ts
+#EXTINF:-1,ESPN CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40100.ts
+#EXTINF:-1,ESPN CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40099.ts
+#EXTINF:-1,ESPN CL *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46195.ts
+#EXTINF:-1,ESPN CL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22220.ts
+#EXTINF:-1,ESPN CO *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53240.ts
+#EXTINF:-1,ESPN CO *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53233.ts
+#EXTINF:-1,ESPN PE *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87084.ts
+#EXTINF:-1,ESPN PE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87083.ts
+#EXTINF:-1,ESPN PE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40005.ts
+#EXTINF:-1,ESPN BR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2334.ts
+#EXTINF:-1,ESPN SUR *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29594.ts
+#EXTINF:-1,ESPN SUR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30425.ts
+#EXTINF:-1,ESPN SUR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1858.ts
+#EXTINF:-1,ESPN SUR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1861.ts
+#EXTINF:-1,ESPN AR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52033.ts
+#EXTINF:-1,ESPN AR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/47915.ts
+#EXTINF:-1,ESPN AR *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52032.ts
+#EXTINF:-1,ESPN AR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82474.ts
+#EXTINF:-1,ESPN MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1797.ts
+#EXTINF:-1,ESPN MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1799.ts
+#EXTINF:-1,ESPN MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30428.ts
+#EXTINF:-1,ESPN LATINOAMERICA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/47916.ts
+#EXTINF:-1,ESPN 2 CL *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65005.ts
+#EXTINF:-1,ESPN 2 CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30295.ts
+#EXTINF:-1,ESPN 2 CL *HQ op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28212.ts
+#EXTINF:-1,ESPN 2 CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30294.ts
+#EXTINF:-1,ESPN 2 CL *HD op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22221.ts
+#EXTINF:-1,ESPN 2 CL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41173.ts
+#EXTINF:-1,ESPN 2 CO *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53241.ts
+#EXTINF:-1,ESPN 2 CO *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53234.ts
+#EXTINF:-1,ESPN 2 PE *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87086.ts
+#EXTINF:-1,ESPN 2 PE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87085.ts
+#EXTINF:-1,ESPN 2 PE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40006.ts
+#EXTINF:-1,ESPN 2 BR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2331.ts
+#EXTINF:-1,ESPN 2 MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1796.ts
+#EXTINF:-1,ESPN 2 MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1801.ts
+#EXTINF:-1,ESPN 2 MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1793.ts
+#EXTINF:-1,ESPN 2 SUR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1856.ts
+#EXTINF:-1,ESPN 2 SUR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1859.ts
+#EXTINF:-1,ESPN 2 SUR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1862.ts
+#EXTINF:-1,ESPN 2 NORTE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30426.ts
+#EXTINF:-1,ESPN 2 LATINOAMERICA *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/47917.ts
+#EXTINF:-1,ESPN 3 CL *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65008.ts
+#EXTINF:-1,ESPN 3 CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65007.ts
+#EXTINF:-1,ESPN 3 CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46196.ts
+#EXTINF:-1,ESPN 3 CL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65006.ts
+#EXTINF:-1,ESPN 3 CO *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53235.ts
+#EXTINF:-1,ESPN 3 MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1795.ts
+#EXTINF:-1,ESPN 3 MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1800.ts
+#EXTINF:-1,ESPN 3 MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1792.ts
+#EXTINF:-1,ESPN 3 PE *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87089.ts
+#EXTINF:-1,ESPN 3 PE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87088.ts
+#EXTINF:-1,ESPN 3 PE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87087.ts
+#EXTINF:-1,ESPN 3 SUR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1857.ts
+#EXTINF:-1,ESPN 3 SUR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1860.ts
+#EXTINF:-1,ESPN 3 SUR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1863.ts
+#EXTINF:-1,ESPN 4 CL *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65009.ts
+#EXTINF:-1,ESPN 4 PE *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87092.ts
+#EXTINF:-1,ESPN 4 PE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87091.ts
+#EXTINF:-1,ESPN 4 PE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/87090.ts
+#EXTINF:-1,ESPN 4 CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52715.ts
+#EXTINF:-1,ESPN 4 CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2356.ts
+#EXTINF:-1,ESPN 4 CL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65010.ts
+#EXTINF:-1,ESPN 4 SUR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/63900.ts
+#EXTINF:-1,ESPN 4 SUR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/63899.ts
+#EXTINF:-1,ESPN 4 SUR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/63901.ts
+#EXTINF:-1,ESPN + MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1794.ts
+#EXTINF:-1,ESPN + MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1798.ts
+#EXTINF:-1,ESPN + MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1790.ts
+#EXTINF:-1,ESPN EXTRA BR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2333.ts
+#EXTINF:-1,ESPN PREMIUM *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29665.ts
+#EXTINF:-1,ESPN PREMIUM *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40910.ts
+#EXTINF:-1,ESPN PREMIUM *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1780.ts
+#EXTINF:-1,ESPN PREMIUM *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2359.ts
+
+
+
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸☑ ESPN Deportes (sd)
 https://tvpass.org/live/espn-deportes/sd
@@ -6041,6 +6803,98 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,FOX DEPORTES *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1838.ts
+#EXTINF:-1,FOX SPORTS BR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2336.ts
+#EXTINF:-1,FOX SPORTS 1 CL *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/65011.ts
+#EXTINF:-1,FOX SPORTS 1 CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40149.ts
+#EXTINF:-1,FOX SPORTS 1 CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40151.ts
+#EXTINF:-1,FOX SPORTS 1 CL *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30314.ts
+#EXTINF:-1,FOX SPORTS 1 CL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40152.ts
+#EXTINF:-1,FOX SPORTS 1 AR *LQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30427.ts
+#EXTINF:-1,FOX SPORTS 1 AR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1777.ts
+#EXTINF:-1,FOX SPORTS 1 AR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30424.ts
+#EXTINF:-1,FOX SPORTS 1 AR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1779.ts
+#EXTINF:-1,FOX SPORTS 1 AR *FHD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2071.ts
+#EXTINF:-1,FOX SPORTS 1 MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1771.ts
+#EXTINF:-1,FOX SPORTS 1 MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1772.ts
+#EXTINF:-1,FOX SPORTS 1 MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1766.ts
+#EXTINF:-1,FOX SPORTS 1 PE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41770.ts
+#EXTINF:-1,FOX SPORTS 2 BR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2335.ts
+#EXTINF:-1,FOX SPORTS 2 CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40150.ts
+#EXTINF:-1,FOX SPORTS 2 CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40153.ts
+#EXTINF:-1,FOX SPORTS 2 CL *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46197.ts
+#EXTINF:-1,FOX SPORTS 2 CL *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40154.ts
+#EXTINF:-1,FOX SPORTS 2 MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1770.ts
+#EXTINF:-1,FOX SPORTS 2 MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1774.ts
+#EXTINF:-1,FOX SPORTS 2 MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1768.ts
+#EXTINF:-1,FOX SPORTS 2 AR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1776.ts
+#EXTINF:-1,FOX SPORTS 2 AR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1782.ts
+#EXTINF:-1,FOX SPORTS 2 AR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1778.ts
+#EXTINF:-1,FOX SPORTS 2 PE *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41771.ts
+#EXTINF:-1,FOX SPORTS 3 AR *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1775.ts
+#EXTINF:-1,FOX SPORTS 3 AR *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1781.ts
+#EXTINF:-1,FOX SPORTS 3 AR *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/78250.ts
+#EXTINF:-1,FOX SPORTS 3 CL *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52716.ts
+#EXTINF:-1,FOX SPORTS 3 CL *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/46198.ts
+#EXTINF:-1,FOX SPORTS 3 MX *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1769.ts
+#EXTINF:-1,FOX SPORTS 3 MX *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1773.ts
+#EXTINF:-1,FOX SPORTS 3 MX *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1767.ts
+#EXTINF:-1,FOX SPORTS 3 PE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41772.ts
+#EXTINF:-1,FOX SPORTS PREMIUM *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/66857.ts
+#EXTINF:-1,FOX SPORTS PREMIUM *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/66858.ts
+#EXTINF:-1,FOX SPORTS PREMIUM *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/66859.ts
+
+#EXTINF:-1,FUTV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/23997.ts
+#EXTINF:-1,FUTV *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/24260.ts
+#EXTINF:-1,FUTV *HD | op3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/29266.ts
+
+
+
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ FS1 | FOX Sports 1 (sd)
 https://tvpass.org/live/FoxSports1/sd
