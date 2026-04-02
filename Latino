@@ -1303,21 +1303,21 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,SP | BTN
+#EXTINF:-1,SP | BTN B1G
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
-#EXTINF:-1,SP | BARCA TV
+#EXTINF:-1,SP | BARCA TV | TELECINCO ES
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277.ts
 #EXTINF:-1,SP | BEIN LALIGA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2006.ts
-#EXTINF:-1,SP | BEIN LALIGA *FHD
+#EXTINF:-1,🇪🇸SP | BEIN LALIGA *FHD | DAZN LALIGA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2004.ts
-#EXTINF:-1,SP | BEIN LALIGA *HD
+#EXTINF:-1,🇪🇸SP | BEIN LALIGA *HD | BeIN Sports Ñ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2005.ts
-#EXTINF:-1,SP | BEIN LALIGA *HD
+#EXTINF:-1,🇪🇸SP | BEIN LALIGA *HD | LALIGA TV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2003.ts
-#EXTINF:-1,SP | BEIN SPORTS *FHD
+#EXTINF:-1,🇺🇸SP | BEIN SPORTS *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2057.ts
-#EXTINF:-1,SP | BEIN SPORTS *HD
+#EXTINF:-1,🇺🇸SP | BEIN SPORTS *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2058.ts
 #EXTINF:-1,SP | BEIN SPORTS 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30199.ts
@@ -1333,24 +1333,11 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30202.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30203.ts
 #EXTINF:-1,SP | BEIN SPORTS 6
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30204.ts
-#EXTINF:-1,SP | BEIN SPORTS XTRA
+#EXTINF:-1,🇪🇸SP | BEIN SPORTS XTRA Ñ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30195.ts
-#EXTINF:-1,SP | BEIN SPORTS XTRA Ñ
+#EXTINF:-1,🇺🇸SP | BEIN SPORTS XTRA 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52688.ts
 
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ⓕ1742 BeIN SPORTS XTRA N (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1742
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ⓕ1742 BeIN SPORTS XTRA N (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1742
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ1743 BeIN SPORTS XTRA (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1743
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ1743 BeIN SPORTS XTRA (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1743
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2375 BOXING TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2375
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2375 BOXING TV (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2375
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2538 BILLIARD TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2538 BILLIARD TV (opt2)
@@ -1424,11 +1411,11 @@ http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7365.m3u8
 
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS (opt1) 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS (opt1) 
 http://mains.vip:2086/3003556325/2772007/352
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS (opt2)
 http://mains.services:2086/4523074511/3178768/352
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS (opt3) 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS (opt3) 
 http://mains.services:2086/live/640939802963/IDC01478!/352.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS CANADA (opt1) 
@@ -1438,18 +1425,18 @@ http://mains.services:2086/4523074511/3178768/99361
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS CANADA (opt3) 
 http://mains.services:2086/live/640939802963/IDC01478!/99361.ts
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS Ñ (EN ESPANOL) (opt1) 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾"🇪🇸☆ BEIN SPORTS Ñ (EN ESPANOL) (opt1) 
 http://mains.vip:2086/3003556325/2772007/66785
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS Ñ (EN ESPANOL) (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾"🇪🇸☆ BEIN SPORTS Ñ (EN ESPANOL) (opt2)
 http://mains.services:2086/4523074511/3178768/66785
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS Ñ (EN ESPANOL) (opt3) 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾"🇪🇸☆ BEIN SPORTS Ñ (EN ESPANOL) (opt3) 
 http://mains.services:2086/live/640939802963/IDC01478!/66785.ts
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS USA (opt1)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS USA (opt1)
 http://mains.vip:2086/3003556325/2772007/66771
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS USA (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS USA (opt2)
 http://mains.services:2086/4523074511/3178768/66771
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ BEIN SPORTS USA (opt3)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS USA (opt3)
 http://mains.services:2086/live/640939802963/IDC01478!/66771.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ AU : BEIN SPORTS 1
@@ -1474,55 +1461,6 @@ http://mains.services:2086/4523074511/3178768/101217
 http://mains.services:2086/640939802963/IDC01478!/101217
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ¹  🇪🇸 BALLY SPORTS 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1,SP | BALLY SPORTS ARIZONA
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97704.ts
-#EXTINF:-1,SP | BALLY SPORTS ARIZONA PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97703.ts
-#EXTINF:-1,SP | BALLY SPORTS FLORIDA
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97705.ts
-#EXTINF:-1,SP | BALLY SPORTS GREAT LAKES
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97706.ts
-#EXTINF:-1,SP | BALLY SPORTS INDIANA
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97708.ts
-#EXTINF:-1,SP | BALLY SPORTS INDIANA PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97707.ts
-#EXTINF:-1,SP | BALLY SPORTS KANSAS CITY
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97709.ts
-#EXTINF:-1,SP | BALLY SPORTS MIDWEST
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97710.ts
-#EXTINF:-1,SP | BALLY SPORTS NEW ORLEANS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97711.ts
-#EXTINF:-1,SP | BALLY SPORTS NORTH
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97712.ts
-#EXTINF:-1,SP | BALLY SPORTS OKLAHOMA
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97713.ts
-#EXTINF:-1,SP | BALLY SPORTS SAN DIEGO PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97714.ts
-#EXTINF:-1,SP | BALLY SPORTS SOCAL PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97715.ts
-#EXTINF:-1,SP | BALLY SPORTS SOUTH
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97718.ts
-#EXTINF:-1,SP | BALLY SPORTS SOUTHWEST
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97717.ts
-#EXTINF:-1,SP | BALLY SPORTS SOUTHWEST PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97716.ts
-#EXTINF:-1,SP | BALLY SPORTS SUN
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97719.ts
-#EXTINF:-1,SP | BALLY SPORTS WEST
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97721.ts
-#EXTINF:-1,SP | BALLY SPORTS West PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97720.ts
-#EXTINF:-1,SP | BALLY SPORTS WISCONSIN
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97723.ts
-#EXTINF:-1,SP | BALLY SPORTS WISCONSIN PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97722.ts
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ¹  🇪🇸 BUNDESLIGA 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -1534,52 +1472,15 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183151
 #EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA  KONFERENZ" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA VIP KONFERENZ
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/866310
-#EXTINF:-1 tvg-id="" tvg-name="FUßBALL-ßUNDESLIGA KONFERANZ" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga1.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA VIP KONFERANZ
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/699900
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="FUßBALL-ßUNDESLIGA UHD - 3840" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA VIP UHD - 3840
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/708540
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="FUßBALL-ßUNDESLIGA UHD - 1920" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA VIP UHD - 1920
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/708542
-#EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="FUßBALL-ßUNDESLIGA HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA VIP HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/317233
-#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="FUßBALL-ßUNDESLIGA 1 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga1.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 1 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183080
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="FUßBALL-ßUNDESLIGA 2 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga2.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 2 VIP KABEL | NBA
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183084
-#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="FUßBALL-ßUNDESLIGA 2 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga2.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 2 VIP HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694555
-#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="FUßBALL-ßUNDESLIGA 3 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga3.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 3 VIP HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694556
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="FUßBALL-ßUNDESLIGA 4 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga4.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 4 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183090
-#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="FUßBALL-ßUNDESLIGA 4 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga4.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 4 VIP HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694557
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="FUßBALL-ßUNDESLIGA 5 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga5.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 5 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183093
-#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="FUßBALL-ßUNDESLIGA 5 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga5.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 5 VIP HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694559
-#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="FUßBALL-ßUNDESLIGA 6 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga6.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 6 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183097
-#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="FUßBALL-ßUNDESLIGA 7 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga7.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 7 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183100
-#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="FUßBALL-ßUNDESLIGA 8 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga8.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 8 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183103
-#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="FUßBALL-ßUNDESLIGA 9 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga9.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 9 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183106
-#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="FUßBALL-ßUNDESLIGA 10 KABEL" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga10.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA 10 VIP KABEL
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183109
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="★☆★ Fußball-ßundesliga ★☆★" tvg-logo="https://i.imgur.com/pp5fVIC.png" group-title="🏀SPORTS🌐WORLD🎾",★☆★ DE | Fußball-ßundesliga ★☆★
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/160887
 #EXTINF:-1 tvg-id="" tvg-name="FUßBALL-ßUNDESLIGA KONFERANZ" tvg-logo="https://www.tvlogolar.xyz/europa/germany/sky/skysportbundesliga1.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA KONFERANZ
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/708539
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="FUßBALL-ßUNDESLIGA UHD - 3840" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA UHD - 3840
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694594
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="FUßBALL-ßUNDESLIGA UHD - 2160" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA UHD - 2160
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/708537
-#EXTINF:-1 tvg-id="skysportbundesligauhd.de" tvg-name="FUßBALL-ßUNDESLIGA UHD - 1920" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesligauhd.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA UHD - 1920
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/708538
+
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="FUßBALL-ßUNDESLIGA RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA RAW
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694592
 #EXTINF:-1 tvg-id="skybundesliga.de" tvg-name="FUßBALL-ßUNDESLIGA FHD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" group-title="🏀SPORTS🌐WORLD🎾",FUßBALL-ßUNDESLIGA FHD
@@ -1703,12 +1604,6 @@ https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
 
 
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ⓕ1744 CG | COMBATE GLOBAL ES (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1744
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ⓕ1744 CG | COMBATE GLOBAL ES (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1744
-
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7378.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt2)
@@ -1802,7 +1697,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2360.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2368.ts
 #EXTINF:-1,SP | DAZN 2 DE
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2361.ts
-#EXTINF:-1,SP | DAZN 3
+#EXTINF:-1,SP | DAZN 3 | RAI MOVIE HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2369.ts
 #EXTINF:-1,SP | DAZN F1 *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52686.ts
@@ -1860,9 +1755,9 @@ http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7801.ts
 #EXTINF:-1 tvg-id="" tvg-name="★☆★ Dazn Sport ★☆★" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZNSPORT1.png" group-title="🏀SPORTS🌐WORLD🎾",★☆★ DE Dazn Sport ★☆★
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/197298
 
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="Dazn Sport 1 Ultra HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 1 Ultra HD
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="Dazn Sport 1 Ultra HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 1 Ultra HD x
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698216
-#EXTINF:-1 tvg-id="dazn1.de" tvg-name="Dazn Sport 1 Quality HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 1 Quality HD
+#EXTINF:-1 tvg-id="dazn1.de" tvg-name="Dazn Sport 1 Quality HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 1 Quality HD x
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698219
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="Dazn Sport 1 Raw" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 1 Raw
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698218
@@ -1874,9 +1769,9 @@ http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698215
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698217
 #EXTINF:-1 tvg-id="dazn1.de" tvg-name="Dazn Sport 1 SD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn1.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 1 SD
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698226
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="Dazn Sport 2 Ultra HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 2 Ultra HD
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="Dazn Sport 2 Ultra HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 2 Ultra HD x
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698220
-#EXTINF:-1 tvg-id="dazn2.de" tvg-name="Dazn Sport 2 Quality HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 2 Quality HD
+#EXTINF:-1 tvg-id="dazn2.de" tvg-name="Dazn Sport 2 Quality HD" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 2 Quality HD x
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698228
 #EXTINF:-1 tvg-id="dazn2.de" tvg-name="Dazn Sport 2 Raw" tvg-logo="https://www.tvlogolar.xyz/europa/germany/dazn2.png" group-title="🏀SPORTS🌐WORLD🎾",Dazn Sport 2 Raw
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698222
@@ -1894,91 +1789,6 @@ http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/698227
 #EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="★☆★ DAZN  LEAGUES ★☆★" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/DAZNSPORT1.png" group-title="🏀SPORTS🌐WORLD🎾",★☆★ DE DAZN  LEAGUES ★☆★
 http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865425
 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA  KONFERENZ" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA  KONFERENZ
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/866309
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 1" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 1
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865413
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 2" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 2
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865412
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 3" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 3
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865411
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 4" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 4
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865410
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 5" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 5
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865409
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 6" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 6
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865408
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 7" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 7
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865407
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 8" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 8
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865406
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 9" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 9
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865405
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BUNDESLIGA 10" tvg-logo="https://r.resimlink.com/TcxeJ.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN BUNDESLIGA 10
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/865404
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 1
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633476
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 2
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633475
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 3" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 3
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633474
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 4" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 4
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633473
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 5" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 5
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633472
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 6" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 6
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633471
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 7" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 7
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633470
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 8" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 8
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633469
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 9" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 9
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633468
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 10" tvg-logo="https://r.resimlink.com/rie2mbnB4.png" group-title="🏀SPORTS🌐WORLD🎾",DAZN LA LIGA 10
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633467
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 1" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 1
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633466
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 2" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 2
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633465
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 3" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 3
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633464
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 4" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 4
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633463
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 5" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 5
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633462
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 6" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 6
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633461
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 7" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 7
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633460
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 8" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 8
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633459
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 9" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 9
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633458
-#EXTINF:-1 tvg-id="" tvg-name="DAZN SERIE A 10" tvg-logo="https://r.resimlink.com/EnFCtL8.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN SERIE A 10
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633457
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1  - 1" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 1
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633456
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1  - 2" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 2
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633455
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 3" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 3
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633454
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1  - 4" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 4
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633453
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 5" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 5
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633452
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 6" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 6
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633451
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 7" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 7
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633450
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 8" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 8
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633449
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 9" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 9
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633448
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LIGUE 1 - 10" tvg-logo="https://r.resimlink.com/toXVM4Hk3KEB.jpeg" group-title="🏀SPORTS🌐WORLD🎾",DAZN LIGUE 1 - 10
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/633447
 
 
 
@@ -2175,18 +1985,18 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1,SP | ELEVEN SPORTS
+#EXTINF:-1,🇪🇸SP | ELEVEN SPORTS | DAZN 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2048.ts
-#EXTINF:-1,SP | ELEVEN SPORTS NETWORK
+#EXTINF:-1,🇺🇸SP | ELEVEN SPORTS NETWORK
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2376.ts
 
 #EXTINF:-1,SP | EUROSPORT *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2001.ts
-#EXTINF:-1,SP | EUROSPORT 1
+#EXTINF:-1,🇪🇸SP | EUROSPORT 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2362.ts
-#EXTINF:-1,SP | EUROSPORT 1
+#EXTINF:-1,🇪🇸SP | EUROSPORT 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2363.ts
-#EXTINF:-1,SP | EUROSPORT 1
+#EXTINF:-1,🇪🇸SP | EUROSPORT 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2365.ts
 #EXTINF:-1,SP | EUROSPORT 1 HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2366.ts
@@ -2512,11 +2322,57 @@ http://mains.services:2086/640939802963/IDC01478!/102322
 http://mains.services:2086/live/507Vej3h3S/4632273/102322.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 FANDUEL 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ¹  🇪🇸 FANDUEL SPORTS NETWORK 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1,SP | FANDUEL SPORTS ARIZONA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97704.ts
+#EXTINF:-1,SP | FANDUEL SPORTS ARIZONA PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97703.ts
+#EXTINF:-1,SP | FANDUEL SPORTS FLORIDA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97705.ts
+#EXTINF:-1,SP | FANDUEL SPORTS GREAT LAKES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97706.ts
+#EXTINF:-1,SP | FANDUEL SPORTS INDIANA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97708.ts
+#EXTINF:-1,SP | FANDUEL SPORTS INDIANA PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97707.ts
+#EXTINF:-1,SP | FANDUEL SPORTS KANSAS CITY
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97709.ts
+#EXTINF:-1,SP | FANDUEL SPORTS MIDWEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97710.ts
+#EXTINF:-1,SP | FANDUEL SPORTS NEW ORLEANS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97711.ts
+#EXTINF:-1,SP | FANDUEL SPORTS NORTH
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97712.ts
+#EXTINF:-1,SP | FANDUEL SPORTS OKLAHOMA
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97713.ts
+#EXTINF:-1,SP | FANDUEL SPORTS SAN DIEGO PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97714.ts
+#EXTINF:-1,SP | FANDUEL SPORTS SOCAL PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97715.ts
+#EXTINF:-1,SP | FANDUEL SPORTS SOUTH
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97718.ts
+#EXTINF:-1,SP | BALLY SPORTS SOUTHWEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97717.ts
+#EXTINF:-1,SP | FANDUEL SPORTS SOUTHWEST PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97716.ts
+#EXTINF:-1,SP | FANDUEL SPORTS SUN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97719.ts
+#EXTINF:-1,SP | FANDUEL SPORTS WEST
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97721.ts
+#EXTINF:-1,SP | FANDUEL SPORTS West PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97720.ts
+#EXTINF:-1,SP | FANDUEL SPORTS WISCONSIN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97723.ts
+#EXTINF:-1,SP | FANDUEL SPORTS WISCONSIN PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97722.ts
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fanduel Sports Indiana (sd)
 https://tvpass.org/live/fanduel-sports-indiana/sd
@@ -2678,56 +2534,6 @@ http://mains.services:2086/640939802963/IDC01478!/102323
 http://mains.vip:2086/3003556325/2772007/102323
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 FUßBALL 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="★☆★ FOCUS  FUßBALL ★☆★" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",★☆★ DE | FOCUS FUßBALL ★☆★
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706386
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 1" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 1 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706385
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 2" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 2 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706384
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 3" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 3 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706383
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 4" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 4 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706382
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 5" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 5 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706381
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 6" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 6 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706380
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 7" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 7 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706379
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 8" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 8 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706378
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 9" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 9 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706377
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 10" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 10 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706376
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 11" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 11 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706375
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 12" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 12 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706374
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 13" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 13 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706373
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 14" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 14 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706372
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 15" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 15 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706371
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 16" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 16 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706370
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 17" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 17 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706369
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 18" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 18 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706368
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 19" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 19 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706367
-#EXTINF:-1 tvg-id="" tvg-name="✨ Stadion 20" tvg-logo="https://r.resimlink.com/vt4OhU.png" group-title="🏀SPORTS🌐WORLD🎾",✨ Stadion 20 | FUßBALL EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/706366
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 F 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
@@ -2737,36 +2543,19 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF Telecinco ʜᴅ (opt1) 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF FACTORIA DE FICCION ʜᴅ (opt1) 
 https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/fdf.es.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF Telecinco ʜᴅ (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF FACTORIA DE FICCION ʜᴅ (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fdf.es.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF Telecinco ʜᴅ (opt3)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF FACTORIA DE FICCION ʜᴅ (opt3)
 https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/fdf.es.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF Telecinco ʜᴅ (opt4)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ FDF FACTORIA DE FICCION ʜᴅ (opt4)
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fdf.es.m3u8
 
 
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ566 FN FIGHT NETWORK | AXS.tv FIGHTS (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ566 FN FIGHT NETWORK | AXS.tv FIGHTS (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=566
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ683 FN FIGHT NIGHT | AXS.TV Fights (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ683 FN FIGHT NIGHT | AXS.TV Fights (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=683
-
-
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://i.imgur.com/xA0l7DP.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fox Sports
-https://apollo.production-public.tubi.io/live/fox-sports.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i8o7QEj.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FL Sport
-https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8
+
 
 
 
@@ -2877,94 +2666,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/win.sports.
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS CO (opt4) 
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/win.sports.co.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 LEAGUES 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
-https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="★☆★ REGIONAL SPORT ★☆★" tvg-logo="https://www.lyngsat.com/logo/flag/az/de.png" group-title="🏀SPORTS🌐WORLD🎾",★☆★ LEAGUES | DE REGIONAL SPORT ★☆★
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/664231
-
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Eventchannel 1" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Eventchannel 1
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694533
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Eventchannel 2" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Eventchannel 2
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694532
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - 1. FC Bocholt" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - 1. FC Bocholt
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694531
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - 1. FC Köln II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - 1. FC Köln II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694530
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Bonner SC" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Bonner SC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694529
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Borussia Dortmund II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Borussia Dortmund II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694528
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Borussia Mönchengladbach II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Borussia Mönchengladbach II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694527
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - FC Gütersloh" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - FC Gütersloh
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694526
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - FC Schalke 04 II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - FC Schalke 04 II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694525
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Fortuna Düsseldorf II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Fortuna Düsseldorf II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694524
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SC Fortuna Köln" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SC Fortuna Köln
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694523
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SC Paderborn" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SC Paderborn
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694522
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SC Rot-Weiß Oberhausen" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SC Rot-Weiß Oberhausen
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694521
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SC Wiedenbrück" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SC Wiedenbrück
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694520
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Sportfreunde Lotte" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Sportfreunde Lotte
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694519
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Sportfreunde Siegen" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Sportfreunde Siegen
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694518
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SSVg Velbert" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SSVg Velbert
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694517
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SV Rödinghausen" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SV Rödinghausen
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694516
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - VfL Bochum II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - VfL Bochum II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694515
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Wuppertaler SV" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Wuppertaler SV
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694514
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Bayern Alzenau" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Bayern Alzenau
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694513
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Eintracht Trier" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Eintracht Trier
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694512
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - FC Astoria Walldorf" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - FC Astoria Walldorf
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694511
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - FSV Frankfurt" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - FSV Frankfurt
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694510
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Hessen Kassel" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Hessen Kassel
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694509
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Kickers Offenbach" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Kickers Offenbach
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694508
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SC Freiburg II" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SC Freiburg II
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694507
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SG Sonnenhof Großaspach" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SG Sonnenhof Großaspach
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694506
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Stuttgarter Kickers" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Stuttgarter Kickers
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694505
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SV Sandhausen" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SV Sandhausen
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694504
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - TSG Balingen" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - TSG Balingen
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694503
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - TSV Schott Mainz" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - TSV Schott Mainz
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694502
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SG Barockstadt Fulda-Lehnerz" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SG Barockstadt Fulda-Lehnerz
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694501
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - SGV Freiberg Fußball" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - SGV Freiberg Fußball
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694500
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - TSV Steinbach Haiger" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - TSV Steinbach Haiger
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694499
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - 1. FSV Mainz 05 II [COMMING SOON]" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - 1. FSV Mainz 05 II [COMMING SOON]
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694498
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - Bahlinger SC" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - Bahlinger SC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694497
-#EXTINF:-1 tvg-id="" tvg-name="LEAGUES - FC 08 Homburg" tvg-logo="https://i.ibb.co/Qnvw57t/splashscreen-simple-tranpsarent.png" group-title="🏀SPORTS🌐WORLD🎾",LEAGUES - FC 08 Homburg
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/694496
 
 
 
@@ -3322,8 +3023,6 @@ http://mains.services:2086/640939802963/IDC01478!/95410
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=443
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ444 MOTORVISION MV  | DOC
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=444
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ445 MOTORVISION MV  | DOC
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=445
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ460 MOTORVISION MV  | DOC 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=460
@@ -4013,49 +3712,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67372.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67373.ts
 #EXTINF:-1,SP | SUPER TENNIS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22280.ts
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="★☆★ SKY SPORT ★☆★" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportbundesliga.png" group-title="🏀SPORTS🌐WORLD🎾",★☆★ SKY SPORT | DE FUßBALL-SPORT VIP ★☆★
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183150
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="SKY SPORT F1 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportf1.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT F1 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183112
-#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="SKY SPORT F1 HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportf1.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT F1 HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183113
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="SKY SPORT NEWS RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportnews.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT NEWS RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183114
-#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="SKY SPORT NEWS HEVC" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportnews.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT NEWS HEVC
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183115
-#EXTINF:-1 tvg-id="skysport1.de" tvg-name="SKY SPORT 1 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport1.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 1 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183141
-#EXTINF:-1 tvg-id="skysport2.de" tvg-name="SKY SPORT 2 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport2.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 2 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183118
-#EXTINF:-1 tvg-id="skysport3.de" tvg-name="SKY SPORT 3 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport3.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 3 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183120
-#EXTINF:-1 tvg-id="skysport4.de" tvg-name="SKY SPORT 4 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport4.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 4 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183122
-#EXTINF:-1 tvg-id="skysport5.de" tvg-name="SKY SPORT 5 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport5.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 5 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183124
-#EXTINF:-1 tvg-id="skysport6.de" tvg-name="SKY SPORT 6 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport6.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 6 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183126
-#EXTINF:-1 tvg-id="skysport7.de" tvg-name="SKY SPORT 7 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysport7.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT 7 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183128
-#EXTINF:-1 tvg-id="skysportaustria.at" tvg-name="SKY SPORT AUSTRIA 1 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria1.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 1 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183144
-#EXTINF:-1 tvg-id="skysportaustria2.at" tvg-name="SKY SPORT AUSTRIA 2 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria2.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 2 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183145
-#EXTINF:-1 tvg-id="skysportaustria3.at" tvg-name="SKY SPORT AUSTRIA 3 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria3.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 3 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183146
-#EXTINF:-1 tvg-id="skysportaustria4.at" tvg-name="SKY SPORT AUSTRIA 4 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria4.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 4 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183147
-#EXTINF:-1 tvg-id="skysportaustria5.at" tvg-name="SKY SPORT AUSTRIA 5 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria5.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 5 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183154
-#EXTINF:-1 tvg-id="skysportaustria6.at" tvg-name="SKY SPORT AUSTRIA 6 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria6.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 6 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183148
-#EXTINF:-1 tvg-id="skysportaustria7.at" tvg-name="SKY SPORT AUSTRIA 7 RAW" tvg-logo="https://www.tvlogolar.xyz/europa/germany/skysportaustria7.png" group-title="🏀SPORTS🌐WORLD🎾",SKY SPORT AUSTRIA 7 RAW
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/183149
-
 
 
 
