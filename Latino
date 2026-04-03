@@ -1303,9 +1303,9 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,SP | BTN B1G
+#EXTINF:-1,🇺🇸SP | BTN B1G
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
-#EXTINF:-1,SP | BARCA TV | TELECINCO ES
+#EXTINF:-1,🇪🇸SP | BARCA TV | TELECINCO ES
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277.ts
 #EXTINF:-1,SP | BEIN LALIGA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2006.ts
@@ -2687,20 +2687,26 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
 #EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* VIX Premium | LALIGA *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/30423
 
-#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *HD (opt1)
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *FHD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.ts
-#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *HD (opt2)
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *FHD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *HD (opt3)
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LaLiga TV | por M+ *FHD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 #EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LALIGA TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1999.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1999.ts
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LALIGA TV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1999.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LALIGA TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1999
+
 #EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LIGA CAMPEONES
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2000.ts
-
-
-
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2000.ts
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LIGA CAMPEONES
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LIGA CAMPEONES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2000
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7806 PPV | DAZNᵁᴴᴰ | LALIGA "TV (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7806.m3u8
@@ -2761,12 +2767,12 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95657
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95337
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95416.ts
@@ -2774,6 +2780,30 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95416.ts
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95416.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95416
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95417
+
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95656
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95657
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 MAX PERU *HD (opt1)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/101850.ts
@@ -2797,26 +2827,8 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/109549.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/109549
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95417
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95337
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95656
 
 
 
@@ -2826,7 +2838,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪ᵀᵛ¹ Movistar Deportes CMD (PE)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/2902.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪ᵀᵛ² Movistar Deportes CMD (PE)
@@ -2834,7 +2845,33 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/2902.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪ᵀᵛ² Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* MOVISTAR DEPORTES PERU *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1827.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* MOVISTAR DEPORTES PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1827.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* MOVISTAR DEPORTES PERU *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1827
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* DEPORTES | por M+ *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1828.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* DEPORTES | por M+ *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1828.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* DEPORTES | por M+ *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1828
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* DEPORTES | por M+ *FHD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1829.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* DEPORTES | por M+ *FHD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1829.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* DEPORTES | por M+ *FHD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1829
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LALIGA TV | por M+ *FHD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LALIGA TV | por M+ *FHD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1830.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* LALIGA TV | por M+ *FHD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 M 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
@@ -3214,6 +3251,28 @@ http://9to5.sytes.net:8080/play/1yT5Wt0AKmAMxN7kczzzYFgetQ0WwPekLLeByMGPXJw/ts
 http://workcrew.ddns.net:8080/play/1yT5Wt0AKmAMxN7kczzzYFgetQ0WwPekLLeByMGPXJw/ts
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 P 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1,PREMIERE *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2343.ts
+#EXTINF:-1,PREMIERE 2 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2337.ts
+#EXTINF:-1,PREMIERE 3 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2338.ts
+#EXTINF:-1,PREMIERE 4 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2339.ts
+#EXTINF:-1,PREMIERE 5 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2340.ts
+#EXTINF:-1,PREMIERE 6 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2341.ts
+#EXTINF:-1,PREMIERE 7 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2342.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 PARAMOUNT 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -3370,6 +3429,11 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1,RAI SPORTS *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2349.ts
+#EXTINF:-1,RAI SPORTS *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2348.ts
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ1854 NHRA DRAG Auto Racing (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1854
@@ -3393,6 +3457,16 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,SKY SPORTS LATINO *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30423.ts
+
+#EXTINF:-1,SPORTV 1 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2329.ts
+#EXTINF:-1,SPORTV 2 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2327.ts
+#EXTINF:-1,SPORTV 3 *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2328.ts
 
 #EXTINF:-1,SP | SKY MOTO GP *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5435.ts
@@ -3713,7 +3787,18 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/67373.ts
 #EXTINF:-1,SP | SUPER TENNIS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22280.ts
 
-
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 6 | Bundesliga (opt1)
+http://mains.vip:2086/3003556325/2772007/102329
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 5 | Bundesliga (opt1)
+http://mains.vip:2086/3003556325/2772007/102328
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 4 | Bundesliga (opt1)
+http://mains.vip:2086/3003556325/2772007/102327
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 3 | Bundesliga (opt1)
+http://mains.vip:2086/3003556325/2772007/102326
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 2 | Bundesliga (opt1)
+http://mains.vip:2086/3003556325/2772007/102325
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 1 | Bundesliga (opt1)
+http://mains.vip:2086/3003556325/2772007/102324
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : SKY SPORTS ARENA
@@ -5266,15 +5351,15 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1802.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1803.ts
 #EXTINF:-1,WINSPORTS *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1804.ts
-#EXTINF:-1,WINSPORTS PLUS *LQ
+#EXTINF:-1,WINSPORTS PLUS futbol *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30293.ts
-#EXTINF:-1,WINSPORTS PLUS *HQ
+#EXTINF:-1,WINSPORTS PLUS futbol *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21863.ts
-#EXTINF:-1,WINSPORTS PLUS *HD
+#EXTINF:-1,WINSPORTS PLUS futbol *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21862.ts
-#EXTINF:-1,WINSPORTS PLUS *FHD
+#EXTINF:-1,WINSPORTS PLUS futbol *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/21861.ts
-#EXTINF:-1,WINSPORTS PLUS *FHD | op2
+#EXTINF:-1,WINSPORTS PLUS futbol *FHD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22149.ts
 
 #EXTINF:-1,WWE *HD
@@ -5285,46 +5370,6 @@ http://mains.services/live/4523074511/3178768/09815790-b620-4504-8fca-dadcefd64c
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : WWE NETWORK
 http://mains.services/live/4523074511/3178768/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
 
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",★ WWE Network (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7831.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",★ WWE Network (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7831.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",★ WWE Network (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7831.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",★ WWE Network (opt4)
-http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7831.m3u8
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7826.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7826.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7826.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt4)
-http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7826.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt5)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7826.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt6)
-http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7826.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS (opt7)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7826.m3u8
-
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7827.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7827.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7827.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt4)
-http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7827.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt5)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7827.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt6)
-http://alfa.7057460.xyz:2095/live/Norboroz/Guerrero20/7827.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴★ WIN SPORTS + (opt7)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7827.m3u8
 
 
 
@@ -5347,54 +5392,17 @@ http://mains.services:2086/640939802963/IDC01478!/102335
 http://mains.services:2086/live/507Vej3h3S/4632273/102335.ts
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ72 WPST | World Pro Sky Tour (opt1)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ72 WPST | WORLD PRO SKI TOUR TV (opt1)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ72 WPST | World Pro Sky Tour (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ72 WPST | WORLD PRO SKI TOUR TV (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=72
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ509 IMPACT! WRESTLING | SPORT (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ509 IMPACT! WRESTLING | SPORT (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=509
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ679 TNA Wrestling (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ679 TNA Wrestling (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=679
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2351 XFC MMA INT
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2352 WPST WORLD PRO SKI TOUR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2352
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2359 WPST WORLD PRO SKI TOUR TV (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2359
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2359 WPST WORLD PRO SKI TOUR TV (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2359
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2363 XFC MMA Xtreme Fighting Champion (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2363
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2363 XFC MMA Xtreme Fighting Champion (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2363
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2588 XFC MMA | LEGACY FC (opt1)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2588
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2588 XFC MMA | LEGACY FC (opt2)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2588
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS CO (opt1) 
-https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/win.sports.co.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS CO (opt2) 
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/win.sports.co.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS CO (opt3) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/win.sports.co.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS CO (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/win.sports.co.m3u8
-
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt1) 
-https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/win.sports.plus.co.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt2) 
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/win.sports.plus.co.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt3) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/win.sports.plus.co.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/win.sports.plus.co.m3u8
 
 
 
@@ -5413,16 +5421,6 @@ https://tvpass.org/live/yes-network/hd
 http://mains.services/live/4523074511/3178768/3c7114a3-ee54-4bad-906e-1c31b590838b.m3u
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt1) 
-https://tvnow.best/api/stream/pjhinson20@gmail.com/155030/livetv.epg/yes.network.us.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt2) 
-https://tvnow.best/api/stream/robgray12@gmail.com/177764/livetv.epg/yes.network.us.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt3) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/yes.network.us.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",⚽ WIN SPORTS PLUS CO (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/yes.network.us.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 TEST 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
@@ -5431,39 +5429,6 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ MOVIES 1 (opt1)
-http://mains.vip:2086/3003556325/2772007/102350
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ MOVIES 2 (opt1)
-http://mains.vip:2086/3003556325/2772007/102351
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ LUNCH TIME VIBES Music (opt1)
-http://mains.vip:2086/3003556325/2772007/102352
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ DW NEWS (opt1)
-http://mains.vip:2086/3003556325/2772007/102355
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ KZN TV (opt1)
-http://mains.vip:2086/3003556325/2772007/102356
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ TV (opt1)
-http://mains.vip:2086/3003556325/2772007/102357
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ TV (opt1)
-http://mains.vip:2086/3003556325/2772007/102358
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ WIN SPORTS + (opt1)
-http://mains.vip:2086/3003556325/2772007/102335
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ WIN SPORTS (opt1)
-http://mains.vip:2086/3003556325/2772007/102331
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 6 | Bundesliga (opt1)
-http://mains.vip:2086/3003556325/2772007/102329
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 5 | Bundesliga (opt1)
-http://mains.vip:2086/3003556325/2772007/102328
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 4 | Bundesliga (opt1)
-http://mains.vip:2086/3003556325/2772007/102327
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 3 | Bundesliga (opt1)
-http://mains.vip:2086/3003556325/2772007/102326
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 2 | Bundesliga (opt1)
-http://mains.vip:2086/3003556325/2772007/102325
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ SK 1 | Bundesliga (opt1)
-http://mains.vip:2086/3003556325/2772007/102324
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ Super | Motorsport (opt1)
 http://mains.vip:2086/3003556325/2772007/102323
@@ -5884,26 +5849,24 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/5427
 
 
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *HQ
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1805.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1806.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1807.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17333.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16453.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16454.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54368.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *HQ | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17334.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1806.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *HD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1807.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV + *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17333.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV + *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16453.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV + *HD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16454.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV + *HD | op3
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54368.ts
-
-
 
 
 
@@ -5912,12 +5875,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽FIFA🌐World Cup 2026™⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv   📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* SP | TELECINCO ES
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22277.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* SP | TELECINCO ES
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22277.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* SP | TELECINCO ES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277
 
 
 
@@ -6870,6 +6833,21 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/5429.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸* UFC FIGHT PASS Only Event (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/5429
 
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸SP | FIGHT NETWORK
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2035.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🥊UFC🌐Boxing🥊",🇺🇸☑ Fite 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🥊UFC🌐Boxing🥊",🇺🇸☑ Channel FIGHT 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/266.m3u8
+
+#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN COMBAT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/dazn-combat.png" group-title="🥊UFC🌐Boxing🥊",DAZN COMBAT FHD
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/587763
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UNBEATEN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Unbeaten.png" group-title="🥊UFC🌐Boxing🥊",DAZN UNBEATEN FHD
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/625238
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BOXING TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Boxing.png" group-title="🥊UFC🌐Boxing🥊",DAZN BOXING TV FHD
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/625235
+#EXTINF:-1 tvg-id="" tvg-name="DAZN MATCHROOM BOXING FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Matchroom.png" group-title="🥊UFC🌐Boxing🥊",DAZN MATCHROOM BOXING FHD
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/625231
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸 UFC FIGHT PASS 1 | Paramount+ (opt1)
 http://pfsv.io:80/live/6181288/27664/132344.m3u8
@@ -7054,6 +7032,39 @@ http://mains.services:2086/507Vej3h3S/4632273/67063
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 02 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+http://200.125.170.74:8000/play/a0gj/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 1 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626015
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 2 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626014
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 3 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626013
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 4 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626012
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 5" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 5 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626011
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 6" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 6 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626010
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 7" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 7 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626009
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 8" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 8 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626008
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 9" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 9 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626007
+#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 10" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 10 EVENT
+http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626006
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 03 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 http://200.125.170.74:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7429,7 +7440,7 @@ http://mains.vip:2086/6129666453/9260275/102318
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 03 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 04 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 http://200.125.170.74:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7532,7 +7543,7 @@ http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bc
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
 http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 04 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 05 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7598,7 +7609,7 @@ https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.w
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 05 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 06 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7641,7 +7652,7 @@ http://mains.vip:2086/3003556325/2772007/95493
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇪🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt4) 
 http://mains.services:2086/507Vej3h3S/4632273/95493
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 06 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 07 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7694,7 +7705,7 @@ http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7748.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 07 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 08 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 http://200.125.170.74:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
