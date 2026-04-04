@@ -30,6 +30,8 @@ https://tvpass.org/live/UniversalKidsEast/sd
 https://tvpass.org/live/UniversalKidsEast/hd
 
 
+
+
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ A&E Eastern (sd)
 https://tvpass.org/live/AEEast/sd
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ A&E Eastern (hd)
@@ -499,6 +501,15 @@ https://tvpass.org/live/MoreMaxEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ MoreMax Eastern (hd)
 https://tvpass.org/live/MoreMaxEast/hd
 
+
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ MovieMax (Max 6) East (sd)
+https://tvpass.org/live/MovieMaxEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ MovieMax (Max 6) East (hd)
+https://tvpass.org/live/MovieMaxEast/hd
+
+
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Motor Trend | Discovery TURBO (sd)
 https://tvpass.org/live/Motortrend/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Motor Trend | Discovery TURBO (hd)
@@ -626,9 +637,9 @@ https://tvpass.org/live/OutdoorChannel/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Outdoor Channel (hd)
 https://tvpass.org/live/OutdoorChannel/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Oxygen Eastern (sd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Oxygen (True Crime) Eastern (sd)
 https://tvpass.org/live/OxygenEast/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Oxygen Eastern (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ Oxygen (True Crime) Eastern (hd)
 https://tvpass.org/live/OxygenEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",🇺🇸☑ PBS WNET NewYork (sd) x
@@ -861,6 +872,14 @@ https://tvpass.org/live/yes-network/hd
 
 
 
+
+
+
+
+
+
+
+
 #EXTM3U
 #EXTINF:-1 tvg-name="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸", ##########  ♥ GROUP 01 📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -937,6 +956,38 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u
 #EXTINF:-1 tvg-id="KXLNDT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ N+ ᴜɴɪvɪsɪᴏɴ45 ɴᴏw Houston KXLN-DT1 [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kxln/kxln.isml/hls/kxln.m3u8
 
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
+https://tvpass.org/live/TelemundoEast/sd
+#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
+https://tvpass.org/live/TelemundoEast/hd
+
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
+https://tvpass.org/live/UnivisionEast/hd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ ESPN Deportes (sd)
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ ESPN Deportes (hd)
+https://tvpass.org/live/espn-deportes/hd
+
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (sd)
+https://tvpass.org/live/UniversalKidsEast/sd
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
+https://tvpass.org/live/UniversalKidsEast/hd
+
+
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ Univision 41 Eastern NY (opt1)
 https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/univision.eastern.us.m3u8
@@ -984,36 +1035,20 @@ https://tvnow.best/api/stream/chrisholland1613@yahoo.com/89do9w/livetv.epg/tudn.
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸⚽ TUDN MX (opt7)
 https://tvnow.best/api/stream/jacobcrawford489@gmail.com/040899/livetv.epg/tudn.mx.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO SD | WNJU-DT1 (640p)
-https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id="WNJUDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ TELEMUNDO HD | WNJU-DT1 (1080p)
-https://tvpass.org/live/TelemundoEast/hd
 
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (sd)
-https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVISION | WNJU-DT1 (hd)
-https://tvpass.org/live/UnivisionEast/hd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ ESPN Deportes (sd)
-https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ ESPN Deportes (hd)
-https://tvpass.org/live/espn-deportes/hd
 
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (sd)
-https://tvpass.org/live/UniversalKidsEast/sd
-#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ🌐ɴᴏw🇪🇸",🇪🇸☑ UNIVERSO Universal Kids East (hd)
-https://tvpass.org/live/UniversalKidsEast/hd
+
+
+
+
+
+
+
+
+
 
 
 
