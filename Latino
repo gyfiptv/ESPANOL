@@ -3,7 +3,7 @@
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 TVᴾᵃˢˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺IPTVpremium🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 TVᴾᵃˢˢ 🇺🇸  🌐🌎⭐ 01ᵀᵛ📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺TVᴾᵃˢˢ🌐ENGLISH🇺🇸",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  TVᴾᵃˢˢ 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -3436,18 +3436,61 @@ http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634e
 http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt1)
 http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt2)
+http://mains.services/live/640939802963/IDC01478!/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt3)
+http://mains.services/live/3003556325/2772007/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt1)
 http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt2)
+http://mains.services/live/640939802963/IDC01478!/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt3)
+http://mains.services/live/3003556325/2772007/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt1)
 http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt2)
+http://mains.services/live/640939802963/IDC01478!/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt3)
+http://mains.services/live/3003556325/2772007/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt1)
 http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt2)
+http://mains.services/live/640939802963/IDC01478!/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt3)
+http://mains.services/live/3003556325/2772007/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt1)
 http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt2)
+http://mains.services/live/640939802963/IDC01478!/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt3)
+http://mains.services/live/3003556325/2772007/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt1)
 http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt2)
+http://mains.services/live/640939802963/IDC01478!/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt3)
+http://mains.services/live/3003556325/2772007/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 07
 http://mains.services/live/4523074511/3178768/3af29b10-4492-4fb3-83b7-4f0487601359.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 08
@@ -5218,6 +5261,61 @@ http://pfsv.io:80/live/6181288/27664/204149.m3u8
 http://pfsv.io:80/live/6181288/27664/204149.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸 UFC FIGHT PASS 3 | Paramount+ (opt3)
 http://pfsv.io:80/6181288/27664/204149
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt1)
+http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt2)
+http://mains.services/live/640939802963/IDC01478!/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt3)
+http://mains.services/live/3003556325/2772007/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt1)
+http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt2)
+http://mains.services/live/640939802963/IDC01478!/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt3)
+http://mains.services/live/3003556325/2772007/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt1)
+http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt2)
+http://mains.services/live/640939802963/IDC01478!/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt3)
+http://mains.services/live/3003556325/2772007/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt1)
+http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt2)
+http://mains.services/live/640939802963/IDC01478!/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt3)
+http://mains.services/live/3003556325/2772007/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt1)
+http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt2)
+http://mains.services/live/640939802963/IDC01478!/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt3)
+http://mains.services/live/3003556325/2772007/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt1)
+http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt2)
+http://mains.services/live/640939802963/IDC01478!/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt3)
+http://mains.services/live/3003556325/2772007/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt1)
@@ -7086,25 +7184,6 @@ http://mains.services:2086/3003556325/2772007/67063
 http://mains.services:2086/507Vej3h3S/4632273/67063
 
 
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
-http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
-http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt4)
-http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
-http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
-http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt4)
-http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸 UFC FIGHT PASS 1 | Paramount+ (opt1)
 http://pfsv.io:80/live/6181288/27664/132344.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸 UFC FIGHT PASS 1 | Paramount+ (opt2)
@@ -7125,6 +7204,136 @@ http://pfsv.io:80/live/6181288/27664/204149.m3u8
 http://pfsv.io:80/live/6181288/27664/204149.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸 UFC FIGHT PASS 3 | Paramount+ (opt3)
 http://pfsv.io:80/6181288/27664/204149
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
+http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
+http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
+http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt4)
+http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
+http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
+http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
+http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt4)
+http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt1)
+http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt2)
+http://mains.services/live/640939802963/IDC01478!/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt3)
+http://mains.services/live/3003556325/2772007/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt1)
+http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt2)
+http://mains.services/live/640939802963/IDC01478!/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt3)
+http://mains.services/live/3003556325/2772007/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt1)
+http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt2)
+http://mains.services/live/640939802963/IDC01478!/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt3)
+http://mains.services/live/3003556325/2772007/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt1)
+http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt2)
+http://mains.services/live/640939802963/IDC01478!/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt3)
+http://mains.services/live/3003556325/2772007/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt1)
+http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt2)
+http://mains.services/live/640939802963/IDC01478!/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt3)
+http://mains.services/live/3003556325/2772007/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt1)
+http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt2)
+http://mains.services/live/640939802963/IDC01478!/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt3)
+http://mains.services/live/3003556325/2772007/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt4)
+http://mains.services/live/507Vej3h3S/4632273/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+
+
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt1)
+http://mains.services:2086/640939802963/IDC01478!/56129
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt2)
+http://mains.vip:2086/3003556325/2772007/56129
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt3)
+http://mains.services:2086/4523074511/3178768/56129
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/56129
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/101190
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/101190
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
+http://mains.services:2086/640939802963/IDC01478!/101190
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt4)
+http://mains.services:2086/507Vej3h3S/4632273/101190
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
+http://mains.services:2086/4523074511/3178768/99440
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
+http://mains.vip:2086/3003556325/2772007/99440
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/99440
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/99440
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
+http://mains.services:2086/4523074511/3178768/90642
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
+http://mains.vip:2086/3003556325/2772007/90642
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/90642
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/90642
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
+http://mains.services:2086/4523074511/3178768/92717
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
+http://mains.vip:2086/3003556325/2772007/92717
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/92717
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/92717
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt1) 
+http://mains.services:2086/4523074511/3178768/100920
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt2) 
+http://mains.vip:2086/3003556325/2772007/100920
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt3) 
+http://mains.services:2086/640939802963/IDC01478!/100920
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt4) 
+http://mains.services:2086/507Vej3h3S/4632273/100920
+
 
 
 
@@ -7183,6 +7392,34 @@ http://pfsv.io:80/live/6181288/27664/204149.m3u8
 http://pfsv.io:80/live/6181288/27664/204149.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸 UFC FIGHT PASS 3 | Paramount+ (opt3)
 http://pfsv.io:80/6181288/27664/204149
+
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt2)
+http://mains.vip:2086/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt3)
+http://mains.services:2086/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt4)
+http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
+http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
+http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
+http://mains.services:2086/live/640939802963/IDC01478!/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
+http://mains.vip:2086/live/3003556325/2772007//8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
+http://mains.vip:2086/live/3003556325/2772007//8b75b2d4-3334-4345-b290-b0b3116a924a.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
+http://mains.services:2086/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
+http://mains.services:2086/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
+
 
 
 
@@ -7290,95 +7527,6 @@ http://pfsv.io:80/live/6181288/27664/130180.ts
 
 
 
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt1)
-http://mains.services:2086/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt2)
-http://mains.vip:2086/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt3)
-http://mains.services:2086/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt4)
-http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
-http://mains.services:2086/live/640939802963/IDC01478!/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
-http://mains.services:2086/live/640939802963/IDC01478!/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt3)
-http://mains.vip:2086/live/3003556325/2772007//8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt3)
-http://mains.vip:2086/live/3003556325/2772007//8b75b2d4-3334-4345-b290-b0b3116a924a.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt4)
-http://mains.services:2086/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt4)
-http://mains.services:2086/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
-
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/56129
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt2)
-http://mains.vip:2086/3003556325/2772007/56129
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56129
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/56129
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/101190
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
-http://mains.services:2086/640939802963/IDC01478!/101190
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/101190
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
-http://mains.services:2086/4523074511/3178768/99440
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
-http://mains.vip:2086/3003556325/2772007/99440
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/99440
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/99440
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
-http://mains.services:2086/4523074511/3178768/90642
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
-http://mains.vip:2086/3003556325/2772007/90642
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/90642
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/90642
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
-http://mains.services:2086/4523074511/3178768/92717
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
-http://mains.vip:2086/3003556325/2772007/92717
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/92717
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/92717
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt2) 
-http://mains.vip:2086/3003556325/2772007/100920
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt3) 
-http://mains.services:2086/640939802963/IDC01478!/100920
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt4) 
-http://mains.services:2086/507Vej3h3S/4632273/100920
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 03 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
-http://200.125.170.74:8000/play/a0gj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 1 EVENT
@@ -7407,7 +7555,7 @@ http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626006
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 04 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 03 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 http://200.125.170.74:8000/play/a0gj/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7782,13 +7930,6 @@ http://mains.vip:2086/3003556325/2772007/102318
 http://mains.vip:2086/6129666453/9260275/102318
 
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 05 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
-http://200.125.170.74:8000/play/a0gj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1
 http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2
@@ -7886,7 +8027,11 @@ http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bc
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
 http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 06 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 04 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7952,7 +8097,7 @@ https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/hbo.w
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 07 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 05 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -7994,12 +8139,6 @@ http://mains.services:2086/4523074511/3178768/95493
 http://mains.vip:2086/3003556325/2772007/95493
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇪🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt4) 
 http://mains.services:2086/507Vej3h3S/4632273/95493
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴛʙɴᵀᵛ  🇺🇸 UFC 08 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
-
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",🇲🇽★ FOX SPORTS PREMIUM | MX | UFC (opt1)
@@ -8046,13 +8185,6 @@ http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7748.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸★ PPV | UFC | BOX🥊 | (opt6)
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7748.ts
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇺🇸 UFC 09 PPV 🇺🇸  ⭐🌎 UFC📺BOX 🌎⭐
-http://200.125.170.74:8000/play/a0gj/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🥊UFC🌐Boxing🥊",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇲🇽★ CANAL 5* ᴹᵉˣⁱᶜᵒ | BOX🥊 | (opt1)
@@ -8186,6 +8318,11 @@ http://41.205.93.154/TBS/index.m3u8
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇸Ⓜ² TLC
 http://41.205.93.154/TLC/index.m3u8
+
+
+
+
+
 
 
 #EXTM3U
@@ -8592,22 +8729,35 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1906
 http://disfruta.net:80/fpavas/raZFGMA7GT/1698
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ LALIGA TV BAR HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1699
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1701.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1701.ts
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1701
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2902
-
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2902.m3u8
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
-http://disfruta.net:80/fpavas/raZFGMA7GT/2902
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/2902.ts
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ² Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Real Madrid Tv (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1702.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Real Madrid Tv (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1702.ts
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ Real Madrid Tv (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1702
 
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ TOROS TV FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1707.m3u8
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ TOROS TV FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1707.ts
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ TOROS TV FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1707
+
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ TNT SPORTS FHD (AR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2795
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸ᵀᵛ¹ TNT SPORTS HD (AR) x
@@ -11626,136 +11776,126 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV | MLS Cup [HD]
-http://pfsv.io:80/6181288/27664/289592.ts
+http://pfsv.io:80/live/6181288/27664/289592.m3u8
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV | MLS Cup [HD]
+http://pfsv.io:80/live/6181288/27664/289592.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV | MLS Cup [HD]
+http://pfsv.io:80/6181288/27664/289592
+
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 01 [HD]
-http://pfsv.io:80/6181288/27664/300146.ts
+http://pfsv.io:80/live/6181288/27664/300146.m3u8
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 01 [HD]
+http://pfsv.io:80/live/6181288/27664/300146.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 01 [HD]
+http://pfsv.io:80/6181288/27664/300146
+
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 02 [HD]
-http://pfsv.io:80/6181288/27664/300147.ts
+http://pfsv.io:80/live/6181288/27664/300147.m3u8
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 02 [HD]
+http://pfsv.io:80/live/6181288/27664/300147.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 02 [HD]
+http://pfsv.io:80/6181288/27664/300147
+
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 03 [HD]
-http://pfsv.io:80/6181288/27664/300148.ts
+http://pfsv.io:80/live/6181288/27664/300148.m3u8
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 03 [HD]
+http://pfsv.io:80/live/6181288/27664/300148.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 03 [HD]
+http://pfsv.io:80/6181288/27664/300148
+
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 04 [HD]
-http://pfsv.io:80/6181288/27664/303988.ts
+http://pfsv.io:80/live/6181288/27664/303988.m3u8
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 04 [HD]
+http://pfsv.io:80/live/6181288/27664/303988.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 04 [HD]
+http://pfsv.io:80/6181288/27664/303988
 
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/98485
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS (opt2)
-http://mains.services:2086/4523074511/3178768/98485
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS (opt3)
-http://mains.vip:2086/3003556325/2772007/98485
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/98485
 
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : INTER MIAMI CF
+
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
+http://mains.services/live/640939802963/IDC01478!/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt2)
 http://mains.services/live/4523074511/3178768/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : VANCOUVER WHITECAPS FC
-http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt3)
+http://mains.best:2086/live/3003556325/2772007/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt4)
+http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
 
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : ATLANTA UNITED
+#EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="MLS Atlanta United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ATLANTA UNITED (opt1)
 http://mains.services/live/4523074511/3178768/dab81e58-f35d-473e-96a6-9a0079343cc2.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : AUSTIN FC
+#EXTINF:-1 tvg-id="AustinFC.mls" tvg-name="MLS Austin FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : AUSTIN FC (opt1)
 http://mains.services/live/4523074511/3178768/a6df75c8-6393-4ab5-8564-594e4631c52a.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : CF MONTREAL
+#EXTINF:-1 tvg-id="CFMontreal.mls" tvg-name="MLS CF Montreal USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CF MONTREAL (opt1)
 http://mains.services/live/4523074511/3178768/f76fa2fd-7dce-4af4-bd10-51df532dd579.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : CHARLOTTE FC
+#EXTINF:-1 tvg-id="CharlotteFC.mls" tvg-name="MLS Charlotte FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHARLOTTE FC (opt1)
 http://mains.services/live/4523074511/3178768/80011e33-5a3a-4f7c-a9d2-1adf6f374134.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : CHICAGO FIRE FC
+#EXTINF:-1 tvg-id="ChicagoFireFC.mls" tvg-name="MLS Chicago Fire FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHICAGO FIRE FC (opt1)
 http://mains.services/live/4523074511/3178768/7dc87659-21d5-4044-8b37-1fcbb784c1d2.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : COLORADO RAPIDS
+#EXTINF:-1 tvg-id="ColoradoRapids.mls" tvg-name="MLS Colorado Rapids USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLORADO RAPIDS (opt1)
 http://mains.services/live/4523074511/3178768/8a4e2517-278d-4bba-999e-fc1d5b427ddc.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : COLUMBUS CREW
+#EXTINF:-1 tvg-id="ColumbusCrew.mls" tvg-name="MLS Columbus Crew USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLUMBUS CREW (opt1)
 http://mains.services/live/4523074511/3178768/bddee2a6-deac-4d3a-a895-8f7d318b681f.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : D.C. UNITED
+#EXTINF:-1 tvg-id="DCUnited.mls" tvg-name="MLS D.C United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : D.C. UNITED (opt1)
 http://mains.services/live/4523074511/3178768/2f6536e8-b8a6-4576-a922-e50ae801dc0e.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : FC CINCINNATI
+#EXTINF:-1 tvg-id="FCCincinnati.mls" tvg-name="MLS FC Cincinnati USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC CINCINNATI (opt1)
 http://mains.services/live/4523074511/3178768/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : FC DALLAS
+#EXTINF:-1 tvg-id="FCDallas.mls" tvg-name="MLS FC Dallas USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC DALLAS (opt1)
 http://mains.services/live/4523074511/3178768/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : HOUSTON DYNAMO
+#EXTINF:-1 tvg-id="HoustonDynamoFC.mls" tvg-name="MLS Houston Dynamo FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : HOUSTON DYNAMO (opt1)
 http://mains.services/live/4523074511/3178768/94cdfecc-a16d-483f-921d-746d9275a8c3.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : INTER MIAMI CF
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
 http://mains.services/live/4523074511/3178768/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : LA GALAXY
+#EXTINF:-1 tvg-id="LAGalaxy.mls" tvg-name="MLS LA Galaxy USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LA GALAXY (opt1)
 http://mains.services/live/4523074511/3178768/d786184e-f143-4769-b143-e724ce5ebe5f.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : LOS ANGELES FOOTBALL CLUB
+#EXTINF:-1 tvg-id="LosAngelesFootballClub.mls" tvg-name="MLS Los Angeles Football Club" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LOS ANGELES FOOTBALL CLUB (opt1)
 http://mains.services/live/4523074511/3178768/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : MINNESOTA UNITED
+#EXTINF:-1 tvg-id="MinnesotaUnited.mls" tvg-name="MLS Minnesota United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : MINNESOTA UNITED (opt1)
 http://mains.services/live/4523074511/3178768/47cf7383-8171-41dc-b337-955fe1518b73.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : NASHVILLE SC
+#EXTINF:-1 tvg-id="NashvilleSC.mls" tvg-name="MLS Nashville SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NASHVILLE SC (opt1)
 http://mains.services/live/4523074511/3178768/7abebf80-8eca-4492-a3ec-a3b244857fe2.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : NEW ENGLAND REVOLUTION
+#EXTINF:-1 tvg-id="NewEnglandRevolution.mls" tvg-name="MLS New England Revolution USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW ENGLAND REVOLUTION (opt1)
 http://mains.services/live/4523074511/3178768/b958ff85-40c8-460b-8673-cfcc608ae400.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : NEW YORK CITY FC
+#EXTINF:-1 tvg-id="NewYorkCityFC.mls" tvg-name="MLS New York City Football Club USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK CITY FC (opt1)
 http://mains.services/live/4523074511/3178768/ebf05fe9-d610-4159-867b-62de63081dc4.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : NEW YORK RED BULLS
+#EXTINF:-1 tvg-id="NewYorkRedBulls.mls" tvg-name="MLS New York Red Bulls USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK RED BULLS (opt1)
 http://mains.services/live/4523074511/3178768/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : ORLANDO CITY
+#EXTINF:-1 tvg-id="OrlandoCity.mls" tvg-name="MLS Orlando City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ORLANDO CITY (opt1)
 http://mains.services/live/4523074511/3178768/16f08309-9805-4d90-b26d-205684941eea.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : PHILADELPHIA UNION
+#EXTINF:-1 tvg-id="PhiladelphiaUnion.mls" tvg-name="MLS Philadelphia Union USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PHILADELPHIA UNION (opt1)
 http://mains.services/live/4523074511/3178768/5f97d581-4872-4d4a-9788-b2b56dd5c49b.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : PORTLAND TIMBERS
+#EXTINF:-1 tvg-id="PortlandTimbers.mls" tvg-name="MLS Portland Timbers USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PORTLAND TIMBERS (opt1)
 http://mains.services/live/4523074511/3178768/1b41217d-03a9-473e-afb0-7b7604a36324.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : REAL SALT LAKE
+#EXTINF:-1 tvg-id="RealSaltLake.mls" tvg-name="MLS Real Salt Lake" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : REAL SALT LAKE (opt1)
 http://mains.services/live/4523074511/3178768/e365e3f2-efaa-40bf-a233-0eccec1ffa48.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : SAN DIEGO FC
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN DIEGO FC (opt1)
 http://mains.services/live/4523074511/3178768/953a2f3c-9d29-4629-ad52-c377fcb2f850.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : SAN JOSE EARTHQUAKES
+#EXTINF:-1 tvg-id="SanJoseEarthquakes.mls" tvg-name="MLS San Jose Earthquakes USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN JOSE EARTHQUAKES (opt1)
 http://mains.services/live/4523074511/3178768/caffdae3-2070-4cb6-9ef1-5125558269fd.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : SEATTLE SOUNDERS FC
+#EXTINF:-1 tvg-id="SeattleSoundersFC.mls" tvg-name="MLS Seattle Sounders FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SEATTLE SOUNDERS FC (opt1)
 http://mains.services/live/4523074511/3178768/7553dee7-74f1-4e11-95d3-2b41e68e96be.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : SPORTING KANSAS CITY
+#EXTINF:-1 tvg-id="SportingKansasCity.mls" tvg-name="MLS Sporting Kansas City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SPORTING KANSAS CITY (opt1)
 http://mains.services/live/4523074511/3178768/88f38570-1cae-4e06-809d-e2b1a0cbd943.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : ST LOUIS CITY SC
+#EXTINF:-1 tvg-id="StLouisCITYSC.mls" tvg-name="MLS St. Louis City SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ST LOUIS CITY SC (opt1)
 http://mains.services/live/4523074511/3178768/52111f2a-a55a-41ad-9660-0e994a35770e.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : TORONTO FC
+#EXTINF:-1 tvg-id="TorontoFC.mls" tvg-name="MLS Toronto DC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : TORONTO FC (opt1)
 http://mains.services/live/4523074511/3178768/b64c9730-9dbd-45d2-b429-88f4b63667cf.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS : VANCOUVER WHITECAPS FC
+
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt1)
 http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt2)
+http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt3)
+http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt4)
+http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.ts
 
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS 01 (opt1)
-http://mains.services:2086/640939802963/IDC01478!/102337
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS 01 (opt2)
-http://mains.services:2086/4523074511/3178768/102337
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS 01 (opt3)
-http://mains.vip:2086/3003556325/2772007/102337
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS 01 (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/102337
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 01 - 
-http://mains.services:2086/640939802963/IDC01478!/102337
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 02 - 
-http://mains.services:2086/640939802963/IDC01478!/102338
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 03 - 
-http://mains.services:2086/640939802963/IDC01478!/102339
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 04 - 
-http://mains.services:2086/640939802963/IDC01478!/102340
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 05 - 
-http://mains.services:2086/640939802963/IDC01478!/102341
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 06 - 
-http://mains.services:2086/640939802963/IDC01478!/102342
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 07 - 
-http://mains.services:2086/640939802963/IDC01478!/102343
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 08 - 
-http://mains.services:2086/640939802963/IDC01478!/102344
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 09 - 
-http://mains.services:2086/640939802963/IDC01478!/102345
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 10 - 
-http://mains.services:2086/640939802963/IDC01478!/102346
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 11 - 
-http://mains.services:2086/640939802963/IDC01478!/102347
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 12 - 
-http://mains.services:2086/640939802963/IDC01478!/102348
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : MLS 13 - 
-http://mains.services:2086/640939802963/IDC01478!/102349
-
-
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt1)
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/1673
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt2)
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt2)
 http://mains.services:2086/4523074511/3178768/1673
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt3)
-http://mains.vip:2086/3003556325/2772007/1673
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt4)
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt3)
+http://mains.best:2086/3003556325/2772007/1673
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/1673
 
 
@@ -11767,18 +11907,31 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽MLS🇺🇸Soccer⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  tv.mr 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt1)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/35215.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt2)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/35215.ts
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt3)
 http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/35215
-#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="Yes TV HD CA" tvg-logo="https://picon-13398.kxcdn.com/yestvca.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes TV HD CA
-http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/26274
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD CA" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Network HD CA
-http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/21298
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Network HD US
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Network HD US (opt1)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/10699.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Network HD US (opt2)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/10699.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Network HD US (opt3)
 http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/10699
-#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strikezone HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbstrikezone.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Strikezone HD US
+
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strikezone HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbstrikezone.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Strikezone HD US (opt1)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/51291.m3u8
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strikezone HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbstrikezone.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Strikezone HD US (opt2)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/51291.ts
+#EXTINF:-1 tvg-id="MLBStrikeZone.us" tvg-name="MLB Strikezone HD US" tvg-logo="https://picon-13398.kxcdn.com/mlbstrikezone.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Strikezone HD US (opt3)
 http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/51291
 
+#EXTINF:-1 tvg-id="YesTV.ca" tvg-name="Yes TV HD CA" tvg-logo="https://picon-13398.kxcdn.com/yestvca.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes TV HD CA
+http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/26274
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network HD CA" tvg-logo="https://picon-13398.kxcdn.com/mlbnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLB Network HD CA
+http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/21298
 
 #EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="MLS Atlanta United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",MLS Atlanta United USA
 http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/128022
@@ -11841,125 +11994,6 @@ http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/128048
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚽MLS🇺🇸Soccer⚽",🇺🇸 MLS 03 🇺🇸    ▂ ▄ ▅ ▆ ⚽ MLS🇺🇸Soccer ⚽ ▆ ▅ ▄ ▂
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚽MLS🇺🇸Soccer⚽",✝️ᴛʙɴᵀᵛ  🇺🇸 MLS 03 🇺🇸  ⭐🌎 ⚽MLS🇺🇸Soccer⚽ 🌎⭐
-https://streamer1.nexgen.bz/TBN/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽MLS🇺🇸Soccer⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Inter Miami CF (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.inter.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Inter Miami CF (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.inter.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Inter Miami CF (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.inter.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Inter Miami CF (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.inter.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Vancouver Whitecaps FC (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.vancouver.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Vancouver Whitecaps FC (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.vancouver.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Vancouver Whitecaps FC (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.vancouver.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Vancouver Whitecaps FC (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.vancouver.sport.m3u8
-
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 1 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.1.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 1 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.1.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 1 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.1.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 1 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.1.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 2 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.2.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 2 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.2.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 2 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.2.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 2 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.2.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 3 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.3.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 3 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.3.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 3 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.3.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 3 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.3.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 4 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.4.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 4 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.4.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 4 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.4.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 4 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.4.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 5 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.5.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 5 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.5.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 5 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.5.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 5 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.5.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 6 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.6.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 6 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.6.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 6 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.6.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 6 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.6.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 7 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.7.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 7 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.7.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 7 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.7.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 7 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.7.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 8 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.8.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 8 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.8.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 8 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.8.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 8 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.8.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 9 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.9.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 9 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.9.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 9 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.9.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 9 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.9.sport.m3u8
-
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 10 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mls.league.10.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 10 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mls.league.10.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 10 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mls.league.10.sport.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",⚽ MLS Leagues Cup 10 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mls.league.10.sport.m3u8
-
-
-
 
 
 
@@ -11998,7 +12032,7 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1838.ts
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1838
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt1)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7787.m3u8
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7787.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt2)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7787.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt3)
@@ -12024,7 +12058,7 @@ http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f752
 http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt1)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7785.m3u8
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7785.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt2)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7785.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt3)
@@ -12033,7 +12067,7 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7785.m3u8
 http://alfa.7057460.xyz:2095/ameca01/1989/7785
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt1)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7786.m3u8
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7786.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt2)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7786.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt3)
@@ -12057,7 +12091,7 @@ http://mains.services:2086/507Vej3h3S/4632273/92583
 
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt1)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7782.m3u8
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7782.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt2)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7782.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt3)
@@ -12218,7 +12252,9 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 http://mains.services:2086/640939802963/IDC01478!/64091
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt2)
 http://mains.services/live/4523074511/3178768/64091.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt2)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt3)
+http://mains.services:2086/3003556325/2772007/64091
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/64091
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK STRIKE ZONE (opt1) x
@@ -12226,60 +12262,60 @@ http://mains.services:2086/640939802963/IDC01478!/14871
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK STRIKE ZONE (opt2)
 http://mains.services:2086/507Vej3h3S/4632273/14871
 
-#EXTINF:-1,MLB 00 (FOX5 WORLD SERIES)
-http://mains.services:2086/640939802963/IDC01478!/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4dd.m3u
-#EXTINF:-1,MLB 00 (FOX5 WORLD SERIES)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 00 (FOX5 WORLD SERIES)
+http://mains.services:2086/live/640939802963/IDC01478!/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4dd.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 00 (FOX5 WORLD SERIES)
 http://mains.services/live/4523074511/3178768/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4dd.m3u
-#EXTINF:-1,MLB 00 (FOX5 WORLD SERIES)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 00 (FOX5 WORLD SERIES)
 http://mains.services:2086/live/507Vej3h3S/4632273/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4dd.m3u
 
-#EXTINF:-1,MLB 01 (ABC)
-http://mains.services:2086/640939802963/IDC01478!/eab3fc2a-241d-49ce-b6ac-84715fc11a3e.m3u
-#EXTINF:-1,MLB 01 (ABC)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ,MLB 01 (ABC)
+http://mains.services:2086/live/640939802963/IDC01478!/eab3fc2a-241d-49ce-b6ac-84715fc11a3e.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 01 (ABC)
 http://mains.services/live/4523074511/3178768/eab3fc2a-241d-49ce-b6ac-84715fc11a3e.m3u
-#EXTINF:-1,MLB 01 (ABC)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 01 (ABC)
 http://mains.services:2086/live/507Vej3h3S/4632273/eab3fc2a-241d-49ce-b6ac-84715fc11a3e.m3u
 
-#EXTINF:-1,MLB 02 (ESPN)
-http://mains.services:2086/640939802963/IDC01478!/598b25cd-1128-4794-9529-a4e7395698eb.m3u
-#EXTINF:-1,MLB 02 (ESPN)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 02 (ESPN)
+http://mains.services:2086/live/640939802963/IDC01478!/598b25cd-1128-4794-9529-a4e7395698eb.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 02 (ESPN)
 http://mains.services/live/4523074511/3178768/598b25cd-1128-4794-9529-a4e7395698eb.m3u
-#EXTINF:-1,MLB 02 (ESPN)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 02 (ESPN)
 http://mains.services:2086/live/507Vej3h3S/4632273/598b25cd-1128-4794-9529-a4e7395698eb.m3u
 
-#EXTINF:-1,MLB 03 (ESPN 2)
-http://mains.services:2086/640939802963/IDC01478!/1869ec5d-6eea-4f2e-8022-c6a8c82e90cb.m3u
-#EXTINF:-1,MLB 03 (ESPN 2)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 03 (ESPN 2)
+http://mains.services:2086/live/640939802963/IDC01478!/1869ec5d-6eea-4f2e-8022-c6a8c82e90cb.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 03 (ESPN 2)
 http://mains.services/live/4523074511/3178768/1869ec5d-6eea-4f2e-8022-c6a8c82e90cb.m3u
-#EXTINF:-1,MLB 03 (ESPN 2)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 03 (ESPN 2)
 http://mains.services:2086/live/507Vej3h3S/4632273/1869ec5d-6eea-4f2e-8022-c6a8c82e90cb.m3u
 
-#EXTINF:-1,MLB 04 (TBS)
-http://mains.services:2086/640939802963/IDC01478!/aef0401f-f417-42c1-b7fb-39f1000b2a8f.m3u
-#EXTINF:-1,MLB 04 (TBS)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 04 (TBS)
+http://mains.services:2086/live/640939802963/IDC01478!/aef0401f-f417-42c1-b7fb-39f1000b2a8f.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 04 (TBS)
 http://mains.services/live/4523074511/3178768/aef0401f-f417-42c1-b7fb-39f1000b2a8f.m3u
-#EXTINF:-1,MLB 04 (TBS)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 04 (TBS)
 http://mains.services:2086/live/507Vej3h3S/4632273/aef0401f-f417-42c1-b7fb-39f1000b2a8f.m3u
 
-#EXTINF:-1,MLB 05 (TruTV)
-http://mains.services:2086/640939802963/IDC01478!/bde36827-1f1d-4bdc-be86-671ddc81b527.m3u
-#EXTINF:-1,MLB 05 (TruTV)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 05 (TruTV)
+http://mains.services:2086/live/640939802963/IDC01478!/bde36827-1f1d-4bdc-be86-671ddc81b527.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 05 (TruTV)
 http://mains.services/live/4523074511/3178768/bde36827-1f1d-4bdc-be86-671ddc81b527.m3u
-#EXTINF:-1,MLB 05 (TruTV)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 05 (TruTV)
 http://mains.services:2086/live/507Vej3h3S/4632273/bde36827-1f1d-4bdc-be86-671ddc81b527.m3u
 
-#EXTINF:-1,MLB 06 (FOX)
-http://mains.services:2086/640939802963/IDC01478!/596d6ab3-c1c8-4644-b333-f4c247ba1011.m3u
-#EXTINF:-1,MLB 06 (FOX)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 06 (FOX)
+http://mains.services:2086/live/640939802963/IDC01478!/596d6ab3-c1c8-4644-b333-f4c247ba1011.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 06 (FOX)
 http://mains.services/live/4523074511/3178768/596d6ab3-c1c8-4644-b333-f4c247ba1011.m3u
-#EXTINF:-1,MLB 06 (FOX)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 06 (FOX)
 http://mains.services:2086/live/507Vej3h3S/4632273/596d6ab3-c1c8-4644-b333-f4c247ba1011.m3u
 
-#EXTINF:-1,MLB 07 (FS1)
-http://mains.services:2086/640939802963/IDC01478!/fb8f9cdb-6a03-4186-8990-66e5e2329d4e.m3u
-#EXTINF:-1,MLB 07 (FS1)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 07 (FS1)
+http://mains.services:2086/live/640939802963/IDC01478!/fb8f9cdb-6a03-4186-8990-66e5e2329d4e.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 07 (FS1)
 http://mains.services/live/4523074511/3178768/fb8f9cdb-6a03-4186-8990-66e5e2329d4e.m3u
-#EXTINF:-1,MLB 07 (FS1)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 07 (FS1)
 http://mains.services:2086/live/507Vej3h3S/4632273/fb8f9cdb-6a03-4186-8990-66e5e2329d4e.m3u
 
 
@@ -12495,118 +12531,70 @@ http://mains.services:2086/507Vej3h3S/4632273/50112
 
 
 
-#EXTINF:-1,US : MLB ARIZONA DIAMONDBACKS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ARIZONA DIAMONDBACKS
 http://mains.services/live/4523074511/3178768/1964a6b6-6815-4fd3-83f7-963706bb7868.m3u
-#EXTINF:-1,US : MLB ATLANTA BRAVES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ATLANTA BRAVES
 http://mains.services/live/4523074511/3178768/2f5b050d-0fb1-4728-96ca-eb2a5402039d.m3u
-#EXTINF:-1,US : MLB BALTIMORE ORIOLES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB BALTIMORE ORIOLES
 http://mains.services/live/4523074511/3178768/e7170e46-1d99-4a15-9a8d-413cafa9c8cf.m3u
-#EXTINF:-1,US : MLB BOSTON RED SOX
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB BOSTON RED SOX
 http://mains.services/live/4523074511/3178768/f7169253-659d-4761-a3ff-31650d6e104d.m3u
-#EXTINF:-1,US : MLB CHICAGO CUBS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CHICAGO CUBS
 http://mains.services/live/4523074511/3178768/e5d5d872-8646-4474-bf02-7aa7d8a3a002.m3u
-#EXTINF:-1,US : MLB CHICAGO WHITE SOX
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CHICAGO WHITE SOX
 http://mains.services/live/4523074511/3178768/b819fb47-249c-4aeb-b224-59d0616e2204.m3u
-#EXTINF:-1,US : MLB CINCINNATI REDS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CINCINNATI REDS
 http://mains.services/live/4523074511/3178768/5a993623-b83a-4d8d-bac3-81204123395c.m3u
-#EXTINF:-1,US : MLB CLEVELAND GUARDIANS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CLEVELAND GUARDIANS
 http://mains.services/live/4523074511/3178768/6e9e5827-d0ec-4f2c-8417-afbaab8f4cde.m3u
-#EXTINF:-1,US : MLB COLORADO ROCKIES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB COLORADO ROCKIES
 http://mains.services/live/4523074511/3178768/7d6ca8f6-181a-40d9-bb8d-8a032f5cdbee.m3u
-#EXTINF:-1,US : MLB DETROIT TIGERS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB DETROIT TIGERS
 http://mains.services/live/4523074511/3178768/ac152186-7bf5-46b9-bb5f-1ee0f07430eb.m3u
-#EXTINF:-1,US : MLB HOUSTON ASTROS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB HOUSTON ASTROS
 http://mains.services/live/4523074511/3178768/b38b08c7-8221-4495-a8d3-155c95ed01d2.m3u
-#EXTINF:-1,US : MLB KANSAS CITY ROYALS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB KANSAS CITY ROYALS
 http://mains.services/live/4523074511/3178768/ed962904-87ff-4df8-872b-dc00e4dd7de5.m3u
-#EXTINF:-1,US : MLB LOS ANGELES ANGELS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB LOS ANGELES ANGELS
 http://mains.services/live/4523074511/3178768/e8bcacd0-3f6e-4be0-b67c-afe92a3fe075.m3u
-#EXTINF:-1,US : MLB LOS ANGELES DODGERS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB LOS ANGELES DODGERS
 http://mains.services/live/4523074511/3178768/aaee708c-0267-4dcd-9b81-3f67adf6e5fe.m3u
-#EXTINF:-1,US : MLB MIAMI MARLINS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MIAMI MARLINS
 http://mains.services/live/4523074511/3178768/64d6d6b1-3fcf-46f2-8403-94ef673ef015.m3u
-#EXTINF:-1,US : MLB MILWAUKEE BREWERS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MILWAUKEE BREWERS
 http://mains.services/live/4523074511/3178768/b78aab4c-905b-44b8-b019-59058f72108c.m3u
-#EXTINF:-1,US : MLB MINNESOTA TWINS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MINNESOTA TWINS
 http://mains.services/live/4523074511/3178768/9c827b3e-2240-4bc6-a7cb-27990f9eb8e0.m3u
-#EXTINF:-1,US : MLB NETWORK FHD 1080
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NETWORK FHD 1080
 http://mains.services/live/4523074511/3178768/9f641b3b-11ed-41e1-b34d-90b9ea49a3f8.m3u
-#EXTINF:-1,US : MLB NETWORK STRIKE ZONE USA
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NETWORK STRIKE ZONE USA
 http://mains.services/live/4523074511/3178768/39b7f693-bcfb-45c1-9475-3e9821e26b2d.m3u
-#EXTINF:-1,US : MLB NEW YORK METS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NEW YORK METS
 http://mains.services/live/4523074511/3178768/3d0f73ab-58da-4321-a9e2-5ff590dee5e6.m3u
-#EXTINF:-1,US : MLB NEW YORK YANKEES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NEW YORK YANKEES
 http://mains.services/live/4523074511/3178768/e175e559-0f14-404f-989b-133bbcee744d.m3u
-#EXTINF:-1,US : MLB OAKLAND ATHLETICS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB OAKLAND ATHLETICS
 http://mains.services/live/4523074511/3178768/34fcfe10-29a0-4579-8971-e45a9175cbe3.m3u
-#EXTINF:-1,US : MLB PHILADELPHIA PHILLIES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB PHILADELPHIA PHILLIES
 http://mains.services/live/4523074511/3178768/d35fb16d-cf59-4407-8186-064f17b616bb.m3u
-#EXTINF:-1,US : MLB PITTSBURGH PIRATES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB PITTSBURGH PIRATES
 http://mains.services/live/4523074511/3178768/36fe607f-c6ba-4c2d-9854-3e7d9373a88d.m3u
-#EXTINF:-1,US : MLB SAN DIEGO PADRES
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SAN DIEGO PADRES
 http://mains.services/live/4523074511/3178768/e79b3bf1-beff-4ac4-b311-f2b9e24879bb.m3u
-#EXTINF:-1,US : MLB SAN FRANCISCO GIANTS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SAN FRANCISCO GIANTS
 http://mains.services/live/4523074511/3178768/a675f7f4-517f-435e-8363-14773f4b9c17.m3u
-#EXTINF:-1,US : MLB SEATTLE MARINERS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SEATTLE MARINERS
 http://mains.services/live/4523074511/3178768/519789b5-19a8-4e8b-b45a-4e29e68a185d.m3u
-#EXTINF:-1,US : MLB ST LOUIS CARDINALS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ST LOUIS CARDINALS
 http://mains.services/live/4523074511/3178768/8bc46b7d-8420-47f2-89ab-8860f81eb7fb.m3u
-#EXTINF:-1,US : MLB TAMPA BAY RAYS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TAMPA BAY RAYS
 http://mains.services/live/4523074511/3178768/7c6df4a5-bd7a-4746-b3e8-615380d3544f.m3u
-#EXTINF:-1,US : MLB TEXAS RANGERS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TEXAS RANGERS
 http://mains.services/live/4523074511/3178768/aa62050c-9f1b-47d5-8cbe-f9b7eb1303cd.m3u
-#EXTINF:-1,US : MLB TORONTO BLUE JAYS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TORONTO BLUE JAYS
 http://mains.services/live/4523074511/3178768/0293ecf9-ad48-404b-b979-742caf39d464.m3u
-#EXTINF:-1,US : MLB WASHINGTON NATIONALS
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB WASHINGTON NATIONALS
 http://mains.services/live/4523074511/3178768/fc9725f3-75a3-4a48-b0bd-66e7596fbc45.m3u
-
-
-
-
-#EXTINF:-1,MLB : Extra Innings 00 Youtube Game of the Week
-http://mains.services/live/4523074511/3178768/e2fd2512-ae8d-4347-ae87-6d6e5ffe3d77.m3u
-#EXTINF:-1,MLB : Extra Innings 01
-http://mains.services/live/4523074511/3178768/32c13b08-2340-49fc-a950-0e945fd415ef.m3u
-#EXTINF:-1,MLB : Extra Innings 02
-http://mains.services/live/4523074511/3178768/c1a0a3bf-33fb-4a9f-a0fd-3b3af1a8ebc7.m3u
-#EXTINF:-1,MLB : Extra Innings 03
-http://mains.services/live/4523074511/3178768/b077c625-837d-4643-aac1-0143dc6bb9ff.m3u
-#EXTINF:-1,MLB : Extra Innings 04
-http://mains.services/live/4523074511/3178768/62b22b33-7b5f-42db-9862-4c93ba6b7885.m3u
-#EXTINF:-1,MLB : Extra Innings 05
-http://mains.services/live/4523074511/3178768/51fb9ac1-04e0-486f-ae0d-516bfc482825.m3u
-#EXTINF:-1,MLB : Extra Innings 06
-http://mains.services/live/4523074511/3178768/97a2d66f-aa19-4cba-b49a-2e3939ec677b.m3u
-#EXTINF:-1,MLB : Extra Innings 07
-http://mains.services/live/4523074511/3178768/421a4c26-ea9f-46bf-9057-2b1aa1ecaafd.m3u
-#EXTINF:-1,MLB : Extra Innings 08
-http://mains.services/live/4523074511/3178768/015cf71e-0a84-410f-82ec-659980fe3956.m3u
-#EXTINF:-1,MLB : Extra Innings 09
-http://mains.services/live/4523074511/3178768/a08fe693-66f1-4ee0-9183-e7f210a728fb.m3u
-#EXTINF:-1,MLB : Extra Innings 10
-http://mains.services/live/4523074511/3178768/de903924-da57-4c11-a53e-605d2fc3e9a6.m3u
-#EXTINF:-1,MLB : Extra Innings 11
-http://mains.services/live/4523074511/3178768/53c51a61-4969-42af-95d8-f9dad0c4cf84.m3u
-#EXTINF:-1,MLB : Extra Innings 12
-http://mains.services/live/4523074511/3178768/0e6f6c47-3a0d-4ac9-8a08-8c0a578cae64.m3u
-#EXTINF:-1,MLB : Extra Innings 13
-http://mains.services/live/4523074511/3178768/f55c31c3-aaba-4f3c-aa95-73849be4612d.m3u
-#EXTINF:-1,MLB : Extra Innings 14
-http://mains.services/live/4523074511/3178768/919d55be-996b-47bd-ab00-60b709b22e0c.m3u
-#EXTINF:-1,MLB : Extra Innings 15
-http://mains.services/live/4523074511/3178768/63c005fb-cdea-4b5d-a578-d34bf0c3036f.m3u
-#EXTINF:-1,MLB : Extra Innings 16
-http://mains.services/live/4523074511/3178768/c6aa240f-5524-4b0d-bb1d-0732135b0758.m3u
-#EXTINF:-1,MLB : Extra Innings 17
-http://mains.services/live/4523074511/3178768/0d31d2af-9e99-43ed-9a60-107a691e3931.m3u
-#EXTINF:-1,MLB : Extra Innings 18
-http://mains.services/live/4523074511/3178768/bedb4d04-6aec-45e6-84e7-16ce989d9ce8.m3u
-#EXTINF:-1,MLB : Extra Innings 19
-http://mains.services/live/4523074511/3178768/cf6ba14c-fce9-4dcc-a31b-b8335958f78f.m3u
-#EXTINF:-1,MLB : Extra Innings 20
-http://mains.services/live/4523074511/3178768/96246528-da1c-4a24-aa53-c29eeba93fcd.m3u
-
-
 
 
 
@@ -12634,121 +12622,121 @@ https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mlb.networ
 https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mlb.network.strike.zone.us.m3u8
 
 
-#EXTINF:-1,MLB | Arizona Diamondbacks
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Arizona Diamondbacks
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/305.ts
-#EXTINF:-1,MLB | Atlanta Braves
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Atlanta Braves
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/307.ts
-#EXTINF:-1,MLB | Baltimore Orioles
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Baltimore Orioles
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30162.ts
-#EXTINF:-1,MLB | Boston Red Sox
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Boston Red Sox
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/309.ts
-#EXTINF:-1,MLB | Chicago Cubs
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Chicago Cubs
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/310.ts
-#EXTINF:-1,MLB | Chicago White Sox
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Chicago White Sox
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/312.ts
-#EXTINF:-1,MLB | Cincinnati Reds
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Cincinnati Reds
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/314.ts
-#EXTINF:-1,MLB | Cleveland Guardians
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Cleveland Guardians
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/316.ts
-#EXTINF:-1,MLB | Colorado Rockies
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Colorado Rockies
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30093.ts
-#EXTINF:-1,MLB | Detroit Tigers
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Detroit Tigers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/318.ts
-#EXTINF:-1,MLB | Houston Astros
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Houston Astros
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30091.ts
-#EXTINF:-1,MLB | Kansas City Royals
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Kansas City Royals
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/320.ts
-#EXTINF:-1,MLB | Los Angeles Angels
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Los Angeles Angels
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/321.ts
-#EXTINF:-1,MLB | Los Angeles Dodgers
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Los Angeles Dodgers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/303.ts
-#EXTINF:-1,MLB | Miami Marlins
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Miami Marlins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/323.ts
-#EXTINF:-1,MLB | Milwaukee Brewers
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Milwaukee Brewers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/325.ts
-#EXTINF:-1,MLB | Minnesota Twins
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Minnesota Twins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/327.ts
-#EXTINF:-1,MLB | Minnesota Twins
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Minnesota Twins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/100021.ts
-#EXTINF:-1,MLB | New York Mets
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | New York Mets
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30089.ts
-#EXTINF:-1,MLB | New York Yankees
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | New York Yankees
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/329.ts
-#EXTINF:-1,MLB | Oakland Athletics
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Oakland Athletics
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/330.ts
-#EXTINF:-1,MLB | Philadelphia Phillies
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Philadelphia Phillies
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/331.ts
-#EXTINF:-1,MLB | Pittsburgh Pirates
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Pittsburgh Pirates
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30094.ts
-#EXTINF:-1,MLB | San Diego Padres
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | San Diego Padres
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/332.ts
-#EXTINF:-1,MLB | San Francisco Giants
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | San Francisco Giants
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/333.ts
-#EXTINF:-1,MLB | Seattle Mariners
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Seattle Mariners
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30163.ts
-#EXTINF:-1,MLB | St. Louis Cardinals
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | St. Louis Cardinals
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30090.ts
-#EXTINF:-1,MLB | Tampa Bay Rays
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Tampa Bay Rays
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/334.ts
-#EXTINF:-1,MLB | Texas Rangers
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Texas Rangers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/335.ts
-#EXTINF:-1,MLB | Toronto Blue Jays
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Toronto Blue Jays
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30092.ts
-#EXTINF:-1,MLB | Washington Nationals
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Washington Nationals
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30161.ts
 
-#EXTINF:-1,LMP | Evento 1
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54200.ts
-#EXTINF:-1,LMP | Evento 2
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54201.ts
-#EXTINF:-1,LMP | Evento 3
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 3
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54202.ts
-#EXTINF:-1,LMP | Evento 4
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 4
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54203.ts
-#EXTINF:-1,LMP | Evento 5
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 5
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54204.ts
-#EXTINF:-1,LMP | Evento 6
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 6
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/94211.ts
-#EXTINF:-1,LMP | Evento 7
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 7
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/94212.ts
-#EXTINF:-1,LMP | Evento 8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMP | Evento 8
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/94213.ts
 
-#EXTINF:-1,LMB | Acereros de Monclova
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48714.ts x
-#EXTINF:-1,LMB | Algodoneros de Union Laguna
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Acereros de Monclova
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48714.ts 
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Algodoneros de Union Laguna
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48715.ts
-#EXTINF:-1,LMB | Bravos de Leon
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Bravos de Leon
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48716.ts
-#EXTINF:-1,LMB | Diablos Rojos del México
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Diablos Rojos del México
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48717.ts
-#EXTINF:-1,LMB | El Aguila de Veracruz
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | El Aguila de Veracruz
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48718.ts
-#EXTINF:-1,LMB | Generales de Durango
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Generales de Durango
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48719.ts
-#EXTINF:-1,LMB | Guerreros de Oaxaca
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Guerreros de Oaxaca
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48720.ts
-#EXTINF:-1,LMB | Leones de Yucatan
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Leones de Yucatan
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48722.ts
-#EXTINF:-1,LMB | Mariachis de Guadalajara
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Mariachis de Guadalajara
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48723.ts
-#EXTINF:-1,LMB | Olmecas de Tabasco
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48724.ts x
-#EXTINF:-1,LMB | Pericos de Puebla
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Olmecas de Tabasco
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48724.ts 
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Pericos de Puebla
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48721.ts
-#EXTINF:-1,LMB | Piratas de Campeche
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Piratas de Campeche
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48725.ts
-#EXTINF:-1,LMB | Rieleros de Aguascalientes
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Rieleros de Aguascalientes
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48726.ts
-#EXTINF:-1,LMB | Saraperos de Saltillo
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Saraperos de Saltillo
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48727.ts
-#EXTINF:-1,LMB | Sultanes de Monterrey
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Sultanes de Monterrey
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48713.ts
-#EXTINF:-1,LMB | Tecolotes de los Dos Laredos
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Tecolotes de los Dos Laredos
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48729.ts
-#EXTINF:-1,LMB | Tigres de Quintana Roo
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Tigres de Quintana Roo
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48730.ts
-#EXTINF:-1,LMB | Toros de Tijuana
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Toros de Tijuana
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48728.ts
 
 
@@ -12837,71 +12825,71 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png",◉tvusa   *♡♥  REBOOT DAILY FOR UPDATED  ♥♡*
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 00 (NBA FINALS)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 00 (NBA FINALS)
 http://mains.services/live/4523074511/3178768/342a466b-1716-45c9-bba5-f539209160b0.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 00 (NBA FINALS)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 00 (NBA FINALS)
 http://mains.services/live/4523074511/3178768/342a466b-1716-45c9-bba5-f539209160b0.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 01 (TNT)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 01 (TNT)
 http://mains.services/live/4523074511/3178768/28ceddc2-911d-418f-9d8b-7a0af2940d32.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 01 (TNT)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 01 (TNT)
 http://mains.services/live/4523074511/3178768/28ceddc2-911d-418f-9d8b-7a0af2940d32.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 02 (ESPN)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 02 (ESPN)
 http://mains.services/live/4523074511/3178768/60eb1a1e-ccc8-4b49-ae80-02f20758daf7.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 02 (ESPN)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 02 (ESPN)
 http://mains.services/live/4523074511/3178768/60eb1a1e-ccc8-4b49-ae80-02f20758daf7.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 03 (ABC)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 03 (ABC)
 http://mains.services/live/4523074511/3178768/b16a4a01-8e5e-4452-b62c-7b7ef649e572.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 03 (ABC)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 03 (ABC)
 http://mains.services/live/4523074511/3178768/b16a4a01-8e5e-4452-b62c-7b7ef649e572.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 04 (TruTV)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 04 (TruTV)
 http://mains.services/live/4523074511/3178768/89c0e47d-6587-4f28-bda4-aeac9317e871.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA 04 (TruTV)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 04 (TruTV)
 http://mains.services/live/4523074511/3178768/89c0e47d-6587-4f28-bda4-aeac9317e871.m3u
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 01 : ACC NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 01 : ACC NETWORK
 http://mains.services/live/4523074511/3178768/dffda4d2-9ec5-4546-b0f5-a612b8890b62.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 01 : ACC NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 01 : ACC NETWORK
 http://mains.services/live/4523074511/3178768/dffda4d2-9ec5-4546-b0f5-a612b8890b62.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 02 : BIG TEN NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 02 : BIG TEN NETWORK
 http://mains.services/live/4523074511/3178768/64a33267-cd14-43c1-b307-224318610bad.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 02 : BIG TEN NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 02 : BIG TEN NETWORK
 http://mains.services/live/4523074511/3178768/64a33267-cd14-43c1-b307-224318610bad.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 03 : ESPN
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 03 : ESPN
 http://mains.services/live/4523074511/3178768/5d2e7d9d-938e-4995-ad1a-8d698ed42d08.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 03 : ESPN
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 03 : ESPN
 http://mains.services/live/4523074511/3178768/5d2e7d9d-938e-4995-ad1a-8d698ed42d08.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 04 : ESPN NEWS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 04 : ESPN NEWS
 http://mains.services/live/4523074511/3178768/1bd901dd-ae3d-44bd-be4a-fb49b4bdbea0.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 04 : ESPN NEWS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 04 : ESPN NEWS
 http://mains.services/live/4523074511/3178768/1bd901dd-ae3d-44bd-be4a-fb49b4bdbea0.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 05 : ESPN U
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 05 : ESPN U
 http://mains.services/live/4523074511/3178768/643232cd-6053-4bbc-a0b7-2121b8d84ba8.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 05 : ESPN U
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 05 : ESPN U
 http://mains.services/live/4523074511/3178768/643232cd-6053-4bbc-a0b7-2121b8d84ba8.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 06 : ESPN 2
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 06 : ESPN 2
 http://mains.services/live/4523074511/3178768/2b0512da-e5f6-483a-b900-b9490a71c5ca.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 06 : ESPN 2
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 06 : ESPN 2
 http://mains.services/live/4523074511/3178768/2b0512da-e5f6-483a-b900-b9490a71c5ca.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 07 : FOX SPORTS 1
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 07 : FOX SPORTS 1
 http://mains.services/live/4523074511/3178768/bb7cadd6-326e-4557-9aef-2e114cf8270c.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 07 : FOX SPORTS 1
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 07 : FOX SPORTS 1
 http://mains.services/live/4523074511/3178768/bb7cadd6-326e-4557-9aef-2e114cf8270c.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 08 : FOX SPORTS 2
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 08 : FOX SPORTS 2
 http://mains.services/live/4523074511/3178768/781bf7a6-c2b4-4c6a-9074-142386be7970.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 08 : FOX SPORTS 2
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 08 : FOX SPORTS 2
 http://mains.services/live/4523074511/3178768/781bf7a6-c2b4-4c6a-9074-142386be7970.m3u
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 14 : SEC NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 14 : SEC NETWORK
 http://mains.services/live/4523074511/3178768/3d336659-c933-4fdd-981e-b44187157108.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 14 : SEC NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 14 : SEC NETWORK
 http://mains.services/live/4523074511/3178768/3d336659-c933-4fdd-981e-b44187157108.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 15 : STADIUM
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 15 : STADIUM
 http://mains.services/live/4523074511/3178768/b9cb80a1-0b6d-4907-9e48-7bb2bd650d8e.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 15 : STADIUM
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 15 : STADIUM
 http://mains.services/live/4523074511/3178768/b9cb80a1-0b6d-4907-9e48-7bb2bd650d8e.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 16: YES NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 16: YES NETWORK
 http://mains.services/live/4523074511/3178768/987fa593-5335-4042-bd3e-db4ef550a740.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NCAAB 16: YES NETWORK
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NCAAB 16: YES NETWORK
 http://mains.services/live/4523074511/3178768/987fa593-5335-4042-bd3e-db4ef550a740.m3u
 
 
@@ -13124,126 +13112,126 @@ http://mains.services:2086/507Vej3h3S/4632273/2894
 
 
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA ATLANTA DREAM (opt1)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA ATLANTA DREAM (opt1)
 http://mains.services/live/4523074511/3178768/8e6e5443-4f5c-4b94-b916-cd48cce0e0ee.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA CHICAGO SKY
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA CHICAGO SKY
 http://mains.services/live/4523074511/3178768/21ff144b-5226-44d7-a15d-3ece9ce3dd23.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA CONNECTICUT SUN
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA CONNECTICUT SUN
 http://mains.services/live/4523074511/3178768/8def3a23-8ee4-41e2-ac12-11931b84c23c.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA DALLAS WINGS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA DALLAS WINGS
 http://mains.services/live/4523074511/3178768/fa820222-46e8-4792-af88-f902e300de8b.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA GOLDEN STATE VALKYRIES
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA GOLDEN STATE VALKYRIES
 http://mains.services/live/4523074511/3178768/c140d6e9-d083-4eca-99a5-0f118c8b3d3b.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA INDIANA FEVER
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA INDIANA FEVER
 http://mains.services/live/4523074511/3178768/d4174531-8ae4-461c-82e9-1daac6e751e9.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA LAS VEGAS ACES
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA LAS VEGAS ACES
 http://mains.services/live/4523074511/3178768/a4eba8f1-136c-4290-a8c2-4becde013ca2.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA LOS ANGELES SPARKS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA LOS ANGELES SPARKS
 http://mains.services/live/4523074511/3178768/ac23dfdd-381f-49fb-80eb-70ee716fac62.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA MINNESOTA LYNX
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA MINNESOTA LYNX
 http://mains.services/live/4523074511/3178768/1dd0a299-2f29-4501-a6e5-dbe84e2f1960.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA NEW YORK LIBERTY
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA NEW YORK LIBERTY
 http://mains.services/live/4523074511/3178768/5a373cda-067e-47e2-a8e0-374fd36c8256.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA PHOENIX MERCURY
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA PHOENIX MERCURY
 http://mains.services/live/4523074511/3178768/c0307d04-70c2-41ea-9c8f-b3beb24dc769.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA SEATTLE STORM
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA SEATTLE STORM
 http://mains.services/live/4523074511/3178768/6400d249-1f20-40c9-b154-de7b913b6724.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA WASHINGTON MYSTICS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA WASHINGTON MYSTICS
 http://mains.services/live/4523074511/3178768/ae83712b-fa0e-47f0-889c-68b94f29bd86.ts
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA ATLANTA DREAM (opt2)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA ATLANTA DREAM (opt2)
 http://mains.services/live/4523074511/3178768/8e6e5443-4f5c-4b94-b916-cd48cce0e0ee.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA CHICAGO SKY
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA CHICAGO SKY
 http://mains.services/live/4523074511/3178768/21ff144b-5226-44d7-a15d-3ece9ce3dd23.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA CONNECTICUT SUN
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA CONNECTICUT SUN
 http://mains.services/live/4523074511/3178768/8def3a23-8ee4-41e2-ac12-11931b84c23c.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA DALLAS WINGS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA DALLAS WINGS
 http://mains.services/live/4523074511/3178768/fa820222-46e8-4792-af88-f902e300de8b.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA GOLDEN STATE VALKYRIES
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA GOLDEN STATE VALKYRIES
 http://mains.services/live/4523074511/3178768/c140d6e9-d083-4eca-99a5-0f118c8b3d3b.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA INDIANA FEVER
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA INDIANA FEVER
 http://mains.services/live/4523074511/3178768/d4174531-8ae4-461c-82e9-1daac6e751e9.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA LAS VEGAS ACES
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA LAS VEGAS ACES
 http://mains.services/live/4523074511/3178768/a4eba8f1-136c-4290-a8c2-4becde013ca2.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA LOS ANGELES SPARKS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA LOS ANGELES SPARKS
 http://mains.services/live/4523074511/3178768/ac23dfdd-381f-49fb-80eb-70ee716fac62.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA MINNESOTA LYNX
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA MINNESOTA LYNX
 http://mains.services/live/4523074511/3178768/1dd0a299-2f29-4501-a6e5-dbe84e2f1960.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA NEW YORK LIBERTY
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA NEW YORK LIBERTY
 http://mains.services/live/4523074511/3178768/5a373cda-067e-47e2-a8e0-374fd36c8256.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA PHOENIX MERCURY
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA PHOENIX MERCURY
 http://mains.services/live/4523074511/3178768/c0307d04-70c2-41ea-9c8f-b3beb24dc769.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA SEATTLE STORM
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA SEATTLE STORM
 http://mains.services/live/4523074511/3178768/6400d249-1f20-40c9-b154-de7b913b6724.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : WNBA WASHINGTON MYSTICS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : WNBA WASHINGTON MYSTICS
 http://mains.services/live/4523074511/3178768/ae83712b-fa0e-47f0-889c-68b94f29bd86.m3u
 
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA ATLANTA HAWKS (opt1)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA ATLANTA HAWKS (opt1)
 http://mains.services/live/4523074511/3178768/ee8c5b05-c397-448e-80eb-7cff830dee93.ts
 
 
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA ATLANTA HAWKS (opt2)
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA ATLANTA HAWKS (opt2)
 http://mains.services/live/4523074511/3178768/ee8c5b05-c397-448e-80eb-7cff830dee93.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA BOSTON CELTICS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA BOSTON CELTICS
 http://mains.services/live/4523074511/3178768/2ba36da0-dfac-4055-8dc9-898c39b99a98.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA BROOKLYN NETS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA BROOKLYN NETS
 http://mains.services/live/4523074511/3178768/0fefff4c-20a8-4e23-b0db-a0fb83d22b61.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA CHARLOTTE HORNETS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA CHARLOTTE HORNETS
 http://mains.services/live/4523074511/3178768/a2b25de9-ec31-4de5-9c8f-dc655d3c2e62.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA CHICAGO BULLS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA CHICAGO BULLS
 http://mains.services/live/4523074511/3178768/8a57e398-5b5b-4b24-bc93-7f6e3f589f6c.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA CLEVELAND CAVALIERS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA CLEVELAND CAVALIERS
 http://mains.services/live/4523074511/3178768/43c2ba2f-2c35-4254-aabb-d945d764e5e1.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA DALLAS MAVERICKS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA DALLAS MAVERICKS
 http://mains.services/live/4523074511/3178768/de9fcf0b-5725-4fb8-af32-1e261ff636dc.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA DENVER NUGGETS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA DENVER NUGGETS
 http://mains.services/live/4523074511/3178768/344fa0b9-1517-4c67-bad4-fb1a55523557.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA DETROIT PISTONS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA DETROIT PISTONS
 http://mains.services/live/4523074511/3178768/f7aed1cb-f218-4d16-8b5d-9a3af223c377.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA GOLDEN STATE WARRIORS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA GOLDEN STATE WARRIORS
 http://mains.services/live/4523074511/3178768/f695c827-6722-4e02-900a-a6eabaafadc8.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA HOUSTON ROCKETS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA HOUSTON ROCKETS
 http://mains.services/live/4523074511/3178768/dba135ce-6733-494e-9ad7-5fe06cebb15e.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA INDIANA PACERS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA INDIANA PACERS
 http://mains.services/live/4523074511/3178768/c3077d33-5035-4bec-879e-17860570a54d.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA LOS ANGELES CLIPPERS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA LOS ANGELES CLIPPERS
 http://mains.services/live/4523074511/3178768/c0f1cb85-0ec0-433b-bcec-b34b79920255.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA LOS ANGELES LAKERS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA LOS ANGELES LAKERS
 http://mains.services/live/4523074511/3178768/f055aa88-3070-40a9-ad59-e8a9af1a57fc.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA MEMPHIS GRIZZLIES
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA MEMPHIS GRIZZLIES
 http://mains.services/live/4523074511/3178768/960ba09f-0b63-4324-b9b5-ad79e41edb7b.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA MIAMI HEAT
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA MIAMI HEAT
 http://mains.services/live/4523074511/3178768/b843803f-8118-435d-bc4f-fcf96a41fc42.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA MILWAUKEE BUCKS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA MILWAUKEE BUCKS
 http://mains.services/live/4523074511/3178768/66d3983e-ff3f-4240-b7e5-8b4620f063a9.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA MINNESOTA TIMBERWOLVES
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA MINNESOTA TIMBERWOLVES
 http://mains.services/live/4523074511/3178768/2f38e9b3-377b-43d0-801f-3d86ca2251d2.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA NEW ORLEANS PELICANS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA NEW ORLEANS PELICANS
 http://mains.services/live/4523074511/3178768/25bf249c-6fae-454a-aab1-7dbd9663d6ac.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA NEW YORK KNICKS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA NEW YORK KNICKS
 http://mains.services/live/4523074511/3178768/fbcb7dad-8eb0-42f4-83f7-515dd9ce2425.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA OKLAHOMA CITY THUNDER
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA OKLAHOMA CITY THUNDER
 http://mains.services/live/4523074511/3178768/b6e0b086-e3cc-4f6a-b9f0-b3964e9e7c23.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA ORLANDO MAGIC
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA ORLANDO MAGIC
 http://mains.services/live/4523074511/3178768/4e07f40d-6d5b-47fd-8dbf-d395cab73bdf.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA PHILADELPHIA 76ERS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA PHILADELPHIA 76ERS
 http://mains.services/live/4523074511/3178768/34d17395-90a7-409c-a304-90612a32305b.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA PHOENIX SUNS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA PHOENIX SUNS
 http://mains.services/live/4523074511/3178768/eb27081a-e639-470f-b9f9-620dd5120624.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA PORTLAND TRAIL BLAZERS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA PORTLAND TRAIL BLAZERS
 http://mains.services/live/4523074511/3178768/def3d79a-ff9e-4ec0-acb4-ba0d0c63e53a.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA SACRAMENTO KINGS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA SACRAMENTO KINGS
 http://mains.services/live/4523074511/3178768/aa891957-2211-4788-9f39-eb4bc04b2c85.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA SAN ANTONIO SPURS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA SAN ANTONIO SPURS
 http://mains.services/live/4523074511/3178768/98bc065c-187f-44cb-ba86-720706fee04b.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA TORONTO RAPTORS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA TORONTO RAPTORS
 http://mains.services/live/4523074511/3178768/fbd40b51-28f5-4f6a-b53e-dc513060ecb6.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA TV FHD 1080
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA TV FHD 1080
 http://mains.services/live/4523074511/3178768/4b34c445-df7c-401d-840c-52ce4bc5e1ed.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA UTAH JAZZ
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA UTAH JAZZ
 http://mains.services/live/4523074511/3178768/9f9a4966-7297-484b-93de-bc21c36d7564.m3u
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",US : NBA WASHINGTON WIZARDS
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ US : NBA WASHINGTON WIZARDS
 http://mains.services/live/4523074511/3178768/323b67fa-6f82-4038-acac-b61c46406f27.m3u
 
 #EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA TV (opt1) x
@@ -13266,7 +13254,169 @@ http://mains.services:2086/507Vej3h3S/4632273/95440
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 03 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏀NBA🇺🇸Basketball🏀",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  pfsv. 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+
+
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA HD [opt1]
+http://pfsv.io:80/live/6181288/27664/251761.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA HD [opt2]
+http://pfsv.io:80/live/6181288/27664/251761.m3u8
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA HD [opt2]
+http://pfsv.io:80/6181288/27664/251761
+
+
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS LIVE 1 [HD]
+http://pfsv.io:80/6181288/27664/251762.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 1 [HD]
+http://pfsv.io:80/6181288/27664/251763.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 2 [HD]
+http://pfsv.io:80/6181288/27664/251764.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 3 [HD]
+http://pfsv.io:80/6181288/27664/251765.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 4 [HD]
+http://pfsv.io:80/6181288/27664/251766.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 5 [FHD]
+http://pfsv.io:80/6181288/27664/251767.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 6 [FHD]
+http://pfsv.io:80/6181288/27664/251768.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 7 [FHD]
+http://pfsv.io:80/6181288/27664/251769.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 8 [FHD]
+http://pfsv.io:80/6181288/27664/251770.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 9 [FHD]
+http://pfsv.io:80/6181288/27664/251771.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 10 [FHD]
+http://pfsv.io:80/6181288/27664/251772.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 11 [HD]
+http://pfsv.io:80/6181288/27664/251773.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 12 [HD]
+http://pfsv.io:80/6181288/27664/328805.ts
+
+
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 1 [FHD]
+http://pfsv.io:80/6181288/27664/232637.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 1 [HD]
+http://pfsv.io:80/6181288/27664/232643.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 1 [SD]
+http://pfsv.io:80/6181288/27664/232649.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 2 [FHD]
+http://pfsv.io:80/6181288/27664/232638.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 2 [HD]
+http://pfsv.io:80/6181288/27664/232644.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 2 [SD]
+http://pfsv.io:80/6181288/27664/232650.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 3 [FHD]
+http://pfsv.io:80/6181288/27664/232639.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 3 [HD]
+http://pfsv.io:80/6181288/27664/232645.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 3 [SD]
+http://pfsv.io:80/6181288/27664/232651.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 4 [FHD]
+http://pfsv.io:80/6181288/27664/232640.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 4 [HD]
+http://pfsv.io:80/6181288/27664/232646.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 4 [SD]
+http://pfsv.io:80/6181288/27664/232652.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 5 [FHD]
+http://pfsv.io:80/6181288/27664/232641.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 5 [HD]
+http://pfsv.io:80/6181288/27664/232647.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 5 [SD]
+http://pfsv.io:80/6181288/27664/232653.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 6 [FHD]
+http://pfsv.io:80/6181288/27664/232642.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 6 [HD]
+http://pfsv.io:80/6181288/27664/232648.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 6 [SD]
+http://pfsv.io:80/6181288/27664/232654.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 04 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏀NBA🇺🇸Basketball🏀",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  xdplay 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA League Pass - ESPN
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/336.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA League Pass - ESPN U
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/337.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA League Pass - TNT
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/338.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA TV *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/339.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53185.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA TV *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53186.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Atlanta Hawks
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40753.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Boston Celtics
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96719.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Brooklyn Nets
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5168.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Charlotte Hornets
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5169.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Chicago Bulls
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96717.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Cleveland Cavaliers
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5171.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Dallas Mavericks
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5172.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Denver Nuggets
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5173.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Detroit Pistons
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5161.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Golden State Warriors
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5162.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Houston Rockets
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5163.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Indiana Pacers
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5164.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Los Angeles Clippers
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5165.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Los Angeles Lakers
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5166.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Memphis Grizzlies
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5167.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Miami Heat
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5174.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Milwaukee Bucks
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5175.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Minnesota Timberwolves
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5176.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | New Orleans Pelicans
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5177.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | New York Knicks
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5178.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Oklahoma City Thunder
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5179.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Orlando Magic
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5180.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Philadelphia 76ers
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5181.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Phoenix Suns
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5182.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Portland Trail Blazers
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96718.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Sacramento Kings
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5184.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | San Antonio Spurs
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5185.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Toronto Raptors
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5186.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Utah Jazz
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5187.ts
+#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸* NBA | Washington Wizards
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30107.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 05 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏀NBA🇺🇸Basketball🏀",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -13491,169 +13641,6 @@ https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.tv.us.m
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/nba.tv.co.m3u8
 #EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸⚽ NBA TV CO (opt2)
 https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/nba.tv.co.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 04 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏀NBA🇺🇸Basketball🏀",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  pfsv. 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-
-
-
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA HD [opt1]
-http://pfsv.io:80/live/6181288/27664/251761.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA HD [opt2]
-http://pfsv.io:80/live/6181288/27664/251761.m3u8
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA HD [opt2]
-http://pfsv.io:80/6181288/27664/251761
-
-
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS LIVE 1 [HD]
-http://pfsv.io:80/6181288/27664/251762.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 1 [HD]
-http://pfsv.io:80/6181288/27664/251763.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 2 [HD]
-http://pfsv.io:80/6181288/27664/251764.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 3 [HD]
-http://pfsv.io:80/6181288/27664/251765.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 4 [HD]
-http://pfsv.io:80/6181288/27664/251766.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 5 [FHD]
-http://pfsv.io:80/6181288/27664/251767.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 6 [FHD]
-http://pfsv.io:80/6181288/27664/251768.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 7 [FHD]
-http://pfsv.io:80/6181288/27664/251769.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 8 [FHD]
-http://pfsv.io:80/6181288/27664/251770.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 9 [FHD]
-http://pfsv.io:80/6181288/27664/251771.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 10 [FHD]
-http://pfsv.io:80/6181288/27664/251772.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 11 [HD]
-http://pfsv.io:80/6181288/27664/251773.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA PASS 12 [HD]
-http://pfsv.io:80/6181288/27664/328805.ts
-
-
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 1 [FHD]
-http://pfsv.io:80/6181288/27664/232637.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 1 [HD]
-http://pfsv.io:80/6181288/27664/232643.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 1 [SD]
-http://pfsv.io:80/6181288/27664/232649.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 2 [FHD]
-http://pfsv.io:80/6181288/27664/232638.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 2 [HD]
-http://pfsv.io:80/6181288/27664/232644.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 2 [SD]
-http://pfsv.io:80/6181288/27664/232650.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 3 [FHD]
-http://pfsv.io:80/6181288/27664/232639.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 3 [HD]
-http://pfsv.io:80/6181288/27664/232645.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 3 [SD]
-http://pfsv.io:80/6181288/27664/232651.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 4 [FHD]
-http://pfsv.io:80/6181288/27664/232640.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 4 [HD]
-http://pfsv.io:80/6181288/27664/232646.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 4 [SD]
-http://pfsv.io:80/6181288/27664/232652.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 5 [FHD]
-http://pfsv.io:80/6181288/27664/232641.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 5 [HD]
-http://pfsv.io:80/6181288/27664/232647.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 5 [SD]
-http://pfsv.io:80/6181288/27664/232653.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 6 [FHD]
-http://pfsv.io:80/6181288/27664/232642.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 6 [HD]
-http://pfsv.io:80/6181288/27664/232648.ts
-#EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",NBA League Pass 6 [SD]
-http://pfsv.io:80/6181288/27664/232654.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 05 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏀NBA🇺🇸Basketball🏀",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  xdplay 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-
-#EXTINF:-1,NBA League Pass - ESPN
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/336.ts
-#EXTINF:-1,NBA League Pass - ESPN U
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/337.ts
-#EXTINF:-1,NBA League Pass - TNT
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/338.ts
-#EXTINF:-1,NBA TV *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/339.ts
-#EXTINF:-1,NBA TV *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53185.ts
-#EXTINF:-1,NBA TV *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53186.ts
-#EXTINF:-1,NBA | Atlanta Hawks
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40753.ts
-#EXTINF:-1,NBA | Boston Celtics
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96719.ts
-#EXTINF:-1,NBA | Brooklyn Nets
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5168.ts
-#EXTINF:-1,NBA | Charlotte Hornets
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5169.ts
-#EXTINF:-1,NBA | Chicago Bulls
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96717.ts
-#EXTINF:-1,NBA | Cleveland Cavaliers
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5171.ts
-#EXTINF:-1,NBA | Dallas Mavericks
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5172.ts
-#EXTINF:-1,NBA | Denver Nuggets
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5173.ts
-#EXTINF:-1,NBA | Detroit Pistons
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5161.ts
-#EXTINF:-1,NBA | Golden State Warriors
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5162.ts
-#EXTINF:-1,NBA | Houston Rockets
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5163.ts
-#EXTINF:-1,NBA | Indiana Pacers
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5164.ts
-#EXTINF:-1,NBA | Los Angeles Clippers
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5165.ts
-#EXTINF:-1,NBA | Los Angeles Lakers
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5166.ts
-#EXTINF:-1,NBA | Memphis Grizzlies
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5167.ts
-#EXTINF:-1,NBA | Miami Heat
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5174.ts
-#EXTINF:-1,NBA | Milwaukee Bucks
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5175.ts
-#EXTINF:-1,NBA | Minnesota Timberwolves
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5176.ts
-#EXTINF:-1,NBA | New Orleans Pelicans
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5177.ts
-#EXTINF:-1,NBA | New York Knicks
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5178.ts
-#EXTINF:-1,NBA | Oklahoma City Thunder
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5179.ts
-#EXTINF:-1,NBA | Orlando Magic
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5180.ts
-#EXTINF:-1,NBA | Philadelphia 76ers
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5181.ts
-#EXTINF:-1,NBA | Phoenix Suns
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5182.ts
-#EXTINF:-1,NBA | Portland Trail Blazers
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/96718.ts
-#EXTINF:-1,NBA | Sacramento Kings
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5184.ts
-#EXTINF:-1,NBA | San Antonio Spurs
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5185.ts
-#EXTINF:-1,NBA | Toronto Raptors
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5186.ts
-#EXTINF:-1,NBA | Utah Jazz
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5187.ts
-#EXTINF:-1,NBA | Washington Wizards
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30107.ts
-
 
 
 
@@ -13941,75 +13928,75 @@ http://pfsv.io:80/live/6181288/27664/126459.m3u8
 #EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",NFL [opt3]
 http://pfsv.io:80/6181288/27664/126459
 
-#EXTINF:-1,NFL NETWORK *FHD
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL NETWORK *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/340.ts
-#EXTINF:-1,NFL NETWORK *HD
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL NETWORK *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52340.ts
-#EXTINF:-1,NFL REDZONE
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL REDZONE
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/341.ts
-#EXTINF:-1,NFL | Arizona Cardinals
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Arizona Cardinals
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30315.ts
-#EXTINF:-1,NFL | Atlanta Falcons
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Atlanta Falcons
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30324.ts
-#EXTINF:-1,NFL | Baltimore Ravens
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Baltimore Ravens
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30323.ts
-#EXTINF:-1,NFL | Buffalo Bills
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Buffalo Bills
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30322.ts
-#EXTINF:-1,NFL | Carolina Panthers
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Carolina Panthers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30321.ts
-#EXTINF:-1,NFL | Chicago Bears
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Chicago Bears
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30320.ts
-#EXTINF:-1,NFL | Cincinnati Bengals
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Cincinnati Bengals
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30319.ts
-#EXTINF:-1,NFL | Cleveland Browns
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Cleveland Browns
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30318.ts
-#EXTINF:-1,NFL | Dallas Cowboys
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Dallas Cowboys
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30317.ts
-#EXTINF:-1,NFL | Denver Broncos
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Denver Broncos
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30316.ts
-#EXTINF:-1,NFL | Detroit Lions
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Detroit Lions
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30325.ts
-#EXTINF:-1,NFL | Green Bay Packers
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Green Bay Packers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30345.ts
-#EXTINF:-1,NFL | Houston Texans
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Houston Texans
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30346.ts
-#EXTINF:-1,NFL | Indianapolis Colts
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Indianapolis Colts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30344.ts
-#EXTINF:-1,NFL | Jacksonville Jaguars
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Jacksonville Jaguars
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30343.ts
-#EXTINF:-1,NFL | Kansas City Chiefs
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Kansas City Chiefs
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30342.ts
-#EXTINF:-1,NFL | Los Angeles Chargers
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Los Angeles Chargers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30341.ts
-#EXTINF:-1,NFL | Los Angeles Rams
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Los Angeles Rams
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30340.ts
-#EXTINF:-1,NFL | Miami Dolphins
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Miami Dolphins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30339.ts
-#EXTINF:-1,NFL | Minnesota Vikings
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Minnesota Vikings
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30338.ts
-#EXTINF:-1,NFL | New England Patriots
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | New England Patriots
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30335.ts
-#EXTINF:-1,NFL | New Orleans Saints
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | New Orleans Saints
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30337.ts
-#EXTINF:-1,NFL | New York Giants
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | New York Giants
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30334.ts
-#EXTINF:-1,NFL | New York Jets
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | New York Jets
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30336.ts
-#EXTINF:-1,NFL | Oakland Raiders
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Oakland Raiders
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30333.ts
-#EXTINF:-1,NFL | Philadelphia Eagles
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Philadelphia Eagles
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30332.ts
-#EXTINF:-1,NFL | Pittsburgh Steelers
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Pittsburgh Steelers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30331.ts
-#EXTINF:-1,NFL | San Francisco 49ers
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | San Francisco 49ers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30330.ts
-#EXTINF:-1,NFL | Seattle Seahawks
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Seattle Seahawks
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30329.ts
-#EXTINF:-1,NFL | Tampa Bay Buccaneers
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Tampa Bay Buccaneers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30327.ts
-#EXTINF:-1,NFL | Tennessee Titans
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Tennessee Titans
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30328.ts
-#EXTINF:-1,NFL | Washington Redskins
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸* NFL | Washington Redskins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30326.ts
 
 
@@ -14110,157 +14097,157 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏈NFL🇺🇸Football🏈",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,US : NFL ARIZONA CARDINALS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL ARIZONA CARDINALS
 http://mains.services/live/4523074511/3178768/7b26b801-a8c3-4bcc-b8fc-fa2b6199da3c.m3u
-#EXTINF:-1,US : NFL ATLANTA FALCONS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL ATLANTA FALCONS
 http://mains.services/live/4523074511/3178768/13eda9ee-f836-4776-91f9-defa6413ae74.m3u
-#EXTINF:-1,US : NFL BALTIMORE RAVENS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL BALTIMORE RAVENS
 http://mains.services/live/4523074511/3178768/ae33dadc-c528-425d-8d0e-a82052c30f76.m3u
-#EXTINF:-1,US : NFL BUFFALO BILLS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL BUFFALO BILLS
 http://mains.services/live/4523074511/3178768/486d57d1-54a0-476d-a3f4-7edf2a2ae0be.m3u
-#EXTINF:-1,US : NFL CAROLINA PANTHERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL CAROLINA PANTHERS
 http://mains.services/live/4523074511/3178768/70d80e9d-cefb-4cb3-95fb-b7677925ee9c.m3u
-#EXTINF:-1,US : NFL CHICAGO BEARS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL CHICAGO BEARS
 http://mains.services/live/4523074511/3178768/e9709664-2bd7-4e3d-9e94-c84a2aa52975.m3u
-#EXTINF:-1,US : NFL CINCINNATI BENGALS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL CINCINNATI BENGALS
 http://mains.services/live/4523074511/3178768/ba672df7-f091-47ae-b77d-937dcfad9d79.m3u
-#EXTINF:-1,US : NFL CLEVELAND BROWNS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL CLEVELAND BROWNS
 http://mains.services/live/4523074511/3178768/11c394a5-4e1f-424e-b02b-2ca5f0f358be.m3u
-#EXTINF:-1,US : NFL DALLAS COWBOYS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL DALLAS COWBOYS
 http://mains.services/live/4523074511/3178768/b115115a-9caa-4516-bcf4-59cfa1d242b3.m3u
-#EXTINF:-1,US : NFL DENVER BRONCOS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL DENVER BRONCOS
 http://mains.services/live/4523074511/3178768/bfa586e0-bf68-4b27-a2ff-839133ff730a.m3u
-#EXTINF:-1,US : NFL DETROIT LIONS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL DETROIT LIONS
 http://mains.services/live/4523074511/3178768/7d29c982-c3bc-4473-b066-8cd9fb14b2cc.m3u
-#EXTINF:-1,US : NFL GREEN BAY PACKERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL GREEN BAY PACKERS
 http://mains.services/live/4523074511/3178768/f2da3634-5310-49a3-864a-7b7b34e2f503.m3u
-#EXTINF:-1,US : NFL HOUSTON TEXANS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL HOUSTON TEXANS
 http://mains.services/live/4523074511/3178768/d5991b1d-f4d2-4161-8449-7b39b9e05c4b.m3u
-#EXTINF:-1,US : NFL INDIANAPOLIS COLTS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL INDIANAPOLIS COLTS
 http://mains.services/live/4523074511/3178768/7a09b67b-03cf-495a-abbd-b55f82d60b7f.m3u
-#EXTINF:-1,US : NFL JACKSONVILLE JAGUARS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL JACKSONVILLE JAGUARS
 http://mains.services/live/4523074511/3178768/989fb3a6-5693-4273-a6f8-1a6bc8a76d6f.m3u
-#EXTINF:-1,US : NFL KANSAS CITY CHIEFS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL KANSAS CITY CHIEFS
 http://mains.services/live/4523074511/3178768/122e0a04-78aa-4192-8aa4-43bf7487ff47.m3u
-#EXTINF:-1,US : NFL LAS VEGAS RAIDERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL LAS VEGAS RAIDERS
 http://mains.services/live/4523074511/3178768/25f9779b-db1c-4ead-a22f-362fa693dffb.m3u
-#EXTINF:-1,US : NFL LOS ANGELES CHARGERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL LOS ANGELES CHARGERS
 http://mains.services/live/4523074511/3178768/f439d7dd-d707-40b8-bff0-ad72ad0bac21.m3u
-#EXTINF:-1,US : NFL LOS ANGELES RAMS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL LOS ANGELES RAMS
 http://mains.services/live/4523074511/3178768/e0f62678-0ae3-4f95-b0a2-20b1f277a1d3.m3u
-#EXTINF:-1,US : NFL MIAMI DOLPHINS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL MIAMI DOLPHINS
 http://mains.services/live/4523074511/3178768/27eda300-38c4-463b-9cd3-0aa24945ee58.m3u
-#EXTINF:-1,US : NFL MINNESOTA VIKINGS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL MINNESOTA VIKINGS
 http://mains.services/live/4523074511/3178768/fbdc1014-088d-4ea3-a294-e7956ad14e5f.m3u
-#EXTINF:-1,US : NFL NETWORK FHD
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL NETWORK FHD
 http://mains.services/live/4523074511/3178768/7f30341d-ef92-41fa-b4cb-60ebff3adbd7.m3u
-#EXTINF:-1,US : NFL NEW ENGLAND PATRIOTS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL NEW ENGLAND PATRIOTS
 http://mains.services/live/4523074511/3178768/91741853-3322-487c-9297-a1f3cee31de6.m3u
-#EXTINF:-1,US : NFL NEW ORLEANS SAINTS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL NEW ORLEANS SAINTS
 http://mains.services/live/4523074511/3178768/ebd7963e-88eb-448d-9f82-cae537e4638d.m3u
-#EXTINF:-1,US : NFL NEW YORK GIANTS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL NEW YORK GIANTS
 http://mains.services/live/4523074511/3178768/38d35828-32d3-4b43-b958-0ea5b521e614.m3u
-#EXTINF:-1,US : NFL NEW YORK JETS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL NEW YORK JETS
 http://mains.services/live/4523074511/3178768/3bc258c6-ada9-4f54-9808-180ef4dda0b9.m3u
-#EXTINF:-1,US : NFL PHILADELPHIA EAGLES
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL PHILADELPHIA EAGLES
 http://mains.services/live/4523074511/3178768/767700f6-6e55-4d4f-a0b8-fcf357aee1ab.m3u
-#EXTINF:-1,US : NFL PITTSBURGH STEELERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL PITTSBURGH STEELERS
 http://mains.services/live/4523074511/3178768/13ebb15a-de7f-4950-af8a-ed627f104956.m3u
-#EXTINF:-1,US : NFL REDZONE
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL REDZONE
 http://mains.services/live/4523074511/3178768/8359560b-c13f-4b65-bf85-0d51fbea4940.m3u
-#EXTINF:-1,US : NFL SAN FRANCISCO 49ERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL SAN FRANCISCO 49ERS
 http://mains.services/live/4523074511/3178768/5e4d0d4f-2ea9-4374-b635-9aaa4a66d2fb.m3u
-#EXTINF:-1,US : NFL SEATTLE SEAHAWKS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL SEATTLE SEAHAWKS
 http://mains.services/live/4523074511/3178768/4ba9fdf6-6ef0-45f3-8ae6-222a4aa20f6e.m3u
-#EXTINF:-1,US : NFL TAMPA BAY BUCCANEERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL TAMPA BAY BUCCANEERS
 http://mains.services/live/4523074511/3178768/d73839e8-c2de-4a82-af1b-7632b7eef5e6.m3u
-#EXTINF:-1,US : NFL TENNESSEE TITANS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL TENNESSEE TITANS
 http://mains.services/live/4523074511/3178768/62f39640-2cb9-46e7-b34f-b10ca66549c8.m3u
-#EXTINF:-1,US : NFL WASHINGTON COMMANDERS
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ US : NFL WASHINGTON COMMANDERS
 http://mains.services/live/4523074511/3178768/031a99a9-d19e-4bcf-b34a-bebcbbeff119.m3u
 
 
 
-#EXTINF:-1,NFL 00(1 NY) (SUPERBOWL)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 00(1 NY) (SUPERBOWL)
 http://mains.services/live/4523074511/3178768/7383f24f-c59c-457c-a290-ea2d040e1302.m3u
-#EXTINF:-1,NFL 00(2 LA) (SUPERBOWL)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 00(2 LA) (SUPERBOWL)
 http://mains.services/live/4523074511/3178768/66f4de84-321d-4e50-9377-f1c9cf8d3809.m3u
-#EXTINF:-1,NFL 00(3 UK) (SUPERBOWL)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 00(3 UK) (SUPERBOWL)
 http://mains.services/live/4523074511/3178768/2db4e47f-0bbb-4482-a9aa-7d75ef8751fc.m3u
-#EXTINF:-1,NFL 00(4 CA) (SUPERBOWL)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 00(4 CA) (SUPERBOWL)
 http://mains.services/live/4523074511/3178768/95110c31-84fe-46e3-a1ba-1af0563b3b98.m3u
 
-#EXTINF:-1,NFL 01 (CBS)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 01 (CBS)
 http://mains.services/live/4523074511/3178768/ea0adab6-9eb7-43ff-80b9-ae9c73510792.m3u
-#EXTINF:-1,NFL 02 (FOX)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 02 (FOX)
 http://mains.services/live/4523074511/3178768/1bdcf031-3f90-426e-b7dc-42c58fbc7164.m3u
-#EXTINF:-1,NFL 03 (NBC)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 03 (NBC)
 http://mains.services/live/4523074511/3178768/fd384125-e1a1-49ce-90e3-61227040f6f8.m3u
-#EXTINF:-1,NFL 04 (ESPN)
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NFL 04 (ESPN)
 http://mains.services/live/4523074511/3178768/92f41dd9-a70a-40e0-abdc-48e1fccd1cf2.m3u
 
 
-#EXTINF:-1,NCAAF: GAME 001
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 001
 http://mains.services/live/4523074511/3178768/256b42c3-7573-4179-b221-604946d4bd07.m3u
-#EXTINF:-1,NCAAF: GAME 002
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 002
 http://mains.services/live/4523074511/3178768/abf78c4a-f6cf-43cb-b4fe-d894d36f3b1e.m3u
-#EXTINF:-1,NCAAF: GAME 003
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 003
 http://mains.services/live/4523074511/3178768/87a3f826-45d2-49d9-8bbc-311536a821be.m3u
-#EXTINF:-1,NCAAF: GAME 004
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 004
 http://mains.services/live/4523074511/3178768/859ea1b7-da28-4251-a984-da3c1e3c2126.m3u
-#EXTINF:-1,NCAAF: GAME 005
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 005
 http://mains.services/live/4523074511/3178768/cdebd3ae-953f-4df9-8766-84cdaa05224a.m3u
-#EXTINF:-1,NCAAF: GAME 006
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 006
 http://mains.services/live/4523074511/3178768/a97dc38a-2bfc-439f-a967-fa8eea0215dd.m3u
-#EXTINF:-1,NCAAF: GAME 007
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 007
 http://mains.services/live/4523074511/3178768/bcc96654-c208-41b4-9860-fc7a8ea88e44.m3u
-#EXTINF:-1,NCAAF: GAME 008
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 008
 http://mains.services/live/4523074511/3178768/0022b203-86d3-4a21-96a0-4467262950c9.m3u
-#EXTINF:-1,NCAAF: GAME 009
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 009
 http://mains.services/live/4523074511/3178768/3d716ebd-44c3-4f57-9b7d-8bded41e79f5.m3u
-#EXTINF:-1,NCAAF: GAME 010
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 010
 http://mains.services/live/4523074511/3178768/6a5ca000-68e2-4dcf-9d2f-ee4aa7d8f2ff.m3u
-#EXTINF:-1,NCAAF: GAME 011
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 011
 http://mains.services/live/4523074511/3178768/d8b28a94-8bc4-4b4e-93be-d1e57a85f135.m3u
-#EXTINF:-1,NCAAF: GAME 012
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 012
 http://mains.services/live/4523074511/3178768/f1bcc619-11bb-4bd7-82f3-a462acd5cdfb.m3u
-#EXTINF:-1,NCAAF: GAME 013
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 013
 http://mains.services/live/4523074511/3178768/46c1948b-7893-4582-873e-ab899412dd55.m3u
-#EXTINF:-1,NCAAF: GAME 014
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 014
 http://mains.services/live/4523074511/3178768/191bb394-aa29-4945-b26e-285c9cddf68e.m3u
-#EXTINF:-1,NCAAF: GAME 015
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 015
 http://mains.services/live/4523074511/3178768/25803a0a-64a7-4c34-a25d-ea80ddbce584.m3u
-#EXTINF:-1,NCAAF: GAME 016
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 016
 http://mains.services/live/4523074511/3178768/8c4df7a8-6483-4dac-90f1-f94ec89e3a8f.m3u
-#EXTINF:-1,NCAAF: GAME 017
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 017
 http://mains.services/live/4523074511/3178768/883f8fca-5e74-42ae-9a58-9e16fe8047b5.m3u
-#EXTINF:-1,NCAAF: GAME 018
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 018
 http://mains.services/live/4523074511/3178768/979b661f-ffe0-4894-9f7c-7c832960e78b.m3u
-#EXTINF:-1,NCAAF: GAME 019
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 019
 http://mains.services/live/4523074511/3178768/e95e9582-b289-47ed-9057-66b29f0a040f.m3u
-#EXTINF:-1,NCAAF: GAME 020
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 020
 http://mains.services/live/4523074511/3178768/7d0e2229-64f7-4bfd-9491-6b15a3d794df.m3u
-#EXTINF:-1,NCAAF: GAME 021
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 021
 http://mains.services/live/4523074511/3178768/82db6196-1a9a-4fc6-b181-e9ade4453479.m3u
-#EXTINF:-1,NCAAF: GAME 022
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 022
 http://mains.services/live/4523074511/3178768/7bf2c4f9-a18e-4c3a-8e1b-c043a05e02bb.m3u
-#EXTINF:-1,NCAAF: GAME 023
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 023
 http://mains.services/live/4523074511/3178768/74791f28-9917-42f0-b849-8cb9f112b880.m3u
-#EXTINF:-1,NCAAF: GAME 024
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 024
 http://mains.services/live/4523074511/3178768/54139ef2-e291-4b40-a367-c9a44f9f44d1.m3u
-#EXTINF:-1,NCAAF: GAME 025
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 025
 http://mains.services/live/4523074511/3178768/3d205b06-24b0-46a9-aa1c-4f5613e7e190.m3u
-#EXTINF:-1,NCAAF: GAME 026
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 026
 http://mains.services/live/4523074511/3178768/812d680d-5c04-42a6-af31-76e4b537ad95.m3u
-#EXTINF:-1,NCAAF: GAME 027
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 027
 http://mains.services/live/4523074511/3178768/11b5d3f9-73f6-4097-a186-34974fa1fb0a.m3u
-#EXTINF:-1,NCAAF: GAME 028
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 028
 http://mains.services/live/4523074511/3178768/14b74a38-4ef6-486c-bc20-1890d395da2a.m3u
-#EXTINF:-1,NCAAF: GAME 029
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 029
 http://mains.services/live/4523074511/3178768/35952b00-52ce-4fc9-899c-b0605ae44c27.m3u
-#EXTINF:-1,NCAAF: GAME 030
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 030
 http://mains.services/live/4523074511/3178768/65cc6e20-157c-4ae1-a6c4-06ea91ad2efe.m3u
-#EXTINF:-1,NCAAF: GAME 031
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 031
 http://mains.services/live/4523074511/3178768/1c00a56b-7301-41a0-86a2-3daf8394df03.m3u
 #EXTINF:-1,NCAAF: GAME 032
 http://mains.services/live/4523074511/3178768/8a9be352-0527-4972-b610-c5afe3e2f0ba.m3u
@@ -14690,75 +14677,75 @@ http://mains.services:2086/640939802963/IDC01478!/55056
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸 NHL 03 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NHL 📺 Hockey  ⚽ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏒NHL🇺🇸Hockey🏒",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏒NHL🇺🇸Hockey🏒",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  mains🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1,US : NHL ANAHEIM DUCKS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL ANAHEIM DUCKS
 http://mains.services/live/4523074511/3178768/bcebd911-2f70-4109-a0f3-00f2f05ee253.m3u
-#EXTINF:-1,US : NHL BOSTON BRUINS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL BOSTON BRUINS
 http://mains.services/live/4523074511/3178768/858ca663-bfbe-4c49-9ca7-17519c0ac5e8.m3u
-#EXTINF:-1,US : NHL BUFFALO SABRES
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL BUFFALO SABRES
 http://mains.services/live/4523074511/3178768/69500db7-26b8-4bcf-8ab7-831a60731852.m3u
-#EXTINF:-1,US : NHL CALGARY FLAMES
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL CALGARY FLAMES
 http://mains.services/live/4523074511/3178768/144452ea-8c3c-4075-98af-443dd8516916.m3u
-#EXTINF:-1,US : NHL CAROLINA HURRICANES
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL CAROLINA HURRICANES
 http://mains.services/live/4523074511/3178768/2e55d297-b454-4511-af38-5f2c28b0fafd.m3u
-#EXTINF:-1,US : NHL CHICAGO BLACKHAWKS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL CHICAGO BLACKHAWKS
 http://mains.services/live/4523074511/3178768/eba8287a-73e8-4d83-87e0-947f7a0751d7.m3u
-#EXTINF:-1,US : NHL COLORADO AVALANCHE
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL COLORADO AVALANCHE
 http://mains.services/live/4523074511/3178768/6580e97a-f1e6-4066-a5c8-bd5bddbc09e8.m3u
-#EXTINF:-1,US : NHL COLUMBUS BLUE JACKETS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL COLUMBUS BLUE JACKETS
 http://mains.services/live/4523074511/3178768/85e00516-704e-4fc0-af90-d1f75ede3a4b.m3u
-#EXTINF:-1,US : NHL DALLAS STARS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL DALLAS STARS
 http://mains.services/live/4523074511/3178768/468cf573-78d5-4585-be37-9dfa1ac2dda0.m3u
-#EXTINF:-1,US : NHL DETROIT RED WINGS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL DETROIT RED WINGS
 http://mains.services/live/4523074511/3178768/63d2f8fd-acc7-4cc7-9f0f-88f8ff8aff41.m3u
-#EXTINF:-1,US : NHL EDMONTON OILERS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL EDMONTON OILERS
 http://mains.services/live/4523074511/3178768/38548aae-d1eb-4fdc-974f-e624a768116e.m3u
-#EXTINF:-1,US : NHL FLORIDA PANTHERS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL FLORIDA PANTHERS
 http://mains.services/live/4523074511/3178768/dea78231-aa27-422a-8c91-a124a7b71b67.m3u
-#EXTINF:-1,US : NHL LOS ANGELES KINGS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL LOS ANGELES KINGS
 http://mains.services/live/4523074511/3178768/23c4eea2-df28-470c-a984-4273ab1c4ca2.m3u
-#EXTINF:-1,US : NHL MINNESOTA WILD
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL MINNESOTA WILD
 http://mains.services/live/4523074511/3178768/fcd34d4e-6779-48cd-b0d1-6fb06f347e9a.m3u
-#EXTINF:-1,US : NHL MONTREAL CANADIENS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL MONTREAL CANADIENS
 http://mains.services/live/4523074511/3178768/4500d448-0159-404f-b8ac-26b9aedd55f1.m3u
-#EXTINF:-1,US : NHL NASHVILLE PREDATORS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL NASHVILLE PREDATORS
 http://mains.services/live/4523074511/3178768/4b58aa13-03c4-435e-8e87-73b5a8920165.m3u
-#EXTINF:-1,US : NHL NETWORK FHD 1080
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL NETWORK FHD 1080
 http://mains.services/live/4523074511/3178768/ca3c7998-ea35-430a-bf25-acaeb87ec8a4.m3u
-#EXTINF:-1,US : NHL NEW JERSEY DEVILS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL NEW JERSEY DEVILS
 http://mains.services/live/4523074511/3178768/fa946714-48ce-4b0d-81ca-b94a3ca8336e.m3u
-#EXTINF:-1,US : NHL NEW YORK ISLANDERS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL NEW YORK ISLANDERS
 http://mains.services/live/4523074511/3178768/79bf5eb5-6bca-4d1b-8596-6d6dad406e80.m3u
-#EXTINF:-1,US : NHL NEW YORK RANGERS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL NEW YORK RANGERS
 http://mains.services/live/4523074511/3178768/221903b1-3c00-44ba-8e5b-c5d6a36aa917.m3u
-#EXTINF:-1,US : NHL OTTAWA SENATORS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL OTTAWA SENATORS
 http://mains.services/live/4523074511/3178768/88119848-5077-403b-bc6b-43a6bc6523cb.m3u
-#EXTINF:-1,US : NHL PHILADELPHIA FLYERS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL PHILADELPHIA FLYERS
 http://mains.services/live/4523074511/3178768/7b280b37-6092-46dd-b76a-4a9713beb5ec.m3u
-#EXTINF:-1,US : NHL PITTSBURGH PENGUINS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL PITTSBURGH PENGUINS
 http://mains.services/live/4523074511/3178768/f069179a-3475-4c42-b15d-b1f38d7e1419.m3u
-#EXTINF:-1,US : NHL SAN JOSE SHARKS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL SAN JOSE SHARKS
 http://mains.services/live/4523074511/3178768/be6df8c7-868f-4909-a7d8-b00f91b04e8c.m3u
-#EXTINF:-1,US : NHL SEATTLE KRAKEN
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL SEATTLE KRAKEN
 http://mains.services/live/4523074511/3178768/a4eec5fe-ffff-4e56-b7bb-188c6c84aa57.m3u
-#EXTINF:-1,US : NHL ST LOUIS BLUES
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL ST LOUIS BLUES
 http://mains.services/live/4523074511/3178768/00809412-c5db-478f-a150-b71f848e5458.m3u
-#EXTINF:-1,US : NHL TAMPA BAY LIGHTNING
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL TAMPA BAY LIGHTNING
 http://mains.services/live/4523074511/3178768/341bb984-97a0-499e-84a0-db0bde728844.m3u
-#EXTINF:-1,US : NHL TORONTO MAPLE LEAFS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL TORONTO MAPLE LEAFS
 http://mains.services/live/4523074511/3178768/5477785f-dd49-4fa8-9328-862bb3f61974.m3u
-#EXTINF:-1,US : NHL UTAH HOCKEY CLUB
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL UTAH HOCKEY CLUB
 http://mains.services/live/4523074511/3178768/3458fb3e-4246-4c75-a26f-2cd1870ab7f0.m3u
-#EXTINF:-1,US : NHL VANCOUVER CANUCKS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL VANCOUVER CANUCKS
 http://mains.services/live/4523074511/3178768/c43c7237-d020-4c78-8f2a-9d32abc0cd5f.m3u
-#EXTINF:-1,US : NHL VEGAS GOLDEN KNIGHTS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL VEGAS GOLDEN KNIGHTS
 http://mains.services/live/4523074511/3178768/3c326843-5667-40f7-9bdb-1a570afc3be3.m3u
-#EXTINF:-1,US : NHL WASHINGTON CAPITALS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL WASHINGTON CAPITALS
 http://mains.services/live/4523074511/3178768/7cdbed97-2abe-44d5-bb08-9e05e29695b2.m3u
-#EXTINF:-1,US : NHL WINNIPEG JETS
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸☆ US : NHL WINNIPEG JETS
 http://mains.services/live/4523074511/3178768/bb3a6a4c-0e75-4a59-b756-01d3e3667946.m3u
 
 
@@ -14767,75 +14754,75 @@ http://mains.services/live/4523074511/3178768/bb3a6a4c-0e75-4a59-b756-01d3e36679
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸 NHL 04 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NHL 📺 Hockey  ⚽ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏒NHL🇺🇸Hockey🏒",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏒NHL🇺🇸Hockey🏒",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  xdgo🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1,NHL | Anaheim Ducks
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Anaheim Ducks
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41065.ts
-#EXTINF:-1,NHL | Arizona Coyotes
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Arizona Coyotes
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41066.ts
-#EXTINF:-1,NHL | Boston Bruins
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Boston Bruins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41049.ts
-#EXTINF:-1,NHL | Buffalo Sabres
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Buffalo Sabres
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41050.ts
-#EXTINF:-1,NHL | Calgary Flames
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Calgary Flames
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41073.ts
-#EXTINF:-1,NHL | Carolina Hurricanes
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Carolina Hurricanes
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41057.ts
-#EXTINF:-1,NHL | Chicago Blackhawks
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Chicago Blackhawks
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41058.ts
-#EXTINF:-1,NHL | Colorado Avalanche
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Colorado Avalanche
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41067.ts
-#EXTINF:-1,NHL | Columbus Blue Jackets
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Columbus Blue Jackets
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41059.ts
-#EXTINF:-1,NHL | Dallas Stars
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Dallas Stars
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41060.ts
-#EXTINF:-1,NHL | Detroit Red Wings
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Detroit Red Wings
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41061.ts
-#EXTINF:-1,NHL | Edmonton Oilers
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Edmonton Oilers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41074.ts
-#EXTINF:-1,NHL | Florida Panthers
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Florida Panthers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41062.ts
-#EXTINF:-1,NHL | Los Angeles Kings
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Los Angeles Kings
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41068.ts
-#EXTINF:-1,NHL | Minnesota Wild
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Minnesota Wild
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41069.ts
-#EXTINF:-1,NHL | Montreal Canadiens
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Montreal Canadiens
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41075.ts
-#EXTINF:-1,NHL | Nashville Predators
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Nashville Predators
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41063.ts
-#EXTINF:-1,NHL | New Jersey Devils
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | New Jersey Devils
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41051.ts
-#EXTINF:-1,NHL | New York Islanders
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | New York Islanders
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41052.ts
-#EXTINF:-1,NHL | New York Rangers
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | New York Rangers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41053.ts
-#EXTINF:-1,NHL | Ottawa
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Ottawa
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41076.ts
-#EXTINF:-1,NHL | Ottawa Senators
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Ottawa Senators
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/85876.ts
-#EXTINF:-1,NHL | Philadelphia Flyers
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Philadelphia Flyers
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41054.ts
-#EXTINF:-1,NHL | Pittsburgh Penguins
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Pittsburgh Penguins
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41055.ts
-#EXTINF:-1,NHL | Saint Louis Blues
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Saint Louis Blues
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41071.ts
-#EXTINF:-1,NHL | San Jose Sharks
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | San Jose Sharks
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41070.ts
-#EXTINF:-1,NHL | Seattle Kraken
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Seattle Kraken
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/85456.ts
-#EXTINF:-1,NHL | Tampa Bay Lightning
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Tampa Bay Lightning
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41064.ts
-#EXTINF:-1,NHL | Toronto Maple Leafs
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Toronto Maple Leafs
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41077.ts
-#EXTINF:-1,NHL | Vancouver Canucks
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Vancouver Canucks
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41078.ts
-#EXTINF:-1,NHL | Vegas Golden Knights
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Vegas Golden Knights
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41072.ts
-#EXTINF:-1,NHL | Washington Capitals
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Washington Capitals
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41056.ts
-#EXTINF:-1,NHL | Winnipeg Jets
+#EXTINF:-1 group-title="🏒NHL🇺🇸Hockey🏒",🇺🇸* NHL | Winnipeg Jets
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41079.ts
 
 
