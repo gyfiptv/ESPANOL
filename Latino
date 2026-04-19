@@ -108,7 +108,7 @@ https://tvpass.org/live/CSPAN/hd
 
 #EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ C-SPAN 2 (sd)
 https://tvpass.org/live/CSPAN2/sd
-#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ C-SPAN 2e (hd)
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-logo="https://i.imgur.com/9B6XIQC.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ C-SPAN 2 (hd)
 https://tvpass.org/live/CSPAN2/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Cartoon Network Eastern (sd)
@@ -2993,8 +2993,12 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/109549.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/109549
 
-
-
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2005.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2005.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/2005
 
 
 
