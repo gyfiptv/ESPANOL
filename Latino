@@ -163,7 +163,7 @@ https://tvpass.org/live/CrimePlusInvestigation/hd
 
 #EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://i.imgur.com/GCB3vun.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ CW KFMB San Diego (sd) x
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://i.imgur.com/GCB3vun.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ CW KFMB San Diego (hd)
+#EXTINF:-1 tvg-id="KFMBDT2.us" tvg-logo="https://i.imgur.com/GCB3vun.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ CW KFMB San Diego (hd) x
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ CW WDCW District of Columbia (sd)
@@ -244,19 +244,19 @@ https://tvpass.org/live/fox-kttv-los-angeles-ca/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX WNYW New York (sd) x
 https://tvpass.org/live/fox-wnyw-new-york-ny/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX WNYW New York (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX WNYW New York (hd) x
 https://tvpass.org/live/fox-wnyw-new-york-ny/hd
 
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fox Business (sd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX Business (sd)
 https://tvpass.org/live/FoxBusiness/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fox Business (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX Business (hd)
 https://tvpass.org/live/FoxBusiness/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fox News (sd) x
-https://tvpass.org/live/fox-news/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fox News (hd)
-https://tvpass.org/live/fox-news/hd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX NEWS Channel (sd)
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FOX NEWS Channel (hd)
+https://tvpass.org/live/FoxNewsChannel/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Indiana (sd)
 https://tvpass.org/live/fanduel-sports-indiana/sd
@@ -295,7 +295,7 @@ https://tvpass.org/live/fanduel-sports-network-oklahoma/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network San Diego (sd) x
 https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network San Diego (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network San Diego (hd) x
 https://tvpass.org/live/fanduel-sports-network-san-diego/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network Socal (sd)
@@ -304,9 +304,9 @@ https://tvpass.org/live/fanduel-sports-network-socal/sd
 https://tvpass.org/live/fanduel-sports-network-socal/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network South Carolinas (sd) x
-https://tvpass.org/live/fanduel-sports-network-south-carolinas.sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network South Carolinas (hd)
-https://tvpass.org/live/fanduel-sports-network-south-carolinas.hd
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network South Carolinas (hd) x
+https://tvpass.org/live/fanduel-sports-network-south-carolinas/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Fanduel Sports Network South Tennessee (sd) 
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
@@ -359,9 +359,9 @@ https://tvpass.org/live/FoodNetworkEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Food Network East (hd)
 https://tvpass.org/live/FoodNetworkEast/hd
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Freeform East | Family (sd)
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Freeform East (sd)
 https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Freeform East | Family (hd)
+#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://i.imgur.com/BGAGeIf.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Freeform East (hd)
 https://tvpass.org/live/FreeformEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FUSE TV East (sd)
@@ -370,9 +370,9 @@ https://tvpass.org/live/FuseEast/sd
 https://tvpass.org/live/FuseEast/hd
 
 
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FX Movie Channel (sd)
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FXM Movie Channel (sd)
 https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FX Movie Channel (hd)
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png" group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FXM Movie Channel (hd)
 https://tvpass.org/live/FXMovieChannel/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FX Network East Coast (sd)
@@ -386,9 +386,9 @@ https://tvpass.org/live/FXXEast/sd
 https://tvpass.org/live/FXXEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FYI Eastern (sd)
-https://tvpass.org/live/GolfChannel/sd
+https://tvpass.org/live/FYIEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ FYI Eastern (hd)
-https://tvpass.org/live/GolfChannel/hd
+https://tvpass.org/live/FYIEast/hd
 
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Game Show Network East (sd)
@@ -638,7 +638,7 @@ https://tvpass.org/live/OxygenEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ PBS WNET NewYork (sd) x
 https://tvpass.org/live/pbs-wnet-new-york-ny/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ PBS WNET NewYork (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ PBS WNET NewYork (hd) x
 https://tvpass.org/live/pbs-wnet-new-york-ny/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ ReelzChannel (sd) 
@@ -773,7 +773,7 @@ https://tvpass.org/live/TLCEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TMC Eastern (sd) x
 https://tvpass.org/live/tmc-us-eastern-feed/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TMC Eastern (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TMC Eastern (hd) x
 https://tvpass.org/live/tmc-us-eastern-feed/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TNT Eastern (sd)
@@ -783,7 +783,7 @@ https://tvpass.org/live/TNTEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Travel East (sd) x
 https://tvpass.org/live/travel-us-east/sd
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Travel East (hd)
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Travel East (hd) x
 https://tvpass.org/live/travel-us-east/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ truTV Eastern (sd)
@@ -816,10 +816,10 @@ https://tvpass.org/live/tsn5/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TSN 5 (hd)
 https://tvpass.org/live/tsn5/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Turner Classic Movies USA (sd) x
-https://tvpass.org/live/turner-classic-movies-usa/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Turner Classic Movies USA (sd)
+https://tvpass.org/live/TCMEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Turner Classic Movies USA (hd)
-https://tvpass.org/live/turner-classic-movies-usa/hd
+https://tvpass.org/live/TCMEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ TV Land Eastern (sd)
 https://tvpass.org/live/tv-land-eastern/sd
@@ -841,10 +841,10 @@ https://tvpass.org/live/UnivisionEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ Univision Eastern (hd)
 https://tvpass.org/live/UnivisionEast/hd
 
-#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ USA Network East (sd) x
-https://tvpass.org/live/usa-network-east-feed/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ USA Network East (sd)
+https://tvpass.org/live/USANetworkEast/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ USA Network East (hd)
-https://tvpass.org/live/usa-network-east-feed/hd
+https://tvpass.org/live/USANetworkEast/hd
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ VH1 Eastern (sd) 
 https://tvpass.org/live/VH1East/sd
