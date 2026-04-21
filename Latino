@@ -12137,268 +12137,317 @@ http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/128048
 
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸 MLB 01 🇺🇸    ▂ ▄ ▅ ▆ ⚽  Serie MLB 📺 NLDS  ⚽ ▆ ▅ ▄ ▂
-http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/64091
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64091
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt3) 
-http://mains.best:2086/live/3003556325/2772007/64091.ts
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt4) 
-http://mains.best:2086/live/507Vej3h3S/4632273/64091.ts
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/67062
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67062
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
-http://mains.services:2086/3003556325/2772007/67062
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
-http://mains.services:2086/507Vej3h3S/4632273/67062
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸* FOX DEPORTES *HQ (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1838.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸* FOX DEPORTES *HQ (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1838.ts
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸* FOX DEPORTES *HQ (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1838
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7787.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7787.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7787.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt4)
-http://alfa.7057460.xyz:2095/ameca01/1989/7787
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/1384.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/1384.ts
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ (opt3)
-http://disfruta.net:80/fpavas/raZFGMA7GT/1384
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
-http://mains.services/live/4523074511/3178768/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
-http://mains.services/live/640939802963/IDC01478!/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
-http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
-http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7785.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7785.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7785.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt4)
-http://alfa.7057460.xyz:2095/ameca01/1989/7785
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7786.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7786.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7786.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt4)
-http://alfa.7057460.xyz:2095/ameca01/1989/7786
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ 🇲🇽FOX SPORTS 2 (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/88744
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ 🇲🇽FOX SPORTS 2 (opt2)
-http://mains.services:2086/4523074511/3178768/88744
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ 🇲🇽FOX SPORTS 2 (opt3) 
-http://mains.services:2086/507Vej3h3S/4632273/88744
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸☆ LATINO : FOX SPORTS 2 (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/92583
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸☆ LATINO : FOX SPORTS 2 (opt2)
-http://mains.services:2086/4523074511/3178768/92583
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸☆ LATINO : FOX SPORTS 2 (opt3) 
-http://mains.services:2086/507Vej3h3S/4632273/92583
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7782.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7782.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7782.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt4)
-http://alfa.7057460.xyz:2095/ameca01/1989/7782
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7796.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7796.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7796.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt4)
-http://alfa.7057460.xyz:2095/ameca01/1989/7796
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/66568
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
-http://mains.services:2086/4523074511/3178768/66568
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/66568.ts
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/95493
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
-http://mains.services:2086/4523074511/3178768/95493
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/95493.ts
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/98780
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt2) 
-http://mains.services:2086/4523074511/3178768/98780
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/98780.ts
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 2 MX (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/98781
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 2 MX (opt2)
-http://mains.services:2086/4523074511/3178768/98781
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 2 MX (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/98781.ts
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 3 MX (opt1) 
-http://mains.services:2086/640939802963/IDC01478!/98782
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 3 MX (opt2)
-http://mains.services:2086/4523074511/3178768/98782
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 3 MX (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/98782.ts
-
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ WAPA AMERICA
-http://mains.services/live/4523074511/3178768/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ WAPA AMERICA
-http://mains.services/live/640939802963/IDC01478!/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ WAPA AMERICA
-http://mains.services/live/507Vej3h3S/4632273/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HQ (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1813.ts
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HQ (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1813.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HQ (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1813
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1814.ts
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1814.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1814
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",* DEPORTES TVC HN *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52072.ts
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",* DEPORTES TVC HN *HD (opt2)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52072.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",* DEPORTES TVC HN *HD (opt3)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/52072
-
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ TNT SPORTS 1 uk | BOX🥊 UFC PAY-PER-VIEW (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ TNT SPORTS 1 uk | BOX🥊 UFC PAY-PER-VIEW (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ TNT SPORTS 1 uk | BOX🥊 UFC PAY-PER-VIEW (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/bt.sport.1.uk.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ TNT SPORTS 1 uk | BOX🥊 UFC PAY-PER-VIEW (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/bt.sport.1.uk.m3u8
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇧🇷ESPN 4 | FOX Sports BR | 🥊ESPNKnockOut (opt1)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.sports.br.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇧🇷ESPN 4 | FOX Sports BR | 🥊ESPNKnockOut (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.sports.br.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇧🇷ESPN 4 | FOX Sports BR | 🥊ESPNKnockOut (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.sports.br.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇧🇷ESPN 4 | FOX Sports BR | 🥊ESPNKnockOut (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.sports.br.m3u8
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX DEPORTES US BOX🥊 (opt1) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.deportes.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX DEPORTES US BOX🥊 (opt2) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.deportes.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX DEPORTES US BOX🥊 (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.deportes.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX DEPORTES US BOX🥊 (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.deportes.us.m3u8
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX SPORTS 1 | FS1 US (opt1)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.sports.1.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX SPORTS 1 | FS1 US (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.sports.1.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX SPORTS 1 | FS1 US (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.sports.1.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇺🇸FOX SPORTS 1 | FS1 US (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.sports.1.us.m3u8
-
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇲🇽FOX SPORTS 2 MX (opt1)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.sports.2.mx.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇲🇽FOX SPORTS 2 MX (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.sports.2.mx.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇲🇽FOX SPORTS 2 MX (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.sports.2.mx.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ 🇲🇽FOX SPORTS 2 MX (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.sports.2.mx.m3u8
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸⚽ FOX SPORTS 3 CO (opt1)
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/fox.sports.3.co.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸⚽ FOX SPORTS 3 CO (opt2)
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.sports.3.co.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸⚽ FOX SPORTS 3 CO (opt3)
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/fox.sports.3.co.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸⚽ FOX SPORTS 3 CO (opt4)
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/fox.sports.3.co.m3u8
-
-
-
-
-
-
-
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸 MLB 02 🇺🇸    ▂ ▄ ▅ ▆ ⚾  MLB 📺 Baseball  ⚾ ▆ ▅ ▄ ▂
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸 MLB 01 🇺🇸    ▂ ▄ ▅ ▆ ⚾  MLB 📺 Baseball  ⚾ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  mains🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt1)
-http://mains.services:2086/640939802963/IDC01478!/64091
+http://mains.services:2086/live/640939802963/IDC01478!/64091.m3u8
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt2)
-http://mains.services/live/4523074511/3178768/64091.m3u8
+http://mains.services/live/4523074511/3178768/64091.ts
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt3)
 http://mains.services:2086/3003556325/2772007/64091
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/64091
 
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK STRIKE ZONE (opt1) x
-http://mains.services:2086/640939802963/IDC01478!/14871
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK STRIKE ZONE (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/14871
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt4) 
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mlb.network.strike.zone.us.m3u8
+
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50141.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50141.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt2)
+http://mains.services:2086/507Vej3h3S/4632273/50141
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ATLANTA BRAVES (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50140.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ATLANTA BRAVES (opt2)
+http://mains.services:2086/live/4523074511/3178768/50140.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ATLANTA BRAVES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50140
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BALTIMORE ORIOLES | ENCORE (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50139.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BALTIMORE ORIOLES | ENCORE (opt2)
+http://mains.services:2086/live/4523074511/3178768/50139.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BALTIMORE ORIOLES | ENCORE (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50139
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BOSTON RED SOX | TV (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/98956.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BOSTON RED SOX | TV (opt2)
+http://mains.services:2086/live/live/4523074511/3178768/98956.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BOSTON RED SOX | TV (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/98956
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO CUBS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50137.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO CUBS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50137.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO CUBS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50137
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO WHITE SOX (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50136.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO WHITE SOX (opt2)
+http://mains.services:2086/live/4523074511/3178768/50136.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO WHITE SOX (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50136
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CINCINNATI REDS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50135.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CINCINNATI REDS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50135.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CINCINNATI REDS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50135
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CLEVELAND INDIANS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50134.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CLEVELAND INDIANS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50134.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CLEVELAND INDIANS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50134
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB COLORADO ROCKIES (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50133.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB COLORADO ROCKIES (opt2)
+http://mains.services:2086/live/4523074511/3178768/50133.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB COLORADO ROCKIES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50133
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB DETROIT TIGERS | SN SPORTSNET+ (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50132.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB DETROIT TIGERS | SN SPORTSNET+ (opt2)
+http://mains.services:2086/live/4523074511/3178768/50132.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB DETROIT TIGERS | SN SPORTSNET+ (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50132
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB HOUSTON ASTROS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50131.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB HOUSTON ASTROS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50131.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB HOUSTON ASTROS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50131
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB KANSAS CITY ROYALS | SPECTRUM SPORTSNET LA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50130.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB KANSAS CITY ROYALS | SPECTRUM SPORTSNET LA (opt2)
+http://mains.services:2086/live/4523074511/3178768/50130.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB KANSAS CITY ROYALS | SPECTRUM SPORTSNET LA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50130
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES ANGELS | FOX 5 VEGAS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50129.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES ANGELS | FOX 5 VEGAS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50129.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES ANGELS | FOX 5 VEGAS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50129
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES DODGERS | SPECTRUM SPORTSNET LA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50128.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES DODGERS | SPECTRUM SPORTSNET LA (opt2)
+http://mains.services:2086/live/4523074511/3178768/50128.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES DODGERS | SPECTRUM SPORTSNET LA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50128
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MIAMI MARLINS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50127.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MIAMI MARLINS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50127.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MIAMI MARLINS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50127
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MILWAUKEE BREWERS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50126.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MILWAUKEE BREWERS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50126.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MILWAUKEE BREWERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50126
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MINNESOTA TWINS | NBC SPORTS PHILADELPHIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50125.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MINNESOTA TWINS | NBC SPORTS PHILADELPHIA (opt2)
+http://mains.services:2086/live/4523074511/3178768/50125.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MINNESOTA TWINS | NBC SPORTS PHILADELPHIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50125
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK METS | SPORTSNET PITTSBURGH (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50124.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK METS | SPORTSNET PITTSBURGH (opt2)
+http://mains.services:2086/live/4523074511/3178768/50124.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK METS | SPORTSNET PITTSBURGH (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50124
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK YANKEES | SPORTSNET PITTSBURGH (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50123.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK YANKEES | SPORTSNET PITTSBURGH (opt2)
+http://mains.services:2086/live/4523074511/3178768/50123.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK YANKEES | SPORTSNET PITTSBURGH (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50123
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB OAKLAND ATHLETICS | SPECTRUM SPORTSNET LA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50122.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB OAKLAND ATHLETICS | SPECTRUM SPORTSNET LA (opt2)
+http://mains.services:2086/live/4523074511/3178768/50122.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB OAKLAND ATHLETICS | SPECTRUM SPORTSNET LA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50122
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PHILADELPHIA PHILLIES | NBC SPORTS PHILADELPHIA (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50121.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PHILADELPHIA PHILLIES | NBC SPORTS PHILADELPHIA (opt2)
+http://mains.services:2086/live/4523074511/3178768/50121.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PHILADELPHIA PHILLIES | NBC SPORTS PHILADELPHIA (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50121
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PITTSBURGH PIRATES | TV (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50120.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PITTSBURGH PIRATES | TV (opt2)
+http://mains.services:2086/live/4523074511/3178768/50120.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PITTSBURGH PIRATES | TV (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50120
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN DIEGO PADRES (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50119.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN DIEGO PADRES (opt2)
+http://mains.services:2086/live/4523074511/3178768/50119.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN DIEGO PADRES (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50119
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50118.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50118.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50118
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SEATTLE MARINERS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50117.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SEATTLE MARINERS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50117.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SEATTLE MARINERS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50117
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ST LOUIS CARDINALS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50116.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ST LOUIS CARDINALS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50116.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ST LOUIS CARDINALS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50116
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TAMPA BAY RAYS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50115.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TAMPA BAY RAYS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50115.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TAMPA BAY RAYS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50115
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TEXAS RANGERS | TV (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50114.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TEXAS RANGERS | TV (opt2)
+http://mains.services:2086/live/4523074511/3178768/50114.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TEXAS RANGERS | TV (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50114
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TORONTO BLUE JAYS | ENCORE (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50113.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TORONTO BLUE JAYS | ENCORE (opt2)
+http://mains.services:2086/live/4523074511/3178768/50113.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TORONTO BLUE JAYS | ENCORE (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50113
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB WASHINGTON NATIONALS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/50112.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB WASHINGTON NATIONALS (opt2)
+http://mains.services:2086/live/4523074511/3178768/50112.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB WASHINGTON NATIONALS (opt3)
+http://mains.services:2086/507Vej3h3S/4632273/50112
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  mains🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ARIZONA DIAMONDBACKS
+http://mains.services/live/3003556325/2772007/1964a6b6-6815-4fd3-83f7-963706bb7868.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ATLANTA BRAVES
+http://mains.services/live/3003556325/2772007/2f5b050d-0fb1-4728-96ca-eb2a5402039d.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB BALTIMORE ORIOLES
+http://mains.services/live/3003556325/2772007/e7170e46-1d99-4a15-9a8d-413cafa9c8cf.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB BOSTON RED SOX
+http://mains.services/live/3003556325/2772007/f7169253-659d-4761-a3ff-31650d6e104d.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CHICAGO CUBS
+http://mains.services/live/3003556325/2772007/e5d5d872-8646-4474-bf02-7aa7d8a3a002.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CHICAGO WHITE SOX
+http://mains.services/live/3003556325/2772007/b819fb47-249c-4aeb-b224-59d0616e2204.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CINCINNATI REDS
+http://mains.services/live/3003556325/2772007/5a993623-b83a-4d8d-bac3-81204123395c.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CLEVELAND GUARDIANS
+http://mains.services/live/3003556325/2772007/6e9e5827-d0ec-4f2c-8417-afbaab8f4cde.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB COLORADO ROCKIES
+http://mains.services/live/3003556325/2772007/7d6ca8f6-181a-40d9-bb8d-8a032f5cdbee.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB DETROIT TIGERS
+http://mains.services/live/3003556325/2772007/ac152186-7bf5-46b9-bb5f-1ee0f07430eb.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB HOUSTON ASTROS
+http://mains.services/live/3003556325/2772007/b38b08c7-8221-4495-a8d3-155c95ed01d2.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB KANSAS CITY ROYALS
+http://mains.services/live/3003556325/2772007/ed962904-87ff-4df8-872b-dc00e4dd7de5.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB LOS ANGELES ANGELS
+http://mains.services/live/3003556325/2772007/e8bcacd0-3f6e-4be0-b67c-afe92a3fe075.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB LOS ANGELES DODGERS
+http://mains.services/live/3003556325/2772007/aaee708c-0267-4dcd-9b81-3f67adf6e5fe.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MIAMI MARLINS
+http://mains.services/live/3003556325/2772007/64d6d6b1-3fcf-46f2-8403-94ef673ef015.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MILWAUKEE BREWERS
+http://mains.services/live/3003556325/2772007/b78aab4c-905b-44b8-b019-59058f72108c.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MINNESOTA TWINS
+http://mains.services/live/3003556325/2772007/9c827b3e-2240-4bc6-a7cb-27990f9eb8e0.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NETWORK FHD 1080
+http://mains.services/live/3003556325/2772007/9f641b3b-11ed-41e1-b34d-90b9ea49a3f8.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NETWORK STRIKE ZONE USA
+http://mains.services/live/3003556325/2772007/39b7f693-bcfb-45c1-9475-3e9821e26b2d.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NEW YORK METS
+http://mains.services/live/3003556325/2772007/3d0f73ab-58da-4321-a9e2-5ff590dee5e6.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NEW YORK YANKEES
+http://mains.services/live/3003556325/2772007/e175e559-0f14-404f-989b-133bbcee744d.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB OAKLAND ATHLETICS
+http://mains.services/live/3003556325/2772007/34fcfe10-29a0-4579-8971-e45a9175cbe3.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB PHILADELPHIA PHILLIES
+http://mains.services/live/3003556325/2772007/d35fb16d-cf59-4407-8186-064f17b616bb.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB PITTSBURGH PIRATES
+http://mains.services/live/3003556325/2772007/36fe607f-c6ba-4c2d-9854-3e7d9373a88d.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SAN DIEGO PADRES
+http://mains.services/live/3003556325/2772007/e79b3bf1-beff-4ac4-b311-f2b9e24879bb.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SAN FRANCISCO GIANTS
+http://mains.services/live/3003556325/2772007/a675f7f4-517f-435e-8363-14773f4b9c17.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SEATTLE MARINERS
+http://mains.services/live/3003556325/2772007/519789b5-19a8-4e8b-b45a-4e29e68a185d.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ST LOUIS CARDINALS
+http://mains.services/live/3003556325/2772007/8bc46b7d-8420-47f2-89ab-8860f81eb7fb.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TAMPA BAY RAYS
+http://mains.services/live/3003556325/2772007/7c6df4a5-bd7a-4746-b3e8-615380d3544f.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TEXAS RANGERS
+http://mains.services/live/3003556325/2772007/aa62050c-9f1b-47d5-8cbe-f9b7eb1303cd.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TORONTO BLUE JAYS
+http://mains.services/live/3003556325/2772007/0293ecf9-ad48-404b-b979-742caf39d464.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB WASHINGTON NATIONALS
+http://mains.services/live/3003556325/2772007/fc9725f3-75a3-4a48-b0bd-66e7596fbc45.m3u
+
+
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  mains🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 00 (FOX5 WORLD SERIES)
 http://mains.services:2086/live/640939802963/IDC01478!/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4dd.m3u
@@ -12407,7 +12456,7 @@ http://mains.services/live/4523074511/3178768/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 00 (FOX5 WORLD SERIES)
 http://mains.services:2086/live/507Vej3h3S/4632273/57dfb7cd-2612-4e6b-951d-fcbbaaa5d4dd.m3u
 
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ,MLB 01 (ABC)
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 01 (ABC)
 http://mains.services:2086/live/640939802963/IDC01478!/eab3fc2a-241d-49ce-b6ac-84715fc11a3e.m3u
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB 01 (ABC)
 http://mains.services/live/4523074511/3178768/eab3fc2a-241d-49ce-b6ac-84715fc11a3e.m3u
@@ -12457,307 +12506,14 @@ http://mains.services/live/4523074511/3178768/fb8f9cdb-6a03-4186-8990-66e5e2329d
 http://mains.services:2086/live/507Vej3h3S/4632273/fb8f9cdb-6a03-4186-8990-66e5e2329d4e.m3u
 
 
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50141
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt2)
-http://mains.services:2086/4523074511/3178768/50141
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ARIZONA DIAMONDBACKS (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/50141
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ATLANTA BRAVES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50140
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ATLANTA BRAVES (opt2)
-http://mains.services:2086/4523074511/3178768/50140
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ATLANTA BRAVES (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50140
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BALTIMORE ORIOLES | ENCORE (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50139
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BALTIMORE ORIOLES | ENCORE (opt2)
-http://mains.services:2086/4523074511/3178768/50139
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BALTIMORE ORIOLES | ENCORE (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50139
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BOSTON RED SOX | TV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/98956
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BOSTON RED SOX | TV (opt2)
-http://mains.services:2086/4523074511/3178768/98956
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB BOSTON RED SOX | TV (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/98956
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO CUBS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50137
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO CUBS (opt2)
-http://mains.services:2086/4523074511/3178768/50137
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO CUBS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50137
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO WHITE SOX (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50136
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO WHITE SOX (opt2)
-http://mains.services:2086/4523074511/3178768/50136
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CHICAGO WHITE SOX (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50136
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CINCINNATI REDS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50135
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CINCINNATI REDS (opt2)
-http://mains.services:2086/4523074511/3178768/50135
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CINCINNATI REDS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50135
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CLEVELAND INDIANS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50134
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CLEVELAND INDIANS (opt2)
-http://mains.services:2086/4523074511/3178768/50134
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB CLEVELAND INDIANS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50134
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB COLORADO ROCKIES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50133
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB COLORADO ROCKIES (opt2)
-http://mains.services:2086/4523074511/3178768/50133
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB COLORADO ROCKIES (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50133
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB DETROIT TIGERS | SN SPORTSNET+ (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50132
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB DETROIT TIGERS | SN SPORTSNET+ (opt2)
-http://mains.services:2086/4523074511/3178768/50132
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB DETROIT TIGERS | SN SPORTSNET+ (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50132
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB HOUSTON ASTROS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50131
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB HOUSTON ASTROS (opt2)
-http://mains.services:2086/4523074511/3178768/50131
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB HOUSTON ASTROS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50131
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB KANSAS CITY ROYALS | SPECTRUM SPORTSNET LA (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50130
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB KANSAS CITY ROYALS | SPECTRUM SPORTSNET LA (opt2)
-http://mains.services:2086/4523074511/3178768/50130
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB KANSAS CITY ROYALS | SPECTRUM SPORTSNET LA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50130
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES ANGELS | FOX 5 VEGAS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50129
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES ANGELS | FOX 5 VEGAS (opt2)
-http://mains.services:2086/4523074511/3178768/50129
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES ANGELS | FOX 5 VEGAS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50129
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES DODGERS | SPECTRUM SPORTSNET LA (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50128
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES DODGERS | SPECTRUM SPORTSNET LA (opt2)
-http://mains.services:2086/4523074511/3178768/50128
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB LOS ANGELES DODGERS | SPECTRUM SPORTSNET LA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50128
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MIAMI MARLINS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50127
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MIAMI MARLINS (opt2)
-http://mains.services:2086/4523074511/3178768/50127
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MIAMI MARLINS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50127
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MILWAUKEE BREWERS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50126
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MILWAUKEE BREWERS (opt2)
-http://mains.services:2086/4523074511/3178768/50126
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MILWAUKEE BREWERS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50126
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MINNESOTA TWINS | NBC SPORTS PHILADELPHIA (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50125
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MINNESOTA TWINS | NBC SPORTS PHILADELPHIA (opt2)
-http://mains.services:2086/4523074511/3178768/50125
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB MINNESOTA TWINS | NBC SPORTS PHILADELPHIA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50125
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK METS | SPORTSNET PITTSBURGH (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50124
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK METS | SPORTSNET PITTSBURGH (opt2)
-http://mains.services:2086/4523074511/3178768/50124
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK METS | SPORTSNET PITTSBURGH (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50124
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK YANKEES | SPORTSNET PITTSBURGH (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50123
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK YANKEES | SPORTSNET PITTSBURGH (opt2)
-http://mains.services:2086/4523074511/3178768/50123
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NEW YORK YANKEES | SPORTSNET PITTSBURGH (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50123
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB OAKLAND ATHLETICS | SPECTRUM SPORTSNET LA (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50122
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB OAKLAND ATHLETICS | SPECTRUM SPORTSNET LA (opt2)
-http://mains.services:2086/4523074511/3178768/50122
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB OAKLAND ATHLETICS | SPECTRUM SPORTSNET LA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50122
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PHILADELPHIA PHILLIES | NBC SPORTS PHILADELPHIA (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50121
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PHILADELPHIA PHILLIES | NBC SPORTS PHILADELPHIA (opt2)
-http://mains.services:2086/4523074511/3178768/50121
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PHILADELPHIA PHILLIES | NBC SPORTS PHILADELPHIA (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50121
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PITTSBURGH PIRATES | TV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50120
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PITTSBURGH PIRATES | TV (opt2)
-http://mains.services:2086/4523074511/3178768/50120
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB PITTSBURGH PIRATES | TV (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50120
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN DIEGO PADRES (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50119
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN DIEGO PADRES (opt2)
-http://mains.services:2086/4523074511/3178768/50119
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN DIEGO PADRES (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50119
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50118
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt2)
-http://mains.services:2086/4523074511/3178768/50118
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SAN FRANCISCO GIANTS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50118
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SEATTLE MARINERS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50117
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SEATTLE MARINERS (opt2)
-http://mains.services:2086/4523074511/3178768/50117
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB SEATTLE MARINERS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50117
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ST LOUIS CARDINALS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50116
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ST LOUIS CARDINALS (opt2)
-http://mains.services:2086/4523074511/3178768/50116
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB ST LOUIS CARDINALS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50116
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TAMPA BAY RAYS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50115
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TAMPA BAY RAYS (opt2)
-http://mains.services:2086/4523074511/3178768/50115
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TAMPA BAY RAYS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50115
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TEXAS RANGERS | TV (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50114
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TEXAS RANGERS | TV (opt2)
-http://mains.services:2086/4523074511/3178768/50114
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TEXAS RANGERS | TV (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50114
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TORONTO BLUE JAYS | ENCORE (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50113
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TORONTO BLUE JAYS | ENCORE (opt2)
-http://mains.services:2086/4523074511/3178768/50113
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB TORONTO BLUE JAYS | ENCORE (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50113
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB WASHINGTON NATIONALS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/50112
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB WASHINGTON NATIONALS (opt2)
-http://mains.services:2086/4523074511/3178768/50112
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB WASHINGTON NATIONALS (opt3)
-http://mains.services:2086/507Vej3h3S/4632273/50112
 
 
 
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ARIZONA DIAMONDBACKS
-http://mains.services/live/4523074511/3178768/1964a6b6-6815-4fd3-83f7-963706bb7868.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ATLANTA BRAVES
-http://mains.services/live/4523074511/3178768/2f5b050d-0fb1-4728-96ca-eb2a5402039d.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB BALTIMORE ORIOLES
-http://mains.services/live/4523074511/3178768/e7170e46-1d99-4a15-9a8d-413cafa9c8cf.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB BOSTON RED SOX
-http://mains.services/live/4523074511/3178768/f7169253-659d-4761-a3ff-31650d6e104d.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CHICAGO CUBS
-http://mains.services/live/4523074511/3178768/e5d5d872-8646-4474-bf02-7aa7d8a3a002.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CHICAGO WHITE SOX
-http://mains.services/live/4523074511/3178768/b819fb47-249c-4aeb-b224-59d0616e2204.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CINCINNATI REDS
-http://mains.services/live/4523074511/3178768/5a993623-b83a-4d8d-bac3-81204123395c.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB CLEVELAND GUARDIANS
-http://mains.services/live/4523074511/3178768/6e9e5827-d0ec-4f2c-8417-afbaab8f4cde.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB COLORADO ROCKIES
-http://mains.services/live/4523074511/3178768/7d6ca8f6-181a-40d9-bb8d-8a032f5cdbee.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB DETROIT TIGERS
-http://mains.services/live/4523074511/3178768/ac152186-7bf5-46b9-bb5f-1ee0f07430eb.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB HOUSTON ASTROS
-http://mains.services/live/4523074511/3178768/b38b08c7-8221-4495-a8d3-155c95ed01d2.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB KANSAS CITY ROYALS
-http://mains.services/live/4523074511/3178768/ed962904-87ff-4df8-872b-dc00e4dd7de5.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB LOS ANGELES ANGELS
-http://mains.services/live/4523074511/3178768/e8bcacd0-3f6e-4be0-b67c-afe92a3fe075.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB LOS ANGELES DODGERS
-http://mains.services/live/4523074511/3178768/aaee708c-0267-4dcd-9b81-3f67adf6e5fe.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MIAMI MARLINS
-http://mains.services/live/4523074511/3178768/64d6d6b1-3fcf-46f2-8403-94ef673ef015.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MILWAUKEE BREWERS
-http://mains.services/live/4523074511/3178768/b78aab4c-905b-44b8-b019-59058f72108c.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB MINNESOTA TWINS
-http://mains.services/live/4523074511/3178768/9c827b3e-2240-4bc6-a7cb-27990f9eb8e0.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NETWORK FHD 1080
-http://mains.services/live/4523074511/3178768/9f641b3b-11ed-41e1-b34d-90b9ea49a3f8.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NETWORK STRIKE ZONE USA
-http://mains.services/live/4523074511/3178768/39b7f693-bcfb-45c1-9475-3e9821e26b2d.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NEW YORK METS
-http://mains.services/live/4523074511/3178768/3d0f73ab-58da-4321-a9e2-5ff590dee5e6.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB NEW YORK YANKEES
-http://mains.services/live/4523074511/3178768/e175e559-0f14-404f-989b-133bbcee744d.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB OAKLAND ATHLETICS
-http://mains.services/live/4523074511/3178768/34fcfe10-29a0-4579-8971-e45a9175cbe3.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB PHILADELPHIA PHILLIES
-http://mains.services/live/4523074511/3178768/d35fb16d-cf59-4407-8186-064f17b616bb.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB PITTSBURGH PIRATES
-http://mains.services/live/4523074511/3178768/36fe607f-c6ba-4c2d-9854-3e7d9373a88d.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SAN DIEGO PADRES
-http://mains.services/live/4523074511/3178768/e79b3bf1-beff-4ac4-b311-f2b9e24879bb.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SAN FRANCISCO GIANTS
-http://mains.services/live/4523074511/3178768/a675f7f4-517f-435e-8363-14773f4b9c17.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB SEATTLE MARINERS
-http://mains.services/live/4523074511/3178768/519789b5-19a8-4e8b-b45a-4e29e68a185d.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB ST LOUIS CARDINALS
-http://mains.services/live/4523074511/3178768/8bc46b7d-8420-47f2-89ab-8860f81eb7fb.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TAMPA BAY RAYS
-http://mains.services/live/4523074511/3178768/7c6df4a5-bd7a-4746-b3e8-615380d3544f.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TEXAS RANGERS
-http://mains.services/live/4523074511/3178768/aa62050c-9f1b-47d5-8cbe-f9b7eb1303cd.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB TORONTO BLUE JAYS
-http://mains.services/live/4523074511/3178768/0293ecf9-ad48-404b-b979-742caf39d464.m3u
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ US : MLB WASHINGTON NATIONALS
-http://mains.services/live/4523074511/3178768/fc9725f3-75a3-4a48-b0bd-66e7596fbc45.m3u
 
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸 MLB 03 🇺🇸    ▂ ▄ ▅ ▆ ⚽  MLB 📺 Baseball  ⚽ ▆ ▅ ▄ ▂
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸 MLB 02 🇺🇸    ▂ ▄ ▅ ▆ ⚽  MLB 📺 Baseball  ⚽ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  xdplay🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mlb.network.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt2) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mlb.network.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mlb.network.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mlb.network.us.m3u8
-
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt1) 
-https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mlb.network.strike.zone.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt2) 
-https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mlb.network.strike.zone.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt3) 
-https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mlb.network.strike.zone.us.m3u8
-#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt4) 
-https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mlb.network.strike.zone.us.m3u8
 
 
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* MLB | Arizona Diamondbacks
@@ -12876,6 +12632,220 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48729.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48730.ts
 #EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸* LMB | Toros de Tijuana
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/48728.ts
+
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸 MLB 03 🇺🇸    ▂ ▄ ▅ ▆ ⚽  Serie MLB 📺 NLDS  ⚽ ▆ ▅ ▄ ▂
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mlb.network.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network US (opt4) 
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mlb.network.us.m3u8
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt2) 
+https://tvnow.best/api/stream/randyroos1@gmail.com/922994/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt3) 
+https://tvnow.best/api/stream/cheekyjunglist@me.com/102091/livetv.epg/mlb.network.strike.zone.us.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",⚽ MLB Network | STRIKE ZONE US (opt4) 
+https://tvnow.best/api/stream/slovenkobenny539@gmail.com/893962/livetv.epg/mlb.network.strike.zone.us.m3u8
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK STRIKE ZONE (opt1) x
+http://mains.services:2086/640939802963/IDC01478!/14871
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK STRIKE ZONE (opt2) x
+http://mains.services:2086/507Vej3h3S/4632273/14871
+
+
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/64091
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt2)
+http://mains.services:2086/4523074511/3178768/64091
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt3) 
+http://mains.best:2086/live/3003556325/2772007/64091.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ MLB NETWORK FHD (opt4) 
+http://mains.best:2086/live/507Vej3h3S/4632273/64091.ts
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/67062
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
+http://mains.services:2086/4523074511/3178768/67062
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
+http://mains.services:2086/3003556325/2772007/67062
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
+http://mains.services:2086/507Vej3h3S/4632273/67062
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
+http://mains.services/live/4523074511/3178768/532968e1-931c-4642-9e0a-f25e80f75279.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
+http://mains.services/live/640939802963/IDC01478!/532968e1-931c-4642-9e0a-f25e80f75279.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
+http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f75279.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸USA FIFA 04 (FS 1)
+http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ 🇲🇽FOX SPORTS 2 (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/88744
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ 🇲🇽FOX SPORTS 2 (opt2)
+http://mains.services:2086/4523074511/3178768/88744
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ 🇲🇽FOX SPORTS 2 (opt3) 
+http://mains.services:2086/507Vej3h3S/4632273/88744
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸☆ LATINO : FOX SPORTS 2 (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/92583
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸☆ LATINO : FOX SPORTS 2 (opt2)
+http://mains.services:2086/4523074511/3178768/92583
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸☆ LATINO : FOX SPORTS 2 (opt3) 
+http://mains.services:2086/507Vej3h3S/4632273/92583
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/66568
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
+http://mains.services:2086/4523074511/3178768/66568
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt3) 
+http://mains.best:2086/live/507Vej3h3S/4632273/66568.ts
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/95493
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
+http://mains.services:2086/4523074511/3178768/95493
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt3) 
+http://mains.best:2086/live/507Vej3h3S/4632273/95493.ts
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/98780
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt2) 
+http://mains.services:2086/4523074511/3178768/98780
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt3) 
+http://mains.best:2086/live/507Vej3h3S/4632273/98780.ts
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 2 MX (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/98781
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 2 MX (opt2)
+http://mains.services:2086/4523074511/3178768/98781
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 2 MX (opt3) 
+http://mains.best:2086/live/507Vej3h3S/4632273/98781.ts
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 3 MX (opt1) 
+http://mains.services:2086/640939802963/IDC01478!/98782
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 3 MX (opt2)
+http://mains.services:2086/4523074511/3178768/98782
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽☆ ESPN 3 MX (opt3) 
+http://mains.best:2086/live/507Vej3h3S/4632273/98782.ts
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ WAPA AMERICA
+http://mains.services/live/4523074511/3178768/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ WAPA AMERICA
+http://mains.services/live/640939802963/IDC01478!/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",☆ WAPA AMERICA
+http://mains.services/live/507Vej3h3S/4632273/8ab53aaa-a9b7-451b-839a-56ba3a5116b3.m3u
+
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7787.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7787.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7787.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FOX DEPORTES (opt4)
+http://alfa.7057460.xyz:2095/ameca01/1989/7787
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7785.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7785.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7785.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 1 (opt4)
+http://alfa.7057460.xyz:2095/ameca01/1989/7785
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7786.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7786.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7786.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ FS 2 (opt4)
+http://alfa.7057460.xyz:2095/ameca01/1989/7786
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7782.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7782.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7782.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸★ ESPN PREMIUM (opt4)
+http://alfa.7057460.xyz:2095/ameca01/1989/7782
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7796.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7796.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt3)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7796.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇺🇸★ ESPN DEPORTES | 🥊ESPNKnockOut (opt4)
+http://alfa.7057460.xyz:2095/ameca01/1989/7796
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚾MLB🇺🇸Baseball⚾",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸* FOX DEPORTES *HQ (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1838.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸* FOX DEPORTES *HQ (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1838.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸* FOX DEPORTES *HQ (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1838
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HQ (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1813.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HQ (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1813.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HQ (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1813
+
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1814.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1814.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇲🇽* TVC D DEPORTES MX *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1814
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",* DEPORTES TVC HN *HD (opt1)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52072.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",* DEPORTES TVC HN *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/52072.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",* DEPORTES TVC HN *HD (opt3)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/52072
+
+
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1384.m3u8
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1384.ts
+#EXTINF:-1 group-title="⚾MLB🇺🇸Baseball⚾",🇪🇸ᵀᵛ¹ FOX Deportes ᴴᴰ (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1384
+
+
+
+
+
+
+
+
+
+
 
 
 
