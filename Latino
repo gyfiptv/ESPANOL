@@ -4043,8 +4043,14 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2006.ts
 #EXTINF:-1,🇪🇸SP | BEIN LALIGA *FHD | DAZN LALIGA
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2004.ts
-#EXTINF:-1,🇪🇸SP | BEIN LALIGA *HD | BeIN Sports Ñ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2005.ts
+
+#EXTINF:-1,🇪🇸SP | L1MAX *HD | PE
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2005.m3u8
+#EXTINF:-1,🇪🇸SP | L1MAX *HD | PE
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2005.ts
+#EXTINF:-1,🇪🇸SP | L1MAX *HD | PE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2005
+
 #EXTINF:-1,🇪🇸SP | BEIN LALIGA *HD | LALIGA TV
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2003.ts
 #EXTINF:-1,🇺🇸SP | BEIN SPORTS *FHD
@@ -4426,40 +4432,52 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 (opt1)
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2370.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 (opt2)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2370.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 (opt2)
+http://xdplay.tv:8080/live/live/dannyrx15/jvgKdjsjKC/2370.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 (opt3)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2370
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2368.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2368.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2368
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 DE (opt1)
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2360.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 DE (opt2)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2360.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 DE (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2360.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 1 DE (opt3)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2360
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2368.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 DE
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2361.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 DE (opt1)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2361.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 DE (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2361.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 2 DE (opt3)
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2361
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 3 | RAI MOVIE HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2369.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2369.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 3 | RAI MOVIE HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2369.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN 3 | RAI MOVIE HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2369
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN F1 *FHD (opt1)
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52686.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN F1 *FHD (opt2)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52686.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN F1 *FHD (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52686.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | DAZN F1 *FHD (opt3)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52686
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LaLiga | por M+ | DAZN *HQ (opt1)
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52687.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LaLiga | por M+ | DAZN *HQ (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LaLiga | por M+ | DAZN F1 *HQ (opt1)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52687.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LaLiga | por M+ | DAZN *HQ (opt3)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LaLiga | por M+ | DAZN F1 *HQ (opt2)
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/52687.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | LaLiga | por M+ | DAZN F1 *HQ (opt3)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52687
 
 
@@ -4973,21 +4991,55 @@ https://tvpass.org/live/FoxSports2/sd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FS2 | FOX Sports 2 (hd)
 https://tvpass.org/live/FoxSports2/hd
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2050.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2050.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2050
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX DEPORTES
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2068.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2050.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2068.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX DEPORTES
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2068.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX DEPORTES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2068
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS CAROLINAS | FS1
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2022.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2022.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS CAROLINAS | FS1
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2022.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS CAROLINAS | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2022
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS TNNESS | FS1
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22102.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS TNNESS | FS1
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22102.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS TNNESS | FS1
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22102.ts
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS WEST
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22115.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS WEST
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/22115.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS WEST
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22115.ts
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS1
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2061.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2061.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS1
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2061.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS1
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2061
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2060.ts
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2060.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2060.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FS2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2060
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7812 Caliente TV de FOX SPORTS (opt1)
@@ -5527,69 +5579,69 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95337.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95337
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95416.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95416.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95416.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95416
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95417.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HD | (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95417
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95656.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1 PERU *HQ (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95656
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/95657.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA1MAX PERU *HQ (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/95657
 
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 MAX PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/101850.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 MAX PERU *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/101850.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 MAX PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/101850.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 MAX PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/101850
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/108592.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/108592.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/108592.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/108592
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/109549.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/109549.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/109549.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* LIGA 1 PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/109549
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt1)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2005.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt2)
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2005.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt2)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/2005.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇵🇪* L1 MAX PERU *HD (opt3)
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/2005
 
