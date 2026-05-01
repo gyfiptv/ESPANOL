@@ -288,6 +288,12 @@ https://tvpass.org/live/DisneyXDEast/sd
 https://tvpass.org/live/DisneyXDEast/hd
 
 
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ E! Entertainment East (sd)
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ E! Entertainment East (hd)
+https://tvpass.org/live/EEast/sd
+
+
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ ESPN Deportes (sd)
 https://tvpass.org/live/espn-deportes/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇪🇸☑ ESPN Deportes (hd)
@@ -465,6 +471,16 @@ https://tvpass.org/live/game-show-network-east/hd
 https://tvpass.org/live/GolfChannel/sd
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Golf Channel USA (hd)
 https://tvpass.org/live/GolfChannel/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Family | Drama (sd)
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Family | Drama (hd)
+https://tvpass.org/live/HallmarkDrama/hd
+
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Movies & Mysteries East (sd)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ Hallmark Movies & Mysteries East (hd)
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/hd
 
 
 #EXTINF:-1 group-title="📺TVᴾᵃˢˢ🌐ᴇɴgʟɪsh🇺🇸",🇺🇸☑ HBO Eastern (sd)
