@@ -8632,6 +8632,9 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽FIFA🌐World Cup 2026™⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv   📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☑ Unbeaten | Premium Sports Channel
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☆ US : FOX SOCCER PLUS
 http://mains.services/live/640939802963/IDC01478!/93a91ced-a6dd-4367-86f8-60ccb8b5a82f.m3u
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸☆ US : FOX SOCCER PLUS
@@ -8804,6 +8807,10 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54369.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369
 
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* Tigo Sports TV El Salvador (720p) [Geo-blocked]
+https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS COSTA RICA *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
