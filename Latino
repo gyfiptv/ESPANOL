@@ -3319,11 +3319,11 @@ https://tvpass.org/live/altitude-sports-denver/sd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Altitude Sports Denver (hd)
 https://tvpass.org/live/altitude-sports-denver/hd
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Apple TV | MLS Cup [HD]
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",MLS CUP | Apple TV [HD]
 http://pfsv.io:80/live/6181288/27664/289592.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Apple TV | MLS Cup [HD]
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",MLS CUP | Apple TV [HD]
 http://pfsv.io:80/live/6181288/27664/289592.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Apple TV | MLS Cup [HD]
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",MLS CUP | Apple TV [HD]
 http://pfsv.io:80/6181288/27664/289592
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Apple TV 01 | MLS Cup [HD]
@@ -3584,6 +3584,9 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ WBTV HBO Boxing (1080p) [Geo-blocked]
+https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
+
 #EXTINF:-1,🇺🇸SP | BTN B1G
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
 #EXTINF:-1,🇪🇸SP | BARCA TV | TELECINCO ES
@@ -3806,25 +3809,25 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7378.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt2)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt2) x
 http://alfa.7057460.xyz:2095/live/liammtz2018/santosmtz2018/7378.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt3)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7378.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt4) 
 http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7378.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt5)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt5) x
 http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7378.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt6)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7378.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt7) 
 http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7378.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt8)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt8) x
 http://alfa.7057460.xyz:2095/ameca01/1989/7378
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt1) 
 http://mains.best:2086/3003556325/2772007/349
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt2) 
-http://mains.services:2086/4523074511/3178768/349
+http://mains.services:2086/507Vej3h3S/4632273/349
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/349.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt4)
@@ -3833,7 +3836,7 @@ http://mains.services:2086/640939802963/IDC01478!/349
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt1) 
 http://mains.best:2086/3003556325/2772007/64142
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt2) 
-http://mains.services:2086/4523074511/3178768/64142
+http://mains.services:2086/507Vej3h3S/4632273/64142
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/64142.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt4)
@@ -4040,28 +4043,28 @@ http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7829.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT 1
-http://mains.services:2086/4523074511/3178768/72659
+http://mains.services:2086/507Vej3h3S/4632273/72659
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT 1
 http://mains.services:2086/640939802963/IDC01478!/72659
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT 1
 http://mains.best:2086/3003556325/2772007/72659
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT 2
-http://mains.services:2086/4523074511/3178768/72660
+http://mains.services:2086/507Vej3h3S/4632273/72660
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT 2
 http://mains.services:2086/640939802963/IDC01478!/72660
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT 2
 http://mains.best:2086/3003556325/2772007/72660
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT ONE
-http://mains.services:2086/4523074511/3178768/99200
+http://mains.services:2086/507Vej3h3S/4632273/99200
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT ONE
 http://mains.services:2086/640939802963/IDC01478!/99200
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT ONE
 http://mains.best:2086/3003556325/2772007/99200
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT TWO
-http://mains.services:2086/4523074511/3178768/99201
+http://mains.services:2086/507Vej3h3S/4632273/99201
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT TWO
 http://mains.services:2086/640939802963/IDC01478!/99201
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : ⛹️*EUROSPORT TWO
@@ -4353,7 +4356,7 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7780.m3u8
 http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7780.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ FOX Sports 506 | Moto2 Race (opt1)
-http://mains.services:2086/4523074511/3178768/102322
+http://mains.services:2086/507Vej3h3S/4632273/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ FOX Sports 506 | Moto2 Race (opt2)
 http://mains.services:2086/640939802963/IDC01478!/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ FOX Sports 506 | Moto2 Race (opt3)
@@ -4362,7 +4365,7 @@ http://mains.best:2086/3003556325/2772007/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FOX Sports 506 | Moto2 Race (opt1)
 http://mains.best:2086/3003556325/2772007/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FOX Sports 506 | Moto2 Race (opt2)
-http://mains.services:2086/4523074511/3178768/102322
+http://mains.services:2086/507Vej3h3S/4632273/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FOX Sports 506 | Moto2 Race (opt3)
 http://mains.services:2086/640939802963/IDC01478!/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FOX Sports 506 | Moto2 Race (opt4)
@@ -4520,7 +4523,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/97722.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt1)
-http://mains.services:2086/4523074511/3178768/101213
+http://mains.services:2086/507Vej3h3S/4632273/101213
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt2)
 http://mains.services:2086/640939802963/IDC01478!/101213
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt3)
@@ -4529,7 +4532,7 @@ http://mains.best:2086/3003556325/2772007/101213
 http://mains.services:2086/507Vej3h3S/4632273/101213
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt1)
-http://mains.services:2086/4523074511/3178768/101214
+http://mains.services:2086/507Vej3h3S/4632273/101214
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt2)
 http://mains.services:2086/640939802963/IDC01478!/101214
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FANDUEL NETWORK (opt3)
@@ -4546,21 +4549,21 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1: SKY SPORTS F1 (opt1)
-http://mains.services:2086/4523074511/3178768/101046
+http://mains.services:2086/507Vej3h3S/4632273/101046
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1: SKY SPORTS F1 (opt2)
 http://mains.services:2086/640939802963/IDC01478!/101046
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1: SKY SPORTS F1 (opt3)
 http://mains.best:2086/3003556325/2772007/101046
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : AU FOX SPORTS 506 (opt1)
-http://mains.services:2086/4523074511/3178768/102322
+http://mains.services:2086/507Vej3h3S/4632273/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : AU FOX SPORTS 506 (opt2)
 http://mains.services:2086/640939802963/IDC01478!/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : AU FOX SPORTS 506 (opt3)
 http://mains.best:2086/3003556325/2772007/102322
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : ESPN 2 (opt1)
-http://mains.services:2086/4523074511/3178768/102321
+http://mains.services:2086/507Vej3h3S/4632273/102321
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : ESPN 2 (opt2)
 http://mains.services:2086/640939802963/IDC01478!/102321
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : ESPN 2 (opt3)
@@ -4568,14 +4571,14 @@ http://mains.best:2086/3003556325/2772007/102321
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1: DATA TRACKER (opt1)
-http://mains.services:2086/4523074511/3178768/101044
+http://mains.services:2086/507Vej3h3S/4632273/101044
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1: DATA TRACKER (opt2)
 http://mains.services:2086/640939802963/IDC01478!/101044
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1: DATA TRACKER (opt3)
 http://mains.best:2086/3003556325/2772007/101044
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : SUPERSPORT MOTORSPORT (opt1)
-http://mains.services:2086/4523074511/3178768/102323
+http://mains.services:2086/507Vej3h3S/4632273/102323
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : SUPERSPORT MOTORSPORT (opt2)
 http://mains.services:2086/640939802963/IDC01478!/102323
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ F1 : SUPERSPORT MOTORSPORT (opt3)
@@ -4663,16 +4666,16 @@ http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7803.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : CA NBC GOLF (opt1)
-http://mains.services:2086/4523074511/3178768/99141
+http://mains.services:2086/507Vej3h3S/4632273/99141
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : SKY SPORTS GOLF (opt1)
-http://mains.services:2086/4523074511/3178768/99142
+http://mains.services:2086/507Vej3h3S/4632273/99142
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : US GOLF CHANNEL (opt1)
-http://mains.services:2086/4523074511/3178768/99143
+http://mains.services:2086/507Vej3h3S/4632273/99143
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ US : GOLF CHANNEL (opt1)
-http://mains.services:2086/4523074511/3178768/390
+http://mains.services:2086/507Vej3h3S/4632273/390
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ US : GOLF CHANNEL FHD (opt1)
-http://mains.services:2086/4523074511/3178768/64105
+http://mains.services:2086/507Vej3h3S/4632273/64105
 
 
 
@@ -5026,60 +5029,60 @@ http://alfa.7057460.xyz:2095/live/enavarro95/95cuenta/7818.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MARQUEE SPORTS NETWORK
-http://mains.services/live/4523074511/3178768/5a2d3a09-8cb5-4491-96fa-46546b82736b.m3u
+http://mains.services/live/507Vej3h3S/4632273/5a2d3a09-8cb5-4491-96fa-46546b82736b.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MARQUEE SPORTS NETWORK FHD
-http://mains.services/live/4523074511/3178768/91509f37-d9fe-4aef-ac8b-3c906838967a.m3u
+http://mains.services/live/507Vej3h3S/4632273/91509f37-d9fe-4aef-ac8b-3c906838967a.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MASN
-http://mains.services/live/4523074511/3178768/0cc5678c-13fd-4d98-b0a3-573f51dd3e8d.m3u
+http://mains.services/live/507Vej3h3S/4632273/0cc5678c-13fd-4d98-b0a3-573f51dd3e8d.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MASN 2
-http://mains.services/live/4523074511/3178768/0a286714-50bf-4f7f-baf0-af3e027604a4.m3u
+http://mains.services/live/507Vej3h3S/4632273/0a286714-50bf-4f7f-baf0-af3e027604a4.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MAV TV
-http://mains.services/live/4523074511/3178768/bfeee941-9778-4011-80f3-91d584da194d.m3u
+http://mains.services/live/507Vej3h3S/4632273/bfeee941-9778-4011-80f3-91d584da194d.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : METV FHD
-http://mains.services/live/4523074511/3178768/a22076b0-fd82-4f8a-a406-e8d43dc18993.m3u
+http://mains.services/live/507Vej3h3S/4632273/a22076b0-fd82-4f8a-a406-e8d43dc18993.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+
-http://mains.services/live/4523074511/3178768/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
+http://mains.services/live/507Vej3h3S/4632273/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ DRIVE-IN
-http://mains.services/live/4523074511/3178768/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
+http://mains.services/live/507Vej3h3S/4632273/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ DRIVE-IN FHD 1080
-http://mains.services/live/4523074511/3178768/12e4c88d-ab28-49e0-98c1-e8d9f4a2e4da.m3u
+http://mains.services/live/507Vej3h3S/4632273/12e4c88d-ab28-49e0-98c1-e8d9f4a2e4da.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ FHD 1080
-http://mains.services/live/4523074511/3178768/13eff9f6-5b82-47e4-8ea7-52be1329f8e6.m3u
+http://mains.services/live/507Vej3h3S/4632273/13eff9f6-5b82-47e4-8ea7-52be1329f8e6.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ HITS
-http://mains.services/live/4523074511/3178768/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
+http://mains.services/live/507Vej3h3S/4632273/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ HITS FHD 1080
-http://mains.services/live/4523074511/3178768/0e53e358-ec7e-4a47-82ce-4dfda186b0f9.m3u
+http://mains.services/live/507Vej3h3S/4632273/0e53e358-ec7e-4a47-82ce-4dfda186b0f9.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ MARQUEE
-http://mains.services/live/4523074511/3178768/acde4878-8208-4bf0-b118-e24650b9d910.m3u
+http://mains.services/live/507Vej3h3S/4632273/acde4878-8208-4bf0-b118-e24650b9d910.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MGM+ MARQUEE FHD 1080
-http://mains.services/live/4523074511/3178768/ac386897-e31f-4fb3-bd2e-8b98d375015b.m3u
+http://mains.services/live/507Vej3h3S/4632273/ac386897-e31f-4fb3-bd2e-8b98d375015b.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MONUMENTAL SPORTS NETWORK
-http://mains.services/live/4523074511/3178768/494d5e7e-2200-4f55-a2a5-ba7efac36409.m3u
+http://mains.services/live/507Vej3h3S/4632273/494d5e7e-2200-4f55-a2a5-ba7efac36409.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MOTOR TREND FHD 1080
-http://mains.services/live/4523074511/3178768/d9bc0b33-1e95-4950-82db-25fd2ce12da9.m3u
+http://mains.services/live/507Vej3h3S/4632273/d9bc0b33-1e95-4950-82db-25fd2ce12da9.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MSG
-http://mains.services/live/4523074511/3178768/cff3dfe0-4be4-47fd-96e9-1e8e94b94bdf.m3u
+http://mains.services/live/507Vej3h3S/4632273/cff3dfe0-4be4-47fd-96e9-1e8e94b94bdf.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MSG +2
-http://mains.services/live/4523074511/3178768/66a82042-1d41-4f99-885c-c6ffd8249011.m3u
+http://mains.services/live/507Vej3h3S/4632273/66a82042-1d41-4f99-885c-c6ffd8249011.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MSG 2
-http://mains.services/live/4523074511/3178768/bf41b868-f7c3-44bb-a36b-3bc066a7bc77.m3u
+http://mains.services/live/507Vej3h3S/4632273/bf41b868-f7c3-44bb-a36b-3bc066a7bc77.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MSGSN
-http://mains.services/live/4523074511/3178768/52b6cb82-868c-4fc5-bf0a-1774828a785f.m3u
+http://mains.services/live/507Vej3h3S/4632273/52b6cb82-868c-4fc5-bf0a-1774828a785f.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MSNBC
-http://mains.services/live/4523074511/3178768/51a2f232-2d8c-479b-8d01-5bf35e921e5d.m3u
+http://mains.services/live/507Vej3h3S/4632273/51a2f232-2d8c-479b-8d01-5bf35e921e5d.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",US : MSNBC FHD 1080
-http://mains.services/live/4523074511/3178768/d3e1a9c4-cda4-41f6-8875-3b07c917990b.m3u
+http://mains.services/live/507Vej3h3S/4632273/d3e1a9c4-cda4-41f6-8875-3b07c917990b.m3u
 
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt1) 
 http://mains.best:2086/3003556325/2772007/337
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt2) 
-http://mains.services:2086/4523074511/3178768/337
+http://mains.services:2086/507Vej3h3S/4632273/337
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/337.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt4)
@@ -5088,7 +5091,7 @@ http://mains.services:2086/640939802963/IDC01478!/337
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt1) 
 http://mains.best:2086/3003556325/2772007/64090
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt2) 
-http://mains.services:2086/4523074511/3178768/64090
+http://mains.services:2086/507Vej3h3S/4632273/64090
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/64090.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt4)
@@ -5097,7 +5100,7 @@ http://mains.services:2086/640939802963/IDC01478!/64090
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt1) 
 http://mains.best:2086/3003556325/2772007/95410
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt2) 
-http://mains.services:2086/4523074511/3178768/95410
+http://mains.services:2086/507Vej3h3S/4632273/95410
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/95410.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️MSNBC (opt4)
@@ -5336,16 +5339,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 1 [FHD]
-http://pfsv.io:80/6181288/27664/208972.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 2 [FHD]
-http://pfsv.io:80/6181288/27664/208973.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 3 [FHD]
-http://pfsv.io:80/6181288/27664/208971.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 4 [FHD]
-http://pfsv.io:80/6181288/27664/208968.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 5 [FHD]
-http://pfsv.io:80/6181288/27664/210171.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",PREMIERE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2343.ts
@@ -5362,6 +5355,17 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2341.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",PREMIERE 7 *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2342.ts
 
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 1 [FHD]
+http://pfsv.io:80/6181288/27664/208972.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 2 [FHD]
+http://pfsv.io:80/6181288/27664/208973.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 3 [FHD]
+http://pfsv.io:80/6181288/27664/208971.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 4 [FHD]
+http://pfsv.io:80/6181288/27664/208968.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",Prime Video 5 [FHD]
+http://pfsv.io:80/6181288/27664/210171.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 PARAMOUNT 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
@@ -7279,7 +7283,7 @@ http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="🏀SPORTS🌐WORLD🎾",☆ UFC TV (opt1)
 http://mains.vip:2086/3003556325/2772007/101190
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="🏀SPORTS🌐WORLD🎾",☆ UFC TV (opt2)
-http://mains.services:2086/4523074511/3178768/101190
+http://mains.services:2086/507Vej3h3S/4632273/101190
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="🏀SPORTS🌐WORLD🎾",☆ UFC TV (opt3)
 http://mains.services:2086/live/507Vej3h3S/4632273/101190.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/UFC_Logo.png/1200px-UFC_Logo.png" group-title="🏀SPORTS🌐WORLD🎾",☆ UFC TV (opt4)
@@ -7288,7 +7292,7 @@ http://mains.services:2086/640939802963/IDC01478!/101190
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ UFC PPV (opt1)
 http://mains.best:2086/3003556325/2772007/101182
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ UFC PPV (opt1)
-http://mains.services:2086/4523074511/3178768/101182
+http://mains.services:2086/507Vej3h3S/4632273/101182
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ UFC PPV (opt1)
 http://mains.services:2086/live/507Vej3h3S/4632273/101182.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ UFC PPV (opt1)
@@ -7297,7 +7301,7 @@ http://mains.services:2086/640939802963/IDC01478!/101182
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : UFC FIGHT PASS
 http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : UNIVERSO WEST HD
-http://mains.services/live/4523074511/3178768/4bdf9403-5e5f-4cc2-8a72-e8812d5fbf75.m3u
+http://mains.services/live/507Vej3h3S/4632273/4bdf9403-5e5f-4cc2-8a72-e8812d5fbf75.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : USA NETWORK FHD 1080
 http://mains.services/live/4523074511/3178768/ef56e78a-1209-4dc4-b752-5b800378ef0b.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : USA NETWORK WEST HD
@@ -7328,7 +7332,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️UNIVERSO NBC (opt1) 
 http://mains.best:2086/3003556325/2772007/95414
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️UNIVERSO NBC (opt2) 
-http://mains.services:2086/4523074511/3178768/95414
+http://mains.services:2086/507Vej3h3S/4632273/95414
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️UNIVERSO NBC (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/95414.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️UNIVERSO NBC (opt4)
@@ -7337,7 +7341,7 @@ http://mains.services:2086/640939802963/IDC01478!/95414
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK HD (opt1) 
 http://mains.best:2086/3003556325/2772007/242
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK HD (opt2) 
-http://mains.services:2086/4523074511/3178768/242
+http://mains.services:2086/507Vej3h3S/4632273/242
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK HD (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/242.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK HD (opt4)
@@ -7346,7 +7350,7 @@ http://mains.services:2086/640939802963/IDC01478!/242
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK FHD (opt1) 
 http://mains.best:2086/3003556325/2772007/64025
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK FHD (opt2) 
-http://mains.services:2086/4523074511/3178768/64025
+http://mains.services:2086/507Vej3h3S/4632273/64025
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK FHD (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/64025.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK FHD (opt4)
@@ -7355,7 +7359,7 @@ http://mains.services:2086/640939802963/IDC01478!/64025
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK (opt1) 
 http://mains.best:2086/3003556325/2772007/95409
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK (opt2) 
-http://mains.services:2086/4523074511/3178768/95409
+http://mains.services:2086/507Vej3h3S/4632273/95409
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK (opt3) 
 http://mains.services:2086/live/507Vej3h3S/4632273/95409.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️USA NETWORK (opt4)
@@ -7364,21 +7368,21 @@ http://mains.services:2086/640939802963/IDC01478!/95409
 
 
 #EXTINF:-1,UFL : ARLINGTON RENEGADES
-http://mains.services/live/4523074511/3178768/a3b52daa-2911-44c0-90f4-e2fa33fc6cdc.m3u
+http://mains.services/live/507Vej3h3S/4632273/a3b52daa-2911-44c0-90f4-e2fa33fc6cdc.m3u
 #EXTINF:-1,UFL : BIRMINGHAM STALLIONS
-http://mains.services/live/4523074511/3178768/92961704-6477-4e03-bf5f-7d3448307135.m3u
+http://mains.services/live/507Vej3h3S/4632273/92961704-6477-4e03-bf5f-7d3448307135.m3u
 #EXTINF:-1,UFL : DC DEFENDERS
-http://mains.services/live/4523074511/3178768/fdff3fe2-5554-4a3b-9b18-37c67243223d.m3u
+http://mains.services/live/507Vej3h3S/4632273/fdff3fe2-5554-4a3b-9b18-37c67243223d.m3u
 #EXTINF:-1,UFL : HOUSTON ROUGHNECKS
-http://mains.services/live/4523074511/3178768/d13f86c6-0dba-46e6-9cbe-ed271bb18963.m3u
+http://mains.services/live/507Vej3h3S/4632273/d13f86c6-0dba-46e6-9cbe-ed271bb18963.m3u
 #EXTINF:-1,UFL : MEMPHIS SHOWBOATS
-http://mains.services/live/4523074511/3178768/69446e91-0e0a-4db2-98a3-8326d63686e8.m3u
+http://mains.services/live/507Vej3h3S/4632273/69446e91-0e0a-4db2-98a3-8326d63686e8.m3u
 #EXTINF:-1,UFL : MICHIGAN PANTHERS
-http://mains.services/live/4523074511/3178768/fa7d5491-50fa-47ae-a65e-56acb3f38f5c.m3u
+http://mains.services/live/507Vej3h3S/4632273/fa7d5491-50fa-47ae-a65e-56acb3f38f5c.m3u
 #EXTINF:-1,UFL : SAN ANTONIO BRAHMAS
-http://mains.services/live/4523074511/3178768/051d7dfc-aeb6-46f7-86ee-b49a8edf8a13.m3u
+http://mains.services/live/507Vej3h3S/4632273/051d7dfc-aeb6-46f7-86ee-b49a8edf8a13.m3u
 #EXTINF:-1,UFL : ST LOUIS BATTLEHAWKS
-http://mains.services/live/4523074511/3178768/6847a90c-a72e-45af-962b-a91105395ca8.m3u
+http://mains.services/live/507Vej3h3S/4632273/6847a90c-a72e-45af-962b-a91105395ca8.m3u
 
 
 
@@ -7635,7 +7639,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/102331.TS
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴☆ WIN Sports + (opt1)
 http://mains.best:2086/3003556325/2772007/102335
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴☆ WIN Sports + (opt2)
-http://mains.services:2086/4523074511/3178768/102335
+http://mains.services:2086/507Vej3h3S/4632273/102335
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴☆ WIN Sports + (opt3)
 http://mains.services:2086/640939802963/IDC01478!/102335
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴☆ WIN Sports + (opt4)
@@ -7643,9 +7647,9 @@ http://mains.services:2086/live/507Vej3h3S/4632273/102335.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : WORLD FISHING NETWORK FHD 1080
-http://mains.services/live/4523074511/3178768/09815790-b620-4504-8fca-dadcefd64c0c.m3u
+http://mains.services/live/507Vej3h3S/4632273/09815790-b620-4504-8fca-dadcefd64c0c.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ US : WWE NETWORK
-http://mains.services/live/4523074511/3178768/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
+http://mains.services/live/507Vej3h3S/4632273/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
 
 
 
@@ -8539,7 +8543,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52315
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN SPORTS (opt1)
 http://mains.best:2086/3003556325/2772007/102331
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN SPORTS (opt2)
-http://mains.services:2086/4523074511/3178768/102331
+http://mains.services:2086/507Vej3h3S/4632273/102331
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN SPORTS (opt3)
 http://mains.services:2086/640939802963/IDC01478!/102331
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN SPORTS (opt4)
@@ -8548,7 +8552,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/102331.TS
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN Sports + (opt1)
 http://mains.best:2086/3003556325/2772007/102335
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN Sports + (opt2)
-http://mains.services:2086/4523074511/3178768/102335
+http://mains.services:2086/507Vej3h3S/4632273/102335
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN Sports + (opt3)
 http://mains.services:2086/640939802963/IDC01478!/102335
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN Sports + (opt4)
@@ -9104,21 +9108,21 @@ http://alfa.7057460.xyz:2095/ameca01/1989/7792
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/98780
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt2) 
-http://mains.services:2086/4523074511/3178768/98780
+http://mains.services:2086/3003556325/2772007/98780
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN MX | 🥊 | ESPNKnockOut (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/98780.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN 2 MX (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/98781
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN 2 MX (opt2)
-http://mains.services:2086/4523074511/3178768/98781
+http://mains.services:2086/3003556325/2772007/98781
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN 2 MX (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/98781.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN 3 MX (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/98782
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN 3 MX (opt2)
-http://mains.services:2086/4523074511/3178768/98782
+http://mains.services:2086/3003556325/2772007/98782
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇲🇽☆ ESPN 3 MX (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/98782.ts
 
@@ -9126,14 +9130,14 @@ http://mains.best:2086/live/507Vej3h3S/4632273/98782.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/66568
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
-http://mains.services:2086/4523074511/3178768/66568
+http://mains.services:2086/3003556325/2772007/66568
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/66568.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/95493
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt2)
-http://mains.services:2086/4523074511/3178768/95493
+http://mains.services:2086/3003556325/2772007/95493
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN DEPORTES | 🥊ESPNKnockOut (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/95493.ts
 
@@ -9141,21 +9145,21 @@ http://mains.best:2086/live/507Vej3h3S/4632273/95493.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN CAR (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/101247
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN CAR (opt2)
-http://mains.services:2086/4523074511/3178768/101247
+http://mains.services:2086/3003556325/2772007/101247
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN CAR (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/101247.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/95389
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN (opt2)
-http://mains.services:2086/4523074511/3178768/95389
+http://mains.services:2086/3003556325/2772007/95389
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/95389.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN 2 (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/95391
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN 2 (opt2)
-http://mains.services:2086/4523074511/3178768/95391
+http://mains.services:2086/3003556325/2772007/95391
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN 2 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/95391.ts
 
@@ -9163,14 +9167,14 @@ http://mains.best:2086/live/507Vej3h3S/4632273/95391.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN U (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95397
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN U (opt2)
-http://mains.services:2086/4523074511/3178768/95397
+http://mains.services:2086/3003556325/2772007/95397
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN U (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/95397.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN NEWS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95388
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN NEWS (opt2)
-http://mains.services:2086/4523074511/3178768/95388
+http://mains.services:2086/3003556325/2772007/95388
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ ESPN NEWS (opt3)
 http://mains.best:2086/live/507Vej3h3S/4632273/95388.ts
 
@@ -9478,7 +9482,7 @@ http://alfa.7057460.xyz:2095/ameca01/1989/7788
 
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
-http://mains.services/live/4523074511/3178768/532968e1-931c-4642-9e0a-f25e80f75279.m3u
+http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
 http://mains.services/live/640939802963/IDC01478!/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸☆ FS1 | USA FIFA 04
@@ -9583,7 +9587,7 @@ http://alfa.7057460.xyz:2095/ameca01/1989/7784
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/88743
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS (opt2)
-http://mains.services:2086/4523074511/3178768/88743
+http://mains.services:2086/3003556325/2772007/88743
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS (opt3) 
 http://mains.best:2086/3003556325/2772007/88743
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS (opt4) 
@@ -9592,7 +9596,7 @@ http://mains.best:2086/live/507Vej3h3S/4632273/88743
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 2 (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/88744
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 2 (opt2)
-http://mains.services:2086/4523074511/3178768/88744
+http://mains.services:2086/3003556325/2772007/88744
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 2 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/88744.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 2 (opt4) 
@@ -9601,7 +9605,7 @@ http://mains.best:2086/live/3003556325/2772007/88744.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 3 (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/88745
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 3 (opt2)
-http://mains.services:2086/4523074511/3178768/88745
+http://mains.services:2086/3003556325/2772007/88745
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 3 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/88745.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇲🇽FOX SPORTS 3 (opt4) 
@@ -9610,21 +9614,21 @@ http://mains.best:2086/live/3003556325/2772007/88745.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 1 (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/92584
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 1 (opt2)
-http://mains.services:2086/4523074511/3178768/92584
+http://mains.services:2086/3003556325/2772007/92584
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 1 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/92584.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 2 (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/92583
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 2 (opt2)
-http://mains.services:2086/4523074511/3178768/92583
+http://mains.services:2086/3003556325/2772007/92583
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 2 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/92583.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 3 (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/92582
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 3 (opt2)
-http://mains.services:2086/4523074511/3178768/92582
+http://mains.services:2086/3003556325/2772007/92582
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 3 (opt3) 
 http://mains.best:2086/live/3003556325/2772007/92582.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX SPORTS 3 (opt4) 
@@ -9637,14 +9641,14 @@ http://mains.best:2086/live/507Vej3h3S/4632273/92582.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX DEPORTES | BOX🥊 (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/92587
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX DEPORTES | BOX🥊 (opt2)
-http://mains.services:2086/4523074511/3178768/92587
+http://mains.services:2086/3003556325/2772007/92587
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ LATINO : FOX DEPORTES | BOX🥊 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/92587.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX DEPORTES | BOX🥊 (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/95492
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX DEPORTES | BOX🥊 (opt2)
-http://mains.services:2086/4523074511/3178768/95492
+http://mains.services:2086/3003556325/2772007/95492
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX DEPORTES | BOX🥊 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/95492.ts
 
@@ -9652,28 +9656,28 @@ http://mains.best:2086/live/507Vej3h3S/4632273/95492.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FS1 FOX SPORTS 1 (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/95422
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FS1 FOX SPORTS 1 (opt2)
-http://mains.services:2086/4523074511/3178768/95422
+http://mains.services:2086/3003556325/2772007/95422
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FS1 FOX SPORTS 1 (opt3) 
 http://mains.best:2086/3003556325/2772007/95422
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FS2 FOX SPORTS 2 (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/95400
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FS2 FOX SPORTS 2 (opt2)
-http://mains.services:2086/4523074511/3178768/95400
+http://mains.services:2086/3003556325/2772007/95400
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FS2 FOX SPORTS 2 (opt3) 
 http://mains.best:2086/3003556325/2772007/95400
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX NEWS CHANNEL(opt1) x
 http://mains.services:2086/640939802963/IDC01478!/95413
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX NEWS CHANNEL (opt2)
-http://mains.services:2086/4523074511/3178768/95413
+http://mains.services:2086/3003556325/2772007/95413
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX NEWS CHANNEL (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/95413.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX BUSINESS NETWORK (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/95411
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX BUSINESS NETWORK (opt2)
-http://mains.services:2086/4523074511/3178768/95411
+http://mains.services:2086/3003556325/2772007/95411
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ 🇺🇸FOX BUSINESS NETWORK (opt3)
 http://mains.best:2086/live/507Vej3h3S/4632273/95411.ts
 
@@ -9682,21 +9686,21 @@ http://mains.best:2086/live/507Vej3h3S/4632273/95411.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/88755
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS (opt2)
-http://mains.services:2086/4523074511/3178768/88755
+http://mains.services:2086/3003556325/2772007/88755
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/88755.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 2 (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/88753
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 2 (opt2)
-http://mains.services:2086/4523074511/3178768/88753
+http://mains.services:2086/3003556325/2772007/88753
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 2 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/88753.ts
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 3 (opt1) x
 http://mains.services:2086/640939802963/IDC01478!/88754
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 3 (opt2)
-http://mains.services:2086/4523074511/3178768/88754
+http://mains.services:2086/3003556325/2772007/88754
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 3 (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/88754.ts
 
@@ -9726,7 +9730,7 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt1)
-http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
+http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt3)
@@ -9735,7 +9739,7 @@ http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f192191
 http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt1)
-http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
+http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt3)
@@ -9744,7 +9748,7 @@ http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81
 http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt1)
-http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt3)
@@ -9753,7 +9757,7 @@ http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f192191
 http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt1)
-http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt3)
@@ -9764,7 +9768,7 @@ http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67062
+http://mains.services:2086/507Vej3h3S/4632273/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
 http://mains.services:2086/3003556325/2772007/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
@@ -9773,7 +9777,7 @@ http://mains.services:2086/507Vej3h3S/4632273/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67063
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67063
+http://mains.services:2086/507Vej3h3S/4632273/67063
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
 http://mains.services:2086/3003556325/2772007/67063
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
@@ -9802,7 +9806,7 @@ http://pfsv.io:80/live/6181288/27664/204149.ts
 http://pfsv.io:80/6181288/27664/204149
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
+http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
 http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
@@ -9811,7 +9815,7 @@ http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634e
 http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
 http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
@@ -9821,7 +9825,7 @@ http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634e
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt1)
-http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt2)
 http://mains.services/live/640939802963/IDC01478!/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01 (opt3)
@@ -9830,7 +9834,7 @@ http://mains.services/live/3003556325/2772007/decde53c-44fb-4932-90c5-8fe12fe485
 http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt1)
-http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt2)
 http://mains.services/live/640939802963/IDC01478!/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02 (opt3)
@@ -9839,7 +9843,7 @@ http://mains.services/live/3003556325/2772007/a7570bee-aab6-4aa2-91fa-a233583556
 http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt1)
-http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt2)
 http://mains.services/live/640939802963/IDC01478!/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03 (opt3)
@@ -9848,7 +9852,7 @@ http://mains.services/live/3003556325/2772007/7b327ade-1523-4d5c-907c-fd1a340ad1
 http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt1)
-http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt2)
 http://mains.services/live/640939802963/IDC01478!/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04 (opt3)
@@ -9857,7 +9861,7 @@ http://mains.services/live/3003556325/2772007/f13aebfb-7360-4167-88e6-747aa2f5d4
 http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt1)
-http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt2)
 http://mains.services/live/640939802963/IDC01478!/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05 (opt3)
@@ -9866,7 +9870,7 @@ http://mains.services/live/3003556325/2772007/2ded5318-d64b-4475-ad9b-8fa6cf1ad8
 http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt1)
-http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+http://mains.services/live/507Vej3h3S/4632273/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt2)
 http://mains.services/live/640939802963/IDC01478!/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06 (opt3)
@@ -9881,12 +9885,12 @@ http://mains.services:2086/640939802963/IDC01478!/56129
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/56129
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56129
+http://mains.services:2086/507Vej3h3S/4632273/56129
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - WWE EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/56129
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
+http://mains.services:2086/507Vej3h3S/4632273/101190
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt2) 
 http://mains.best:2086/3003556325/2772007/101190
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC FIGHT PASS 24/7 (opt3)
@@ -9895,7 +9899,7 @@ http://mains.services:2086/640939802963/IDC01478!/101190
 http://mains.services:2086/507Vej3h3S/4632273/101190
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt1) 
-http://mains.services:2086/4523074511/3178768/99440
+http://mains.services:2086/507Vej3h3S/4632273/99440
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt2) 
 http://mains.best:2086/3003556325/2772007/99440
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 | UFC FIGHT PASS | BOX🥊 (opt3) 
@@ -9904,7 +9908,7 @@ http://mains.services:2086/640939802963/IDC01478!/99440
 http://mains.services:2086/507Vej3h3S/4632273/99440
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt1) 
-http://mains.services:2086/4523074511/3178768/90642
+http://mains.services:2086/507Vej3h3S/4632273/90642
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt2) 
 http://mains.best:2086/3003556325/2772007/90642
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 : THE FIGHT NETWORK US (opt3) 
@@ -9913,7 +9917,7 @@ http://mains.services:2086/640939802963/IDC01478!/90642
 http://mains.services:2086/507Vej3h3S/4632273/90642
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt1) 
-http://mains.services:2086/4523074511/3178768/92717
+http://mains.services:2086/507Vej3h3S/4632273/92717
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt2) 
 http://mains.best:2086/3003556325/2772007/92717
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 : COMBATE BR (opt3) 
@@ -9922,7 +9926,7 @@ http://mains.services:2086/640939802963/IDC01478!/92717
 http://mains.services:2086/507Vej3h3S/4632273/92717
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
+http://mains.services:2086/507Vej3h3S/4632273/100920
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt2) 
 http://mains.best:2086/3003556325/2772007/100920
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt3) 
@@ -9939,74 +9943,13 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN COMBAT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/dazn-combat.png" group-title="🥊UFC🌐Boxing🥊",DAZN COMBAT FHD
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/587763
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UNBEATEN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Unbeaten.png" group-title="🥊UFC🌐Boxing🥊",DAZN UNBEATEN | fubo SPORTS Network FHD
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/625238
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BOXING TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Boxing.png" group-title="🥊UFC🌐Boxing🥊",DAZN BOXING TV FHD
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/625235
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MATCHROOM BOXING FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Matchroom.png" group-title="🥊UFC🌐Boxing🥊",DAZN MATCHROOM BOXING FHD
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/625231
-
-#EXTINF:-1 tvg-id="deutschewelle.de" tvg-name="DAZN COMBAT FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/dazn-combat.png" group-title="🥊UFC🌐Boxing🥊",DAZN COMBAT FHD
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/587763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UNBEATEN FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Unbeaten.png" group-title="🥊UFC🌐Boxing🥊",DAZN UNBEATEN FHD
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/625238.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BOXING TV FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Boxing.png" group-title="🥊UFC🌐Boxing🥊",DAZN BOXING TV FHD
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/625235.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN MATCHROOM BOXING FHD" tvg-logo="https://www.tvlogolar.xyz/logo/germany/Matchroom.png" group-title="🥊UFC🌐Boxing🥊",DAZN MATCHROOM BOXING FHD
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/625231.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 1 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 1" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 1 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626015
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 2 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 2" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 2 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626014
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 3 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 3" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 3 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626013
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 4 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 4" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 4 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626012
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 5" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 5 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 5" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 5 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626011
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 6" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 6 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 6" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 6 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626010
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 7" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 7 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 7" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 7 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626009
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 8" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 8 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 8" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 8 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626008
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 9" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 9 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 9" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 9 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626007
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 10" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 10 EVENT
-http://xcpanel.live:8080/live/M7Y2MpnahG/s8c4Bp3UEe/626006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DAZN UFC 10" tvg-logo="https://www.tvlogolar.xyz/logo/germany/DAZN-Ufc.png" group-title="🥊UFC🌐Boxing🥊",DAZN UFC 10 EVENT
-http://xcpanel.live:8080/M7Y2MpnahG/s8c4Bp3UEe/626006
-
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt2)
 http://mains.best:2086/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt3)
-http://mains.services:2086/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt4)
 http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 
@@ -10014,7 +9957,7 @@ http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f1
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67062
+http://mains.services:2086/507Vej3h3S/4632273/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
 http://mains.services:2086/3003556325/2772007/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
@@ -10023,7 +9966,7 @@ http://mains.services:2086/507Vej3h3S/4632273/67062
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67063
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt2)  
-http://mains.services:2086/4523074511/3178768/67063
+http://mains.services:2086/507Vej3h3S/4632273/67063
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt3)  
 http://mains.services:2086/3003556325/2772007/67063
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV8 | TNT SPORTS 2 UK | BOX🥊 UFC PAY-PER-VIEW (opt4)  
@@ -10057,14 +10000,14 @@ http://mains.services:2086/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-6
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt2)
 http://mains.best:2086/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt3)
-http://mains.services:2086/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ SN UFC EVENTS🥊 (opt4)
 http://mains.services:2086/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
+http://mains.services/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
+http://mains.services/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ UFC FIGHT PASS (opt2)
@@ -10190,7 +10133,7 @@ http://mains.services:2086/640939802963/IDC01478!/56129
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 00 - WWE EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/56129
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 00 - WWE EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56129
+http://mains.services:2086/507Vej3h3S/4632273/56129
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 00 - WWE EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/56129
 
@@ -10199,7 +10142,7 @@ http://mains.services:2086/640939802963/IDC01478!/100885
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt2) 
 http://mains.best:2086/3003556325/2772007/100885
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt3) 
-http://mains.services:2086/4523074511/3178768/100885
+http://mains.services:2086/507Vej3h3S/4632273/100885
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 01 - UFC | PBC BOX🥊 (opt4) 
 http://mains.services:2086/507Vej3h3S/4632273/100885
 
@@ -10208,7 +10151,7 @@ http://mains.services:2086/640939802963/IDC01478!/100886
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt2) 
 http://mains.best:2086/3003556325/2772007/100886
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100886
+http://mains.services:2086/507Vej3h3S/4632273/100886
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 02 - UFC | PBC BOX🥊 (opt4) 
 http://mains.services:2086/507Vej3h3S/4632273/100886
 
@@ -10217,7 +10160,7 @@ http://mains.services:2086/640939802963/IDC01478!/100887
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt2) 
 http://mains.best:2086/3003556325/2772007/100887
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt3) 
-http://mains.services:2086/4523074511/3178768/100887
+http://mains.services:2086/507Vej3h3S/4632273/100887
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 03 - UFC|BOX🥊 DAZN PPV (opt4) 
 http://mains.services:2086/507Vej3h3S/4632273/100887
 
@@ -10227,7 +10170,7 @@ http://mains.services:2086/640939802963/IDC01478!/100888
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt2)
 http://mains.best:2086/3003556325/2772007/100888
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100888
+http://mains.services:2086/507Vej3h3S/4632273/100888
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 04 - UFC|BOX🥊 DAZN PPV (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100888
 
@@ -10237,7 +10180,7 @@ http://mains.services:2086/640939802963/IDC01478!/100889
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt2)
 http://mains.best:2086/3003556325/2772007/100889
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100889
+http://mains.services:2086/507Vej3h3S/4632273/100889
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 05 - UFC|BOX🥊 DAZN PPV (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100889
 
@@ -10246,7 +10189,7 @@ http://mains.services:2086/640939802963/IDC01478!/100890
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100890
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100890
+http://mains.services:2086/507Vej3h3S/4632273/100890
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - UFC | PBC BOX🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100890
 
@@ -10255,7 +10198,7 @@ http://mains.services:2086/640939802963/IDC01478!/100891
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100891
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100891
+http://mains.services:2086/507Vej3h3S/4632273/100891
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 07 - UFC | PBC BOX🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100891
 
@@ -10265,7 +10208,7 @@ http://mains.services:2086/640939802963/IDC01478!/100892
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt2)
 http://mains.best:2086/3003556325/2772007/100892
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt3)
-http://mains.services:2086/4523074511/3178768/100892
+http://mains.services:2086/507Vej3h3S/4632273/100892
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 08 - UFC|BOX🥊 ESPN 2 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100892
 
@@ -10274,7 +10217,7 @@ http://mains.services:2086/640939802963/IDC01478!/100893
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt2)
 http://mains.best:2086/3003556325/2772007/100893
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt3)
-http://mains.services:2086/4523074511/3178768/100893
+http://mains.services:2086/507Vej3h3S/4632273/100893
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 09 - UFC|BOX🥊 TNT SPORTS 1 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100893
 
@@ -10283,7 +10226,7 @@ http://mains.services:2086/640939802963/IDC01478!/100894
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt2)
 http://mains.best:2086/3003556325/2772007/100894
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt3)
-http://mains.services:2086/4523074511/3178768/100894
+http://mains.services:2086/507Vej3h3S/4632273/100894
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 10 - UFC|BOX🥊 DAZN PPV (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100894
 
@@ -10292,7 +10235,7 @@ http://mains.services:2086/640939802963/IDC01478!/100895
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt2)
 http://mains.best:2086/3003556325/2772007/100895
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt3)
-http://mains.services:2086/4523074511/3178768/100895
+http://mains.services:2086/507Vej3h3S/4632273/100895
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 11 - UFC|BOX🥊 SONY SPORTS 1 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100895
 
@@ -10301,7 +10244,7 @@ http://mains.services:2086/640939802963/IDC01478!/100896
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt2)
 http://mains.best:2086/3003556325/2772007/100896
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt3)
-http://mains.services:2086/4523074511/3178768/100896
+http://mains.services:2086/507Vej3h3S/4632273/100896
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 12 - UFC|BOX🥊 UFC ESPN+ (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100896
 
@@ -10310,7 +10253,7 @@ http://mains.services:2086/640939802963/IDC01478!/100897
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 13 - UFC|FN (opt2)
 http://mains.best:2086/3003556325/2772007/100897
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 13 - UFC|FN (opt3)
-http://mains.services:2086/4523074511/3178768/100897
+http://mains.services:2086/507Vej3h3S/4632273/100897
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 13 - UFC|FN (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100897
 
@@ -10319,7 +10262,7 @@ http://mains.services:2086/640939802963/IDC01478!/100898
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100898
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100898
+http://mains.services:2086/507Vej3h3S/4632273/100898
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 14 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100898
 
@@ -10328,7 +10271,7 @@ http://mains.services:2086/640939802963/IDC01478!/100899
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100899
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100899
+http://mains.services:2086/507Vej3h3S/4632273/100899
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 15 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100899
 
@@ -10337,7 +10280,7 @@ http://mains.services:2086/640939802963/IDC01478!/100900
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100900
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100900
+http://mains.services:2086/507Vej3h3S/4632273/100900
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 16 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100900
 
@@ -10346,7 +10289,7 @@ http://mains.services:2086/640939802963/IDC01478!/100901
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100901
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100901
+http://mains.services:2086/507Vej3h3S/4632273/100901
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 17 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100901
 
@@ -10355,7 +10298,7 @@ http://mains.services:2086/640939802963/IDC01478!/100902
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100902
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100902
+http://mains.services:2086/507Vej3h3S/4632273/100902
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 18 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100902
 
@@ -10364,7 +10307,7 @@ http://mains.services:2086/640939802963/IDC01478!/100903
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100903
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100903
+http://mains.services:2086/507Vej3h3S/4632273/100903
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 19 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100903
 
@@ -10373,7 +10316,7 @@ http://mains.services:2086/640939802963/IDC01478!/100904
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100904
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100904
+http://mains.services:2086/507Vej3h3S/4632273/100904
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 20 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100904
 
@@ -10382,7 +10325,7 @@ http://mains.services:2086/640939802963/IDC01478!/100905
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/100905
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/100905
+http://mains.services:2086/507Vej3h3S/4632273/100905
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 21 - PAY-PER-VIEW EVENTS🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/100905
 
@@ -10393,21 +10336,21 @@ http://mains.services:2086/640939802963/IDC01478!/101182
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/101182
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 22 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/101182
+http://mains.services:2086/507Vej3h3S/4632273/101182
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/56539
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/56539
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 23 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56539
+http://mains.services:2086/507Vej3h3S/4632273/56539
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/56538
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/56538
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 24 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56538
+http://mains.services:2086/507Vej3h3S/4632273/56538
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt1)
@@ -10415,14 +10358,14 @@ http://mains.services:2086/640939802963/IDC01478!/56131
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/56131
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 25 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56131
+http://mains.services:2086/507Vej3h3S/4632273/56131
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/56130
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/56130
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 26 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/56130
+http://mains.services:2086/507Vej3h3S/4632273/56130
 
 
 
@@ -10431,7 +10374,7 @@ http://mains.services:2086/640939802963/IDC01478!/58107
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/58107
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 27 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/58107
+http://mains.services:2086/507Vej3h3S/4632273/58107
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt1)
@@ -10439,42 +10382,42 @@ http://mains.services:2086/640939802963/IDC01478!/103878
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103878
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 28 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103878
+http://mains.services:2086/507Vej3h3S/4632273/103878
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103879
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103879
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 29 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103879
+http://mains.services:2086/507Vej3h3S/4632273/103879
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103880
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103880
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 30 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103880
+http://mains.services:2086/507Vej3h3S/4632273/103880
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103881
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103881
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 31 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103881
+http://mains.services:2086/507Vej3h3S/4632273/103881
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103882
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103882
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 32 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103882
+http://mains.services:2086/507Vej3h3S/4632273/103882
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103883
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103883
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 33 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103883
+http://mains.services:2086/507Vej3h3S/4632273/103883
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt1)
@@ -10482,53 +10425,53 @@ http://mains.services:2086/640939802963/IDC01478!/103884
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103884
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 34 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103884
+http://mains.services:2086/507Vej3h3S/4632273/103884
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103885
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103885
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 35 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103885
+http://mains.services:2086/507Vej3h3S/4632273/103885
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103886
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103886
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 36 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103886
+http://mains.services:2086/507Vej3h3S/4632273/103886
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103887
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103887
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 37 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103887
+http://mains.services:2086/507Vej3h3S/4632273/103887
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103888
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103888
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 38 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103888
+http://mains.services:2086/507Vej3h3S/4632273/103888
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103889
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103889
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 39 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103889
+http://mains.services:2086/507Vej3h3S/4632273/103889
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/103890
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/103890
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 40 - PAY-PER-VIEW EVENTS🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/103890
+http://mains.services:2086/507Vej3h3S/4632273/103890
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 97 - FITE 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/100920
+http://mains.services:2086/507Vej3h3S/4632273/100920
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 97 - FITE 24/7 (opt2) 
 http://mains.best:2086/3003556325/2772007/100920
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 97 - FITE 24/7 (opt3) 
@@ -10537,7 +10480,7 @@ http://mains.services:2086/640939802963/IDC01478!/100920
 http://mains.services:2086/507Vej3h3S/4632273/100920
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt1) 
-http://mains.services:2086/4523074511/3178768/101190
+http://mains.services:2086/507Vej3h3S/4632273/101190
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt2) 
 http://mains.best:2086/3003556325/2772007/101190
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 98 - UFC FIGHT PASS 24/7 (opt3)
@@ -10550,105 +10493,19 @@ http://mains.services:2086/640939802963/IDC01478!/102318
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt2) 
 http://mains.best:2086/3003556325/2772007/102318
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 99 - Barbados Turf Club (opt1)
-http://mains.vip:2086/6129666453/9260275/102318
+http://mains.vip:2086/507Vej3h3S/4632273/102318
 
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1
-http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
+http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2
-http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u
+http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u
+http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 97 - FITE 24/7
-http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
+http://mains.services/live/507Vej3h3S/4632273/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
-http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
-
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01
-http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02
-http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03
-http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04
-http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05
-http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06
-http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 07
-http://mains.services/live/4523074511/3178768/3af29b10-4492-4fb3-83b7-4f0487601359.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 08
-http://mains.services/live/4523074511/3178768/9bde720e-a99d-4919-843d-1f392df901c5.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 09
-http://mains.services/live/4523074511/3178768/9a948a8d-dd62-440f-9a09-9ec8be2c1e5a.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 10
-http://mains.services/live/4523074511/3178768/72ff8ef9-8531-4ffe-a950-48b1e2a68eb1.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 11
-http://mains.services/live/4523074511/3178768/7cb8cbc0-a78f-4ebf-b8ac-484ad7e716bb.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 12
-http://mains.services/live/4523074511/3178768/d2aa89f9-a926-4747-a45c-51d99f807f3c.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 13
-http://mains.services/live/4523074511/3178768/0bc68b82-64be-4249-8b5b-a743f8c42b73.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 14
-http://mains.services/live/4523074511/3178768/0780d729-3e19-4437-a877-5fd0855fce07.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 15
-http://mains.services/live/4523074511/3178768/cdda7b67-f5b9-4876-8f65-e58eb16f9461.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 16
-http://mains.services/live/4523074511/3178768/a9fdb0b8-01f4-41c7-8065-381bac9af2c1.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 17
-http://mains.services/live/4523074511/3178768/5b4928f8-b47c-4390-a3c3-f6862eebda6f.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 18
-http://mains.services/live/4523074511/3178768/0dcfed72-f490-411f-b436-b18413350934.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 19
-http://mains.services/live/4523074511/3178768/486da822-98c4-482d-8030-c85746589fab.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 20
-http://mains.services/live/4523074511/3178768/76313c99-4a1a-43db-9b3d-01c5a39ec46e.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 21
-http://mains.services/live/4523074511/3178768/6be8a1a6-f7d6-4a85-b249-1c222205ab0a.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 22
-http://mains.services/live/4523074511/3178768/1a311397-9346-41da-a308-b54bcb3a9997.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 23
-http://mains.services/live/4523074511/3178768/fbfca19c-c358-4405-a359-d90a8b617dc4.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 24
-http://mains.services/live/4523074511/3178768/bc01cc47-ec2e-4219-95b5-89a74c307824.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 25
-http://mains.services/live/4523074511/3178768/a674cf09-ba90-4f7c-92c2-e51713622bc3.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 26
-http://mains.services/live/4523074511/3178768/0dc47944-099b-4f07-929f-83b05aaf1ab2.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 27
-http://mains.services/live/4523074511/3178768/9c9ef4a5-2a41-44e6-96de-3968245754bd.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 28
-http://mains.services/live/4523074511/3178768/0797bd5b-b97c-46a9-926c-1bd84db68386.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 29
-http://mains.services/live/4523074511/3178768/b4e0b52d-176e-48d5-a68c-3a64f668c5d2.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 30
-http://mains.services/live/4523074511/3178768/d4b66296-a7b8-4397-b93a-b8e1e4171f02.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 31
-http://mains.services/live/4523074511/3178768/46feeff2-74cf-4f87-8478-67d990e95464.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 32
-http://mains.services/live/4523074511/3178768/3fc1a73e-fb8a-48c0-a0fa-a4fb4223dc0d.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 33
-http://mains.services/live/4523074511/3178768/bedb1527-bb61-45fc-81a7-374e1979783b.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 34
-http://mains.services/live/4523074511/3178768/4d555169-36f4-4739-b6b5-0815f78bfa20.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 35
-http://mains.services/live/4523074511/3178768/8625489c-2f71-4147-b361-6600cde90bfb.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 36
-http://mains.services/live/4523074511/3178768/2950c356-f8e9-4fa8-b21e-14c4c8189779.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 37
-http://mains.services/live/4523074511/3178768/c1bff286-8408-4af8-b17f-035fd2ade21f.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 38
-http://mains.services/live/4523074511/3178768/54d399ed-8108-498b-8df7-7ad734c14f47.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 39
-http://mains.services/live/4523074511/3178768/0c75df1d-1163-4d98-8cdb-e2a8dd5a23f7.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 40
-http://mains.services/live/4523074511/3178768/1791335c-3096-4878-a83d-b37c14af484b.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 97 - FITE 24/7
-http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
-http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
+http://mains.services/live/507Vej3h3S/4632273/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
 
 
@@ -10729,7 +10586,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇪🇸☆ ESPN | 🥊 | ESPNKnockOut (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/98780
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇪🇸☆ ESPN | 🥊 | ESPNKnockOut (opt2) 
-http://mains.services:2086/4523074511/3178768/98780
+http://mains.services:2086/507Vej3h3S/4632273/98780
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇪🇸☆ ESPN | 🥊 | ESPNKnockOut (opt3) 
 http://mains.best:2086/3003556325/2772007/98780
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇪🇸☆ ESPN | 🥊 | ESPNKnockOut (opt4) 
@@ -10973,11 +10830,11 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV | MLS Cup [HD] (opt1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 MLS CUP | Apple TV [HD] (opt1)
 http://pfsv.io:80/live/6181288/27664/289592.m3u8
-#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV | MLS Cup [HD] (opt2)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 MLS CUP | Apple TV [HD] (opt2)
 http://pfsv.io:80/live/6181288/27664/289592.ts
-#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV | MLS Cup [HD] (opt3)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 MLS CUP | Apple TV [HD] (opt3)
 http://pfsv.io:80/6181288/27664/289592
 
 
@@ -10987,18 +10844,21 @@ http://pfsv.io:80/live/6181288/27664/300146.m3u8
 http://pfsv.io:80/live/6181288/27664/300146.ts
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 01 [HD] (opt3)
 http://pfsv.io:80/6181288/27664/300146
+
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 02 [HD] (opt1)
 http://pfsv.io:80/live/6181288/27664/300147.m3u8
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 02 [HD] (opt2)
 http://pfsv.io:80/live/6181288/27664/300147.ts
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 02 [HD] (opt3)
 http://pfsv.io:80/6181288/27664/300147
+
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 03 [HD] (opt1)
 http://pfsv.io:80/live/6181288/27664/300148.m3u8
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 03 [HD] (opt2)
 http://pfsv.io:80/live/6181288/27664/300148.ts
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 03 [HD] (opt3)
 http://pfsv.io:80/6181288/27664/300148
+
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 04 [HD] (opt1)
 http://pfsv.io:80/live/6181288/27664/303988.m3u8
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Apple TV 04 [HD] (opt2)
@@ -11008,7 +10868,7 @@ http://pfsv.io:80/6181288/27664/303988
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ MLS : INTER MIAMI CF (opt1)
-http://mains.services/live/4523074511/3178768/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
+http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ MLS : INTER MIAMI CF (opt2)
 http://mains.services/live/640939802963/IDC01478!/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ MLS : INTER MIAMI CF (opt3)
@@ -11017,7 +10877,7 @@ http://mains.best:2086/live/3003556325/2772007/538f254a-b3e6-405e-beb9-748b2719f
 http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ MLS : VANCOUVER WHITECAPS FC (opt1)
-http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
+http://mains.services/live/507Vej3h3S/4632273/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ MLS : VANCOUVER WHITECAPS FC (opt2)
 http://mains.services/live/640939802963/IDC01478!/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ MLS : VANCOUVER WHITECAPS FC (opt3)
@@ -11059,24 +10919,24 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS GOLAZO NETWORK (opt1)
-http://mains.services/live/4523074511/3178768/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u
+http://mains.services/live/507Vej3h3S/4632273/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS GOLAZO NETWORK (opt1)
-http://mains.services/live/4523074511/3178768/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.ts
+http://mains.services/live/507Vej3h3S/4632273/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.ts
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS HQ (opt1)
-http://mains.services/live/4523074511/3178768/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
+http://mains.services/live/507Vej3h3S/4632273/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS HQ (opt1)
-http://mains.services/live/4523074511/3178768/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.ts
+http://mains.services/live/507Vej3h3S/4632273/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.ts
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS NETWORK (opt1)
-http://mains.services/live/4523074511/3178768/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
+http://mains.services/live/507Vej3h3S/4632273/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS NETWORK (opt1)
-http://mains.services/live/4523074511/3178768/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.ts
+http://mains.services/live/507Vej3h3S/4632273/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.ts
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS NETWORK FHD 1080 (opt1)
-http://mains.services/live/4523074511/3178768/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
+http://mains.services/live/507Vej3h3S/4632273/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : CBS SPORTS NETWORK FHD 1080 (opt1)
-http://mains.services/live/4523074511/3178768/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.ts
+http://mains.services/live/507Vej3h3S/4632273/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 D 🇺🇸    ▂ ▄ ▅ ▆ ⚽  USA 📺 SPORTS  ⚽ ▆ ▅ ▄ ▂
@@ -11171,25 +11031,25 @@ http://pfsv.io:80/6181288/27664/330699.ts
 
 
 #EXTINF:-1,US : ELEVEN SPORTS NETWORK
-http://mains.services/live/4523074511/3178768/d8aff788-a9b8-4dbc-b163-5a7cb41208c3.m3u
+http://mains.services/live/507Vej3h3S/4632273/d8aff788-a9b8-4dbc-b163-5a7cb41208c3.m3u
 #EXTINF:-1,US : ESPN
-http://mains.services/live/4523074511/3178768/2191e4f0-5b32-4be9-92a5-f132ee389d6f.m3u
+http://mains.services/live/507Vej3h3S/4632273/2191e4f0-5b32-4be9-92a5-f132ee389d6f.m3u
 #EXTINF:-1,US : ESPN 2
-http://mains.services/live/4523074511/3178768/c9982f5c-883b-4f5c-a544-f6aad83836ed.m3u
+http://mains.services/live/507Vej3h3S/4632273/c9982f5c-883b-4f5c-a544-f6aad83836ed.m3u
 #EXTINF:-1,US : ESPN 2 FHD 1080
-http://mains.services/live/4523074511/3178768/cabb4432-edb8-4e51-9280-75bd64b9c4b0.m3u
+http://mains.services/live/507Vej3h3S/4632273/cabb4432-edb8-4e51-9280-75bd64b9c4b0.m3u
 #EXTINF:-1,US : ESPN DEPORTES FHD
-http://mains.services/live/4523074511/3178768/79c81c69-bc8f-4df1-9ac1-4ddc67e3ec1c.m3u
+http://mains.services/live/507Vej3h3S/4632273/79c81c69-bc8f-4df1-9ac1-4ddc67e3ec1c.m3u
 #EXTINF:-1,US : ESPN FHD
-http://mains.services/live/4523074511/3178768/b8b35772-e4f6-47d1-93a2-651c6eb8d5b9.m3u
+http://mains.services/live/507Vej3h3S/4632273/b8b35772-e4f6-47d1-93a2-651c6eb8d5b9.m3u
 #EXTINF:-1,US : ESPN NEWS
-http://mains.services/live/4523074511/3178768/3b8c951e-b931-49b6-b406-9c603b1cdf4f.m3u
+http://mains.services/live/507Vej3h3S/4632273/3b8c951e-b931-49b6-b406-9c603b1cdf4f.m3u
 #EXTINF:-1,US : ESPN NEWS FHD 1080
-http://mains.services/live/4523074511/3178768/1da60b7c-3f73-45fa-a7b7-259350ad78fa.m3u
+http://mains.services/live/507Vej3h3S/4632273/1da60b7c-3f73-45fa-a7b7-259350ad78fa.m3u
 #EXTINF:-1,US : ESPN U
-http://mains.services/live/4523074511/3178768/a9652e03-9ed6-4e84-9145-2dd528509e71.m3u
+http://mains.services/live/507Vej3h3S/4632273/a9652e03-9ed6-4e84-9145-2dd528509e71.m3u
 #EXTINF:-1,US : ESPN U FHD 1080
-http://mains.services/live/4523074511/3178768/19db782b-0a2d-42f2-b85d-e93a54b964a2.m3u
+http://mains.services/live/507Vej3h3S/4632273/19db782b-0a2d-42f2-b85d-e93a54b964a2.m3u
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸Ⓜ² ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -11218,29 +11078,29 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1,US : FOX SOCCER PLUS
-http://mains.services/live/4523074511/3178768/93a91ced-a6dd-4367-86f8-60ccb8b5a82f.m3u
+http://mains.services/live/507Vej3h3S/4632273/93a91ced-a6dd-4367-86f8-60ccb8b5a82f.m3u
 #EXTINF:-1,US : FOX SPORTS 1
-http://mains.services/live/4523074511/3178768/127c0c8a-fed7-4c3d-b4c3-c75c23d319a5.m3u
+http://mains.services/live/507Vej3h3S/4632273/127c0c8a-fed7-4c3d-b4c3-c75c23d319a5.m3u
 #EXTINF:-1,US : FOX SPORTS 1 FHD 1080
-http://mains.services/live/4523074511/3178768/e0e766c2-49a7-4ad4-8934-e35beb4fa6f9.m3u
+http://mains.services/live/507Vej3h3S/4632273/e0e766c2-49a7-4ad4-8934-e35beb4fa6f9.m3u
 #EXTINF:-1,US : FOX SPORTS 2
-http://mains.services/live/4523074511/3178768/d8fcc1ea-2336-4919-bccf-fc2f484d6ea5.m3u
+http://mains.services/live/507Vej3h3S/4632273/d8fcc1ea-2336-4919-bccf-fc2f484d6ea5.m3u
 #EXTINF:-1,US : FOX SPORTS 2 FHD 1080
-http://mains.services/live/4523074511/3178768/4c538364-3af9-46bb-b778-e287295d39ee.m3u
+http://mains.services/live/507Vej3h3S/4632273/4c538364-3af9-46bb-b778-e287295d39ee.m3u
 #EXTINF:-1,US : FUBO SPORTS NETWORK
-http://mains.services/live/4523074511/3178768/effe2b3c-065b-4b9d-b410-5c51fd65d6f2.m3u
+http://mains.services/live/507Vej3h3S/4632273/effe2b3c-065b-4b9d-b410-5c51fd65d6f2.m3u
 
 #EXTINF:-1,USA FIFA 00 (OFFLINE)
-http://mains.services/live/4523074511/3178768/aff696dd-eed4-40c0-b4ca-d2c4428798fa.m3u
+http://mains.services/live/507Vej3h3S/4632273/aff696dd-eed4-40c0-b4ca-d2c4428798fa.m3u
 #EXTINF:-1,USA FIFA 01 (TNT)
-http://mains.services/live/4523074511/3178768/bbc94f47-a2cb-49a4-819f-059e94bd926c.m3u
+http://mains.services/live/507Vej3h3S/4632273/bbc94f47-a2cb-49a4-819f-059e94bd926c.m3u
 #EXTINF:-1,USA FIFA 02 (TBS)
-http://mains.services/live/4523074511/3178768/edf924f5-a9d1-4650-9a99-05cf9f30d90b.m3u
+http://mains.services/live/507Vej3h3S/4632273/edf924f5-a9d1-4650-9a99-05cf9f30d90b.m3u
 #EXTINF:-1,USA FIFA 03 (TruTV)
-http://mains.services/live/4523074511/3178768/95d1b1f2-d83d-4a10-b431-d1045dcb1ceb.m3u
+http://mains.services/live/507Vej3h3S/4632273/95d1b1f2-d83d-4a10-b431-d1045dcb1ceb.m3u
 
 #EXTINF:-1,USA FIFA 04 (FS1)
-http://mains.services/live/4523074511/3178768/532968e1-931c-4642-9e0a-f25e80f75279.m3u
+http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 #EXTINF:-1,USA FIFA 04 (FS1)
 http://mains.services/live/640939802963/IDC01478!/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 #EXTINF:-1,USA FIFA 04 (FS1)
@@ -11249,15 +11109,15 @@ http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f752
 http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 
 #EXTINF:-1,USA FIFA 05 (FOX)
-http://mains.services/live/4523074511/3178768/0103402b-6193-4f8c-9ac1-fbc211a3b8cb.m3u
+http://mains.services/live/507Vej3h3S/4632273/0103402b-6193-4f8c-9ac1-fbc211a3b8cb.m3u
 #EXTINF:-1,USA FIFA 06 (CA TSN 1)
-http://mains.services/live/4523074511/3178768/a2dc1b8a-41c0-4ac3-a24b-7b8e2d083a0e.m3u
+http://mains.services/live/507Vej3h3S/4632273/a2dc1b8a-41c0-4ac3-a24b-7b8e2d083a0e.m3u
 #EXTINF:-1,USA FIFA 07 (UNIVERSO) ESP
-http://mains.services/live/4523074511/3178768/d3e9d186-d304-43a3-8631-2ab2510fc7eb.m3u
+http://mains.services/live/507Vej3h3S/4632273/d3e9d186-d304-43a3-8631-2ab2510fc7eb.m3u
 #EXTINF:-1,USA FIFA 08 (TUDN) ESP
-http://mains.services/live/4523074511/3178768/96331769-286b-4c57-8a86-45ba40ffaa2c.m3u
+http://mains.services/live/507Vej3h3S/4632273/96331769-286b-4c57-8a86-45ba40ffaa2c.m3u
 #EXTINF:-1,USA FIFA 09 (TELEMUNDO) ESP
-http://mains.services/live/4523074511/3178768/360b5429-b424-4887-ab8c-03e629d55cd3.m3u
+http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.m3u
 
 
 
@@ -11337,7 +11197,7 @@ https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH (opt1)
 http://mains.services:2086/640939802963/IDC01478!/3072
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH (opt2)
-http://mains.services:2086/4523074511/3178768/3072
+http://mains.services:2086/507Vej3h3S/4632273/3072
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH (opt3)
 http://mains.best:2086/live/3003556325/2772007/3072.ts
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH (opt4)
@@ -11347,42 +11207,42 @@ http://mains.services:2086/507Vej3h3S/4632273/3072
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SAN DIEGO (opt1)
 http://mains.services:2086/640939802963/IDC01478!/15121
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SAN DIEGO (opt2)
-http://mains.services:2086/4523074511/3178768/15121
+http://mains.services:2086/507Vej3h3S/4632273/15121
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SAN DIEGO (opt3)
 http://mains.best:2086/3003556325/2772007/15121
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network (opt1)
 http://mains.services:2086/640939802963/IDC01478!/15122
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network (opt2)
-http://mains.services:2086/4523074511/3178768/15122
+http://mains.services:2086/507Vej3h3S/4632273/15122
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network (opt3)
 http://mains.best:2086/3003556325/2772007/15122
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SOUTHWEST (opt1)
 http://mains.services:2086/640939802963/IDC01478!/15422
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SOUTHWEST (opt2)
-http://mains.services:2086/4523074511/3178768/15422
+http://mains.services:2086/507Vej3h3S/4632273/15422
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SOUTHWEST (opt3)
 http://mains.best:2086/3003556325/2772007/15422
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network OKLAHOMA (opt1)
 http://mains.services:2086/640939802963/IDC01478!/45587
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network OKLAHOMA (opt2)
-http://mains.services:2086/4523074511/3178768/45587
+http://mains.services:2086/507Vej3h3S/4632273/45587
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network OKLAHOMA (opt3)
 http://mains.best:2086/3003556325/2772007/45587
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network ALT5 (opt1)
 http://mains.services:2086/640939802963/IDC01478!/99320
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network ALT5 (opt2)
-http://mains.services:2086/4523074511/3178768/99320
+http://mains.services:2086/507Vej3h3S/4632273/99320
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network ALT5 (opt3)
 http://mains.best:2086/3003556325/2772007/99320
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SOUTH PLUS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/99321
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SOUTH PLUS (opt2)
-http://mains.services:2086/4523074511/3178768/99321
+http://mains.services:2086/507Vej3h3S/4632273/99321
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SOUTH PLUS (opt3)
 http://mains.best:2086/3003556325/2772007/99321
 
@@ -11390,56 +11250,56 @@ http://mains.best:2086/3003556325/2772007/99321
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network CINCINNATI (opt1)
 http://mains.services:2086/640939802963/IDC01478!/100057
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network CINCINNATI (opt2)
-http://mains.services:2086/4523074511/3178768/100057
+http://mains.services:2086/507Vej3h3S/4632273/100057
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network CINCINNATI (opt3)
 http://mains.best:2086/3003556325/2772007/100057
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SUN (SOUTH FLORIDA) (opt1)
 http://mains.services:2086/640939802963/IDC01478!/100923
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SUN (SOUTH FLORIDA) (opt2)
-http://mains.services:2086/4523074511/3178768/100923
+http://mains.services:2086/507Vej3h3S/4632273/100923
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network SUN (SOUTH FLORIDA) (opt3)
 http://mains.best:2086/3003556325/2772007/100923
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network GREAT LAKES (opt1)
 http://mains.services:2086/640939802963/IDC01478!/101098
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network GREAT LAKES (opt2)
-http://mains.services:2086/4523074511/3178768/101098
+http://mains.services:2086/507Vej3h3S/4632273/101098
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network GREAT LAKES (opt3)
 http://mains.best:2086/3003556325/2772007/101098
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network INDIANA (opt1)
 http://mains.services:2086/640939802963/IDC01478!/101099
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network INDIANA (opt2)
-http://mains.services:2086/4523074511/3178768/101099
+http://mains.services:2086/507Vej3h3S/4632273/101099
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network INDIANA (opt3)
 http://mains.best:2086/3003556325/2772007/101099
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH PLUS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/101100
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH PLUS (opt2)
-http://mains.services:2086/4523074511/3178768/101100
+http://mains.services:2086/507Vej3h3S/4632273/101100
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NORTH PLUS (opt3)
 http://mains.best:2086/3003556325/2772007/101100
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NEW ORLEANS PLUS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/101102
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NEW ORLEANS PLUS (opt2)
-http://mains.services:2086/4523074511/3178768/101102
+http://mains.services:2086/507Vej3h3S/4632273/101102
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network NEW ORLEANS PLUS (opt3)
 http://mains.best:2086/3003556325/2772007/101102
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network KANSAS CITY (opt1)
 http://mains.services:2086/640939802963/IDC01478!/101213
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network KANSAS CITY (opt2)
-http://mains.services:2086/4523074511/3178768/101213
+http://mains.services:2086/507Vej3h3S/4632273/101213
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network KANSAS CITY (opt3)
 http://mains.best:2086/3003556325/2772007/101213
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network KANSAS CITY PLUS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/101214
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network KANSAS CITY PLUS (opt2)
-http://mains.services:2086/4523074511/3178768/101214
+http://mains.services:2086/507Vej3h3S/4632273/101214
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ FANDUEL Sports Network KANSAS CITY PLUS (opt3)
 http://mains.best:2086/3003556325/2772007/101214
 
@@ -11667,21 +11527,21 @@ https://streamer1.nexgen.bz/GSN/index.m3u8
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95412
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL (opt2)
-http://mains.services:2086/4523074511/3178768/95412
+http://mains.services:2086/507Vej3h3S/4632273/95412
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL (opt3)
 http://mains.best:2086/3003556325/2772007/95412
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL (opt1)
 http://mains.services:2086/640939802963/IDC01478!/390
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL (opt2)
-http://mains.services:2086/4523074511/3178768/390
+http://mains.services:2086/507Vej3h3S/4632273/390
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL (opt3)
 http://mains.best:2086/3003556325/2772007/390
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64105
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64105
+http://mains.services:2086/507Vej3h3S/4632273/64105
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ GOLF CHANNEL FHD (opt3)
 http://mains.best:2086/3003556325/2772007/64105
 
@@ -11706,50 +11566,50 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1,US : MARQUEE SPORTS NETWORK
-http://mains.services/live/4523074511/3178768/5a2d3a09-8cb5-4491-96fa-46546b82736b.m3u
+http://mains.services/live/507Vej3h3S/4632273/5a2d3a09-8cb5-4491-96fa-46546b82736b.m3u
 #EXTINF:-1,US : MARQUEE SPORTS NETWORK FHD
-http://mains.services/live/4523074511/3178768/91509f37-d9fe-4aef-ac8b-3c906838967a.m3u
+http://mains.services/live/507Vej3h3S/4632273/91509f37-d9fe-4aef-ac8b-3c906838967a.m3u
 #EXTINF:-1,US : MASN
-http://mains.services/live/4523074511/3178768/0cc5678c-13fd-4d98-b0a3-573f51dd3e8d.m3u
+http://mains.services/live/507Vej3h3S/4632273/0cc5678c-13fd-4d98-b0a3-573f51dd3e8d.m3u
 #EXTINF:-1,US : MASN 2
-http://mains.services/live/4523074511/3178768/0a286714-50bf-4f7f-baf0-af3e027604a4.m3u
+http://mains.services/live/507Vej3h3S/4632273/0a286714-50bf-4f7f-baf0-af3e027604a4.m3u
 #EXTINF:-1,US : MAV TV
-http://mains.services/live/4523074511/3178768/bfeee941-9778-4011-80f3-91d584da194d.m3u
+http://mains.services/live/507Vej3h3S/4632273/bfeee941-9778-4011-80f3-91d584da194d.m3u
 
 #EXTINF:-1,US : MONUMENTAL SPORTS NETWORK
-http://mains.services/live/4523074511/3178768/494d5e7e-2200-4f55-a2a5-ba7efac36409.m3u
+http://mains.services/live/507Vej3h3S/4632273/494d5e7e-2200-4f55-a2a5-ba7efac36409.m3u
 #EXTINF:-1,US : MOTOR TREND FHD 1080
-http://mains.services/live/4523074511/3178768/d9bc0b33-1e95-4950-82db-25fd2ce12da9.m3u
+http://mains.services/live/507Vej3h3S/4632273/d9bc0b33-1e95-4950-82db-25fd2ce12da9.m3u
 
 #EXTINF:-1,US : MSG
-http://mains.services/live/4523074511/3178768/cff3dfe0-4be4-47fd-96e9-1e8e94b94bdf.m3u
+http://mains.services/live/507Vej3h3S/4632273/cff3dfe0-4be4-47fd-96e9-1e8e94b94bdf.m3u
 #EXTINF:-1,US : MSG +2
-http://mains.services/live/4523074511/3178768/66a82042-1d41-4f99-885c-c6ffd8249011.m3u
+http://mains.services/live/507Vej3h3S/4632273/66a82042-1d41-4f99-885c-c6ffd8249011.m3u
 #EXTINF:-1,US : MSG 2
-http://mains.services/live/4523074511/3178768/bf41b868-f7c3-44bb-a36b-3bc066a7bc77.m3u
+http://mains.services/live/507Vej3h3S/4632273//bf41b868-f7c3-44bb-a36b-3bc066a7bc77.m3u
 #EXTINF:-1,US : MSGSN
-http://mains.services/live/4523074511/3178768/52b6cb82-868c-4fc5-bf0a-1774828a785f.m3u
+http://mains.services/live/507Vej3h3S/4632273/52b6cb82-868c-4fc5-bf0a-1774828a785f.m3u
 #EXTINF:-1,US : MSNBC
-http://mains.services/live/4523074511/3178768/51a2f232-2d8c-479b-8d01-5bf35e921e5d.m3u
+http://mains.services/live/507Vej3h3S/4632273/51a2f232-2d8c-479b-8d01-5bf35e921e5d.m3u
 #EXTINF:-1,US : MSNBC FHD 1080
-http://mains.services/live/4523074511/3178768/d3e1a9c4-cda4-41f6-8875-3b07c917990b.m3u
+http://mains.services/live/507Vej3h3S/4632273/d3e1a9c4-cda4-41f6-8875-3b07c917990b.m3u
 
 #EXTINF:-1,US : MGM+
-http://mains.services/live/4523074511/3178768/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
+http://mains.services/live/507Vej3h3S/4632273/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
 #EXTINF:-1,US : MGM+ DRIVE-IN
-http://mains.services/live/4523074511/3178768/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
+http://mains.services/live/507Vej3h3S/4632273/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
 #EXTINF:-1,US : MGM+ DRIVE-IN FHD 1080
-http://mains.services/live/4523074511/3178768/12e4c88d-ab28-49e0-98c1-e8d9f4a2e4da.m3u
+http://mains.services/live/507Vej3h3S/4632273/12e4c88d-ab28-49e0-98c1-e8d9f4a2e4da.m3u
 #EXTINF:-1,US : MGM+ FHD 1080
-http://mains.services/live/4523074511/3178768/13eff9f6-5b82-47e4-8ea7-52be1329f8e6.m3u
+http://mains.services/live/507Vej3h3S/4632273/13eff9f6-5b82-47e4-8ea7-52be1329f8e6.m3u
 #EXTINF:-1,US : MGM+ HITS
-http://mains.services/live/4523074511/3178768/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
+http://mains.services/live/507Vej3h3S/4632273/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
 #EXTINF:-1,US : MGM+ HITS FHD 1080
-http://mains.services/live/4523074511/3178768/0e53e358-ec7e-4a47-82ce-4dfda186b0f9.m3u
+http://mains.services/live/507Vej3h3S/4632273/0e53e358-ec7e-4a47-82ce-4dfda186b0f9.m3u
 #EXTINF:-1,US : MGM+ MARQUEE
-http://mains.services/live/4523074511/3178768/acde4878-8208-4bf0-b118-e24650b9d910.m3u
+http://mains.services/live/507Vej3h3S/4632273/acde4878-8208-4bf0-b118-e24650b9d910.m3u
 #EXTINF:-1,US : MGM+ MARQUEE FHD 1080
-http://mains.services/live/4523074511/3178768/ac386897-e31f-4fb3-bd2e-8b98d375015b.m3u
+http://mains.services/live/507Vej3h3S/4632273/ac386897-e31f-4fb3-bd2e-8b98d375015b.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VMhcK29.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☑ Mountain Bike TV
@@ -11794,25 +11654,25 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.ts
 
 
 #EXTINF:-1,US : NBC SPORTS BAY AREA
-http://mains.services/live/4523074511/3178768/18814b89-c27e-4d29-b229-2307e5af13cb.m3u
+http://mains.services/live/507Vej3h3S/4632273/18814b89-c27e-4d29-b229-2307e5af13cb.m3u
 #EXTINF:-1,US : NBC SPORTS BAY AREA PLUS
-http://mains.services/live/4523074511/3178768/58c2ca47-4a02-412c-9614-463e1eed02a9.m3u
+http://mains.services/live/507Vej3h3S/4632273/58c2ca47-4a02-412c-9614-463e1eed02a9.m3u
 #EXTINF:-1,US : NBC SPORTS BOSTON
-http://mains.services/live/4523074511/3178768/e0360a2c-7652-4c2a-b8b5-a0b272ddcdbc.m3u
+http://mains.services/live/507Vej3h3S/4632273/e0360a2c-7652-4c2a-b8b5-a0b272ddcdbc.m3u
 #EXTINF:-1,US : NBC SPORTS CALIFORNIA
-http://mains.services/live/4523074511/3178768/658abbb1-50ec-457b-a093-17826fc48d9d.m3u
+http://mains.services/live/507Vej3h3S/4632273/658abbb1-50ec-457b-a093-17826fc48d9d.m3u
 #EXTINF:-1,US : NBC SPORTS CHICAGO PLUS
-http://mains.services/live/4523074511/3178768/bbba1e36-71b6-4a14-aa17-7dac4f637deb.m3u
+http://mains.services/live/507Vej3h3S/4632273/bbba1e36-71b6-4a14-aa17-7dac4f637deb.m3u
 #EXTINF:-1,US : NBC SPORTS PHILADELPHIA
-http://mains.services/live/4523074511/3178768/f5cd31c5-e0ca-4682-9c74-da67bd3b6f52.m3u
+http://mains.services/live/507Vej3h3S/4632273/f5cd31c5-e0ca-4682-9c74-da67bd3b6f52.m3u
 #EXTINF:-1,US : NESN
-http://mains.services/live/4523074511/3178768/2ebb3a48-f5b8-485e-b6a0-b53e6a6d9317.m3u
+http://mains.services/live/507Vej3h3S/4632273/2ebb3a48-f5b8-485e-b6a0-b53e6a6d9317.m3u
 #EXTINF:-1,US : NESN BOSTON
-http://mains.services/live/4523074511/3178768/224a564f-d32b-433f-80c0-793c22a5d599.m3u
+http://mains.services/live/507Vej3h3S/4632273/224a564f-d32b-433f-80c0-793c22a5d599.m3u
 #EXTINF:-1,US : NESN PLUS
-http://mains.services/live/4523074511/3178768/ed51a44b-f578-4bee-980d-418ecf43eda7.m3u
+http://mains.services/live/507Vej3h3S/4632273/ed51a44b-f578-4bee-980d-418ecf43eda7.m3u
 #EXTINF:-1,US : NEXT LEVEL SPORTS FHD
-http://mains.services/live/4523074511/3178768/11b69633-2d09-43ef-b3a9-d03d5d5fb9fd.m3u
+http://mains.services/live/507Vej3h3S/4632273/11b69633-2d09-43ef-b3a9-d03d5d5fb9fd.m3u
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇲🇽★7177 NBC GOLF MX (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7177.m3u8
@@ -11937,7 +11797,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ OUTSIDE TV (opt1)
 http://mains.services:2086/live/640939802963/IDC01478!/14872.m3u8
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ OUTSIDE TV (opt2)
-http://mains.services/live/4523074511/3178768/14872.ts
+http://mains.services/live/507Vej3h3S/4632273/14872.ts
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ OUTSIDE TV (opt3)
 http://mains.services:2086/507Vej3h3S/4632273/14872
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☆ OUTSIDE TV (opt4)
@@ -11946,7 +11806,7 @@ http://mains.services/live/3003556325/2772007/14872.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️OLYMPIC CHANNEL (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95473
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️OLYMPIC CHANNEL (opt2)
-http://mains.services:2086/4523074511/3178768/95473
+http://mains.services:2086/507Vej3h3S/4632273/95473
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️OLYMPIC CHANNEL (opt3)
 http://mains.best:2086/3003556325/2772007/95473
 
@@ -12027,25 +11887,25 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1,PEACOCK : EVENT 01
-http://mains.services/live/4523074511/3178768/4959bc3f-2585-4e3c-9e7f-49cccad05631.m3u
+http://mains.services/live/507Vej3h3S/4632273/4959bc3f-2585-4e3c-9e7f-49cccad05631.m3u
 #EXTINF:-1,PEACOCK : EVENT 02
-http://mains.services/live/4523074511/3178768/11d87fcd-0d9f-457d-b02b-bc8290419b5f.m3u
+http://mains.services/live/507Vej3h3S/4632273/11d87fcd-0d9f-457d-b02b-bc8290419b5f.m3u
 #EXTINF:-1,PEACOCK : EVENT 03
-http://mains.services/live/4523074511/3178768/574cfeea-72f8-49a3-80c4-c462dfc3d7e6.m3u
+http://mains.services/live/507Vej3h3S/4632273/574cfeea-72f8-49a3-80c4-c462dfc3d7e6.m3u
 #EXTINF:-1,PEACOCK : EVENT 04
-http://mains.services/live/4523074511/3178768/12f00dc4-41f6-4c6f-a06c-1092758c3021.m3u
+http://mains.services/live/507Vej3h3S/4632273/12f00dc4-41f6-4c6f-a06c-1092758c3021.m3u
 #EXTINF:-1,PEACOCK : EVENT 05
-http://mains.services/live/4523074511/3178768/fedf261f-4229-4cdb-a2fa-3f83a87d63bc.m3u
+http://mains.services/live/507Vej3h3S/4632273/fedf261f-4229-4cdb-a2fa-3f83a87d63bc.m3u
 #EXTINF:-1,PEACOCK : EVENT 06
-http://mains.services/live/4523074511/3178768/9a604494-66a0-4afe-b0aa-842c01cefe2c.m3u
+http://mains.services/live/507Vej3h3S/4632273/9a604494-66a0-4afe-b0aa-842c01cefe2c.m3u
 #EXTINF:-1,PEACOCK : EVENT 07
-http://mains.services/live/4523074511/3178768/1e29ef4d-fb66-47c3-b5f9-b14620e538bb.m3u
+http://mains.services/live/507Vej3h3S/4632273/1e29ef4d-fb66-47c3-b5f9-b14620e538bb.m3u
 #EXTINF:-1,PEACOCK : EVENT 08
-http://mains.services/live/4523074511/3178768/a025525d-30c0-4104-8d6c-87b9d911e9ab.m3u
+http://mains.services/live/507Vej3h3S/4632273/a025525d-30c0-4104-8d6c-87b9d911e9ab.m3u
 #EXTINF:-1,PEACOCK : EVENT 09
-http://mains.services/live/4523074511/3178768/3728853c-1f97-4bb8-b1ae-bed44676c56b.m3u
+http://mains.services/live/507Vej3h3S/4632273/3728853c-1f97-4bb8-b1ae-bed44676c56b.m3u
 #EXTINF:-1,PEACOCK : EVENT 10
-http://mains.services/live/4523074511/3178768/ca49a849-6291-4e16-adab-ce9d413cc043.m3u
+http://mains.services/live/507Vej3h3S/4632273/ca49a849-6291-4e16-adab-ce9d413cc043.m3u
 #EXTINF:-1,PEACOCK : EVENT 11
 http://mains.services/live/4523074511/3178768/7b17c653-6ffe-4274-93f8-60e20164d748.m3u
 #EXTINF:-1,PEACOCK : EVENT 12
@@ -12174,21 +12034,21 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1,US : SNY (SPORTSNET NEW YORK)
-http://mains.services/live/4523074511/3178768/ff643886-8ebe-4675-8e61-802c4cf543f8.m3u
+http://mains.services/live/507Vej3h3S/4632273/ff643886-8ebe-4675-8e61-802c4cf543f8.m3u
 #EXTINF:-1,US : SPECTRUM SPORTSNET
-http://mains.services/live/4523074511/3178768/035c7af8-be3f-41de-858d-bd4db6ae80cb.m3u
+http://mains.services/live/507Vej3h3S/4632273/035c7af8-be3f-41de-858d-bd4db6ae80cb.m3u
 #EXTINF:-1,US : SPECTRUM SPORTSNET LA
-http://mains.services/live/4523074511/3178768/11b71244-1158-4062-b007-c77748704cdd.m3u
+http://mains.services/live/507Vej3h3S/4632273/11b71244-1158-4062-b007-c77748704cdd.m3u
 #EXTINF:-1,US : SPORTS GRID FHD
-http://mains.services/live/4523074511/3178768/c49ab113-203e-42bd-ab24-d2fd05967efa.m3u
+http://mains.services/live/507Vej3h3S/4632273/c49ab113-203e-42bd-ab24-d2fd05967efa.m3u
 #EXTINF:-1,US : SPORTSMAN CHANNEL
-http://mains.services/live/4523074511/3178768/0c112fb2-8933-4be8-9537-ebcd2ede6856.m3u
+http://mains.services/live/507Vej3h3S/4632273/0c112fb2-8933-4be8-9537-ebcd2ede6856.m3u
 #EXTINF:-1,US : SPORTSMAN CHANNEL FHD 1080
-http://mains.services/live/4523074511/3178768/16c12030-a40b-47f7-85e5-880b141cf591.m3u
+http://mains.services/live/507Vej3h3S/4632273/16c12030-a40b-47f7-85e5-880b141cf591.m3u
 #EXTINF:-1,US : SPORTSNET PITTSBURGH
-http://mains.services/live/4523074511/3178768/049e661c-3eef-4dce-96de-f69159602e44.m3u
+http://mains.services/live/507Vej3h3S/4632273/049e661c-3eef-4dce-96de-f69159602e44.m3u
 #EXTINF:-1,US : STADIUM
-http://mains.services/live/4523074511/3178768/e466dc7a-b87e-4afb-a16d-5db851bd371d.m3u
+http://mains.services/live/507Vej3h3S/4632273/e466dc7a-b87e-4afb-a16d-5db851bd371d.m3u
 
 
 
@@ -12235,15 +12095,15 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1,US : TENNIS CHANNEL FHD 1080
-http://mains.services/live/4523074511/3178768/bbfda0c0-0281-4814-9a57-dbf7bfe801c8.m3u
+http://mains.services/live/507Vej3h3S/4632273/bbfda0c0-0281-4814-9a57-dbf7bfe801c8.m3u
 #EXTINF:-1,US : THE FIGHT NETWORK
-http://mains.services/live/4523074511/3178768/81eb5d51-fb15-42d2-a617-7aac78ebec1e.m3u
+http://mains.services/live/507Vej3h3S/4632273/81eb5d51-fb15-42d2-a617-7aac78ebec1e.m3u
 #EXTINF:-1,US : TBS FHD 1080
-http://mains.services/live/4523074511/3178768/ecd4e57e-c1f1-405f-ab44-8576e8059671.m3u
+http://mains.services/live/507Vej3h3S/4632273/ecd4e57e-c1f1-405f-ab44-8576e8059671.m3u
 #EXTINF:-1,US : TNT FHD 1080
-http://mains.services/live/4523074511/3178768/830ff393-8c58-4a08-aa79-93a830c2c583.m3u
+http://mains.services/live/507Vej3h3S/4632273/830ff393-8c58-4a08-aa79-93a830c2c583.m3u
 #EXTINF:-1,US : TUDN FHD
-http://mains.services/live/4523074511/3178768/eb7aee58-9940-4aed-ba90-d53fd0352cc7.m3u
+http://mains.services/live/507Vej3h3S/4632273/eb7aee58-9940-4aed-ba90-d53fd0352cc7.m3u
 
 
 
@@ -12291,11 +12151,11 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/25806
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 US : UFC FIGHT PASS
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u
+http://mains.services/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 US : UFC FIGHT PASS
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
+http://mains.services/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.ts
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 US : UFC FIGHT PASS
-http://mains.services/live/4523074511/3178768/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
+http://mains.services/live/507Vej3h3S/4632273/8b75b2d4-3334-4345-b290-b0b3116a924a.m3u8
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 UFC FIGHT PASS 1 (opt1)
@@ -12319,11 +12179,11 @@ http://pfsv.io:80/6181288/27664/316229.ts
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 US : UNIVERSO WEST HD
-http://mains.services/live/4523074511/3178768/4bdf9403-5e5f-4cc2-8a72-e8812d5fbf75.m3u
+http://mains.services/live/507Vej3h3S/4632273/4bdf9403-5e5f-4cc2-8a72-e8812d5fbf75.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 US : USA NETWORK FHD 1080
-http://mains.services/live/4523074511/3178768/ef56e78a-1209-4dc4-b752-5b800378ef0b.m3u
+http://mains.services/live/507Vej3h3S/4632273/ef56e78a-1209-4dc4-b752-5b800378ef0b.m3u
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 US : USA NETWORK WEST HD
-http://mains.services/live/4523074511/3178768/abff12b9-fa23-4357-bbaa-4b5c2eef5e9e.m3u
+http://mains.services/live/507Vej3h3S/4632273/abff12b9-fa23-4357-bbaa-4b5c2eef5e9e.m3u
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/2560px-USA_Network_logo_%282016%29.svg.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸Ⓜ USA_NETWORK |E! (Opt1)
@@ -12352,21 +12212,21 @@ http://alfa.7057460.xyz:2095/ameca01/1989/7346
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95409
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK (opt2)
-http://mains.services:2086/4523074511/3178768/95409
+http://mains.services:2086/507Vej3h3S/4632273/95409
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK (opt3)
 http://mains.best:2086/3003556325/2772007/95409
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK HD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/242
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK HD (opt2)
-http://mains.services:2086/4523074511/3178768/242
+http://mains.services:2086/507Vej3h3S/4632273/242
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK HD (opt3)
 http://mains.best:2086/3003556325/2772007/242
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64025
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64025
+http://mains.services:2086/507Vej3h3S/4632273/64025
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ⛹️USA NETWORK FHD (opt3)
 http://mains.best:2086/3003556325/2772007/64025
 
@@ -12380,7 +12240,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1,US : VSIN
-http://mains.services/live/4523074511/3178768/71c50441-f4a8-465d-9465-8c9adaa4dee2.m3u
+http://mains.services/live/507Vej3h3S/4632273/71c50441-f4a8-465d-9465-8c9adaa4dee2.m3u
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",⚽ VSIN US (opt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/vsin.us.m3u8
@@ -12400,15 +12260,15 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1,US : WAPA AMERICA
-http://mains.services/live/4523074511/3178768/738454b9-cede-41e1-9961-2283a0804097.m3u
+http://mains.services/live/507Vej3h3S/4632273/738454b9-cede-41e1-9961-2283a0804097.m3u
 #EXTINF:-1,US : WILLOW EXTRA FHD
-http://mains.services/live/4523074511/3178768/48cc6a69-7786-4583-8eda-7ab66f480e6f.m3u
+http://mains.services/live/507Vej3h3S/4632273/48cc6a69-7786-4583-8eda-7ab66f480e6f.m3u
 #EXTINF:-1,US : WILLOW FHD
-http://mains.services/live/4523074511/3178768/f07e3bdd-8336-4e5b-b8fc-e2ef5ec002c2.m3u
+http://mains.services/live/507Vej3h3S/4632273/f07e3bdd-8336-4e5b-b8fc-e2ef5ec002c2.m3u
 #EXTINF:-1,US : WORLD FISHING NETWORK FHD 1080
-http://mains.services/live/4523074511/3178768/09815790-b620-4504-8fca-dadcefd64c0c.m3u
+http://mains.services/live/507Vej3h3S/4632273/09815790-b620-4504-8fca-dadcefd64c0c.m3u
 #EXTINF:-1,US : WWE NETWORK
-http://mains.services/live/4523074511/3178768/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
+http://mains.services/live/507Vej3h3S/4632273/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸 Y 🇺🇸    ▂ ▄ ▅ ▆ ⚽  USA 📺 SPORTS  ⚽ ▆ ▅ ▄ ▂
@@ -12419,7 +12279,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 #EXTINF:-1,US YES Network
 http://1tv41.icu:8080/zqQ0Q2/591076/57972
 #EXTINF:-1,US : YES NETWORK
-http://mains.services/live/4523074511/3178768/3c7114a3-ee54-4bad-906e-1c31b590838b.m3u
+http://mains.services/live/507Vej3h3S/4632273/3c7114a3-ee54-4bad-906e-1c31b590838b.m3u
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",⚽ YES Network US (opt1) 
@@ -12466,11 +12326,11 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV | MLS Cup [HD]
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",MLS CUP | Apple TV [HD]
 http://pfsv.io:80/live/6181288/27664/289592.m3u8
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV | MLS Cup [HD]
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",MLS CUP | Apple TV [HD]
 http://pfsv.io:80/live/6181288/27664/289592.ts
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV | MLS Cup [HD]
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",MLS CUP | Apple TV [HD]
 http://pfsv.io:80/6181288/27664/289592
 
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 01 [HD]
@@ -12506,75 +12366,75 @@ http://pfsv.io:80/6181288/27664/303988
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
 http://mains.services/live/640939802963/IDC01478!/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u8
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt2)
-http://mains.services/live/4523074511/3178768/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
+http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt3)
 http://mains.best:2086/live/3003556325/2772007/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt4)
 http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
 
 #EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="MLS Atlanta United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ATLANTA UNITED (opt1)
-http://mains.services/live/4523074511/3178768/dab81e58-f35d-473e-96a6-9a0079343cc2.m3u8
+http://mains.services/live/507Vej3h3S/4632273/dab81e58-f35d-473e-96a6-9a0079343cc2.m3u8
 #EXTINF:-1 tvg-id="AustinFC.mls" tvg-name="MLS Austin FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : AUSTIN FC (opt1)
-http://mains.services/live/4523074511/3178768/a6df75c8-6393-4ab5-8564-594e4631c52a.m3u8
+http://mains.services/live/507Vej3h3S/4632273/a6df75c8-6393-4ab5-8564-594e4631c52a.m3u8
 #EXTINF:-1 tvg-id="CFMontreal.mls" tvg-name="MLS CF Montreal USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CF MONTREAL (opt1)
-http://mains.services/live/4523074511/3178768/f76fa2fd-7dce-4af4-bd10-51df532dd579.m3u8
+http://mains.services/live/507Vej3h3S/4632273/f76fa2fd-7dce-4af4-bd10-51df532dd579.m3u8
 #EXTINF:-1 tvg-id="CharlotteFC.mls" tvg-name="MLS Charlotte FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHARLOTTE FC (opt1)
-http://mains.services/live/4523074511/3178768/80011e33-5a3a-4f7c-a9d2-1adf6f374134.m3u8
+http://mains.services/live/507Vej3h3S/4632273/80011e33-5a3a-4f7c-a9d2-1adf6f374134.m3u8
 #EXTINF:-1 tvg-id="ChicagoFireFC.mls" tvg-name="MLS Chicago Fire FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHICAGO FIRE FC (opt1)
-http://mains.services/live/4523074511/3178768/7dc87659-21d5-4044-8b37-1fcbb784c1d2.m3u8
+http://mains.services/live/507Vej3h3S/4632273/7dc87659-21d5-4044-8b37-1fcbb784c1d2.m3u8
 #EXTINF:-1 tvg-id="ColoradoRapids.mls" tvg-name="MLS Colorado Rapids USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLORADO RAPIDS (opt1)
-http://mains.services/live/4523074511/3178768/8a4e2517-278d-4bba-999e-fc1d5b427ddc.m3u8
+http://mains.services/live/507Vej3h3S/4632273/8a4e2517-278d-4bba-999e-fc1d5b427ddc.m3u8
 #EXTINF:-1 tvg-id="ColumbusCrew.mls" tvg-name="MLS Columbus Crew USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLUMBUS CREW (opt1)
-http://mains.services/live/4523074511/3178768/bddee2a6-deac-4d3a-a895-8f7d318b681f.m3u8
+http://mains.services/live/507Vej3h3S/4632273/bddee2a6-deac-4d3a-a895-8f7d318b681f.m3u8
 #EXTINF:-1 tvg-id="DCUnited.mls" tvg-name="MLS D.C United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : D.C. UNITED (opt1)
-http://mains.services/live/4523074511/3178768/2f6536e8-b8a6-4576-a922-e50ae801dc0e.m3u8
+http://mains.services/live/507Vej3h3S/4632273/2f6536e8-b8a6-4576-a922-e50ae801dc0e.m3u8
 #EXTINF:-1 tvg-id="FCCincinnati.mls" tvg-name="MLS FC Cincinnati USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC CINCINNATI (opt1)
-http://mains.services/live/4523074511/3178768/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.m3u8
+http://mains.services/live/507Vej3h3S/4632273/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.m3u8
 #EXTINF:-1 tvg-id="FCDallas.mls" tvg-name="MLS FC Dallas USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC DALLAS (opt1)
-http://mains.services/live/4523074511/3178768/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.m3u8
+http://mains.services/live/507Vej3h3S/4632273/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.m3u8
 #EXTINF:-1 tvg-id="HoustonDynamoFC.mls" tvg-name="MLS Houston Dynamo FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : HOUSTON DYNAMO (opt1)
-http://mains.services/live/4523074511/3178768/94cdfecc-a16d-483f-921d-746d9275a8c3.m3u8
+http://mains.services/live/507Vej3h3S/4632273/94cdfecc-a16d-483f-921d-746d9275a8c3.m3u8
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
-http://mains.services/live/4523074511/3178768/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u8
+http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u8
 #EXTINF:-1 tvg-id="LAGalaxy.mls" tvg-name="MLS LA Galaxy USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LA GALAXY (opt1)
-http://mains.services/live/4523074511/3178768/d786184e-f143-4769-b143-e724ce5ebe5f.m3u8
+http://mains.services/live/507Vej3h3S/4632273/d786184e-f143-4769-b143-e724ce5ebe5f.m3u8
 #EXTINF:-1 tvg-id="LosAngelesFootballClub.mls" tvg-name="MLS Los Angeles Football Club" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LOS ANGELES FOOTBALL CLUB (opt1)
-http://mains.services/live/4523074511/3178768/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.m3u8
+http://mains.services/live/507Vej3h3S/4632273/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.m3u8
 #EXTINF:-1 tvg-id="MinnesotaUnited.mls" tvg-name="MLS Minnesota United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : MINNESOTA UNITED (opt1)
-http://mains.services/live/4523074511/3178768/47cf7383-8171-41dc-b337-955fe1518b73.m3u8
+http://mains.services/live/507Vej3h3S/4632273/47cf7383-8171-41dc-b337-955fe1518b73.m3u8
 #EXTINF:-1 tvg-id="NashvilleSC.mls" tvg-name="MLS Nashville SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NASHVILLE SC (opt1)
-http://mains.services/live/4523074511/3178768/7abebf80-8eca-4492-a3ec-a3b244857fe2.m3u8
+http://mains.services/live/507Vej3h3S/4632273/7abebf80-8eca-4492-a3ec-a3b244857fe2.m3u8
 #EXTINF:-1 tvg-id="NewEnglandRevolution.mls" tvg-name="MLS New England Revolution USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW ENGLAND REVOLUTION (opt1)
-http://mains.services/live/4523074511/3178768/b958ff85-40c8-460b-8673-cfcc608ae400.m3u8
+http://mains.services/live/507Vej3h3S/4632273/b958ff85-40c8-460b-8673-cfcc608ae400.m3u8
 #EXTINF:-1 tvg-id="NewYorkCityFC.mls" tvg-name="MLS New York City Football Club USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK CITY FC (opt1)
-http://mains.services/live/4523074511/3178768/ebf05fe9-d610-4159-867b-62de63081dc4.m3u8
+http://mains.services/live/507Vej3h3S/4632273/ebf05fe9-d610-4159-867b-62de63081dc4.m3u8
 #EXTINF:-1 tvg-id="NewYorkRedBulls.mls" tvg-name="MLS New York Red Bulls USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK RED BULLS (opt1)
-http://mains.services/live/4523074511/3178768/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.m3u8
+http://mains.services/live/507Vej3h3S/4632273/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.m3u8
 #EXTINF:-1 tvg-id="OrlandoCity.mls" tvg-name="MLS Orlando City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ORLANDO CITY (opt1)
-http://mains.services/live/4523074511/3178768/16f08309-9805-4d90-b26d-205684941eea.m3u8
+http://mains.services/live/507Vej3h3S/4632273/16f08309-9805-4d90-b26d-205684941eea.m3u8
 #EXTINF:-1 tvg-id="PhiladelphiaUnion.mls" tvg-name="MLS Philadelphia Union USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PHILADELPHIA UNION (opt1)
-http://mains.services/live/4523074511/3178768/5f97d581-4872-4d4a-9788-b2b56dd5c49b.m3u8
+http://mains.services/live/507Vej3h3S/4632273/5f97d581-4872-4d4a-9788-b2b56dd5c49b.m3u8
 #EXTINF:-1 tvg-id="PortlandTimbers.mls" tvg-name="MLS Portland Timbers USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PORTLAND TIMBERS (opt1)
-http://mains.services/live/4523074511/3178768/1b41217d-03a9-473e-afb0-7b7604a36324.m3u8
+http://mains.services/live/507Vej3h3S/4632273/1b41217d-03a9-473e-afb0-7b7604a36324.m3u8
 #EXTINF:-1 tvg-id="RealSaltLake.mls" tvg-name="MLS Real Salt Lake" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : REAL SALT LAKE (opt1)
-http://mains.services/live/4523074511/3178768/e365e3f2-efaa-40bf-a233-0eccec1ffa48.m3u8
+http://mains.services/live/507Vej3h3S/4632273/e365e3f2-efaa-40bf-a233-0eccec1ffa48.m3u8
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN DIEGO FC (opt1)
-http://mains.services/live/4523074511/3178768/953a2f3c-9d29-4629-ad52-c377fcb2f850.m3u8
+http://mains.services/live/507Vej3h3S/4632273/953a2f3c-9d29-4629-ad52-c377fcb2f850.m3u8
 #EXTINF:-1 tvg-id="SanJoseEarthquakes.mls" tvg-name="MLS San Jose Earthquakes USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN JOSE EARTHQUAKES (opt1)
-http://mains.services/live/4523074511/3178768/caffdae3-2070-4cb6-9ef1-5125558269fd.m3u8
+http://mains.services/live/507Vej3h3S/4632273/caffdae3-2070-4cb6-9ef1-5125558269fd.m3u8
 #EXTINF:-1 tvg-id="SeattleSoundersFC.mls" tvg-name="MLS Seattle Sounders FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SEATTLE SOUNDERS FC (opt1)
-http://mains.services/live/4523074511/3178768/7553dee7-74f1-4e11-95d3-2b41e68e96be.m3u8
+http://mains.services/live/507Vej3h3S/4632273/7553dee7-74f1-4e11-95d3-2b41e68e96be.m3u8
 #EXTINF:-1 tvg-id="SportingKansasCity.mls" tvg-name="MLS Sporting Kansas City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SPORTING KANSAS CITY (opt1)
-http://mains.services/live/4523074511/3178768/88f38570-1cae-4e06-809d-e2b1a0cbd943.m3u8
+http://mains.services/live/507Vej3h3S/4632273/88f38570-1cae-4e06-809d-e2b1a0cbd943.m3u8
 #EXTINF:-1 tvg-id="StLouisCITYSC.mls" tvg-name="MLS St. Louis City SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ST LOUIS CITY SC (opt1)
-http://mains.services/live/4523074511/3178768/52111f2a-a55a-41ad-9660-0e994a35770e.m3u8
+http://mains.services/live/507Vej3h3S/4632273/52111f2a-a55a-41ad-9660-0e994a35770e.m3u8
 #EXTINF:-1 tvg-id="TorontoFC.mls" tvg-name="MLS Toronto DC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : TORONTO FC (opt1)
-http://mains.services/live/4523074511/3178768/b64c9730-9dbd-45d2-b429-88f4b63667cf.m3u8
+http://mains.services/live/507Vej3h3S/4632273/b64c9730-9dbd-45d2-b429-88f4b63667cf.m3u8
 
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt1)
 http://mains.services/live/640939802963/IDC01478!/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u8
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt2)
-http://mains.services/live/4523074511/3178768/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
+http://mains.services/live/507Vej3h3S/4632273/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt3)
 http://mains.services/live/3003556325/2772007/fe4665a6-dd3f-45b9-8068-c12aae31c6db.ts
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt4)
@@ -12583,7 +12443,7 @@ http://mains.services/live/507Vej3h3S/4632273/fe4665a6-dd3f-45b9-8068-c12aae31c6
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt1)
 http://mains.services:2086/640939802963/IDC01478!/1673
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt2)
-http://mains.services:2086/4523074511/3178768/1673
+http://mains.services:2086/507Vej3h3S/4632273/1673
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt3)
 http://mains.best:2086/3003556325/2772007/1673
 #EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt4)
