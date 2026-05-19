@@ -3777,12 +3777,37 @@ https://tvpass.org/live/chicago-sports-network/hd
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS Sports Golazo Network
 https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS Sports Golazo Network
+https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBSN | CBS News 24/7 PRIME TIME
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS News 24/7
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS SPORTS HQ
 https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS Sports HQ
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3a15356b-8467-4ae7-b2f6-9c8467fcf41d
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS SPORTS HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
+http://mains.services/live/640939802963/IDC01478!/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
+http://mains.services/live/3003556325/2772007/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.ts
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
+http://mains.services/live/507Vej3h3S/4632273/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS HQ
+http://mains.services/live/640939802963/IDC01478!/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK
+http://mains.services/live/640939802963/IDC01478!/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK FHD 1080
+http://mains.services/live/640939802963/IDC01478!/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
@@ -10732,7 +10757,7 @@ http://mains.services:2086/640939802963/IDC01478!/101386
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",🇲🇽☆ AZTECA 7 ᴹᵉˣⁱᶜᵒ | BOX🥊 (opt2)
 http://mains.best:2086/3003556325/2772007/101386
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",🇲🇽☆ AZTECA 7 ᴹᵉˣⁱᶜᵒ | BOX🥊 (opt3)
-http://mains.services:2086/4523074511/3178768/101386
+http://mains.services:2086/507Vej3h3S/4632273/101386
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",🇲🇽☆ AZTECA 7 ᴹᵉˣⁱᶜᵒ | BOX🥊 (opt4)
 http://mains.services:2086/507Vej3h3S/4632273/101386
 
@@ -10806,7 +10831,7 @@ http://alfa.7057460.xyz:2095/ameca01/1989/7820
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",☆ TENNIS CHANNEL (opt1)
 http://mains.services:2086/640939802963/IDC01478!/95435
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",☆ TENNIS CHANNEL (opt2)
-http://mains.services:2086/4523074511/3178768/95435
+http://mains.services:2086/507Vej3h3S/4632273/95435
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",☆ TENNIS CHANNEL (opt3) 
 http://mains.services:2086/507Vej3h3S/4632273/95435
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",☆ TENNIS CHANNEL (opt4)
@@ -10815,7 +10840,7 @@ http://mains.best:2086/3003556325/2772007/95435
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL (opt1)
 http://mains.services:2086/640939802963/IDC01478!/327
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL (opt2)
-http://mains.services:2086/4523074511/3178768/327
+http://mains.services:2086/507Vej3h3S/4632273/327
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL (opt3) 
 http://mains.best:2086/live/507Vej3h3S/4632273/327.ts
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL (opt4)
@@ -10824,7 +10849,7 @@ http://mains.best:2086/3003556325/2772007/327
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL FHD (opt1)
 http://mains.services:2086/640939802963/IDC01478!/64029
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL FHD (opt2)
-http://mains.services:2086/4523074511/3178768/64029
+http://mains.services:2086/507Vej3h3S/4632273/64029
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL FHD (opt3)
 http://mains.best:2086/live/507Vej3h3S/4632273/64029.ts
 #EXTINF:-1 group-title="🎾TENNIS🌐Sport🎾",US : TENNIS CHANNEL FHD (opt4)
@@ -11157,61 +11182,61 @@ http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55c
 
 
 #EXTINF:-1,US : FANDUEL SPORTS CAROLINAS
-http://mains.services/live/4523074511/3178768/b9a02f6d-fc13-4f30-af86-51748681ad9d.m3u
+http://mains.services/live/507Vej3h3S/4632273/b9a02f6d-fc13-4f30-af86-51748681ad9d.m3u
 #EXTINF:-1,US : FANDUEL SPORTS CINCINNATI
-http://mains.services/live/4523074511/3178768/4ae1c64c-6ea8-4194-aab9-b568288604ee.m3u
+http://mains.services/live/507Vej3h3S/4632273/4ae1c64c-6ea8-4194-aab9-b568288604ee.m3u
 #EXTINF:-1,US : FANDUEL SPORTS DETROIT
-http://mains.services/live/4523074511/3178768/b369c496-7a18-4c4e-bf21-7308a5b121b7.m3u
+http://mains.services/live/507Vej3h3S/4632273/b369c496-7a18-4c4e-bf21-7308a5b121b7.m3u
 #EXTINF:-1,US : FANDUEL SPORTS DETROIT PLUS
-http://mains.services/live/4523074511/3178768/60ac33b4-6386-4a06-ba83-0066d0477757.m3u
+http://mains.services/live/507Vej3h3S/4632273/60ac33b4-6386-4a06-ba83-0066d0477757.m3u
 #EXTINF:-1,US : FANDUEL SPORTS FLORIDA
-http://mains.services/live/4523074511/3178768/d9e43111-a9ad-4513-8c64-bd1d2f6aafcb.m3u
+http://mains.services/live/507Vej3h3S/4632273/d9e43111-a9ad-4513-8c64-bd1d2f6aafcb.m3u
 #EXTINF:-1,US : FANDUEL SPORTS INDIANA
-http://mains.services/live/4523074511/3178768/79e4f576-c9d3-430e-9578-a893249ec747.m3u
+http://mains.services/live/507Vej3h3S/4632273/79e4f576-c9d3-430e-9578-a893249ec747.m3u
 #EXTINF:-1,US : FANDUEL SPORTS KANSAS CITY
-http://mains.services/live/4523074511/3178768/d63c5212-2004-498b-b786-e873ff0c9910.m3u
+http://mains.services/live/507Vej3h3S/4632273/d63c5212-2004-498b-b786-e873ff0c9910.m3u
 #EXTINF:-1,US : FANDUEL SPORTS KANSAS CITY PLUS
-http://mains.services/live/4523074511/3178768/38d306a1-86de-4008-b17a-cb9549dc84f2.m3u
+http://mains.services/live/507Vej3h3S/4632273/38d306a1-86de-4008-b17a-cb9549dc84f2.m3u
 #EXTINF:-1,US : FANDUEL SPORTS MIDWEST
-http://mains.services/live/4523074511/3178768/19c3d491-27c5-4bcf-89fd-6026ae16ea45.m3u
+http://mains.services/live/507Vej3h3S/4632273/19c3d491-27c5-4bcf-89fd-6026ae16ea45.m3u
 #EXTINF:-1,US : FANDUEL SPORTS MIDWEST PLUS
-http://mains.services/live/4523074511/3178768/19e25973-7baf-4c94-8716-b3cc2c1ebeb5.m3u
+http://mains.services/live/507Vej3h3S/4632273/19e25973-7baf-4c94-8716-b3cc2c1ebeb5.m3u
 #EXTINF:-1,US : FANDUEL SPORTS NEW ORLEANS
-http://mains.services/live/4523074511/3178768/e6e5ab44-0c08-4bb4-95ee-7c93abc5bdd3.m3u
+http://mains.services/live/507Vej3h3S/4632273/e6e5ab44-0c08-4bb4-95ee-7c93abc5bdd3.m3u
 #EXTINF:-1,US : FANDUEL SPORTS NEW ORLEANS PLUS
-http://mains.services/live/4523074511/3178768/9671c3bd-3530-4f40-88a6-901820e7d499.m3u
+http://mains.services/live/507Vej3h3S/4632273/9671c3bd-3530-4f40-88a6-901820e7d499.m3u
 #EXTINF:-1,US : FANDUEL SPORTS NORTH
-http://mains.services/live/4523074511/3178768/ff0b49fb-989c-43c0-914a-6c2bd8808b5c.m3u
+http://mains.services/live/507Vej3h3S/4632273/ff0b49fb-989c-43c0-914a-6c2bd8808b5c.m3u
 #EXTINF:-1,US : FANDUEL SPORTS NORTH PLUS
-http://mains.services/live/4523074511/3178768/db36aa5e-ac35-4279-b12d-257925b694c8.m3u
+http://mains.services/live/507Vej3h3S/4632273/db36aa5e-ac35-4279-b12d-257925b694c8.m3u
 #EXTINF:-1,US : FANDUEL SPORTS OHIO
-http://mains.services/live/4523074511/3178768/f213617e-bb46-4a6d-8f38-39c1bf731c7d.m3u
+http://mains.services/live/507Vej3h3S/4632273/f213617e-bb46-4a6d-8f38-39c1bf731c7d.m3u
 #EXTINF:-1,US : FANDUEL SPORTS OKLAHOMA
-http://mains.services/live/4523074511/3178768/5e7e98d1-fd05-4711-85bd-da6afaafdd33.m3u
+http://mains.services/live/507Vej3h3S/4632273/5e7e98d1-fd05-4711-85bd-da6afaafdd33.m3u
 #EXTINF:-1,US : FANDUEL SPORTS OKLAHOMA PLUS
-http://mains.services/live/4523074511/3178768/8df042e1-a143-45d5-afbe-e21c516a34f8.m3u
+http://mains.services/live/507Vej3h3S/4632273/8df042e1-a143-45d5-afbe-e21c516a34f8.m3u
 #EXTINF:-1,US : FANDUEL SPORTS SOCAL
-http://mains.services/live/4523074511/3178768/9ffe7cd4-5cef-4731-b040-d47531a9540d.m3u
+http://mains.services/live/507Vej3h3S/4632273/9ffe7cd4-5cef-4731-b040-d47531a9540d.m3u
 #EXTINF:-1,US : FANDUEL SPORTS SOUTH
-http://mains.services/live/4523074511/3178768/5f9e1265-87df-4e43-8c47-77c8bcebd826.m3u
+http://mains.services/live/507Vej3h3S/4632273/5f9e1265-87df-4e43-8c47-77c8bcebd826.m3u
 #EXTINF:-1,US : FANDUEL SPORTS SOUTH PLUS
-http://mains.services/live/4523074511/3178768/077d8aef-ad14-4f4d-8a20-5a940e194e09.m3u
+http://mains.services/live/507Vej3h3S/4632273/077d8aef-ad14-4f4d-8a20-5a940e194e09.m3u
 #EXTINF:-1,US : FANDUEL SPORTS SOUTHEAST
-http://mains.services/live/4523074511/3178768/fc998912-c9ee-4266-a348-53a3c071f55d.m3u
+http://mains.services/live/507Vej3h3S/4632273/fc998912-c9ee-4266-a348-53a3c071f55d.m3u
 #EXTINF:-1,US : FANDUEL SPORTS SOUTHWEST
-http://mains.services/live/4523074511/3178768/e520e6b2-8db7-4bac-8c1d-a9ae6a5d0b60.m3u
+http://mains.services/live/507Vej3h3S/4632273/e520e6b2-8db7-4bac-8c1d-a9ae6a5d0b60.m3u
 #EXTINF:-1,US : FANDUEL SPORTS SUN
-http://mains.services/live/4523074511/3178768/bfa60d24-66a1-45cc-b1ae-d411beb60453.m3u
+http://mains.services/live/507Vej3h3S/4632273/bfa60d24-66a1-45cc-b1ae-d411beb60453.m3u
 #EXTINF:-1,US : FANDUEL SPORTS TENNESSEE
-http://mains.services/live/4523074511/3178768/56ed108d-09c4-4d67-81e3-371eb7b526f5.m3u
+http://mains.services/live/507Vej3h3S/4632273/56ed108d-09c4-4d67-81e3-371eb7b526f5.m3u
 #EXTINF:-1,US : FANDUEL SPORTS WEST
-http://mains.services/live/4523074511/3178768/9c147ffb-e45f-46d4-8a20-5814183eca19.m3u
+http://mains.services/live/507Vej3h3S/4632273/9c147ffb-e45f-46d4-8a20-5814183eca19.m3u
 #EXTINF:-1,US : FANDUEL SPORTS WISCONSIN
-http://mains.services/live/4523074511/3178768/0d14af03-eb57-471f-a849-e617db78cf76.m3u
+http://mains.services/live/507Vej3h3S/4632273/0d14af03-eb57-471f-a849-e617db78cf76.m3u
 #EXTINF:-1,US : FANDUEL SPORTS WISCONSIN PLUS
-http://mains.services/live/4523074511/3178768/b84b70b8-51f4-40fd-a2d0-583a181eab9d.m3u
+http://mains.services/live/507Vej3h3S/4632273/b84b70b8-51f4-40fd-a2d0-583a181eab9d.m3u
 #EXTINF:-1,US : FANDUELTV FHD
-http://mains.services/live/4523074511/3178768/f974655c-e8a2-4f08-afe7-adbf84dadd74.m3u
+http://mains.services/live/507Vej3h3S/4632273/f974655c-e8a2-4f08-afe7-adbf84dadd74.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☑ Fite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
@@ -11541,17 +11566,17 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏈SPORTS🇺🇸USA🏈",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,US Golf Channel 
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸US Golf Channel 
 http://1tv41.icu:8080/zqQ0Q2/591076/9806
-#EXTINF:-1,US Golf Channel 
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸US Golf Channel 
 http://1tv41.icu:8080/zqQ0Q2/591076/46728
 
-#EXTINF:-1,US : GOL TV FHD 1080
-http://mains.services/live/4523074511/3178768/998918b6-dea3-4ebc-b9f7-e17cf84d1819.m3u
-#EXTINF:-1,US : GOLF CHANNEL
-http://mains.services/live/4523074511/3178768/dca20c3e-97be-48ce-9923-e8bc52c8c50f.m3u
-#EXTINF:-1,US : GOLF CHANNEL FHD 1080
-http://mains.services/live/4523074511/3178768/18ab2192-64b9-4b6f-b8a2-bf930507c37b.m3u
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : GOL TV FHD 1080
+http://mains.services/live/507Vej3h3S/4632273/998918b6-dea3-4ebc-b9f7-e17cf84d1819.m3u
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : GOLF CHANNEL
+http://mains.services/live/507Vej3h3S/4632273/dca20c3e-97be-48ce-9923-e8bc52c8c50f.m3u
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : GOLF CHANNEL FHD 1080
+http://mains.services/live/507Vej3h3S/4632273/18ab2192-64b9-4b6f-b8a2-bf930507c37b.m3u
 
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸Ⓜ² GSN | Game Show Network
