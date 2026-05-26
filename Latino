@@ -7572,26 +7572,26 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.ts
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.m3u8
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7815.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.m3u8
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7815.mpd
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.ts
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7815.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7815.ts
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7815
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt1)
-http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.ts
+http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7811.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt2)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.m3u8
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7811.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt3)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.m3u8
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.mpd
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt4)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.ts
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7811.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7811 D SPORTS 2 | DIRECTV (opt5)
-http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7811.ts
+http://alfa.7057460.xyz:2095/julinnn2/Camion01/7811
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
@@ -7776,6 +7776,66 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1864.m3u8
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1864.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TyC SPORTS INTERNACIONAL *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1864
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1807.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1807.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1807
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54368.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54368.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54368
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1805
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1806
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54369.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54369.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/17333.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/17333.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17333
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16453.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16453.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16453
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16454.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16454.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16454
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *HQ | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17334.ts
+
 
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴☆ WIN+ Futbol (opt1)
@@ -8387,15 +8447,17 @@ https://tvpass.org/live/TelemundoEast/hd
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ TELEMUNDO (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ TELEMUNDO (720p)
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇵🇷PUERTO RICO",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="🇵🇷PUERTO RICO",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇵🇷PUERTO RICO",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="🇵🇷PUERTO RICO",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇵🇷☑ Telemundo PR PUNTO 2 | WKAQ-DT2 (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☆ TELEMUNDO (opt1)
@@ -8427,7 +8489,11 @@ http://mains.services:2086/640939802963/IDC01478!/92500
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ TELEMUNDO (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ TELEMUNDO (720p)
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ NBC Universo West (720p)
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ NBC Universo West (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
@@ -8868,64 +8934,6 @@ https://rds3.desdeparaguay.net/trecetv/trecetv_alta/chunks.m3u8
 
 
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1805.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1805.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS Uruguay PREMIUM *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1805
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1806.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1806.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1806
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54369.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54369.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* DSPORTS URUGUAY *HD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1807.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1807.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS | DSPORTS URUGUAY *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1807
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54368.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54368.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + | DSPORTS Uruguay PREMIUM *HD | op3
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54368
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/17333.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/17333.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17333
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16453.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16453.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16453
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16454.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/16454.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV PLUS + *HD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/16454
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* VTV *HQ | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17334.ts
 
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇻🇪* VE | TELEVEN
