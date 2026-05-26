@@ -4710,6 +4710,8 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" tvg-name="Garage TV Argentina" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Garage TV Argentina
+https://stream1.sersat.com/hls/garagetv.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Game Show Network East (sd)
 https://tvpass.org/live/game-show-network-east/sd
@@ -5021,6 +5023,9 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1830
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/mtssportstv/picture?width=200&height=200" tvg-name="MoreThanSports TV" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ MoreThanSports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Marquee Sports Network (sd)
 https://tvpass.org/live/marquee-sports-network/sd
@@ -5753,6 +5758,9 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" tvg-name="Red Bull TV" group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☑ Red Bull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸* RAI SPORTS *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2349.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸* RAI SPORTS *FHD
@@ -5781,6 +5789,10 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1912970794524610560/M1vEMVlm_200x200.jpg" tvg-name="Stadium USA" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Stadium USA EN
+https://2d006483e2aa43fe812f7b464cb2916d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Stadium/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ITSF.tablesoccer/picture?width=200&height=200" tvg-name="Int. Table Soccer Federation" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Int. Table Soccer Federation
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7333
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ SEC Network (sd)
 https://tvpass.org/live/SECN/sd
@@ -7622,23 +7634,23 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/54369.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/54369
 
 
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* Tigo Sports TV El Salvador (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* Tigo Sports TV El Salvador (720p) [Geo-blocked]
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
-#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇾* Tigo Sports TV El Salvador (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TigoSports.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* Tigo Sports TV El Salvador (720p) [Geo-blocked]
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index.m3u8
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 2 | Entel Gol *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 2 | Bolivision *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 2 | Entel Gol *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 2 | Bolivision *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 2 | Entel Gol *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 2 | Bolivision *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS PARAGUAY | Entel Gol *FHD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS PARAGUAY | Bolivision *FHD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS PARAGUAY | Entel Gol *FHD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS PARAGUAY | Bolivision *FHD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS PARAGUAY | Entel Gol *FHD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS PARAGUAY | Bolivision *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS COSTA RICA *HD
@@ -7655,11 +7667,11 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS EL SALVADOR *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS GUATEMALA *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* FOX | TIGO SPORTS GUATEMALA *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS GUATEMALA *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* FOX | TIGO SPORTS GUATEMALA *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS GUATEMALA *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* FOX | TIGO SPORTS GUATEMALA *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS HONDURAS *HD
@@ -7677,11 +7689,11 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS COSTA RICA *HD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 1 *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* FOX | TIGO SPORTS 1 *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 1 *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* FOX | TIGO SPORTS 1 *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* TIGO SPORTS 1 *HD
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸* FOX | TIGO SPORTS 1 *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820
 
 
@@ -8950,17 +8962,35 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽FIFA🌐World Cup 2026™⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv   📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ CDN Deportes | Sports (720p)
+
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Estrella TV (1080)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇸🇻☑ Canal 12 (220p)
+https://alba-sv-c12-c12.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ CDN Deportes DO | Sports (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ CDN Deportes | Sports (720p)
+#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ CDN Deportes DO | Sports (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ Antena 7 (480p) [Not 24/7] [Geo-blocked] 
+#EXTINF:-1 tvg-id="Antena7.do" tvg-logo="https://i.imgur.com/zKWFgeQ.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ Antena 7 DO (480p) [Not 24/7] [Geo-blocked] 
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ Antena 21 | News (480p) [Not 24/7] [Geo-blocked] 
+#EXTINF:-1 tvg-id="Antena21.do" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇩🇴☑ Antena 21 DO | News (480p) [Not 24/7] [Geo-blocked] 
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-id="Canal11.cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/512px-Repretel_11_logo.png" group-title="⚽FIFA🌐World Cup 2026™⚽",Canal 11 CR (720p) [Geo-blocked]
+https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal2.cr" tvg-logo="https://i.imgur.com/Nn8BtH5.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇷☑ Canal 2 REPRETEL CR
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr" tvg-logo="https://i.imgur.com/nfKJftW.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇷☑ Canal 6 REPRETEL CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal4.cr" tvg-logo="https://i.imgur.com/5arZEgO.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇷☑ Canal 4 REPRETEL CR
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇭🇳☑ Canal 11 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal11.hn" tvg-logo="https://i.imgur.com/Sht2Rd4.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇭🇳☑ Canal 11 HN (1080p) [Not 24/7]
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CHTV.hn@SD" tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇭🇳☑ CHTV HN | Doc
 https://viewhn.com/chtv/live/playlist.m3u8
@@ -8969,10 +8999,6 @@ https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="CampusTV.hn" tvg-logo="https://i.imgur.com/E1TmADM.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇭🇳☑ Campus TV HN
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Estrella TV (1080)
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8
 
 
 
