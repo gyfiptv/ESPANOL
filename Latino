@@ -8561,20 +8561,22 @@ http://190.11.225.124:5000/live/telemundo_sd/playlist.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸ᵛᶦᵖ NBC UNIVERSO sd
-http://190.11.225.124:5000/live/universo_sd/playlist.m3u8
+http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸ᵛᶦᵖ NBC UNIVERSO hd
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Univision Eastern (sd)
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Univision Eastern (hd)
+https://tvpass.org/live/UnivisionEast/hd
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Telemundo Eastern (sd)
 https://tvpass.org/live/TelemundoEast/sd
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Telemundo Eastern (hd)
 https://tvpass.org/live/TelemundoEast/hd
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Univision Eastern (sd)
-https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸☑ Univision Eastern (hd)
-https://tvpass.org/live/UnivisionEast/hd
 
 
 #EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇵🇷☑ TELEMUNDO PR | WKAQ-DT1 (1080p)
@@ -9281,11 +9283,11 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1110
 
 
 
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL (opt1)
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/260.ts
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL (opt2)
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/260.m3u8
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL (opt3)
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
 http://disfruta.net:80/fpavas/raZFGMA7GT/260
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
@@ -9303,11 +9305,11 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/263.m3u8
 http://disfruta.net:80/fpavas/raZFGMA7GT/263
 
 
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL (opt1)
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
 http://xsport1.me/live/fpavas/raZFGMA7GT/260.ts
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL (opt2)
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
 http://xsport1.me/live/fpavas/raZFGMA7GT/260.m3u8
-#EXTINF:-1 group-title="🇨🇴COLOMBIA",🇨🇴ᵀᵛ¹ CARACOL (opt3)
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
 http://xsport1.me/fpavas/raZFGMA7GT/260
 
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
