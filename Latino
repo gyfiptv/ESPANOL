@@ -7880,6 +7880,29 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ AZTECA 7 MX (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ AZTECA 7 MX (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/azteca.7.mx.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ AZTECA 7 MX (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.7.mx.m3u8
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ Teleamazonas EC ʜᴅ (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ Teleamazonas EC ʜᴅ (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleamazonas.lat.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ Teleamazonas EC ʜᴅ (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+
+
+
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt2)
@@ -9312,6 +9335,13 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/40017
 
 
 
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* TyC SPORTS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17274.ts
@@ -9443,11 +9473,12 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/482
 
 
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt1) 
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/telefe.ar.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m3u8
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+
 
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE AR (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7630.m3u8
@@ -9951,7 +9982,7 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/95205
 
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ Teleamazonas EC ʜᴅ (opt1) 
-https://tvnow.best/api/stream/svidal24@gmail.com/210586/livetv.epg/teleamazonas.lat.m3u8
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/teleamazonas.lat.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ Teleamazonas EC ʜᴅ (opt2)
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/teleamazonas.lat.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ Teleamazonas EC ʜᴅ (opt3)
