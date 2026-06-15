@@ -7879,6 +7879,12 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="⚽FIFA🌐World Cup 2026™⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv   📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ LA 1 RTVE ES ʜᴅ (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ LA 1 RTVE ES ʜᴅ (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ LA 1 RTVE ES ʜᴅ (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/la.1.es.m3u8
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ AZTECA 7 MX (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/azteca.7.mx.m3u8
@@ -8070,6 +8076,13 @@ http://disfruta.net:80/live/fpavas/raZFGMA7GT/1680.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸ᵀᵛ² DAZN LALIGA ᴴᴰ (03)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1680
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸ᵀᵛ¹ DAZN LALIGA ᴴᴰ (01)
+http://xsport1.me/live/fpavas/raZFGMA7GT/1680.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸ᵀᵛ¹ DAZN LALIGA ᴴᴰ (02)
+http://xsport1.me/live/fpavas/raZFGMA7GT/1680.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸ᵀᵛ² DAZN LALIGA ᴴᴰ (03)
+http://xsport1.me/live/fpavas/raZFGMA7GT/1680
+
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★ DAZNᵁᴴᴰ | LALIGA "TV (opt1) FIFA
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7806.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★ DAZNᵁᴴᴰ | LALIGA "TV (opt2) FIFA
@@ -8084,7 +8097,12 @@ http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7806.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★ DAZNᵁᴴᴰ | LALIGA "TV (opt6) FIFA
 http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7806
 
-
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ LA 1 RTVE ES ʜᴅ (opt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ LA 1 RTVE ES ʜᴅ (opt2)
+https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/la.1.es.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸⚽ LA 1 RTVE ES ʜᴅ (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/la.1.es.m3u8
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★7815 D SPORTS | DIRECTV (opt1)
 http://alfa.7057460.xyz:2095/live/Rubenluna/Rubenluna23/7815.m3u8
