@@ -7907,6 +7907,20 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7630.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7630.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7630
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt4)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7630.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt5)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7630.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7630
+
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇺🇸⚽ FOX (KTVU) San Francisco CA | NFL 49ers (opt1)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/fox.ktvu.san.francisco.ca.us.m3u8
@@ -9235,6 +9249,67 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1804
 
 
 
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/260.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/260.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/260
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/260.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
+http://xsport1.me/live/fpavas/raZFGMA7GT/260.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
+http://xsport1.me/fpavas/raZFGMA7GT/260
+
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/262.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/262.ts
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/262
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt1)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/263.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt2)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/263.ts
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt3)
+http://disfruta.net:80/fpavas/raZFGMA7GT/263
+
+
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/262.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
+http://xsport1.me/live/fpavas/raZFGMA7GT/262.ts
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
+http://xsport1.me/fpavas/raZFGMA7GT/262
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt1)
+http://xsport1.me/live/fpavas/raZFGMA7GT/263.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt2)
+http://xsport1.me/live/fpavas/raZFGMA7GT/263.ts
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt3)
+http://xsport1.me/fpavas/raZFGMA7GT/263
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL *FHD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL *FHD
+http://xsport1.me/live/fpavas/raZFGMA7GT/de2aff8c-e8a8-4a3f-a171-02415f9c73cd.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/30fa6e5b-1394-4cd1-8c88-07e034d1d1ae.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL INTERNACIONAL *HD" tvg-logo="https://i.ibb.co/HGK2SYm/Caracol-Internacional2019.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL INTERNACIONAL *HD
+http://xsport1.me/live/fpavas/raZFGMA7GT/997d1d2f-cf27-43fd-84ee-b28691c1a8e3.m3u
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL SD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL SD
+http://xsport1.me/live/fpavas/raZFGMA7GT/d9e9079d-bf39-4f32-b11d-f5a56c78fdf0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL [HD2]" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL [HD2]
+http://xsport1.me/live/fpavas/raZFGMA7GT/559b2ef9-4e9e-4960-858c-d02bf6d1715e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL [HD3]" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL [HD3]
+http://xsport1.me/live/fpavas/raZFGMA7GT/26dc4711-fcf9-4150-bf58-5b6d8c09b03d.m3u
+
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴★ CARACOL (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7643.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴★ CARACOL (opt2)
@@ -9286,63 +9361,7 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1110
 
 
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/260.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/260.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
-http://disfruta.net:80/fpavas/raZFGMA7GT/260
 
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/262.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/262.ts
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
-http://disfruta.net:80/fpavas/raZFGMA7GT/262
-
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt1)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/263.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt2)
-http://disfruta.net:80/live/fpavas/raZFGMA7GT/263.ts
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt3)
-http://disfruta.net:80/fpavas/raZFGMA7GT/263
-
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/260.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
-http://xsport1.me/live/fpavas/raZFGMA7GT/260.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
-http://xsport1.me/fpavas/raZFGMA7GT/260
-
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/262.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt2)
-http://xsport1.me/live/fpavas/raZFGMA7GT/262.ts
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL (opt3)
-http://xsport1.me/fpavas/raZFGMA7GT/262
-
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt1)
-http://xsport1.me/live/fpavas/raZFGMA7GT/263.m3u8
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt2)
-http://xsport1.me/live/fpavas/raZFGMA7GT/263.ts
-#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ CARACOL INTERNACIONAL (opt3)
-http://xsport1.me/fpavas/raZFGMA7GT/263
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL *FHD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL *FHD
-http://xsport1.me/live/fpavas/raZFGMA7GT/de2aff8c-e8a8-4a3f-a171-02415f9c73cd.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL HD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/30fa6e5b-1394-4cd1-8c88-07e034d1d1ae.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL INTERNACIONAL *HD" tvg-logo="https://i.ibb.co/HGK2SYm/Caracol-Internacional2019.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL INTERNACIONAL *HD
-http://xsport1.me/live/fpavas/raZFGMA7GT/997d1d2f-cf27-43fd-84ee-b28691c1a8e3.m3u
-#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CO | CARACOL SD" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL SD
-http://xsport1.me/live/fpavas/raZFGMA7GT/d9e9079d-bf39-4f32-b11d-f5a56c78fdf0.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL [HD2]" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL [HD2]
-http://xsport1.me/live/fpavas/raZFGMA7GT/559b2ef9-4e9e-4960-858c-d02bf6d1715e.m3u
-#EXTINF:-1 tvg-id="" tvg-name="CO | CARACOL [HD3]" tvg-logo="https://i.ibb.co/Qp5Jv6t/Caracol-Televisi-n-logo-2023.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 CARACOL [HD3]
-http://xsport1.me/live/fpavas/raZFGMA7GT/26dc4711-fcf9-4150-bf58-5b6d8c09b03d.m3u
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴★ RCN ᵛᶦᵖ (opt1)
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7647.m3u8
@@ -9397,21 +9416,6 @@ http://mains.best:2086/3003556325/2772007/66589
 
 
 
-#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HQ (01)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1120.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HQ (01)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1120.ts
-#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HQ (01)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1120
-
-#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HD (01)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1122.m3u8
-#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HD (01)
-http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1122.ts
-#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HD (01)
-http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1122
-
-
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ RCN (01)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/267.ts
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴ᵀᵛ¹ RCN (02)
@@ -9461,6 +9465,21 @@ http://xsport1.me/live/fpavas/raZFGMA7GT/1a26a8df-59aa-4e48-b997-3799b67695a6.ts
 #EXTINF:-1 tvg-id="" tvg-name="CO | RCN [HD2]" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0012/7104/brand.gif?itok=a-dvuqrh" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴 RCN [HD2] (02)
 http://xsport1.me/live/fpavas/raZFGMA7GT/1a26a8df-59aa-4e48-b997-3799b67695a6.m3u
 
+#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HQ (01)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1120.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HQ (01)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1120.ts
+#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HQ (01)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1120
+
+#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HD (01)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1122.m3u8
+#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HD (01)
+http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/1122.ts
+#EXTINF:-1 tvg-id="" group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇴* RCN *HD (01)
+http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/1122
+
+
 
 
 
@@ -9486,6 +9505,22 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m
 https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m3u8
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7630.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7630.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7630
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt4)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7630.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt5)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7630.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7630
+
+
 
 
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* TyC SPORTS *HQ
@@ -9542,34 +9577,8 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1864.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1864
 
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7628.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7628.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7628
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7628.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7628.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt6)
-http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7628
 
 
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt1)
-http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7630.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7630.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt3)
-http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7630
-
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt4)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7630.m3u8
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt5)
-http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7630.ts
-#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TELEFE ᵛᶦᵖ (opt6)
-http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7630
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hYYpiu.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷★ TV PUBLICA ᵛᶦᵖ (opt1)
@@ -9642,12 +9651,12 @@ http://mains.services:2086/4523074511/3178768/66598
 http://mains.best:2086/3003556325/2772007/66598
 
 
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28416.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28416.ts
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28416
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82475.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82475.ts
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82475
 
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/486.m3u8
@@ -9655,13 +9664,6 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/486.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/486.ts
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/486
-
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82475.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82475.ts
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82475
 
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HD | op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/484.m3u8
@@ -9677,35 +9679,23 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/485.ts
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/485
 
+
+
+
+
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28416.m3u8
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/28416.ts
+#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/28416
+
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *FHD | op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82476.m3u8
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *FHD | op2
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82476.ts
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE *FHD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82476
-
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82480.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *HQ
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82480.ts
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *HQ
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82480
-
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82481.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *HD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82481.ts
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82481
-
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82482.m3u8
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *FHD
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/82482.ts
-#EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷* AR | TELEFE CORDOBA *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/82482
-
-
 
 
 
@@ -9981,6 +9971,19 @@ http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/22
 #EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="⚽FIFA🌐World Cup 2026™⚽",🇧🇴☑ Bolivisión BO (opt1)
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇱★ LA RED ᵛᶦᵖ (opt1)
+http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7628.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇱★ LA RED ᵛᶦᵖ (opt2)
+http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7628.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇱★ LA RED ᵛᶦᵖ (opt3)
+http://alfa.7057460.xyz:2095/Rubenluna/Rubenluna23/7628
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇱★ LA RED ᵛᶦᵖ (opt4)
+http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7628.m3u8
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇱★ LA RED ᵛᶦᵖ (opt5)
+http://alfa.7057460.xyz:2095/live/WIFIELITE/Elite2024/7628.ts
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇨🇱★ LA RED ᵛᶦᵖ (opt6)
+http://alfa.7057460.xyz:2095/Redtv80229/asd12345/7628
 
 
 
