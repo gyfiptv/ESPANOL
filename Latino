@@ -3967,6 +3967,16 @@ https://tvnow.best/api/stream/davisp3158@gmail.com/378829/livetv.epg/telefe.ar.m
 #EXTINF:-1 tvg-name="Telefe Ⓨ" tvg-logo="https://i.imgur.com/wrZfMXn.png" tvg-id="Telefe.ar" group-title="⚽FIFA🌐World Cup 2026™⚽",🇦🇷⚽ TELEFE AR (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/telefe.ar.m3u8
 
+
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸a0sa ESPN Disney+
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸a0sd ESPN vivo
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+#EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸a0qi RCN
+http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
+
+
+
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★ DAZNᵁᴴᴰ | LALIGA "TV (opt1) FIFA
 http://alfa.7057460.xyz:2095/live/emiliolore/0952rana/7806.m3u8
 #EXTINF:-1 group-title="⚽FIFA🌐World Cup 2026™⚽",🇪🇸★ DAZNᵁᴴᴰ | LALIGA "TV (opt2) FIFA
