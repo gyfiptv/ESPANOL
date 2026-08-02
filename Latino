@@ -15033,93 +15033,240 @@ http://pfsv.io:80/live/6181288/27664/303988.ts
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",Apple TV 04 [HD]
 http://pfsv.io:80/6181288/27664/303988
 
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt1)
+http://mains.services:2086/live/640939802963/IDC01478!/1673.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt2)
+http://mains.services:2086/live/507Vej3h3S/4632273/1673.ts
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt3)
+http://mains.best:2086/live/3003556325/2772007/1673.m3u
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt3)
+http://mains.best:2086/3003556325/2772007/1673
 
 
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
 http://mains.services/live/640939802963/IDC01478!/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u8
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt2)
-http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
-#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt3)
-http://mains.best:2086/live/3003556325/2772007/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
-#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt4)
 http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt3)
+http://mains.best:2086/live/3003556325/2772007/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
 
 #EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="MLS Atlanta United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ATLANTA UNITED (opt1)
-http://mains.services/live/507Vej3h3S/4632273/dab81e58-f35d-473e-96a6-9a0079343cc2.m3u8
+http://mains.services/live/640939802963/IDC01478!/dab81e58-f35d-473e-96a6-9a0079343cc2.m3u8
+#EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="MLS Atlanta United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ATLANTA UNITED (opt1)
+http://mains.services/live/507Vej3h3S/4632273/dab81e58-f35d-473e-96a6-9a0079343cc2.ts
+#EXTINF:-1 tvg-id="AtlantaUnited.mls" tvg-name="MLS Atlanta United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ATLANTA UNITED (opt1)
+http://mains.best:2086/live/3003556325/2772007/dab81e58-f35d-473e-96a6-9a0079343cc2.m3u
+
 #EXTINF:-1 tvg-id="AustinFC.mls" tvg-name="MLS Austin FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : AUSTIN FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/a6df75c8-6393-4ab5-8564-594e4631c52a.m3u8
+http://mains.services/live/640939802963/IDC01478!/a6df75c8-6393-4ab5-8564-594e4631c52a.m3u8
+#EXTINF:-1 tvg-id="AustinFC.mls" tvg-name="MLS Austin FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : AUSTIN FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/a6df75c8-6393-4ab5-8564-594e4631c52a.ts
+#EXTINF:-1 tvg-id="AustinFC.mls" tvg-name="MLS Austin FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : AUSTIN FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/a6df75c8-6393-4ab5-8564-594e4631c52a.m3u
+
 #EXTINF:-1 tvg-id="CFMontreal.mls" tvg-name="MLS CF Montreal USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CF MONTREAL (opt1)
-http://mains.services/live/507Vej3h3S/4632273/f76fa2fd-7dce-4af4-bd10-51df532dd579.m3u8
+http://mains.services/live/640939802963/IDC01478!/f76fa2fd-7dce-4af4-bd10-51df532dd579.m3u8
+#EXTINF:-1 tvg-id="CFMontreal.mls" tvg-name="MLS CF Montreal USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CF MONTREAL (opt1)
+http://mains.services/live/507Vej3h3S/4632273/f76fa2fd-7dce-4af4-bd10-51df532dd579.ts
+#EXTINF:-1 tvg-id="CFMontreal.mls" tvg-name="MLS CF Montreal USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CF MONTREAL (opt1)
+http://mains.best:2086/live/3003556325/2772007/f76fa2fd-7dce-4af4-bd10-51df532dd579.m3u
+
 #EXTINF:-1 tvg-id="CharlotteFC.mls" tvg-name="MLS Charlotte FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHARLOTTE FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/80011e33-5a3a-4f7c-a9d2-1adf6f374134.m3u8
+http://mains.services/live/640939802963/IDC01478!/80011e33-5a3a-4f7c-a9d2-1adf6f374134.m3u8
+#EXTINF:-1 tvg-id="CharlotteFC.mls" tvg-name="MLS Charlotte FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHARLOTTE FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/80011e33-5a3a-4f7c-a9d2-1adf6f374134.ts
+#EXTINF:-1 tvg-id="CharlotteFC.mls" tvg-name="MLS Charlotte FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHARLOTTE FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/80011e33-5a3a-4f7c-a9d2-1adf6f374134.m3u
+
 #EXTINF:-1 tvg-id="ChicagoFireFC.mls" tvg-name="MLS Chicago Fire FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHICAGO FIRE FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/7dc87659-21d5-4044-8b37-1fcbb784c1d2.m3u8
+http://mains.services/live/640939802963/IDC01478!/7dc87659-21d5-4044-8b37-1fcbb784c1d2.m3u8
+#EXTINF:-1 tvg-id="ChicagoFireFC.mls" tvg-name="MLS Chicago Fire FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHICAGO FIRE FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/7dc87659-21d5-4044-8b37-1fcbb784c1d2.ts
+#EXTINF:-1 tvg-id="ChicagoFireFC.mls" tvg-name="MLS Chicago Fire FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : CHICAGO FIRE FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/7dc87659-21d5-4044-8b37-1fcbb784c1d2.m3u
+
 #EXTINF:-1 tvg-id="ColoradoRapids.mls" tvg-name="MLS Colorado Rapids USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLORADO RAPIDS (opt1)
-http://mains.services/live/507Vej3h3S/4632273/8a4e2517-278d-4bba-999e-fc1d5b427ddc.m3u8
+http://mains.services/live/640939802963/IDC01478!/8a4e2517-278d-4bba-999e-fc1d5b427ddc.m3u8
+#EXTINF:-1 tvg-id="ColoradoRapids.mls" tvg-name="MLS Colorado Rapids USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLORADO RAPIDS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/8a4e2517-278d-4bba-999e-fc1d5b427ddc.ts
+#EXTINF:-1 tvg-id="ColoradoRapids.mls" tvg-name="MLS Colorado Rapids USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLORADO RAPIDS (opt1)
+http://mains.best:2086/live/3003556325/2772007/8a4e2517-278d-4bba-999e-fc1d5b427ddc.m3u
+
 #EXTINF:-1 tvg-id="ColumbusCrew.mls" tvg-name="MLS Columbus Crew USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLUMBUS CREW (opt1)
-http://mains.services/live/507Vej3h3S/4632273/bddee2a6-deac-4d3a-a895-8f7d318b681f.m3u8
+http://mains.services/live/640939802963/IDC01478!/bddee2a6-deac-4d3a-a895-8f7d318b681f.m3u8
+#EXTINF:-1 tvg-id="ColumbusCrew.mls" tvg-name="MLS Columbus Crew USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLUMBUS CREW (opt1)
+http://mains.services/live/507Vej3h3S/4632273/bddee2a6-deac-4d3a-a895-8f7d318b681f.ts
+#EXTINF:-1 tvg-id="ColumbusCrew.mls" tvg-name="MLS Columbus Crew USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : COLUMBUS CREW (opt1)
+http://mains.best:2086/live/3003556325/2772007/bddee2a6-deac-4d3a-a895-8f7d318b681f.m3u
+
 #EXTINF:-1 tvg-id="DCUnited.mls" tvg-name="MLS D.C United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : D.C. UNITED (opt1)
-http://mains.services/live/507Vej3h3S/4632273/2f6536e8-b8a6-4576-a922-e50ae801dc0e.m3u8
+http://mains.services/live/640939802963/IDC01478!/2f6536e8-b8a6-4576-a922-e50ae801dc0e.m3u8
+#EXTINF:-1 tvg-id="DCUnited.mls" tvg-name="MLS D.C United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : D.C. UNITED (opt1)
+http://mains.services/live/507Vej3h3S/4632273/2f6536e8-b8a6-4576-a922-e50ae801dc0e.ts
+#EXTINF:-1 tvg-id="DCUnited.mls" tvg-name="MLS D.C United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : D.C. UNITED (opt1)
+http://mains.best:2086/live/3003556325/2772007/2f6536e8-b8a6-4576-a922-e50ae801dc0e.m3u
+
 #EXTINF:-1 tvg-id="FCCincinnati.mls" tvg-name="MLS FC Cincinnati USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC CINCINNATI (opt1)
-http://mains.services/live/507Vej3h3S/4632273/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.m3u8
+http://mains.services/live/640939802963/IDC01478!/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.m3u8
+#EXTINF:-1 tvg-id="FCCincinnati.mls" tvg-name="MLS FC Cincinnati USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC CINCINNATI (opt1)
+http://mains.services/live/507Vej3h3S/4632273/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.ts
+#EXTINF:-1 tvg-id="FCCincinnati.mls" tvg-name="MLS FC Cincinnati USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC CINCINNATI (opt1)
+http://mains.best:2086/live/3003556325/2772007/2a48bd4a-620b-4c93-a371-7ee2b0f74ada.m3u
+
 #EXTINF:-1 tvg-id="FCDallas.mls" tvg-name="MLS FC Dallas USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC DALLAS (opt1)
-http://mains.services/live/507Vej3h3S/4632273/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.m3u8
+http://mains.services/live/640939802963/IDC01478!/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.m3u8
+#EXTINF:-1 tvg-id="FCDallas.mls" tvg-name="MLS FC Dallas USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC DALLAS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.ts
+#EXTINF:-1 tvg-id="FCDallas.mls" tvg-name="MLS FC Dallas USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : FC DALLAS (opt1)
+http://mains.best:2086/live/3003556325/2772007/b9c0b09e-b96f-4d13-bf8f-0ed799f27414.m3u
+
 #EXTINF:-1 tvg-id="HoustonDynamoFC.mls" tvg-name="MLS Houston Dynamo FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : HOUSTON DYNAMO (opt1)
-http://mains.services/live/507Vej3h3S/4632273/94cdfecc-a16d-483f-921d-746d9275a8c3.m3u8
+http://mains.services/live/640939802963/IDC01478!/94cdfecc-a16d-483f-921d-746d9275a8c3.m3u8
+#EXTINF:-1 tvg-id="HoustonDynamoFC.mls" tvg-name="MLS Houston Dynamo FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : HOUSTON DYNAMO (opt1)
+http://mains.services/live/507Vej3h3S/4632273/94cdfecc-a16d-483f-921d-746d9275a8c3.ts
+#EXTINF:-1 tvg-id="HoustonDynamoFC.mls" tvg-name="MLS Houston Dynamo FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : HOUSTON DYNAMO (opt1)
+http://mains.best:2086/live/3003556325/2772007/94cdfecc-a16d-483f-921d-746d9275a8c3.m3u
+
 #EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
-http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u8
+http://mains.services/live/640939802963/IDC01478!/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u8
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
+http://mains.services/live/507Vej3h3S/4632273/538f254a-b3e6-405e-beb9-748b2719fd4b.ts
+#EXTINF:-1 tvg-id="InterMiamiCF.mls" tvg-name="MLS Inter Miami USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : INTER MIAMI CF (opt1)
+http://mains.best:2086/live/3003556325/2772007/538f254a-b3e6-405e-beb9-748b2719fd4b.m3u
+
 #EXTINF:-1 tvg-id="LAGalaxy.mls" tvg-name="MLS LA Galaxy USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LA GALAXY (opt1)
-http://mains.services/live/507Vej3h3S/4632273/d786184e-f143-4769-b143-e724ce5ebe5f.m3u8
+http://mains.services/live/640939802963/IDC01478!/d786184e-f143-4769-b143-e724ce5ebe5f.m3u8
+#EXTINF:-1 tvg-id="LAGalaxy.mls" tvg-name="MLS LA Galaxy USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LA GALAXY (opt1)
+http://mains.services/live/507Vej3h3S/4632273/d786184e-f143-4769-b143-e724ce5ebe5f.ts
+#EXTINF:-1 tvg-id="LAGalaxy.mls" tvg-name="MLS LA Galaxy USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LA GALAXY (opt1)
+http://mains.best:2086/live/3003556325/2772007/d786184e-f143-4769-b143-e724ce5ebe5f.m3u
+
 #EXTINF:-1 tvg-id="LosAngelesFootballClub.mls" tvg-name="MLS Los Angeles Football Club" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LOS ANGELES FOOTBALL CLUB (opt1)
-http://mains.services/live/507Vej3h3S/4632273/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.m3u8
+http://mains.services/live/640939802963/IDC01478!/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.m3u8
+#EXTINF:-1 tvg-id="LosAngelesFootballClub.mls" tvg-name="MLS Los Angeles Football Club" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LOS ANGELES FOOTBALL CLUB (opt1)
+http://mains.services/live/507Vej3h3S/4632273/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.ts
+#EXTINF:-1 tvg-id="LosAngelesFootballClub.mls" tvg-name="MLS Los Angeles Football Club" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : LOS ANGELES FOOTBALL CLUB (opt1)
+http://mains.best:2086/live/3003556325/2772007/dbc47b9c-9fd3-4465-888a-b7dcb2d5328c.m3u
+
 #EXTINF:-1 tvg-id="MinnesotaUnited.mls" tvg-name="MLS Minnesota United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : MINNESOTA UNITED (opt1)
-http://mains.services/live/507Vej3h3S/4632273/47cf7383-8171-41dc-b337-955fe1518b73.m3u8
+http://mains.services/live/640939802963/IDC01478!/47cf7383-8171-41dc-b337-955fe1518b73.m3u8
+#EXTINF:-1 tvg-id="MinnesotaUnited.mls" tvg-name="MLS Minnesota United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : MINNESOTA UNITED (opt1)
+http://mains.services/live/507Vej3h3S/4632273/47cf7383-8171-41dc-b337-955fe1518b73.ts
+#EXTINF:-1 tvg-id="MinnesotaUnited.mls" tvg-name="MLS Minnesota United USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : MINNESOTA UNITED (opt1)
+http://mains.best:2086/live/3003556325/2772007/47cf7383-8171-41dc-b337-955fe1518b73.m3u
+
 #EXTINF:-1 tvg-id="NashvilleSC.mls" tvg-name="MLS Nashville SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NASHVILLE SC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/7abebf80-8eca-4492-a3ec-a3b244857fe2.m3u8
+http://mains.services/live/640939802963/IDC01478!/7abebf80-8eca-4492-a3ec-a3b244857fe2.m3u8
+#EXTINF:-1 tvg-id="NashvilleSC.mls" tvg-name="MLS Nashville SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NASHVILLE SC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/7abebf80-8eca-4492-a3ec-a3b244857fe2.ts
+#EXTINF:-1 tvg-id="NashvilleSC.mls" tvg-name="MLS Nashville SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NASHVILLE SC (opt1)
+http://mains.best:2086/live/3003556325/2772007/7abebf80-8eca-4492-a3ec-a3b244857fe2.m3u
+
 #EXTINF:-1 tvg-id="NewEnglandRevolution.mls" tvg-name="MLS New England Revolution USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW ENGLAND REVOLUTION (opt1)
-http://mains.services/live/507Vej3h3S/4632273/b958ff85-40c8-460b-8673-cfcc608ae400.m3u8
+http://mains.services/live/640939802963/IDC01478!/b958ff85-40c8-460b-8673-cfcc608ae400.m3u8
+#EXTINF:-1 tvg-id="NewEnglandRevolution.mls" tvg-name="MLS New England Revolution USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW ENGLAND REVOLUTION (opt1)
+http://mains.services/live/507Vej3h3S/4632273/b958ff85-40c8-460b-8673-cfcc608ae400.ts
+#EXTINF:-1 tvg-id="NewEnglandRevolution.mls" tvg-name="MLS New England Revolution USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW ENGLAND REVOLUTION (opt1)
+http://mains.best:2086/live/3003556325/2772007/b958ff85-40c8-460b-8673-cfcc608ae400.m3u
+
 #EXTINF:-1 tvg-id="NewYorkCityFC.mls" tvg-name="MLS New York City Football Club USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK CITY FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/ebf05fe9-d610-4159-867b-62de63081dc4.m3u8
+http://mains.services/live/640939802963/IDC01478!/ebf05fe9-d610-4159-867b-62de63081dc4.m3u8
+#EXTINF:-1 tvg-id="NewYorkCityFC.mls" tvg-name="MLS New York City Football Club USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK CITY FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/ebf05fe9-d610-4159-867b-62de63081dc4.ts
+#EXTINF:-1 tvg-id="NewYorkCityFC.mls" tvg-name="MLS New York City Football Club USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK CITY FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/ebf05fe9-d610-4159-867b-62de63081dc4.m3u
+
 #EXTINF:-1 tvg-id="NewYorkRedBulls.mls" tvg-name="MLS New York Red Bulls USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK RED BULLS (opt1)
-http://mains.services/live/507Vej3h3S/4632273/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.m3u8
+http://mains.services/live/640939802963/IDC01478!/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.m3u8
+#EXTINF:-1 tvg-id="NewYorkRedBulls.mls" tvg-name="MLS New York Red Bulls USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK RED BULLS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.ts
+#EXTINF:-1 tvg-id="NewYorkRedBulls.mls" tvg-name="MLS New York Red Bulls USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : NEW YORK RED BULLS (opt1)
+http://mains.best:2086/live/3003556325/2772007/3b49ba26-4f0d-49c1-8525-0e740d83ee4d.m3u
+
 #EXTINF:-1 tvg-id="OrlandoCity.mls" tvg-name="MLS Orlando City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ORLANDO CITY (opt1)
-http://mains.services/live/507Vej3h3S/4632273/16f08309-9805-4d90-b26d-205684941eea.m3u8
+http://mains.services/live/640939802963/IDC01478!/16f08309-9805-4d90-b26d-205684941eea.m3u8
+#EXTINF:-1 tvg-id="OrlandoCity.mls" tvg-name="MLS Orlando City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ORLANDO CITY (opt1)
+http://mains.services/live/507Vej3h3S/4632273/16f08309-9805-4d90-b26d-205684941eea.ts
+#EXTINF:-1 tvg-id="OrlandoCity.mls" tvg-name="MLS Orlando City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ORLANDO CITY (opt1)
+http://mains.best:2086/live/3003556325/2772007/16f08309-9805-4d90-b26d-205684941eea.m3u
+
 #EXTINF:-1 tvg-id="PhiladelphiaUnion.mls" tvg-name="MLS Philadelphia Union USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PHILADELPHIA UNION (opt1)
-http://mains.services/live/507Vej3h3S/4632273/5f97d581-4872-4d4a-9788-b2b56dd5c49b.m3u8
+http://mains.services/live/640939802963/IDC01478!/5f97d581-4872-4d4a-9788-b2b56dd5c49b.m3u8
+#EXTINF:-1 tvg-id="PhiladelphiaUnion.mls" tvg-name="MLS Philadelphia Union USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PHILADELPHIA UNION (opt1)
+http://mains.services/live/507Vej3h3S/4632273/5f97d581-4872-4d4a-9788-b2b56dd5c49b.ts
+#EXTINF:-1 tvg-id="PhiladelphiaUnion.mls" tvg-name="MLS Philadelphia Union USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PHILADELPHIA UNION (opt1)
+http://mains.best:2086/live/3003556325/2772007/5f97d581-4872-4d4a-9788-b2b56dd5c49b.m3u
+
 #EXTINF:-1 tvg-id="PortlandTimbers.mls" tvg-name="MLS Portland Timbers USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PORTLAND TIMBERS (opt1)
-http://mains.services/live/507Vej3h3S/4632273/1b41217d-03a9-473e-afb0-7b7604a36324.m3u8
+http://mains.services/live/640939802963/IDC01478!/1b41217d-03a9-473e-afb0-7b7604a36324.m3u8
+#EXTINF:-1 tvg-id="PortlandTimbers.mls" tvg-name="MLS Portland Timbers USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PORTLAND TIMBERS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/1b41217d-03a9-473e-afb0-7b7604a36324.ts
+#EXTINF:-1 tvg-id="PortlandTimbers.mls" tvg-name="MLS Portland Timbers USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : PORTLAND TIMBERS (opt1)
+http://mains.best:2086/live/3003556325/2772007/1b41217d-03a9-473e-afb0-7b7604a36324.m3u
+
 #EXTINF:-1 tvg-id="RealSaltLake.mls" tvg-name="MLS Real Salt Lake" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : REAL SALT LAKE (opt1)
-http://mains.services/live/507Vej3h3S/4632273/e365e3f2-efaa-40bf-a233-0eccec1ffa48.m3u8
+http://mains.services/live/640939802963/IDC01478!/e365e3f2-efaa-40bf-a233-0eccec1ffa48.m3u8
+#EXTINF:-1 tvg-id="RealSaltLake.mls" tvg-name="MLS Real Salt Lake" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : REAL SALT LAKE (opt1)
+http://mains.services/live/507Vej3h3S/4632273/e365e3f2-efaa-40bf-a233-0eccec1ffa48.ts
+#EXTINF:-1 tvg-id="RealSaltLake.mls" tvg-name="MLS Real Salt Lake" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : REAL SALT LAKE (opt1)
+http://mains.best:2086/live/3003556325/2772007/e365e3f2-efaa-40bf-a233-0eccec1ffa48.m3u
+
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN DIEGO FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/953a2f3c-9d29-4629-ad52-c377fcb2f850.m3u8
+http://mains.services/live/640939802963/IDC01478!/953a2f3c-9d29-4629-ad52-c377fcb2f850.m3u8
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN DIEGO FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/953a2f3c-9d29-4629-ad52-c377fcb2f850.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN DIEGO FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/953a2f3c-9d29-4629-ad52-c377fcb2f850.m3u
+
 #EXTINF:-1 tvg-id="SanJoseEarthquakes.mls" tvg-name="MLS San Jose Earthquakes USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN JOSE EARTHQUAKES (opt1)
-http://mains.services/live/507Vej3h3S/4632273/caffdae3-2070-4cb6-9ef1-5125558269fd.m3u8
+http://mains.services/live/640939802963/IDC01478!/caffdae3-2070-4cb6-9ef1-5125558269fd.m3u8
+#EXTINF:-1 tvg-id="SanJoseEarthquakes.mls" tvg-name="MLS San Jose Earthquakes USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN JOSE EARTHQUAKES (opt1)
+http://mains.services/live/507Vej3h3S/4632273/caffdae3-2070-4cb6-9ef1-5125558269fd.ts
+#EXTINF:-1 tvg-id="SanJoseEarthquakes.mls" tvg-name="MLS San Jose Earthquakes USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SAN JOSE EARTHQUAKES (opt1)
+http://mains.best:2086/live/3003556325/2772007/caffdae3-2070-4cb6-9ef1-5125558269fd.m3u
+
 #EXTINF:-1 tvg-id="SeattleSoundersFC.mls" tvg-name="MLS Seattle Sounders FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SEATTLE SOUNDERS FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/7553dee7-74f1-4e11-95d3-2b41e68e96be.m3u8
+http://mains.services/live/640939802963/IDC01478!/7553dee7-74f1-4e11-95d3-2b41e68e96be.m3u8
+#EXTINF:-1 tvg-id="SeattleSoundersFC.mls" tvg-name="MLS Seattle Sounders FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SEATTLE SOUNDERS FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/7553dee7-74f1-4e11-95d3-2b41e68e96be.ts
+#EXTINF:-1 tvg-id="SeattleSoundersFC.mls" tvg-name="MLS Seattle Sounders FC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SEATTLE SOUNDERS FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/7553dee7-74f1-4e11-95d3-2b41e68e96be.m3u
+
 #EXTINF:-1 tvg-id="SportingKansasCity.mls" tvg-name="MLS Sporting Kansas City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SPORTING KANSAS CITY (opt1)
-http://mains.services/live/507Vej3h3S/4632273/88f38570-1cae-4e06-809d-e2b1a0cbd943.m3u8
+http://mains.services/live/640939802963/IDC01478!/88f38570-1cae-4e06-809d-e2b1a0cbd943.m3u8
+#EXTINF:-1 tvg-id="SportingKansasCity.mls" tvg-name="MLS Sporting Kansas City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SPORTING KANSAS CITY (opt1)
+http://mains.services/live/507Vej3h3S/4632273/88f38570-1cae-4e06-809d-e2b1a0cbd943.ts
+#EXTINF:-1 tvg-id="SportingKansasCity.mls" tvg-name="MLS Sporting Kansas City USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : SPORTING KANSAS CITY (opt1)
+http://mains.best:2086/live/3003556325/2772007/88f38570-1cae-4e06-809d-e2b1a0cbd943.m3u
+
 #EXTINF:-1 tvg-id="StLouisCITYSC.mls" tvg-name="MLS St. Louis City SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ST LOUIS CITY SC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/52111f2a-a55a-41ad-9660-0e994a35770e.m3u8
+http://mains.services/live/640939802963/IDC01478!/52111f2a-a55a-41ad-9660-0e994a35770e.m3u8
+#EXTINF:-1 tvg-id="StLouisCITYSC.mls" tvg-name="MLS St. Louis City SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ST LOUIS CITY SC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/52111f2a-a55a-41ad-9660-0e994a35770e.ts
+#EXTINF:-1 tvg-id="StLouisCITYSC.mls" tvg-name="MLS St. Louis City SC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : ST LOUIS CITY SC (opt1)
+http://mains.best:2086/live/3003556325/2772007/52111f2a-a55a-41ad-9660-0e994a35770e.m3u
+
 #EXTINF:-1 tvg-id="TorontoFC.mls" tvg-name="MLS Toronto DC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : TORONTO FC (opt1)
-http://mains.services/live/507Vej3h3S/4632273/b64c9730-9dbd-45d2-b429-88f4b63667cf.m3u8
+http://mains.services/live/640939802963/IDC01478!/b64c9730-9dbd-45d2-b429-88f4b63667cf.m3u8
+#EXTINF:-1 tvg-id="TorontoFC.mls" tvg-name="MLS Toronto DC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : TORONTO FC (opt1)
+http://mains.services/live/507Vej3h3S/4632273/b64c9730-9dbd-45d2-b429-88f4b63667cf.ts
+#EXTINF:-1 tvg-id="TorontoFC.mls" tvg-name="MLS Toronto DC USA" tvg-logo="https://picon-13398.kxcdn.com/mlsusa.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : TORONTO FC (opt1)
+http://mains.best:2086/live/3003556325/2772007/b64c9730-9dbd-45d2-b429-88f4b63667cf.m3u
 
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt1)
 http://mains.services/live/640939802963/IDC01478!/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u8
 #EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt2)
-http://mains.services/live/507Vej3h3S/4632273/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt3)
-http://mains.services/live/3003556325/2772007/fe4665a6-dd3f-45b9-8068-c12aae31c6db.ts
-#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt4)
 http://mains.services/live/507Vej3h3S/4632273/fe4665a6-dd3f-45b9-8068-c12aae31c6db.ts
+#EXTINF:-1 group-title="⚽MLS🇺🇸Soccer⚽",☆ MLS : VANCOUVER WHITECAPS FC (opt3)
+http://mains.services/live/3003556325/2772007/fe4665a6-dd3f-45b9-8068-c12aae31c6db.m3u
 
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt1)
-http://mains.services:2086/640939802963/IDC01478!/1673
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt2)
-http://mains.services:2086/507Vej3h3S/4632273/1673
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt3)
-http://mains.best:2086/3003556325/2772007/1673
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",☆ US : YES NETWORK | MLS (opt4)
-http://mains.services:2086/507Vej3h3S/4632273/1673
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt1)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/35215.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt2)
+http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/35215.ts
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt3)
+http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/35215
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚽MLS🇺🇸Soccer⚽",🇺🇸 MLS 02 🇺🇸    ▂ ▄ ▅ ▆ ⚽ MLS🇺🇸Soccer ⚽ ▆ ▅ ▄ ▂
@@ -15130,12 +15277,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽MLS🇺🇸Soccer⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  tv.mr 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt1)
-http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/35215.m3u8
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt2)
-http://tv.mr.iptv.uno:80/live/majavatn/YfgWG8fYsj459/35215.ts
-#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="Yes Network HD US" tvg-logo="https://picon-13398.kxcdn.com/yesnetworkus.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes Network HD US (opt3)
-http://tv.mr.iptv.uno:80/majavatn/YfgWG8fYsj459/35215
 
 
 #EXTINF:-1 tvg-id="YesTV.ca" tvg-name="Yes TV HD CA" tvg-logo="https://picon-13398.kxcdn.com/yestvca.jpg" group-title="⚽MLS🇺🇸Soccer⚽",Yes TV HD CA
