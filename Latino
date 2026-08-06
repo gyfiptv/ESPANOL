@@ -2943,7 +2943,7 @@ http://190.11.225.124:5000/live/warner_sd/playlist.m3u8
 #EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 01 📺WORLD🌐SPORTS⚽ ♥  ##########
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 00 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  tvnow 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -2982,6 +2982,226 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.es.m3u
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.es.m3u8
 #EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇪🇸⚽ MEGA A3MEDIA.ES (opt3)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/mega.es.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="📺WORLD🌐SPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺WORLD🌐SPORTS⚽", ##########  ♥ GROUP 01 📺WORLD🌐SPORTS⚽ ♥  ##########
+http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱᴺᴸᴬᶜᴱᴛv 🇪🇸 GROUP 01 🇺🇸  🌐🌎⭐ SPORTSᵀᵛ📺IPTVworld🇺🇸 ⭐🌎🌐
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="📺WORLD🌐SPORTS⚽",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  00322.xyz 📺✝🙏🏻Reload PLAYLIST Daily🙏🏻✝🎦
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 D SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145400
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 D SPORTS 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145401
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 D SPORTS 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145402
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 L1MAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145403
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 D SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145404
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 BeIN SPORTS XTRA (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145406
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FOX SPORTS 2 AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145407
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 BeIN SPORTS N (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145408
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 RCN MAS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145409
+
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN DEPORTES (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145416
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145417
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145418
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145419
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 5 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145420
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN PREMIUM (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145421
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145422
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145423
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145424
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145425
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145426
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 5 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145427
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ESPN 4 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145428
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 AUF TV UY (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145429
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TyC SPORTS AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145430
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FOX SPORTS 2 AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145431
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FOX SPORTS 3 AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145432
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FOX SPORTS 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145433
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FOX SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145434
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FOX SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145435
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 VIX LIGA MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145437
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SKY SPORTS Premier League (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145438
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FS PREMIUM FOX SPORTS AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145439
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TyC SPORTS AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145440
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TyC SPORTS AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145441
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TNT SPORTS PREMIUM AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145442
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TNT SPORTS PREMIUM AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145443
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145444
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145445
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ECDF EC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145446
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 FUBO SPORTS Replay (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145447
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 WIN SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145448
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 WIN SPORTS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145449
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 L1MAX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145450
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 M+ (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145451
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 VTV PLUS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145452
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 VTV PLUS (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145453
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SPORT-TV 4 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145454
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SPORT-TV 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145455
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SPORT-TV 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145456
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SPORT-TV 4 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145457
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TUDN MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145458
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TUDN US (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145459
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TUDN MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145460
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TUDN US (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145461
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 DEPORTV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145462
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TSi 6 HN (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145463
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 DEPORTV AR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145464
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TD+2 TD MAX CR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145465
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 TD+2 TD MAX CR (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145466
+
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 FSBL SportDigital (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145467
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 GALICIA TV ES (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145468
+
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 ADRENALINA SPORTS NETWORK (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145469
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145470
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 FUTBOL NETWORK MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145471
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 MADRID TV (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145472
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 EUROSPORT 1 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145473
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 AYM SPORTS 3 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145474
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SPORT-TV 4 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145475
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 SPORT-TV 2 (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145476
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 YES (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145477
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 MSG (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145478
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 UFC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145479
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 UFC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145480
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 UFC (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145481
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 WWE (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145482
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 RED BULL (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145483
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 ONE TORO (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145484
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 VIX | LIGA MX (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145486
+
+
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 00 | ECDF PPV (ECU) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145490
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 00 | ZAPPING PPV (ECU) Zapping (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145491
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇺🇸 03 | ESPN PPV (ECU) Zapping (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145492
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 00 | ECDF PPV (ECU) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145495
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",®🇪🇸 00 | D SPORTS PPV (ECU) (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145496
+
+
+
+
+
 
 
 #EXTM3U
