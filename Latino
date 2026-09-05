@@ -3558,6 +3558,44 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169992187314167808/TeabGtEB_200x200.jpg" tvg-name="Garage TV Argentina" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Garage TV Argentina
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 GOLF 🇺🇸  ⭐🌎 PGA📺WORLD 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 01 (USA GOLF CHANNEL)
+http://mains.services/live/4523074511/3178768/ace36dfd-1f18-4dd4-b4b8-9de27a9e8fd1.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 02 (CA NBC GOLF)
+http://mains.services/live/4523074511/3178768/83eba5bb-b7bc-4182-aee7-cfe925f84927.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 03 (SKY SPORTS GOLF)
+http://mains.services/live/4523074511/3178768/d215288b-761d-4a62-93ca-ddb70b45ed3d.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 04 (CBS)
+http://mains.services/live/4523074511/3178768/8433448b-25be-4dee-9e98-ec26515e3b71.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 05 (NBC)
+http://mains.services/live/4523074511/3178768/bda1ce16-c802-4324-9709-6ebb158befff.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 06 (USA Network)
+http://mains.services/live/4523074511/3178768/f943ac73-e3a8-4782-b96a-e746467aa7c4.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 07 (CBS SPORTS)
+http://mains.services/live/4523074511/3178768/07a4956f-1097-4457-9db9-03ef67b363fc.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆PGA : 08 (ESPN)
+http://mains.services/live/4523074511/3178768/b2de0930-c7f5-4de7-b537-b57328680f22.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : CA NBC GOLF (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/99141
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : SKY SPORTS GOLF (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/99142
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : US GOLF CHANNEL (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/99143
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ US : GOLF CHANNEL (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/390
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ US : GOLF CHANNEL FHD (opt1)
+http://mains.services:2086/507Vej3h3S/4632273/64105
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ubX7Ezq.jpeg" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Golf Kingdom
 https://30a-tv.com/feeds/vidaa/golf.m3u8
 
@@ -3577,17 +3615,6 @@ http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7803.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7803 Golf | por M+ (opt5)
 http://alfa.7057460.xyz:2095/live/julinnn2/Camion01/7803.ts
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : CA NBC GOLF (opt1)
-http://mains.services:2086/507Vej3h3S/4632273/99141
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : SKY SPORTS GOLF (opt1)
-http://mains.services:2086/507Vej3h3S/4632273/99142
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PGA : US GOLF CHANNEL (opt1)
-http://mains.services:2086/507Vej3h3S/4632273/99143
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ US : GOLF CHANNEL (opt1)
-http://mains.services:2086/507Vej3h3S/4632273/390
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ US : GOLF CHANNEL FHD (opt1)
-http://mains.services:2086/507Vej3h3S/4632273/64105
 
 
 
@@ -3604,24 +3631,86 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS | PREMIER LEAGUE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸® SKY SPORTS Premier League
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145438.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸® SKY SPORTS Premier League
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/145438.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸® SKY SPORTS Premier League
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145438
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®USA | NBC Sports Network HD
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/131290.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®USA | NBC Sports Network HD
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/131290.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®USA | NBC Sports Network HD
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131290
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®USA | NBC SN HD
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/131194.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®USA | NBC SN HD
+http://00322.xyz:8000/live/carlosquiroz52/MQPM675V4S/131194.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®USA | NBC SN HD
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131194
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Premier League HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5437.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS | PREMIER LEAGUE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Premier League HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5437.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS | PREMIER LEAGUE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Premier League HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5437
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS LATINO | PREMIER LEAGUE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Premier League FHD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS LATINO | PREMIER LEAGUE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Premier League FHD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS LATINO | PREMIER LEAGUE
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Premier LeagueE FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30423
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",ARENA SPORT 01 | Premier League
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Main Event *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5441.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Main Event *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5441.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Main Event *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5441
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Top Event *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5444.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Top Event *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5444.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Top Event *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5444
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ARENA SPORT 01 | PREMIER League
 http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",ARENA SPORT 01 | Premier League
-http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ARENA SPORT 01 | PREMIER League
+http://mains.services:2086/live/507Vej3h3S/4632273/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ARENA SPORT 01 | PREMIER League
+http://mains.services:2086/live/3003556325/2772007/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ARENA SPORT 01 | PREMIER League
+http://mains.services:2086/live/4523074511/3178768/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV | Premier League (ES)
+http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1680
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 TUDN 
+http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1219 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 TUDN FHD
+http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1400
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 TUDN (MX)
+http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1401
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 Liga 🇺🇸  ⭐🌎 BUNDESLIGA📺LIGA 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS BL Highlights *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2383.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS BL Highlights *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2383.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS BL Highlights *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2383
 
 
 
@@ -3630,6 +3719,56 @@ http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-d
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 SKY SPORTS | LALIGA | IZZI LA HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/4526
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 SKY SPORTS | LALIGA | IZZI LA HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/4526
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 SKY SPORTS | LALIGA | IZZI LA HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/4526
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 LaLIGA TV Hypermotion FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1679.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 LaLIGA TV Hypermotion FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1679.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 LaLIGA TV Hypermotion FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1679
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1680.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1680.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1680
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M La Liga FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1682
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. DEPORTES (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1687
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. DEPORTES FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1683
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. Formula 1 FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1694
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. GOLF HD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1695
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. Liga De Campeones FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1691
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ MOTORSPORTS (FR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1912
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2902
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ MOVISTAR GOLF (FR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1906
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar LaLiga (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1698
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LALIGA TV BAR HD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1699
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1701
+
+
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SKY SPORTS 1 | LaLIGA TV *HD
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5443.m3u8
@@ -3646,33 +3785,33 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145486
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",®🇺🇸 SKY SPORTS Premier League (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145438
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SUR | MOVISTAR TV
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SUR | Deportes | por M+ MOVISTAR TV
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4830
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®07 | MOVISTAR Deportes PE
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3327
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®08 | MOVISTAR DEPORTES PE
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3328
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®09 | MOVISTAR Deportes TV
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®09 | MOVISTAR Deportes PE
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3329
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV BAR
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV | por M+
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4297
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS |  LIGA TV BAR HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS |  LIGA TV | por M+ HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4298
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS |  LIGA TV BAR FHD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS |  LIGA TV | por M+ FHD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4299
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV 1 BAR (Solo Eventos)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV 1 | por M+ (Solo Eventos)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4300
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV BAR 3 (Solo Eventos)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4301
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV BAR 4 (Solo Eventos)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4302
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR LALIGA FHD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | LIGA TV | por M+ FHD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4303
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR #VAMOS
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR #VAMOS | por M+
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4304
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR VAMOS BAR  HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR #VAMOS | por M+  HD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4305
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR VAMOS BAR  FHD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR #VAMOS | por M+  FHD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4306
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | MOVISTAR LALIGA 1 (Solo Eventos)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4307
