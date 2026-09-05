@@ -1984,9 +1984,9 @@ http://pfsv.io:80/live/6181288/27664/303988.ts
 http://pfsv.io:80/6181288/27664/303988
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",SPORTS : ARENA SPORT 01
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",SPORTS : ARENA SPORT 01 | Premier League
 http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",SPORTS : ARENA SPORT 01
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",SPORTS : ARENA SPORT 01 | Premier League
 http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",SPORTS : ARENA SPORT 02
 http://mains.services:2086/live/640939802963/IDC01478!/6e04e13f-55f7-4684-a039-cb2c71465acd.m3u8
@@ -2515,11 +2515,11 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2002.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CAZA Y PESCA *HD (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2002
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS (01)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS SPORTS (01)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2030.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS (02)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS SPORTS (02)
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2030.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS (03)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS SPORTS (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2030
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS SPORTS NETWORK (01)
@@ -3599,13 +3599,44 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 League 🇺🇸  ⭐🌎 PREMIER📺LEAGUE 🌎⭐
+https://streamer1.nexgen.bz/TBN/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS | PREMIER LEAGUE
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5437.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS | PREMIER LEAGUE
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5437.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS | PREMIER LEAGUE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5437
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS LATINO | PREMIER LEAGUE
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/30423.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS LATINO | PREMIER LEAGUE
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/30423.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS LATINO | PREMIER LEAGUE
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30423
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",ARENA SPORT 01 | Premier League
+http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",ARENA SPORT 01 | Premier League
+http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 La LIGA🇪🇸MOVISTAR M+ 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 LaLIGA M+ 🇺🇸  ⭐🌎 LaLIGA📺MOVISTAR 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SKY SPORTS 1 | LaLIGA TV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5443.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SKY SPORTS 1 | LaLIGA TV *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5437.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SKY SPORTS 1 | LaLIGA TV *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5437
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",®🇪🇸 VIX LA LIGA | SKY Sports en iZZ! ES (opt1)
@@ -6806,15 +6837,15 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2821
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2822
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®41 | ESPN ®
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2823
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®53 | ESPN PLUS ®
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®53 | ESPN 7 PLUS ®
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3014
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®58 | ESPN USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131053
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®59 | ESPN 2 USA
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®59 | ESPN 2 
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131054
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®60 | ESPN 3 USA
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®60 | ESPN 3 
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131055
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®61 | ESPN U USA
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®61 | SPORTS MAX TV | ESPN U USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131056
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®74 | ESPN SUR ® 
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3036
@@ -6836,19 +6867,19 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/3527
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4938
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®ARG | ESPN 3 SD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4940
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®ARG | ESPN EXTRA SUR
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸®ARG | ESPN 4 EXTRA SUR
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4941
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇺🇸®USA | ESPN PLUS
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131334
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN DEPORTES (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145416
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN (opt1)
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN PREMIUM (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145417
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN 2 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145418
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN 3 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145419
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN 5 (opt1)
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN 4 (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145420
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,®🇪🇸 ESPN PREMIUM (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145421
