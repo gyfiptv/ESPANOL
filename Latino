@@ -3155,6 +3155,13 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®138 | LA_Fox Deportes HD USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131136
@@ -3227,7 +3234,7 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131099
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131100
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®104 | Fox Sports Tampa USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131101
-#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",🇺🇸®105 | Fox Sports West HD USA
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®105 | Fox Sports West HD USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131102
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®106 | Fox Sports Wisconsin USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131103
@@ -3326,13 +3333,6 @@ http://mains.services:2086/640939802963/IDC01478!/102322
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ FOX Sports 506 | Moto2 Race (opt4)
 http://mains.services/live/4523074511/3178768/102322.ts
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2050.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
-http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2050.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2050
-
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX DEPORTES
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2068.m3u8
@@ -3340,6 +3340,13 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2068.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2068.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX DEPORTES
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2068
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2050.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2050.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SOCCER PLUS
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2050
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | FOX SPORTS CAROLINAS | FS1
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2022.m3u8
@@ -3377,6 +3384,76 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2060.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2060
 
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
+
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD 
+http://xdplay.tv:8080/live//dannyrx15/jvgKdjsjKC/41345.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41345.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD 
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX+ CR (Tigo Sports) *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX+ CR (Tigo Sports) *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX+ CR (Tigo Sports) *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
 
 
 
@@ -3679,6 +3756,13 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5444.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/5444.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS Top Event *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/5444
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ARENA SPORT 01 | PREMIER League
 http://mains.services:2086/live/640939802963/IDC01478!/3e4e2a6d-0b1d-482a-921e-dcf817e8d280.m3u8
@@ -5358,7 +5442,7 @@ http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/5433.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS F1
 http://xdgo.live:8080/dannyrx15/jvgKdjsjKC/5433
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸*  SKY SPORTS MotoGP
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS MotoGP
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/5435.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SKY SPORTS MotoGP
 http://xdgo.live:8080/live/dannyrx15/jvgKdjsjKC/5435.ts
@@ -5684,81 +5768,6 @@ http://mains.services:2086/live/507Vej3h3S/4632273/100006.ts
 http://mains.best:2086/3003556325/2772007/100006
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : TNT SPORTS EXTRA 10 | 100006 (opt3)
 http://mains.services:2086/4523074511/3178768/100006
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 2 | Entel Gol *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 2 | Entel Gol *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 2 | Entel Gol *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS PARAGUAY | Entel Gol *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS PARAGUAY | Entel Gol *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS PARAGUAY | Entel Gol *FHD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS EL SALVADOR *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS EL SALVADOR *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS EL SALVADOR *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS GUATEMALA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS GUATEMALA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS GUATEMALA *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS HONDURAS *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS HONDURAS *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS HONDURAS *HD
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 1 *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 1 *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 1 *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 1 BO *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45890.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 2 BO *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45891.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS 3 BO *HD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45892
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HQ x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HQ x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HQ x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *FHD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *FHD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *FHD x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HD | op2 x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TIGO SPORTS COSTA RICA *HD | op2 x
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TNT SPORTS AR *LQ
@@ -7478,6 +7487,15 @@ http://200.125.170.74:8000/play/a0gj/index.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
+
+
+
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸®138 | LA_Fox Deportes HD USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131136
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",®🇪🇸 FOX SPORTS 2 AR (opt1)
@@ -7730,6 +7748,9 @@ http://mains.services/live/4523074511/3178768/92582.ts
 http://mains.best:2086/live/507Vej3h3S/4632273/92582.ts
 
 
+
+
+
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸* FOX DEPORTES *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1838.ts
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸* FOX SPORTS BR *HD
@@ -7879,27 +7900,78 @@ http://mains.services:2086/3003556325/2772007/95411
 http://mains.best:2086/live/507Vej3h3S/4632273/95411.ts
 
 
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1821.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX Costa Rica Deportes (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
 
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS (opt1) x
-http://mains.services:2086/640939802963/IDC01478!/88755
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS (opt2)
-http://mains.services:2086/3003556325/2772007/88755
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/88755.ts
 
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 2 (opt1) x
-http://mains.services:2086/640939802963/IDC01478!/88753
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 2 (opt2)
-http://mains.services:2086/3003556325/2772007/88753
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 2 (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/88753.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1819.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819
 
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 3 (opt1) x
-http://mains.services:2086/640939802963/IDC01478!/88754
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 3 (opt2)
-http://mains.services:2086/3003556325/2772007/88754
-#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,☆ ES : FOX SPORTS 3 (opt3) 
-http://mains.best:2086/live/507Vej3h3S/4632273/88754.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1817.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59459.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/59458.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD 
+http://xdplay.tv:8080/live//dannyrx15/jvgKdjsjKC/41345.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/41345.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD 
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1820.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HQ
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88620.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *HQ
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/88619.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX CR (Tigo Sports) *FHD
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619
+
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX+ CR (Tigo Sports) *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.m3u8
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX+ CR (Tigo Sports) *HD | op2
+http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸* FOX+ CR (Tigo Sports) *HD | op2
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
+
+
 
 
 
@@ -7920,38 +7992,30 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt1)
 http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt2)
-http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt4)
-http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt1)
-http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt2)
-http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt4)
-http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt1)
-http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt4)
 http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt1)
-http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt4)
 http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE | Paramount+ (opt1)
+http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE | Paramount+ (opt2)
+http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE | Paramount+ (opt3)
+http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE | Paramount+ (opt4)
+http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+
 
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67062
@@ -7996,18 +8060,9 @@ http://pfsv.io:80/6181288/27664/204149
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
 http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
-http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
-http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt4)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt1)
-http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt2)
 http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt3)
-http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE (opt4)
 http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
 
@@ -8121,6 +8176,100 @@ http://mains.best:2086/3003556325/2772007/100920
 http://mains.services:2086/640939802963/IDC01478!/100920
 #EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV 06 - FITE 24/7 (opt4) 
 http://mains.services/live/4523074511/3178768/100920.ts
+
+
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 1
+http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  UFC 2
+http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV  WWE
+http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u
+
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 01
+http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 02
+http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 03
+http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 04
+http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 05
+http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 06
+http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 07
+http://mains.services/live/4523074511/3178768/3af29b10-4492-4fb3-83b7-4f0487601359.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 08
+http://mains.services/live/4523074511/3178768/9bde720e-a99d-4919-843d-1f392df901c5.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 09
+http://mains.services/live/4523074511/3178768/9a948a8d-dd62-440f-9a09-9ec8be2c1e5a.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 10
+http://mains.services/live/4523074511/3178768/72ff8ef9-8531-4ffe-a950-48b1e2a68eb1.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 11
+http://mains.services/live/4523074511/3178768/7cb8cbc0-a78f-4ebf-b8ac-484ad7e716bb.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 12
+http://mains.services/live/4523074511/3178768/d2aa89f9-a926-4747-a45c-51d99f807f3c.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 13
+http://mains.services/live/4523074511/3178768/0bc68b82-64be-4249-8b5b-a743f8c42b73.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 14
+http://mains.services/live/4523074511/3178768/0780d729-3e19-4437-a877-5fd0855fce07.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 15
+http://mains.services/live/4523074511/3178768/cdda7b67-f5b9-4876-8f65-e58eb16f9461.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 16
+http://mains.services/live/4523074511/3178768/a9fdb0b8-01f4-41c7-8065-381bac9af2c1.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 17
+http://mains.services/live/4523074511/3178768/5b4928f8-b47c-4390-a3c3-f6862eebda6f.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 18
+http://mains.services/live/4523074511/3178768/0dcfed72-f490-411f-b436-b18413350934.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 19
+http://mains.services/live/4523074511/3178768/486da822-98c4-482d-8030-c85746589fab.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 20
+http://mains.services/live/4523074511/3178768/76313c99-4a1a-43db-9b3d-01c5a39ec46e.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 21
+http://mains.services/live/4523074511/3178768/6be8a1a6-f7d6-4a85-b249-1c222205ab0a.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 22
+http://mains.services/live/4523074511/3178768/1a311397-9346-41da-a308-b54bcb3a9997.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 23
+http://mains.services/live/4523074511/3178768/fbfca19c-c358-4405-a359-d90a8b617dc4.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 24
+http://mains.services/live/4523074511/3178768/bc01cc47-ec2e-4219-95b5-89a74c307824.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 25
+http://mains.services/live/4523074511/3178768/a674cf09-ba90-4f7c-92c2-e51713622bc3.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 26
+http://mains.services/live/4523074511/3178768/0dc47944-099b-4f07-929f-83b05aaf1ab2.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 27
+http://mains.services/live/4523074511/3178768/9c9ef4a5-2a41-44e6-96de-3968245754bd.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 28
+http://mains.services/live/4523074511/3178768/0797bd5b-b97c-46a9-926c-1bd84db68386.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 29
+http://mains.services/live/4523074511/3178768/b4e0b52d-176e-48d5-a68c-3a64f668c5d2.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 30
+http://mains.services/live/4523074511/3178768/d4b66296-a7b8-4397-b93a-b8e1e4171f02.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 31
+http://mains.services/live/4523074511/3178768/46feeff2-74cf-4f87-8478-67d990e95464.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 32
+http://mains.services/live/4523074511/3178768/3fc1a73e-fb8a-48c0-a0fa-a4fb4223dc0d.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 33
+http://mains.services/live/4523074511/3178768/bedb1527-bb61-45fc-81a7-374e1979783b.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 34
+http://mains.services/live/4523074511/3178768/4d555169-36f4-4739-b6b5-0815f78bfa20.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 35
+http://mains.services/live/4523074511/3178768/8625489c-2f71-4147-b361-6600cde90bfb.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 36
+http://mains.services/live/4523074511/3178768/2950c356-f8e9-4fa8-b21e-14c4c8189779.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 37
+http://mains.services/live/4523074511/3178768/c1bff286-8408-4af8-b17f-035fd2ade21f.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 38
+http://mains.services/live/4523074511/3178768/54d399ed-8108-498b-8df7-7ad734c14f47.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 39
+http://mains.services/live/4523074511/3178768/0c75df1d-1163-4d98-8cdb-e2a8dd5a23f7.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 40
+http://mains.services/live/4523074511/3178768/1791335c-3096-4878-a83d-b37c14af484b.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 97 - FITE 24/7
+http://mains.services/live/4523074511/3178768/189dc190-31b2-4840-b95f-9cce2c68bcb2.m3u
+#EXTINF:-1 group-title="🥊UFC🌐Boxing🥊”,🇺🇸☆ PPV EVENT 98 - UFC FIGHT PASS 24/7
+http://mains.services/live/4523074511/3178768/ece5c881-d178-4a1d-8953-7d10ee017701.m3u
 
 
 
@@ -9043,14 +9192,14 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏈SPORTS🇺🇸USA🏈",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,DAZN 01 [SD] (opt1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",DAZN 01 [SD] (opt1)
 http://pfsv.io:80/live/6181288/27664/132325.m3u8
-#EXTINF:-1,DAZN 01 [SD] (opt1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",DAZN 01 [SD] (opt1)
 http://pfsv.io:80/live/6181288/27664/132325.ts
 
-#EXTINF:-1,DAZN 02 [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",DAZN 02 [SD]
 http://pfsv.io:80/live/6181288/27664/132322.m3u8
-#EXTINF:-1,DAZN 02 [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",DAZN 02 [SD]
 http://pfsv.io:80/live/6181288/27664/132322.ts
 
 
@@ -9062,92 +9211,92 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1,ESPN 4 [4K]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 4 [4K]
 http://pfsv.io:80/6181288/27664/300467.ts
-#EXTINF:-1,ESPN [4K]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN [4K]
 http://pfsv.io:80/6181288/27664/300468.ts
 
-#EXTINF:-1,ESPN 2 [FHD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 2 [FHD]
 http://pfsv.io:80/6181288/27664/251.ts
-#EXTINF:-1,ESPN 2 [FHD][H265]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 2 [FHD][H265]
 http://pfsv.io:80/6181288/27664/30281.ts
-#EXTINF:-1,ESPN 2 [HD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 2 [HD]
 http://pfsv.io:80/6181288/27664/261.ts
-#EXTINF:-1,ESPN 2 [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 2 [SD]
 http://pfsv.io:80/6181288/27664/267.ts
-#EXTINF:-1,ESPN 3 [FHD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 3 [FHD]
 http://pfsv.io:80/6181288/27664/254.ts
-#EXTINF:-1,ESPN 3 [FHD][H265]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 3 [FHD][H265]
 http://pfsv.io:80/6181288/27664/30277.ts
-#EXTINF:-1,ESPN 3 [HD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 3 [HD]
 http://pfsv.io:80/6181288/27664/258.ts
-#EXTINF:-1,ESPN 3 [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 3 [SD]
 http://pfsv.io:80/6181288/27664/268.ts
-#EXTINF:-1,ESPN 4 [FHD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 4 [FHD]
 http://pfsv.io:80/6181288/27664/255.ts
-#EXTINF:-1,ESPN 4 [FHD][H265]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 4 [FHD][H265]
 http://pfsv.io:80/6181288/27664/30283.ts
-#EXTINF:-1,ESPN 4 [HD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 4 [HD]
 http://pfsv.io:80/6181288/27664/262.ts
-#EXTINF:-1,ESPN 4 [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 4 [SD]
 http://pfsv.io:80/6181288/27664/271.ts
 
-#EXTINF:-1,ESPN 5 [HD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 5 [HD]
 http://pfsv.io:80/6181288/27664/330700.ts
-#EXTINF:-1,ESPN 5 [FHD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 5 [FHD]
 http://pfsv.io:80/6181288/27664/330701.ts
-#EXTINF:-1,ESPN 5 [FHD][H265]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 5 [FHD][H265]
 http://pfsv.io:80/6181288/27664/330702.ts
-#EXTINF:-1,ESPN 5 [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 5 [SD]
 http://pfsv.io:80/6181288/27664/330703.ts
 
-#EXTINF:-1,ESPN EXTRA [FHD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN EXTRA [FHD]
 http://pfsv.io:80/6181288/27664/248.ts
-#EXTINF:-1,ESPN EXTRA [HD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN EXTRA [HD]
 http://pfsv.io:80/6181288/27664/260.ts
-#EXTINF:-1,ESPN EXTRA [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN EXTRA [SD]
 http://pfsv.io:80/6181288/27664/270.ts
-#EXTINF:-1,ESPN [FHD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN [FHD]
 http://pfsv.io:80/6181288/27664/250.ts
-#EXTINF:-1,ESPN [FHD][H265]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN [FHD][H265]
 http://pfsv.io:80/6181288/27664/30280.ts
-#EXTINF:-1,ESPN [HD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN [HD]
 http://pfsv.io:80/6181288/27664/259.ts
-#EXTINF:-1,ESPN [SD]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN [SD]
 http://pfsv.io:80/6181288/27664/269.ts
 
-#EXTINF:-1,ESPN 2 [FHD][HDR]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 2 [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130177.ts
-#EXTINF:-1,ESPN 3 [FHD][HDR]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN 3 [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130178.ts
-#EXTINF:-1,ESPN EXTRA [FHD][HDR]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN EXTRA [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130181.ts
-#EXTINF:-1,ESPN [FHD][HDR]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN [FHD][HDR]
 http://pfsv.io:80/6181288/27664/130180.ts
 
-#EXTINF:-1,ESPN EXTRA [FHD][H265]
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",ESPN EXTRA [FHD][H265]
 http://pfsv.io:80/6181288/27664/330699.ts
 
 
-#EXTINF:-1,US : ELEVEN SPORTS NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ELEVEN SPORTS NETWORK
 http://mains.services/live/507Vej3h3S/4632273/d8aff788-a9b8-4dbc-b163-5a7cb41208c3.m3u
-#EXTINF:-1,US : ESPN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN
 http://mains.services/live/507Vej3h3S/4632273/2191e4f0-5b32-4be9-92a5-f132ee389d6f.m3u
-#EXTINF:-1,US : ESPN 2
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN 2
 http://mains.services/live/507Vej3h3S/4632273/c9982f5c-883b-4f5c-a544-f6aad83836ed.m3u
-#EXTINF:-1,US : ESPN 2 FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN 2 FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/cabb4432-edb8-4e51-9280-75bd64b9c4b0.m3u
-#EXTINF:-1,US : ESPN DEPORTES FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN DEPORTES FHD
 http://mains.services/live/507Vej3h3S/4632273/79c81c69-bc8f-4df1-9ac1-4ddc67e3ec1c.m3u
-#EXTINF:-1,US : ESPN FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN FHD
 http://mains.services/live/507Vej3h3S/4632273/b8b35772-e4f6-47d1-93a2-651c6eb8d5b9.m3u
-#EXTINF:-1,US : ESPN NEWS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN NEWS
 http://mains.services/live/507Vej3h3S/4632273/3b8c951e-b931-49b6-b406-9c603b1cdf4f.m3u
-#EXTINF:-1,US : ESPN NEWS FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN NEWS FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/1da60b7c-3f73-45fa-a7b7-259350ad78fa.m3u
-#EXTINF:-1,US : ESPN U
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN U
 http://mains.services/live/507Vej3h3S/4632273/a9652e03-9ed6-4e84-9145-2dd528509e71.m3u
-#EXTINF:-1,US : ESPN U FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : ESPN U FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/19db782b-0a2d-42f2-b85d-e93a54b964a2.m3u
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸Ⓜ² ESPN
@@ -9176,106 +9325,106 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1,US : FOX SOCCER PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FOX SOCCER PLUS
 http://mains.services/live/507Vej3h3S/4632273/93a91ced-a6dd-4367-86f8-60ccb8b5a82f.m3u
-#EXTINF:-1,US : FOX SPORTS 1
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FOX SPORTS 1
 http://mains.services/live/507Vej3h3S/4632273/127c0c8a-fed7-4c3d-b4c3-c75c23d319a5.m3u
-#EXTINF:-1,US : FOX SPORTS 1 FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FOX SPORTS 1 FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/e0e766c2-49a7-4ad4-8934-e35beb4fa6f9.m3u
-#EXTINF:-1,US : FOX SPORTS 2
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FOX SPORTS 2
 http://mains.services/live/507Vej3h3S/4632273/d8fcc1ea-2336-4919-bccf-fc2f484d6ea5.m3u
-#EXTINF:-1,US : FOX SPORTS 2 FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FOX SPORTS 2 FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/4c538364-3af9-46bb-b778-e287295d39ee.m3u
-#EXTINF:-1,US : FUBO SPORTS NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FUBO SPORTS NETWORK
 http://mains.services/live/507Vej3h3S/4632273/effe2b3c-065b-4b9d-b410-5c51fd65d6f2.m3u
 
-#EXTINF:-1,USA FIFA 00 (OFFLINE)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ,USA FIFA 00 (OFFLINE)
 http://mains.services/live/507Vej3h3S/4632273/aff696dd-eed4-40c0-b4ca-d2c4428798fa.m3u
-#EXTINF:-1,USA FIFA 01 (TNT)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 01 (TNT)
 http://mains.services/live/507Vej3h3S/4632273/bbc94f47-a2cb-49a4-819f-059e94bd926c.m3u
-#EXTINF:-1,USA FIFA 02 (TBS)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 02 (TBS)
 http://mains.services/live/507Vej3h3S/4632273/edf924f5-a9d1-4650-9a99-05cf9f30d90b.m3u
-#EXTINF:-1,USA FIFA 03 (TruTV)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 03 (TruTV)
 http://mains.services/live/507Vej3h3S/4632273/95d1b1f2-d83d-4a10-b431-d1045dcb1ceb.m3u
 
-#EXTINF:-1,USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 04 (FS1)
 http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1,USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 04 (FS1)
 http://mains.services/live/640939802963/IDC01478!/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1,USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 04 (FS1)
 http://mains.services/live/3003556325/2772007/532968e1-931c-4642-9e0a-f25e80f75279.m3u
-#EXTINF:-1,USA FIFA 04 (FS1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 04 (FS1)
 http://mains.services/live/507Vej3h3S/4632273/532968e1-931c-4642-9e0a-f25e80f75279.m3u
 
-#EXTINF:-1,USA FIFA 05 (FOX)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 05 (FOX)
 http://mains.services/live/507Vej3h3S/4632273/0103402b-6193-4f8c-9ac1-fbc211a3b8cb.m3u
-#EXTINF:-1,USA FIFA 06 (CA TSN 1)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 06 (CA TSN 1)
 http://mains.services/live/507Vej3h3S/4632273/a2dc1b8a-41c0-4ac3-a24b-7b8e2d083a0e.m3u
-#EXTINF:-1,USA FIFA 07 (UNIVERSO) ESP
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 07 (UNIVERSO) ESP
 http://mains.services/live/507Vej3h3S/4632273/d3e9d186-d304-43a3-8631-2ab2510fc7eb.m3u
-#EXTINF:-1,USA FIFA 08 (TUDN) ESP
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 08 (TUDN) ESP
 http://mains.services/live/507Vej3h3S/4632273/96331769-286b-4c57-8a86-45ba40ffaa2c.m3u
-#EXTINF:-1,USA FIFA 09 (TELEMUNDO) ESP
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ USA FIFA 09 (TELEMUNDO) ESP
 http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.m3u
 
 
 
 
-#EXTINF:-1,US : FANDUEL SPORTS CAROLINAS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS CAROLINAS
 http://mains.services/live/507Vej3h3S/4632273/b9a02f6d-fc13-4f30-af86-51748681ad9d.m3u
-#EXTINF:-1,US : FANDUEL SPORTS CINCINNATI
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ,US : FANDUEL SPORTS CINCINNATI
 http://mains.services/live/507Vej3h3S/4632273/4ae1c64c-6ea8-4194-aab9-b568288604ee.m3u
-#EXTINF:-1,US : FANDUEL SPORTS DETROIT
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS DETROIT
 http://mains.services/live/507Vej3h3S/4632273/b369c496-7a18-4c4e-bf21-7308a5b121b7.m3u
-#EXTINF:-1,US : FANDUEL SPORTS DETROIT PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS DETROIT PLUS
 http://mains.services/live/507Vej3h3S/4632273/60ac33b4-6386-4a06-ba83-0066d0477757.m3u
-#EXTINF:-1,US : FANDUEL SPORTS FLORIDA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS FLORIDA
 http://mains.services/live/507Vej3h3S/4632273/d9e43111-a9ad-4513-8c64-bd1d2f6aafcb.m3u
-#EXTINF:-1,US : FANDUEL SPORTS INDIANA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS INDIANA
 http://mains.services/live/507Vej3h3S/4632273/79e4f576-c9d3-430e-9578-a893249ec747.m3u
-#EXTINF:-1,US : FANDUEL SPORTS KANSAS CITY
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS KANSAS CITY
 http://mains.services/live/507Vej3h3S/4632273/d63c5212-2004-498b-b786-e873ff0c9910.m3u
-#EXTINF:-1,US : FANDUEL SPORTS KANSAS CITY PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS KANSAS CITY PLUS
 http://mains.services/live/507Vej3h3S/4632273/38d306a1-86de-4008-b17a-cb9549dc84f2.m3u
-#EXTINF:-1,US : FANDUEL SPORTS MIDWEST
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS MIDWEST
 http://mains.services/live/507Vej3h3S/4632273/19c3d491-27c5-4bcf-89fd-6026ae16ea45.m3u
-#EXTINF:-1,US : FANDUEL SPORTS MIDWEST PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS MIDWEST PLUS
 http://mains.services/live/507Vej3h3S/4632273/19e25973-7baf-4c94-8716-b3cc2c1ebeb5.m3u
-#EXTINF:-1,US : FANDUEL SPORTS NEW ORLEANS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS NEW ORLEANS
 http://mains.services/live/507Vej3h3S/4632273/e6e5ab44-0c08-4bb4-95ee-7c93abc5bdd3.m3u
-#EXTINF:-1,US : FANDUEL SPORTS NEW ORLEANS PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS NEW ORLEANS PLUS
 http://mains.services/live/507Vej3h3S/4632273/9671c3bd-3530-4f40-88a6-901820e7d499.m3u
-#EXTINF:-1,US : FANDUEL SPORTS NORTH
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS NORTH
 http://mains.services/live/507Vej3h3S/4632273/ff0b49fb-989c-43c0-914a-6c2bd8808b5c.m3u
-#EXTINF:-1,US : FANDUEL SPORTS NORTH PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS NORTH PLUS
 http://mains.services/live/507Vej3h3S/4632273/db36aa5e-ac35-4279-b12d-257925b694c8.m3u
-#EXTINF:-1,US : FANDUEL SPORTS OHIO
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS OHIO
 http://mains.services/live/507Vej3h3S/4632273/f213617e-bb46-4a6d-8f38-39c1bf731c7d.m3u
-#EXTINF:-1,US : FANDUEL SPORTS OKLAHOMA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS OKLAHOMA
 http://mains.services/live/507Vej3h3S/4632273/5e7e98d1-fd05-4711-85bd-da6afaafdd33.m3u
-#EXTINF:-1,US : FANDUEL SPORTS OKLAHOMA PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS OKLAHOMA PLUS
 http://mains.services/live/507Vej3h3S/4632273/8df042e1-a143-45d5-afbe-e21c516a34f8.m3u
-#EXTINF:-1,US : FANDUEL SPORTS SOCAL
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS SOCAL
 http://mains.services/live/507Vej3h3S/4632273/9ffe7cd4-5cef-4731-b040-d47531a9540d.m3u
-#EXTINF:-1,US : FANDUEL SPORTS SOUTH
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ,US : FANDUEL SPORTS SOUTH
 http://mains.services/live/507Vej3h3S/4632273/5f9e1265-87df-4e43-8c47-77c8bcebd826.m3u
-#EXTINF:-1,US : FANDUEL SPORTS SOUTH PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS SOUTH PLUS
 http://mains.services/live/507Vej3h3S/4632273/077d8aef-ad14-4f4d-8a20-5a940e194e09.m3u
-#EXTINF:-1,US : FANDUEL SPORTS SOUTHEAST
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS SOUTHEAST
 http://mains.services/live/507Vej3h3S/4632273/fc998912-c9ee-4266-a348-53a3c071f55d.m3u
-#EXTINF:-1,US : FANDUEL SPORTS SOUTHWEST
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS SOUTHWEST
 http://mains.services/live/507Vej3h3S/4632273/e520e6b2-8db7-4bac-8c1d-a9ae6a5d0b60.m3u
-#EXTINF:-1,US : FANDUEL SPORTS SUN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS SUN
 http://mains.services/live/507Vej3h3S/4632273/bfa60d24-66a1-45cc-b1ae-d411beb60453.m3u
-#EXTINF:-1,US : FANDUEL SPORTS TENNESSEE
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS TENNESSEE
 http://mains.services/live/507Vej3h3S/4632273/56ed108d-09c4-4d67-81e3-371eb7b526f5.m3u
-#EXTINF:-1,US : FANDUEL SPORTS WEST
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS WEST
 http://mains.services/live/507Vej3h3S/4632273/9c147ffb-e45f-46d4-8a20-5814183eca19.m3u
-#EXTINF:-1,US : FANDUEL SPORTS WISCONSIN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS WISCONSIN
 http://mains.services/live/507Vej3h3S/4632273/0d14af03-eb57-471f-a849-e617db78cf76.m3u
-#EXTINF:-1,US : FANDUEL SPORTS WISCONSIN PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUEL SPORTS WISCONSIN PLUS
 http://mains.services/live/507Vej3h3S/4632273/b84b70b8-51f4-40fd-a2d0-583a181eab9d.m3u
-#EXTINF:-1,US : FANDUELTV FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : FANDUELTV FHD
 http://mains.services/live/507Vej3h3S/4632273/f974655c-e8a2-4f08-afe7-adbf84dadd74.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🏈SPORTS🇺🇸USA🏈",🇺🇸☑ Fite 24/7
@@ -9468,50 +9617,50 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-#EXTINF:-1,US : MARQUEE SPORTS NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MARQUEE SPORTS NETWORK
 http://mains.services/live/507Vej3h3S/4632273/5a2d3a09-8cb5-4491-96fa-46546b82736b.m3u
-#EXTINF:-1,US : MARQUEE SPORTS NETWORK FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MARQUEE SPORTS NETWORK FHD
 http://mains.services/live/507Vej3h3S/4632273/91509f37-d9fe-4aef-ac8b-3c906838967a.m3u
-#EXTINF:-1,US : MASN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MASN
 http://mains.services/live/507Vej3h3S/4632273/0cc5678c-13fd-4d98-b0a3-573f51dd3e8d.m3u
-#EXTINF:-1,US : MASN 2
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MASN 2
 http://mains.services/live/507Vej3h3S/4632273/0a286714-50bf-4f7f-baf0-af3e027604a4.m3u
-#EXTINF:-1,US : MAV TV
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MAV TV
 http://mains.services/live/507Vej3h3S/4632273/bfeee941-9778-4011-80f3-91d584da194d.m3u
 
-#EXTINF:-1,US : MONUMENTAL SPORTS NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MONUMENTAL SPORTS NETWORK
 http://mains.services/live/507Vej3h3S/4632273/494d5e7e-2200-4f55-a2a5-ba7efac36409.m3u
-#EXTINF:-1,US : MOTOR TREND FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MOTOR TREND FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/d9bc0b33-1e95-4950-82db-25fd2ce12da9.m3u
 
-#EXTINF:-1,US : MSG
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MSG
 http://mains.services/live/507Vej3h3S/4632273/cff3dfe0-4be4-47fd-96e9-1e8e94b94bdf.m3u
-#EXTINF:-1,US : MSG +2
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MSG +2
 http://mains.services/live/507Vej3h3S/4632273/66a82042-1d41-4f99-885c-c6ffd8249011.m3u
-#EXTINF:-1,US : MSG 2
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MSG 2
 http://mains.services/live/507Vej3h3S/4632273//bf41b868-f7c3-44bb-a36b-3bc066a7bc77.m3u
-#EXTINF:-1,US : MSGSN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MSGSN
 http://mains.services/live/507Vej3h3S/4632273/52b6cb82-868c-4fc5-bf0a-1774828a785f.m3u
-#EXTINF:-1,US : MSNBC
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MSNBC
 http://mains.services/live/507Vej3h3S/4632273/51a2f232-2d8c-479b-8d01-5bf35e921e5d.m3u
-#EXTINF:-1,US : MSNBC FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MSNBC FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/d3e1a9c4-cda4-41f6-8875-3b07c917990b.m3u
 
-#EXTINF:-1,US : MGM+
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+
 http://mains.services/live/507Vej3h3S/4632273/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
-#EXTINF:-1,US : MGM+ DRIVE-IN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ DRIVE-IN
 http://mains.services/live/507Vej3h3S/4632273/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
-#EXTINF:-1,US : MGM+ DRIVE-IN FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ DRIVE-IN FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/12e4c88d-ab28-49e0-98c1-e8d9f4a2e4da.m3u
-#EXTINF:-1,US : MGM+ FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/13eff9f6-5b82-47e4-8ea7-52be1329f8e6.m3u
-#EXTINF:-1,US : MGM+ HITS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ HITS
 http://mains.services/live/507Vej3h3S/4632273/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
-#EXTINF:-1,US : MGM+ HITS FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ HITS FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/0e53e358-ec7e-4a47-82ce-4dfda186b0f9.m3u
-#EXTINF:-1,US : MGM+ MARQUEE
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ MARQUEE
 http://mains.services/live/507Vej3h3S/4632273/acde4878-8208-4bf0-b118-e24650b9d910.m3u
-#EXTINF:-1,US : MGM+ MARQUEE FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : MGM+ MARQUEE FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/ac386897-e31f-4fb3-bd2e-8b98d375015b.m3u
 
 
@@ -9538,25 +9687,25 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NBC/mono.ts
 
 
-#EXTINF:-1,US : NBC SPORTS BAY AREA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NBC SPORTS BAY AREA
 http://mains.services/live/507Vej3h3S/4632273/18814b89-c27e-4d29-b229-2307e5af13cb.m3u
-#EXTINF:-1,US : NBC SPORTS BAY AREA PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NBC SPORTS BAY AREA PLUS
 http://mains.services/live/507Vej3h3S/4632273/58c2ca47-4a02-412c-9614-463e1eed02a9.m3u
-#EXTINF:-1,US : NBC SPORTS BOSTON
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ,US : NBC SPORTS BOSTON
 http://mains.services/live/507Vej3h3S/4632273/e0360a2c-7652-4c2a-b8b5-a0b272ddcdbc.m3u
-#EXTINF:-1,US : NBC SPORTS CALIFORNIA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NBC SPORTS CALIFORNIA
 http://mains.services/live/507Vej3h3S/4632273/658abbb1-50ec-457b-a093-17826fc48d9d.m3u
-#EXTINF:-1,US : NBC SPORTS CHICAGO PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NBC SPORTS CHICAGO PLUS
 http://mains.services/live/507Vej3h3S/4632273/bbba1e36-71b6-4a14-aa17-7dac4f637deb.m3u
-#EXTINF:-1,US : NBC SPORTS PHILADELPHIA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NBC SPORTS PHILADELPHIA
 http://mains.services/live/507Vej3h3S/4632273/f5cd31c5-e0ca-4682-9c74-da67bd3b6f52.m3u
-#EXTINF:-1,US : NESN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NESN
 http://mains.services/live/507Vej3h3S/4632273/2ebb3a48-f5b8-485e-b6a0-b53e6a6d9317.m3u
-#EXTINF:-1,US : NESN BOSTON
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NESN BOSTON
 http://mains.services/live/507Vej3h3S/4632273/224a564f-d32b-433f-80c0-793c22a5d599.m3u
-#EXTINF:-1,US : NESN PLUS
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NESN PLUS
 http://mains.services/live/507Vej3h3S/4632273/ed51a44b-f578-4bee-980d-418ecf43eda7.m3u
-#EXTINF:-1,US : NEXT LEVEL SPORTS FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : NEXT LEVEL SPORTS FHD
 http://mains.services/live/507Vej3h3S/4632273/11b69633-2d09-43ef-b3a9-d03d5d5fb9fd.m3u
 
 #EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",🇲🇽★7177 NBC GOLF MX (opt1)
@@ -9636,105 +9785,105 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏈SPORTS🇺🇸USA🏈",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,PEACOCK : EVENT 01
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 01
 http://mains.services/live/507Vej3h3S/4632273/4959bc3f-2585-4e3c-9e7f-49cccad05631.m3u
-#EXTINF:-1,PEACOCK : EVENT 02
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 02
 http://mains.services/live/507Vej3h3S/4632273/11d87fcd-0d9f-457d-b02b-bc8290419b5f.m3u
-#EXTINF:-1,PEACOCK : EVENT 03
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 03
 http://mains.services/live/507Vej3h3S/4632273/574cfeea-72f8-49a3-80c4-c462dfc3d7e6.m3u
-#EXTINF:-1,PEACOCK : EVENT 04
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 04
 http://mains.services/live/507Vej3h3S/4632273/12f00dc4-41f6-4c6f-a06c-1092758c3021.m3u
-#EXTINF:-1,PEACOCK : EVENT 05
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 05
 http://mains.services/live/507Vej3h3S/4632273/fedf261f-4229-4cdb-a2fa-3f83a87d63bc.m3u
-#EXTINF:-1,PEACOCK : EVENT 06
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 06
 http://mains.services/live/507Vej3h3S/4632273/9a604494-66a0-4afe-b0aa-842c01cefe2c.m3u
-#EXTINF:-1,PEACOCK : EVENT 07
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 07
 http://mains.services/live/507Vej3h3S/4632273/1e29ef4d-fb66-47c3-b5f9-b14620e538bb.m3u
-#EXTINF:-1,PEACOCK : EVENT 08
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 08
 http://mains.services/live/507Vej3h3S/4632273/a025525d-30c0-4104-8d6c-87b9d911e9ab.m3u
-#EXTINF:-1,PEACOCK : EVENT 09
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 09
 http://mains.services/live/507Vej3h3S/4632273/3728853c-1f97-4bb8-b1ae-bed44676c56b.m3u
-#EXTINF:-1,PEACOCK : EVENT 10
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 10
 http://mains.services/live/507Vej3h3S/4632273/ca49a849-6291-4e16-adab-ce9d413cc043.m3u
-#EXTINF:-1,PEACOCK : EVENT 11
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ ,PEACOCK : EVENT 11
 http://mains.services/live/507Vej3h3S/4632273/7b17c653-6ffe-4274-93f8-60e20164d748.m3u
-#EXTINF:-1,PEACOCK : EVENT 12
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 12
 http://mains.services/live/507Vej3h3S/4632273/5a44a1df-eb3a-4acf-8f14-c50bdc1e8ed4.m3u
-#EXTINF:-1,PEACOCK : EVENT 13
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 13
 http://mains.services/live/507Vej3h3S/4632273/2273c367-c00b-4470-b3e4-b919f97eebe2.m3u
-#EXTINF:-1,PEACOCK : EVENT 14
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 14
 http://mains.services/live/507Vej3h3S/4632273/e6200874-58c1-462a-8d8f-58b3a312acde.m3u
-#EXTINF:-1,PEACOCK : EVENT 15
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 15
 http://mains.services/live/507Vej3h3S/4632273/456d93da-43a7-400e-9d1e-7bccb68c321c.m3u
-#EXTINF:-1,PEACOCK : EVENT 16
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 16
 http://mains.services/live/507Vej3h3S/4632273/a3ce6b7e-0b6a-42ba-b16c-e80a4938270b.m3u
-#EXTINF:-1,PEACOCK : EVENT 17
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 17
 http://mains.services/live/507Vej3h3S/4632273/d100b95c-fbe7-4298-9465-c5ea27d37a9c.m3u
-#EXTINF:-1,PEACOCK : EVENT 18
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 18
 http://mains.services/live/507Vej3h3S/4632273/dbe776bc-7735-4bf5-87b2-fa5819c135e2.m3u
-#EXTINF:-1,PEACOCK : EVENT 19
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 19
 http://mains.services/live/507Vej3h3S/4632273/93f1f223-dbf5-4f0c-9607-c2547134465b.m3u
-#EXTINF:-1,PEACOCK : EVENT 20
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 20
 http://mains.services/live/507Vej3h3S/4632273/24760518-dea8-49f4-97fb-fecf3ccd8b6e.m3u
-#EXTINF:-1,PEACOCK : EVENT 21
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 21
 http://mains.services/live/507Vej3h3S/4632273/b64883ca-b28a-4f23-b800-471458e06481.m3u
-#EXTINF:-1,PEACOCK : EVENT 22
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 22
 http://mains.services/live/507Vej3h3S/4632273/667a6c98-44c8-47c7-969e-1e9e8887e6fd.m3u
-#EXTINF:-1,PEACOCK : EVENT 23
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 23
 http://mains.services/live/507Vej3h3S/4632273/e76809b3-9129-4c5b-9341-036e592f5c3e.m3u
-#EXTINF:-1,PEACOCK : EVENT 24
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 24
 http://mains.services/live/507Vej3h3S/4632273/c838c2ae-38df-47e9-b573-568a373423a6.m3u
-#EXTINF:-1,PEACOCK : EVENT 25
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 25
 http://mains.services/live/507Vej3h3S/4632273/9553b9ee-59b5-4b3a-802e-cf0f83957f2f.m3u
-#EXTINF:-1,PEACOCK : EVENT 26
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 26
 http://mains.services/live/507Vej3h3S/4632273/23c5516a-3b92-4051-999d-7e8cac85145e.m3u
-#EXTINF:-1,PEACOCK : EVENT 27
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 27
 http://mains.services/live/507Vej3h3S/4632273/9bc786af-dfae-4723-ac98-ada75095a16e.m3u
-#EXTINF:-1,PEACOCK : EVENT 28
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 28
 http://mains.services/live/507Vej3h3S/4632273/f25c6078-a4b4-4d89-843e-14f32f9b7b0f.m3u
-#EXTINF:-1,PEACOCK : EVENT 29
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 29
 http://mains.services/live/507Vej3h3S/4632273/a360045f-9be1-4b93-87bf-58eb9b18b230.m3u
-#EXTINF:-1,PEACOCK : EVENT 30
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 30
 http://mains.services/live/507Vej3h3S/4632273/58a2fe56-bdd8-4dc2-80cd-2efed1218c96.m3u
-#EXTINF:-1,PEACOCK : EVENT 31
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 31
 http://mains.services/live/507Vej3h3S/4632273/6844c2ca-c576-49f9-bce6-a379cc541a2e.m3u
-#EXTINF:-1,PEACOCK : EVENT 32
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 32
 http://mains.services/live/507Vej3h3S/4632273/e3769d3b-6621-4eb2-81d4-910f2767ea84.m3u
-#EXTINF:-1,PEACOCK : EVENT 33
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 33
 http://mains.services/live/507Vej3h3S/4632273/d822dfc1-df33-4bd6-8a80-ace1f3cbabc1.m3u
-#EXTINF:-1,PEACOCK : EVENT 34
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 34
 http://mains.services/live/507Vej3h3S/4632273/57a7601b-d64a-4b61-889f-83b3e6b277b2.m3u
-#EXTINF:-1,PEACOCK : EVENT 35
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 35
 http://mains.services/live/507Vej3h3S/4632273/134ad959-7403-4ae2-83d9-b206cd242cb6.m3u
-#EXTINF:-1,PEACOCK : EVENT 36
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 36
 http://mains.services/live/507Vej3h3S/4632273/2b35c1de-849d-4544-b4d3-ef495d16292d.m3u
-#EXTINF:-1,PEACOCK : EVENT 37
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 37
 http://mains.services/live/507Vej3h3S/4632273/38458289-d2a9-4469-be3d-541e687785b1.m3u
-#EXTINF:-1,PEACOCK : EVENT 38
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 38
 http://mains.services/live/507Vej3h3S/4632273/e0ad83ce-89d8-4d9b-8d33-791558ea4b3d.m3u
-#EXTINF:-1,PEACOCK : EVENT 39
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 39
 http://mains.services/live/507Vej3h3S/4632273/daae5e54-6ab1-49a2-a67e-e975352edaf4.m3u
-#EXTINF:-1,PEACOCK : EVENT 40
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 40
 http://mains.services/live/507Vej3h3S/4632273/236e6e81-945b-4f55-985f-b086df8e973f.m3u
-#EXTINF:-1,PEACOCK : EVENT 41
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 41
 http://mains.services/live/507Vej3h3S/4632273/cef3a40e-1ff8-4a32-871a-d2fa20aecd07.m3u
-#EXTINF:-1,PEACOCK : EVENT 42
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 42
 http://mains.services/live/507Vej3h3S/4632273/5d3232ea-8712-4af4-b4d2-137c78b43066.m3u
-#EXTINF:-1,PEACOCK : EVENT 43
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 43
 http://mains.services/live/507Vej3h3S/4632273/9aa5aa90-cde2-410c-a5ce-8b9d4eb2c7b3.m3u
-#EXTINF:-1,PEACOCK : EVENT 44
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 44
 http://mains.services/live/507Vej3h3S/4632273/6dd7b108-f37b-477f-81ad-4e656ed4b7eb.m3u
-#EXTINF:-1,PEACOCK : EVENT 45
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 45
 http://mains.services/live/507Vej3h3S/4632273/2bede266-2d7a-4288-9cd4-a6e59162b694.m3u
-#EXTINF:-1,PEACOCK : EVENT 46
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 46
 http://mains.services/live/507Vej3h3S/4632273/542b66a2-ad26-4484-bb13-86fec3aa9d07.m3u
-#EXTINF:-1,PEACOCK : EVENT 47
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 47
 http://mains.services/live/507Vej3h3S/4632273/e07b004c-88e1-43c9-85af-78205e5987bd.m3u
-#EXTINF:-1,PEACOCK : EVENT 48
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 48
 http://mains.services/live/507Vej3h3S/4632273/d64231cc-30b3-41df-b4c0-4dba6ffbdc72.m3u
-#EXTINF:-1,PEACOCK : EVENT 49
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 49
 http://mains.services/live/507Vej3h3S/4632273/963499c5-33c9-435a-a770-e288860f1dfb.m3u
-#EXTINF:-1,PEACOCK : EVENT 50
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ PEACOCK : EVENT 50
 http://mains.services/live/507Vej3h3S/4632273/a6d1db52-f317-4223-a5fd-124542b9ca02.m3u
 
 
@@ -9775,21 +9924,21 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1,US : SNY (SPORTSNET NEW YORK)
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SNY (SPORTSNET NEW YORK)
 http://mains.services/live/507Vej3h3S/4632273/ff643886-8ebe-4675-8e61-802c4cf543f8.m3u
-#EXTINF:-1,US : SPECTRUM SPORTSNET
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SPECTRUM SPORTSNET
 http://mains.services/live/507Vej3h3S/4632273/035c7af8-be3f-41de-858d-bd4db6ae80cb.m3u
-#EXTINF:-1,US : SPECTRUM SPORTSNET LA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SPECTRUM SPORTSNET LA
 http://mains.services/live/507Vej3h3S/4632273/11b71244-1158-4062-b007-c77748704cdd.m3u
-#EXTINF:-1,US : SPORTS GRID FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SPORTS GRID FHD
 http://mains.services/live/507Vej3h3S/4632273/c49ab113-203e-42bd-ab24-d2fd05967efa.m3u
-#EXTINF:-1,US : SPORTSMAN CHANNEL
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SPORTSMAN CHANNEL
 http://mains.services/live/507Vej3h3S/4632273/0c112fb2-8933-4be8-9537-ebcd2ede6856.m3u
-#EXTINF:-1,US : SPORTSMAN CHANNEL FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SPORTSMAN CHANNEL FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/16c12030-a40b-47f7-85e5-880b141cf591.m3u
-#EXTINF:-1,US : SPORTSNET PITTSBURGH
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : SPORTSNET PITTSBURGH
 http://mains.services/live/507Vej3h3S/4632273/049e661c-3eef-4dce-96de-f69159602e44.m3u
-#EXTINF:-1,US : STADIUM
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : STADIUM
 http://mains.services/live/507Vej3h3S/4632273/e466dc7a-b87e-4afb-a16d-5db851bd371d.m3u
 
 
@@ -9808,15 +9957,15 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-#EXTINF:-1,US : TENNIS CHANNEL FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : TENNIS CHANNEL FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/bbfda0c0-0281-4814-9a57-dbf7bfe801c8.m3u
-#EXTINF:-1,US : THE FIGHT NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : THE FIGHT NETWORK
 http://mains.services/live/507Vej3h3S/4632273/81eb5d51-fb15-42d2-a617-7aac78ebec1e.m3u
-#EXTINF:-1,US : TBS FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : TBS FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/ecd4e57e-c1f1-405f-ab44-8576e8059671.m3u
-#EXTINF:-1,US : TNT FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : TNT FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/830ff393-8c58-4a08-aa79-93a830c2c583.m3u
-#EXTINF:-1,US : TUDN FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : TUDN FHD
 http://mains.services/live/507Vej3h3S/4632273/eb7aee58-9940-4aed-ba90-d53fd0352cc7.m3u
 
 
@@ -9953,7 +10102,7 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-#EXTINF:-1,US : VSIN
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : VSIN
 http://mains.services/live/507Vej3h3S/4632273/71c50441-f4a8-465d-9465-8c9adaa4dee2.m3u
 
 
@@ -9965,15 +10114,15 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 
-#EXTINF:-1,US : WAPA AMERICA
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : WAPA AMERICA
 http://mains.services/live/507Vej3h3S/4632273/738454b9-cede-41e1-9961-2283a0804097.m3u
-#EXTINF:-1,US : WILLOW EXTRA FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : WILLOW EXTRA FHD
 http://mains.services/live/507Vej3h3S/4632273/48cc6a69-7786-4583-8eda-7ab66f480e6f.m3u
-#EXTINF:-1,US : WILLOW FHD
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : WILLOW FHD
 http://mains.services/live/507Vej3h3S/4632273/f07e3bdd-8336-4e5b-b8fc-e2ef5ec002c2.m3u
-#EXTINF:-1,US : WORLD FISHING NETWORK FHD 1080
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : WORLD FISHING NETWORK FHD 1080
 http://mains.services/live/507Vej3h3S/4632273/09815790-b620-4504-8fca-dadcefd64c0c.m3u
-#EXTINF:-1,US : WWE NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : WWE NETWORK
 http://mains.services/live/507Vej3h3S/4632273/2d28d271-852f-4f02-b481-62b2834dc4f7.m3u
 
 
@@ -9982,9 +10131,9 @@ http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="🏈SPORTS🇺🇸USA🏈",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1,US YES Network
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US YES Network
 http://1tv41.icu:8080/zqQ0Q2/591076/57972
-#EXTINF:-1,US : YES NETWORK
+#EXTINF:-1 group-title="🏈SPORTS🇺🇸USA🏈",☆ US : YES NETWORK
 http://mains.services/live/507Vej3h3S/4632273/3c7114a3-ee54-4bad-906e-1c31b590838b.m3u
 
 
@@ -11103,7 +11252,7 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1384
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 01 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png",◉mains    *♡♥  REBOOT DAILY FOR UPDATED  ♥♡*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀NBA🇺🇸Basketball🏀",◉mains    *♡♥  REBOOT DAILY FOR UPDATED  ♥♡*
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸☆ NBA 00 (NBA FINALS)
@@ -11532,7 +11681,7 @@ http://mains.services:2086/507Vej3h3S/4632273/95440
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀NBA🇺🇸Basketball🏀",🇺🇸 NBA 02 🇺🇸    ▂ ▄ ▅ ▆ ⚽  NBA 📺 Basketball  ⚽ ▆ ▅ ▄ ▂
 http://twinsted.ottolok.net/iptv/2EVYF8SSPYYSVU/6466/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png",◉tv.mr   *♡♥  REBOOT DAILY FOR UPDATED  ♥♡*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀NBA🇺🇸Basketball🏀",◉tv.mr   *♡♥  REBOOT DAILY FOR UPDATED  ♥♡*
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
@@ -12385,243 +12534,243 @@ http://mains.services/live/3003556325/2772007/35952b00-52ce-4fc9-899c-b0605ae44c
 http://mains.services/live/3003556325/2772007/65cc6e20-157c-4ae1-a6c4-06ea91ad2efe.m3u
 #EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 031
 http://mains.services/live/3003556325/2772007/1c00a56b-7301-41a0-86a2-3daf8394df03.m3u
-#EXTINF:-1,NCAAF: GAME 032
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 032
 http://mains.services/live/3003556325/2772007/8a9be352-0527-4972-b610-c5afe3e2f0ba.m3u
-#EXTINF:-1,NCAAF: GAME 033
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 033
 http://mains.services/live/3003556325/2772007/00ffc430-9c00-48d8-966d-3449b004e81c.m3u
-#EXTINF:-1,NCAAF: GAME 034
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 034
 http://mains.services/live/3003556325/2772007/eec6b391-4fc6-4c1e-a36c-268656ea412f.m3u
-#EXTINF:-1,NCAAF: GAME 035
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 035
 http://mains.services/live/3003556325/2772007/9f0241d7-f9db-48cb-ac6c-3683be998002.m3u
-#EXTINF:-1,NCAAF: GAME 036
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 036
 http://mains.services/live/3003556325/2772007/5e089649-19c1-4516-8c01-4e5a718f373f.m3u
-#EXTINF:-1,NCAAF: GAME 037
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 037
 http://mains.services/live/3003556325/2772007/62662326-bd3b-42e5-b5f8-66019074c900.m3u
-#EXTINF:-1,NCAAF: GAME 038
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 038
 http://mains.services/live/3003556325/2772007/36559f2a-0ab4-41c2-b8b4-ec80f48e3035.m3u
-#EXTINF:-1,NCAAF: GAME 039
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 039
 http://mains.services/live/3003556325/2772007/df0f791a-37ba-4939-9598-d2adef7c90aa.m3u
-#EXTINF:-1,NCAAF: GAME 040
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 040
 http://mains.services/live/3003556325/2772007/d832246b-d92e-46f4-a6b1-46ddd80ee81d.m3u
-#EXTINF:-1,NCAAF: GAME 041
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 041
 http://mains.services/live/3003556325/2772007/cffa94fa-f2c3-4630-b40d-41acca103eed.m3u
-#EXTINF:-1,NCAAF: GAME 042
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 042
 http://mains.services/live/3003556325/2772007/3fd12fe4-c233-45c5-85a6-c5536f37c58a.m3u
-#EXTINF:-1,NCAAF: GAME 043
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 043
 http://mains.services/live/3003556325/2772007/b0762bd0-057e-423d-8ece-1957de0e3766.m3u
-#EXTINF:-1,NCAAF: GAME 044
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 044
 http://mains.services/live/3003556325/2772007/bbcda146-ad30-45e0-a940-00f6d9e2c123.m3u
-#EXTINF:-1,NCAAF: GAME 045
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 045
 http://mains.services/live/3003556325/2772007/b95dd187-9cf6-4410-b2d7-8da66243143a.m3u
-#EXTINF:-1,NCAAF: GAME 046
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 046
 http://mains.services/live/3003556325/2772007/956cbe9f-15f2-4d58-a86c-dcb7f19dd37c.m3u
-#EXTINF:-1,NCAAF: GAME 047
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 047
 http://mains.services/live/3003556325/2772007/77923d2d-df3f-4593-a32f-790bddc2b62a.m3u
-#EXTINF:-1,NCAAF: GAME 048
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 048
 http://mains.services/live/3003556325/2772007/7e42fe3d-b526-4303-988e-8d8f01a233fe.m3u
-#EXTINF:-1,NCAAF: GAME 049
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 049
 http://mains.services/live/3003556325/2772007/fc21e556-ad6c-4a6c-a662-f983c904c2fa.m3u
-#EXTINF:-1,NCAAF: GAME 050
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 050
 http://mains.services/live/3003556325/2772007/90242cde-e9d4-40a6-80ce-380ba5b3cedd.m3u
-#EXTINF:-1,NCAAF: GAME 051
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 051
 http://mains.services/live/3003556325/2772007/b3cb48c8-bdb6-4e4a-9aae-ba3396172bf4.m3u
-#EXTINF:-1,NCAAF: GAME 052
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 052
 http://mains.services/live/3003556325/2772007/3644d6b2-fcf2-4744-8d92-73c91685ac9b.m3u
-#EXTINF:-1,NCAAF: GAME 053
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 053
 http://mains.services/live/3003556325/2772007/d92966f0-cd0c-434f-885e-0e7a1ab05de9.m3u
-#EXTINF:-1,NCAAF: GAME 054
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 054
 http://mains.services/live/3003556325/2772007/6e7fb6f7-c180-4b51-bf68-e2270b864108.m3u
-#EXTINF:-1,NCAAF: GAME 055
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 055
 http://mains.services/live/3003556325/2772007/4f11e0d0-481a-4914-be76-7c7f8c1b3693.m3u
-#EXTINF:-1,NCAAF: GAME 056
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 056
 http://mains.services/live/3003556325/2772007/15f9e522-272e-43dc-ac1a-a2e6c5a36ea8.m3u
-#EXTINF:-1,NCAAF: GAME 057
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 057
 http://mains.services/live/3003556325/2772007/d7348696-a1dd-4f77-a700-7efd3162051f.m3u
-#EXTINF:-1,NCAAF: GAME 058
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 058
 http://mains.services/live/3003556325/2772007/30d3ad38-d65b-4769-9527-4174146c4145.m3u
-#EXTINF:-1,NCAAF: GAME 059
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 059
 http://mains.services/live/3003556325/2772007/02e3eb96-d30c-495e-8afd-2de3f18023e9.m3u
-#EXTINF:-1,NCAAF: GAME 060
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 060
 http://mains.services/live/3003556325/2772007/b01ebf49-f26e-4613-a129-65b54642ab15.m3u
-#EXTINF:-1,NCAAF: GAME 061
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 061
 http://mains.services/live/3003556325/2772007/9df3d097-64ce-4ef0-baec-d34560d230c2.m3u
-#EXTINF:-1,NCAAF: GAME 062
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 062
 http://mains.services/live/3003556325/2772007/58ea408f-0e12-43ce-ab74-d8b6337383b3.m3u
-#EXTINF:-1,NCAAF: GAME 063
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 063
 http://mains.services/live/3003556325/2772007/f2c7097b-c0f7-4a8d-a805-a1c688d05a7b.m3u
-#EXTINF:-1,NCAAF: GAME 064
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 064
 http://mains.services/live/3003556325/2772007/ce5537a1-df0d-4907-bbca-9b51a299a79d.m3u
-#EXTINF:-1,NCAAF: GAME 065
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 065
 http://mains.services/live/3003556325/2772007/482a2caf-f569-4285-b62d-a919176f43d0.m3u
-#EXTINF:-1,NCAAF: GAME 066
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 066
 http://mains.services/live/3003556325/2772007/bedde05d-c2f6-4bbb-ab7f-0198f7f687fd.m3u
-#EXTINF:-1,NCAAF: GAME 067
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 067
 http://mains.services/live/3003556325/2772007/f047d31a-0818-4399-9712-6ca8e256183d.m3u
-#EXTINF:-1,NCAAF: GAME 068
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 068
 http://mains.services/live/3003556325/2772007/bf6f8d48-c8b3-4b01-b6ff-fe4c0f0d4ab1.m3u
-#EXTINF:-1,NCAAF: GAME 069
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 069
 http://mains.services/live/3003556325/2772007/bc66844f-420c-4029-9939-b79956d6c687.m3u
-#EXTINF:-1,NCAAF: GAME 070
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 070
 http://mains.services/live/3003556325/2772007/9c1feda3-eda8-473a-96c8-f347f67ca3a3.m3u
-#EXTINF:-1,NCAAF: GAME 071
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 071
 http://mains.services/live/3003556325/2772007/b9244b05-e27d-4aa4-a959-b4cd8f12876a.m3u
-#EXTINF:-1,NCAAF: GAME 072
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 072
 http://mains.services/live/3003556325/2772007/b28e839e-17e9-4c1a-bb59-60875f639422.m3u
-#EXTINF:-1,NCAAF: GAME 073
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 073
 http://mains.services/live/3003556325/2772007/3107ba28-a414-46c9-988d-cfb9fede101a.m3u
-#EXTINF:-1,NCAAF: GAME 074
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 074
 http://mains.services/live/3003556325/2772007/4e12da65-998f-4820-b6b5-aa36132a168b.m3u
-#EXTINF:-1,NCAAF: GAME 075
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 075
 http://mains.services/live/3003556325/2772007/7b1ed7b6-b34a-4a18-92c0-d1910336c765.m3u
-#EXTINF:-1,NCAAF: GAME 076
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 076
 http://mains.services/live/3003556325/2772007/910dd7d2-13a2-44ff-b899-4e850378eee8.m3u
-#EXTINF:-1,NCAAF: GAME 077
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 077
 http://mains.services/live/3003556325/2772007/67238337-a8bf-4cdf-8edc-6e47e5eab1a0.m3u
-#EXTINF:-1,NCAAF: GAME 078
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 078
 http://mains.services/live/3003556325/2772007/3c4caa8d-064a-4b7b-8f95-ff93cead970d.m3u
-#EXTINF:-1,NCAAF: GAME 079
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 079
 http://mains.services/live/3003556325/2772007/c30fd12a-6e75-4e8f-bd70-3b1a4d9f9e8c.m3u
-#EXTINF:-1,NCAAF: GAME 080
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 080
 http://mains.services/live/3003556325/2772007/fdc9250d-f5e3-4612-8978-30d4484c88c3.m3u
-#EXTINF:-1,NCAAF: GAME 081
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 081
 http://mains.services/live/3003556325/2772007/4d28d0d9-8150-42be-b0c0-3207a023c0da.m3u
-#EXTINF:-1,NCAAF: GAME 082
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 082
 http://mains.services/live/3003556325/2772007/1d932b24-81f7-4791-b3dd-237ed8cb0a29.m3u
-#EXTINF:-1,NCAAF: GAME 083
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 083
 http://mains.services/live/3003556325/2772007/34ad1321-3777-443d-863d-7f76f986a962.m3u
-#EXTINF:-1,NCAAF: GAME 084
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 084
 http://mains.services/live/3003556325/2772007/f5eb79c1-109e-4ea1-9522-60e507a8e30e.m3u
-#EXTINF:-1,NCAAF: GAME 085
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 085
 http://mains.services/live/3003556325/2772007/aa98d6c4-6320-480e-beea-dbb0ace39803.m3u
-#EXTINF:-1,NCAAF: GAME 086
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 086
 http://mains.services/live/3003556325/2772007/45d7906b-5f23-4729-9432-15286f753743.m3u
-#EXTINF:-1,NCAAF: GAME 087
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 087
 http://mains.services/live/3003556325/2772007/68f69e34-00af-4190-a112-ac04f76a96e3.m3u
-#EXTINF:-1,NCAAF: GAME 088
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 088
 http://mains.services/live/3003556325/2772007/373a319b-16f2-4840-b8ab-6de3a8507d36.m3u
-#EXTINF:-1,NCAAF: GAME 089
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 089
 http://mains.services/live/3003556325/2772007/42382564-0227-4709-9437-efcd771e15a9.m3u
-#EXTINF:-1,NCAAF: GAME 090
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 090
 http://mains.services/live/3003556325/2772007/85ed3455-bc60-4711-bbaa-c69978e381d7.m3u
-#EXTINF:-1,NCAAF: GAME 091
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 091
 http://mains.services/live/3003556325/2772007/9634a832-7b77-46dc-b8c6-6a6d8f6e208f.m3u
-#EXTINF:-1,NCAAF: GAME 092
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 092
 http://mains.services/live/3003556325/2772007/7727700c-cf6c-44af-b1a8-7ba93dfef1e2.m3u
-#EXTINF:-1,NCAAF: GAME 093
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 093
 http://mains.services/live/3003556325/2772007/c56a054a-2309-4405-b12a-de7927977a90.m3u
-#EXTINF:-1,NCAAF: GAME 094
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 094
 http://mains.services/live/3003556325/2772007/35ddec6b-f676-4b3a-ae3a-5c913884ec79.m3u
-#EXTINF:-1,NCAAF: GAME 095
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 095
 http://mains.services/live/3003556325/2772007/e12277c0-7ec2-46d6-a5da-4e06c3793984.m3u
-#EXTINF:-1,NCAAF: GAME 096
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 096
 http://mains.services/live/3003556325/2772007/819833e2-9d4b-4c73-b6cd-f795ec922ff8.m3u
-#EXTINF:-1,NCAAF: GAME 097
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 097
 http://mains.services/live/3003556325/2772007/c7f66c03-1040-4208-b908-701a1f1bad90.m3u
-#EXTINF:-1,NCAAF: GAME 098
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 098
 http://mains.services/live/3003556325/2772007/eeb259e0-3b5d-41c0-9087-db1ba1ba288d.m3u
-#EXTINF:-1,NCAAF: GAME 099
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 099
 http://mains.services/live/3003556325/2772007/6cf70b80-0762-4325-b353-fd7251270f7c.m3u
-#EXTINF:-1,NCAAF: GAME 100
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 100
 http://mains.services/live/3003556325/2772007/cd9161b5-486d-4019-ae18-b5ff79d8f850.m3u
-#EXTINF:-1,NCAAF: GAME 101
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 101
 http://mains.services/live/3003556325/2772007/3c825968-d374-4103-90ee-73dda89d0398.m3u
-#EXTINF:-1,NCAAF: GAME 102
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 102
 http://mains.services/live/3003556325/2772007/1fd586bc-07ea-4e30-99da-6e4ac5af2f6f.m3u
-#EXTINF:-1,NCAAF: GAME 103
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 103
 http://mains.services/live/3003556325/2772007/7fe4b7d3-2db6-4064-b11c-b7f819ed9fbf.m3u
-#EXTINF:-1,NCAAF: GAME 104
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 104
 http://mains.services/live/3003556325/2772007/70868a13-9b2d-4b9c-922e-2ff49838d381.m3u
-#EXTINF:-1,NCAAF: GAME 105
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ ,NCAAF: GAME 105
 http://mains.services/live/3003556325/2772007/974076af-29c6-49e1-846e-2498306da04d.m3u
-#EXTINF:-1,NCAAF: GAME 106
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 106
 http://mains.services/live/3003556325/2772007/8114040b-7ebf-4754-a3eb-86edbe6cc7d2.m3u
-#EXTINF:-1,NCAAF: GAME 107
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 107
 http://mains.services/live/3003556325/2772007/c8dbcf12-c26a-4332-84ae-087331399950.m3u
-#EXTINF:-1,NCAAF: GAME 108
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 108
 http://mains.services/live/3003556325/2772007/affdb112-ee4c-4a13-bc7a-d9369756a56e.m3u
-#EXTINF:-1,NCAAF: GAME 109
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 109
 http://mains.services/live/3003556325/2772007/ff91e82a-738a-44d2-b67c-dcad5c11d1fa.m3u
-#EXTINF:-1,NCAAF: GAME 110
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 110
 http://mains.services/live/3003556325/2772007/5d84b3a0-9afd-4715-ab58-529fda4b5ec3.m3u
-#EXTINF:-1,NCAAF: GAME 111
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 111
 http://mains.services/live/3003556325/2772007/9dc34aea-7d46-4a95-a6a1-e6828986c6e7.m3u
-#EXTINF:-1,NCAAF: GAME 112
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 112
 http://mains.services/live/3003556325/2772007/32333906-192e-4b1e-ac7e-c6dd05f5d0dd.m3u
-#EXTINF:-1,NCAAF: GAME 113
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 113
 http://mains.services/live/3003556325/2772007/16b73065-7c8f-4ea8-bfd0-69c576f60be0.m3u
-#EXTINF:-1,NCAAF: GAME 114
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ ,NCAAF: GAME 114
 http://mains.services/live/3003556325/2772007/57dda946-9193-45fd-866b-fd3f205c2c7d.m3u
-#EXTINF:-1,NCAAF: GAME 115
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 115
 http://mains.services/live/3003556325/2772007/394a522c-8444-4cc1-9b63-44e1ec4c78c8.m3u
-#EXTINF:-1,NCAAF: GAME 116
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 116
 http://mains.services/live/3003556325/2772007/ab844514-cc39-42d3-98c3-db8dc760ac0c.m3u
-#EXTINF:-1,NCAAF: GAME 117
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 117
 http://mains.services/live/3003556325/2772007/d24e3569-3ae9-4f0c-b6d5-936c0f2098cd.m3u
-#EXTINF:-1,NCAAF: GAME 118
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 118
 http://mains.services/live/3003556325/2772007/5db49805-1f65-4d2c-a58d-61a01d27c178.m3u
-#EXTINF:-1,NCAAF: GAME 119
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 119
 http://mains.services/live/3003556325/2772007/38e9d00c-7bcf-48f2-9983-3b601f14ec4f.m3u
-#EXTINF:-1,NCAAF: GAME 120
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 120
 http://mains.services/live/3003556325/2772007/72b145bb-75cb-4970-b7e9-cec4b994979d.m3u
-#EXTINF:-1,NCAAF: GAME 121
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 121
 http://mains.services/live/3003556325/2772007/af50f910-2ca6-4359-8096-1d467f732b95.m3u
-#EXTINF:-1,NCAAF: GAME 122
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 122
 http://mains.services/live/3003556325/2772007/89246003-1afc-4bf3-bd0d-8d4df0921d30.m3u
-#EXTINF:-1,NCAAF: GAME 123
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 123
 http://mains.services/live/3003556325/2772007/54219a51-41d7-40e0-99c9-c0cb7df61928.m3u
-#EXTINF:-1,NCAAF: GAME 124
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 124
 http://mains.services/live/3003556325/2772007/2f8c9ab0-6bdd-461f-80e3-2861d0b7a2b6.m3u
-#EXTINF:-1,NCAAF: GAME 125
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 125
 http://mains.services/live/3003556325/2772007/8b788e9c-5ef9-4b11-90d3-1c807d3c16e9.m3u
-#EXTINF:-1,NCAAF: GAME 126
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 126
 http://mains.services/live/3003556325/2772007/4c60973d-43c9-4dc7-ac7e-02e4ee4f8106.m3u
-#EXTINF:-1,NCAAF: GAME 127
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 127
 http://mains.services/live/3003556325/2772007/5330185a-a9fc-4818-abc8-960e929319db.m3u
-#EXTINF:-1,NCAAF: GAME 128
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 128
 http://mains.services/live/3003556325/2772007/0622f49b-b541-411b-b95b-c91f68052e5d.m3u
-#EXTINF:-1,NCAAF: GAME 129
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 129
 http://mains.services/live/3003556325/2772007/238b01c3-d8af-42b7-adf5-8316c8b952d6.m3u
-#EXTINF:-1,NCAAF: GAME 130
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 130
 http://mains.services/live/3003556325/2772007/69f575e0-83c2-496a-ab0a-4f7edb557e9a.m3u
-#EXTINF:-1,NCAAF: GAME 131
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 131
 http://mains.services/live/3003556325/2772007/25cf43b3-4b6d-4a79-8a9d-4178bf55314d.m3u
-#EXTINF:-1,NCAAF: GAME 132
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 132
 http://mains.services/live/3003556325/2772007/12daebbb-3dd7-43e1-9918-004cc1788c22.m3u
-#EXTINF:-1,NCAAF: GAME 133
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 133
 http://mains.services/live/3003556325/2772007/21360ed1-5fce-478a-89d0-efc4e7287dbd.m3u
-#EXTINF:-1,NCAAF: GAME 134
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 134
 http://mains.services/live/3003556325/2772007/84c42339-494a-4c29-931e-cef50e624598.m3u
-#EXTINF:-1,NCAAF: GAME 135
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 135
 http://mains.services/live/3003556325/2772007/3126aff3-30d9-4059-a8cc-2bd76e305a83.m3u
-#EXTINF:-1,NCAAF: GAME 136
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 136
 http://mains.services/live/3003556325/2772007/a63af5c7-9be8-4191-bfac-c37b476663e9.m3u
-#EXTINF:-1,NCAAF: GAME 137
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 137
 http://mains.services/live/3003556325/2772007/f893c0cf-24d5-4f2c-9178-c30c9940c0d8.m3u
-#EXTINF:-1,NCAAF: GAME 138
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 138
 http://mains.services/live/3003556325/2772007/62712f89-d1f2-4c4c-b798-d8c5d556c585.m3u
-#EXTINF:-1,NCAAF: GAME 139
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 139
 http://mains.services/live/3003556325/2772007/aa52b2ea-e380-4165-aeb0-485e8b8c7993.m3u
-#EXTINF:-1,NCAAF: GAME 140
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 140
 http://mains.services/live/3003556325/2772007/9375460f-da62-4433-b465-efcc19bc057b.m3u
-#EXTINF:-1,NCAAF: GAME 141
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 141
 http://mains.services/live/3003556325/2772007/63485d09-175b-4ee6-8c94-aaa1a9df2ee2.m3u
-#EXTINF:-1,NCAAF: GAME 142
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 142
 http://mains.services/live/3003556325/2772007/7850a46b-58fe-455e-bd91-39a0c29d5375.m3u
-#EXTINF:-1,NCAAF: GAME 143
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 143
 http://mains.services/live/3003556325/2772007/c056fbbe-a6af-4b7a-ab17-98de463e7c4d.m3u
-#EXTINF:-1,NCAAF: GAME 144
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 144
 http://mains.services/live/3003556325/2772007/732e5506-9174-4155-9a99-9cdb656f0bc4.m3u
-#EXTINF:-1,NCAAF: GAME 145
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 145
 http://mains.services/live/3003556325/2772007/3482bca9-a9c8-4cf3-8f24-aff21c046961.m3u
-#EXTINF:-1,NCAAF: GAME 146
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 146
 http://mains.services/live/3003556325/2772007/f4678639-c413-4afc-b1c0-9397c8773d3e.m3u
-#EXTINF:-1,NCAAF: GAME 147
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 147
 http://mains.services/live/3003556325/2772007/8a476d6e-d77e-4f14-8739-e47bca801ba2.m3u
-#EXTINF:-1,NCAAF: GAME 148
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 148
 http://mains.services/live/3003556325/2772007/124fa8ba-4ae9-4741-b61d-81da29b57458.m3u
-#EXTINF:-1,NCAAF: GAME 149
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 149
 http://mains.services/live/3003556325/2772007/3786d5c1-f959-476b-877c-9316d47800a8.m3u
-#EXTINF:-1,NCAAF: GAME 150
+#EXTINF:-1 group-title="🏈NFL🇺🇸Football🏈",🇺🇸☆ NCAAF: GAME 150
 http://mains.services/live/3003556325/2772007/b2317a4c-d548-41dd-b008-f233c3f7bb93.m3u
 
 
@@ -15040,31 +15189,31 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30423.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1824.ts
 #EXTINF:-1,TELETRACK *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1823.ts
-#EXTINF:-1,TIGO SPORTS 1 *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1820.ts
-#EXTINF:-1,TIGO SPORTS 2 *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821.ts
-#EXTINF:-1,TIGO SPORTS 1 BO *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45890.ts
-#EXTINF:-1,TIGO SPORTS 2 BO *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45891.ts
-#EXTINF:-1,TIGO SPORTS 3 BO *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/45892.ts
-#EXTINF:-1,TIGO SPORTS PARAGUAY
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1819.ts
-#EXTINF:-1,TIGO SPORTS COSTA RICA *HQ
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88620.ts
-#EXTINF:-1,TIGO SPORTS COSTA RICA *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1817.ts
-#EXTINF:-1,TIGO SPORTS COSTA RICA *HD | op2
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818.ts
-#EXTINF:-1,TIGO SPORTS COSTA RICA *FHD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *FHD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/88619.ts
-#EXTINF:-1,TIGO SPORTS HONDURAS *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/41345.ts
-#EXTINF:-1,TIGO SPORTS GUATEMALA *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59458.ts
-#EXTINF:-1,TIGO SPORTS EL SALVADOR *HD
+#EXTINF:-1 group-title="📺WORLD🌐SPORTS⚽",* FOX Centroamerica Deportes *HD
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/59459.ts
 #EXTINF:-1,TNT SPORTS AR *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53187.ts
