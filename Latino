@@ -583,12 +583,16 @@ http://mains.services/live/640939802963/IDC01478!/d3e9d186-d304-43a3-8631-2ab251
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (UNIVERSO) ESP
 http://mains.services/live/3003556325/2772007/d3e9d186-d304-43a3-8631-2ab2510fc7eb.ts
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (UNIVERSO) ESP
+http://mains.services/live/507Vej3h3S/4632273/d3e9d186-d304-43a3-8631-2ab2510fc7eb.m3u
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (UNIVERSO) ESP
 http://mains.services/live/507Vej3h3S/4632273/d3e9d186-d304-43a3-8631-2ab2510fc7eb.mpd
 
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (TELEMUNDO) ESP
 http://mains.services/live/640939802963/IDC01478!/360b5429-b424-4887-ab8c-03e629d55cd3.m3u8
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (TELEMUNDO) ESP
 http://mains.services/live/3003556325/2772007/360b5429-b424-4887-ab8c-03e629d55cd3.ts
+#EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (TELEMUNDO) ESP
+http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.m3u
 #EXTINF:-1 group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸",🇪🇸☆ (TELEMUNDO) ESP
 http://mains.services/live/507Vej3h3S/4632273/360b5429-b424-4887-ab8c-03e629d55cd3.mpd
 
@@ -3237,9 +3241,7 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131101
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®105 | Fox Sports West HD USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131102
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®106 | Fox Sports Wisconsin USA
-http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131103
-
-
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131103   
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7812 Caliente TV de FOX SPORTS (opt1)
@@ -4729,38 +4731,22 @@ http://pfsv.io:80/6181288/27664/204149
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt1)
 http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt2)
-http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
+http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt3)
 http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt4)
-http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt1)
-http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt2)
-http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt4)
-http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt1)
-http://mains.services/live/507Vej3h3S/4632273/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt2)
-http://mains.services/live/640939802963/IDC01478!/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 1 | Paramount+ (opt4)
-http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.ts
+http://mains.services/live/4523074511/3178768/6c06f0a8-9ae0-4043-8bac-621f19219189.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt1)
 http://mains.services/live/507Vej3h3S/4632273/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt2)
 http://mains.services/live/640939802963/IDC01478!/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt3)
-http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+http://mains.services/live/3003556325/2772007/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  UFC 2 | Paramount+ (opt4)
-http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.ts
+http://mains.services/live/4523074511/3178768/e2728dcd-c3e4-454b-9361-4d1d263b81c4.m3u
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ PPV | TNT SPORTS 1 UK | BOX🥊 UFC PAY-PER-VIEW (opt1) 
 http://mains.services:2086/640939802963/IDC01478!/67062
@@ -4785,60 +4771,51 @@ http://mains.services/live/4523074511/3178768/67063.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt1)
 http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt2)
-http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
+http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt3)
 http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt4)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt1)
-http://mains.services/live/507Vej3h3S/4632273/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt2)
-http://mains.services/live/640939802963/IDC01478!/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt3)
-http://mains.services/live/3003556325/2772007/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV  WWE (opt4)
-http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.ts
+http://mains.services/live/4523074511/3178768/3f329013-3dc2-4a8d-b8ee-916831634ee7.m3u
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+http://mains.services/live/507Vej3h3S/4632273/decde53c-44fb-4932-90c5-8fe12fe48549.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt2)
-http://mains.services/live/640939802963/IDC01478!/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
+http://mains.services/live/640939802963/IDC01478!/decde53c-44fb-4932-90c5-8fe12fe48549.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt3)
 http://mains.services/live/3003556325/2772007/decde53c-44fb-4932-90c5-8fe12fe48549.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 01 (opt4)
 http://mains.services/live/4523074511/3178768/decde53c-44fb-4932-90c5-8fe12fe48549.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+http://mains.services/live/507Vej3h3S/4632273/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt2)
-http://mains.services/live/640939802963/IDC01478!/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+http://mains.services/live/640939802963/IDC01478!/a7570bee-aab6-4aa2-91fa-a2335835565d.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt3)
-http://mains.services/live/3003556325/2772007/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u
+http://mains.services/live/3003556325/2772007/a7570bee-aab6-4aa2-91fa-a2335835565d.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 02 (opt4)
 http://mains.services/live/4523074511/3178768/a7570bee-aab6-4aa2-91fa-a2335835565d.ts
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+http://mains.services/live/507Vej3h3S/4632273/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt2)
-http://mains.services/live/640939802963/IDC01478!/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+http://mains.services/live/640939802963/IDC01478!/7b327ade-1523-4d5c-907c-fd1a340ad13c.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt3)
-http://mains.services/live/3003556325/2772007/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
+http://mains.services/live/3003556325/2772007/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 03 (opt4)
 http://mains.services/live/4523074511/3178768/7b327ade-1523-4d5c-907c-fd1a340ad13c.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+http://mains.services/live/507Vej3h3S/4632273/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt2)
-http://mains.services/live/640939802963/IDC01478!/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+http://mains.services/live/640939802963/IDC01478!/f13aebfb-7360-4167-88e6-747aa2f5d488.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt3)
-http://mains.services/live/3003556325/2772007/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
+http://mains.services/live/3003556325/2772007/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 04 (opt4)
 http://mains.services/live/4523074511/3178768/f13aebfb-7360-4167-88e6-747aa2f5d488.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
+http://mains.services/live/507Vej3h3S/4632273/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt2)
 http://mains.services/live/640939802963/IDC01478!/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 05 (opt3)
@@ -4847,11 +4824,11 @@ http://mains.services/live/3003556325/2772007/2ded5318-d64b-4475-ad9b-8fa6cf1ad8
 http://mains.services/live/4523074511/3178768/2ded5318-d64b-4475-ad9b-8fa6cf1ad850.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+http://mains.services/live/507Vej3h3S/4632273/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt2)
-http://mains.services/live/640939802963/IDC01478!/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+http://mains.services/live/640939802963/IDC01478!/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt3)
-http://mains.services/live/3003556325/2772007/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
+http://mains.services/live/3003556325/2772007/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ PPV EVENT 06 (opt4)
 http://mains.services/live/4523074511/3178768/c787fd90-daaf-4c80-a38d-e86a9cfdb7a9.m3u
 
@@ -4949,7 +4926,7 @@ http://mains.services/live/507Vej3h3S/4632273/438edd20-aeb5-4e52-a443-207440415a
 http://mains.services/live/507Vej3h3S/4632273/41dcd37a-05ce-4f7a-b9fd-240ad9a175dc.m3u
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 PERU🇵🇪L1MAX 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 Liga1MAX🇵🇪PERU 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
