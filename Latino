@@ -329,42 +329,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52688.ts
 
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS (ESP)
-http://mains.services/live/4523074511/3178768/70ca0663-a7b4-4e6b-a7fa-8f5640f177ed.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS 04
-http://mains.services/live/4523074511/3178768/c32e294f-2b82-44bd-b7b4-1938790834bb.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS 05
-http://mains.services/live/4523074511/3178768/bd95b8d1-2490-4de2-a59f-357748d16e9b.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS 06
-http://mains.services/live/4523074511/3178768/9fda5811-7325-4549-8b8b-26de80ab5ff8.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS 07
-http://mains.services/live/4523074511/3178768/7554f851-ea43-42a0-87b8-c808f08f4c0f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS LA LIGA
-http://mains.services/live/4523074511/3178768/61581a20-1cb8-4dcf-9a45-f84f6e99a913.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆SPORTS : BEIN SPORTS USA
-http://mains.services/live/4523074511/3178768/8d26324b-ee1a-4b91-9d3a-6b17a36bd064.m3u
-
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT 1 FR
-http://mains.services/live/4523074511/3178768/13a08b45-70f5-4c86-a5a1-5fd9166f23c7.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT 2 FR
-http://mains.services/live/4523074511/3178768/89679bf5-fb3b-4e2d-a5bb-1dce6692caa2.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT 3 FR
-http://mains.services/live/4523074511/3178768/b9911c7d-4672-44c4-8def-999e0a8332a9.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-04
-http://mains.services/live/4523074511/3178768/bd5ef69b-8675-412a-b138-a88cb2f2ccdb.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-05
-http://mains.services/live/4523074511/3178768/97fd7138-0f72-4e9b-812b-cf53d2e573d2.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-06
-http://mains.services/live/4523074511/3178768/f9b4d749-3bf4-45b4-ac89-55ead60d3c8f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-07
-http://mains.services/live/4523074511/3178768/d753bd82-c25e-47fc-9e16-94b1dcc5562f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-08
-http://mains.services/live/4523074511/3178768/70d338e3-c18d-42c3-9b8e-daeb139793c9.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-09
-http://mains.services/live/4523074511/3178768/4679397a-36a2-47bb-8898-b29aa5d91b8e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆FR : BEINSPORT-MAX-10
-http://mains.services/live/4523074511/3178768/fe5e9716-a452-4a10-bbcc-ded53a91c5ab.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ BEIN SPORTS (opt1) 
 http://mains.best:2086/3003556325/2772007/352
@@ -1222,30 +1186,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-
-#EXTINF:-1,US : FOX BUSINESS
-http://mains.services/live/4523074511/3178768/6ce10b0b-4089-4d95-a440-ffb146bae8e3.m3u
-#EXTINF:-1,US : FOX BUSINESS NETWORK FHD 1080
-http://mains.services/live/4523074511/3178768/383dfd64-c14b-4413-abeb-6aa54e420b68.m3u
-#EXTINF:-1,US : FOX DEPORTES FHD
-http://mains.services/live/4523074511/3178768/6d392bd8-158a-4eea-87a1-fe2e7a6aa365.m3u
-#EXTINF:-1,US : FOX NEWS CHANNEL
-http://mains.services/live/4523074511/3178768/601e83bc-431d-4ea2-a0c4-7bdd4bce6462.m3u
-#EXTINF:-1,US : FOX NEWS CHANNEL FHD 1080
-http://mains.services/live/4523074511/3178768/c9a30f64-92fd-4515-a88b-bbe29f89d594.m3u
-#EXTINF:-1,US : FOX NEWS LIVE NOW
-http://mains.services/live/4523074511/3178768/3e2f01e1-1d8b-4244-90ec-6474c9b3c940.m3u
-
-#EXTINF:-1,US : FOX SOCCER PLUS
-http://mains.services/live/4523074511/3178768/93a91ced-a6dd-4367-86f8-60ccb8b5a82f.m3u
-#EXTINF:-1,US : FOX SPORTS 1
-http://mains.services/live/4523074511/3178768/127c0c8a-fed7-4c3d-b4c3-c75c23d319a5.m3u
-#EXTINF:-1,US : FOX SPORTS 1 FHD 1080
-http://mains.services/live/4523074511/3178768/e0e766c2-49a7-4ad4-8934-e35beb4fa6f9.m3u
-#EXTINF:-1,US : FOX SPORTS 2
-http://mains.services/live/4523074511/3178768/d8fcc1ea-2336-4919-bccf-fc2f484d6ea5.m3u
-#EXTINF:-1,US : FOX SPORTS 2 FHD 1080
-http://mains.services/live/4523074511/3178768/4c538364-3af9-46bb-b778-e287295d39ee.m3u
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆LATINO : FOX SPORTS 1
@@ -4011,33 +3951,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TSN 3 blackout
-http://mains.services/live/4523074511/3178768/d5a0dcf4-fc1a-4355-9d0a-ade8c30bd777.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TSN 1
-http://mains.services/live/4523074511/3178768/65b625fa-62d3-44a5-9be1-2d895fb96cef.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TSN 2
-http://mains.services/live/4523074511/3178768/f1ceaa07-9046-4314-bd17-736d28e3ef2d.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TSN 3
-http://mains.services/live/4523074511/3178768/ebfd864a-e00e-4c3b-beae-cc1ec3f1d01a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TSN 4
-http://mains.services/live/4523074511/3178768/64074fc6-43e9-4e52-92b9-838b2f21a22c.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TSN 5
-http://mains.services/live/4523074511/3178768/255a5c0b-98b8-48d3-96ac-2aa93ee480a5.m3u
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA: CFL GAME 01
-http://mains.services/live/4523074511/3178768/fbe19fa0-b18f-4189-ae04-6faa55697656.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA: CFL GAME 02
-http://mains.services/live/4523074511/3178768/32782720-405c-46b2-a843-db09a6ea87db.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA: CFL GAME 03
-http://mains.services/live/4523074511/3178768/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA: CFL GAME 04
-http://mains.services/live/4523074511/3178768/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TVA MONTREAL
-http://mains.services/live/4523074511/3178768/ebde6ae6-59dd-4641-bd99-546ad0b66517.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆CA : TVA SPORTS HD
-http://mains.services/live/4523074511/3178768/fd9575b2-f9b3-4036-a578-f7a2e1e96d97.m3u
-
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",®🇪🇸 TSi 6 HN (opt1)
@@ -4224,26 +4137,6 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7833.m3u8
 http://alfa.7057460.xyz:2095/live/Redtv80229/asd12345/7833.ts
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 01
-http://mains.services/live/4523074511/3178768/6c5b4010-afa9-4e64-921b-263217b936da.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 02
-http://mains.services/live/4523074511/3178768/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 03
-http://mains.services/live/4523074511/3178768/3487f1f4-771e-4c8c-aa7c-80945800c7d9.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 04
-http://mains.services/live/4523074511/3178768/26a00017-1496-468f-8693-93df9e1b846f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 05
-http://mains.services/live/4523074511/3178768/92614ec7-2113-4151-bc29-3a23ade80cc7.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 06
-http://mains.services/live/4523074511/3178768/680d9f32-4cdb-4112-881d-ea0e63b5f798.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 07
-http://mains.services/live/4523074511/3178768/9bf3065f-38c5-4185-90b1-54c5d37780c2.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 08
-http://mains.services/live/4523074511/3178768/3b85d1fc-d5bd-42b7-8c10-089cdbb9a954.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 09
-http://mains.services/live/4523074511/3178768/bb163f18-86ed-4144-9d9f-81dbd81c107e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : TNT SPORTS 10
-http://mains.services/live/4523074511/3178768/8b6a93b6-26a2-4f9b-96f9-510547dc2cef.m3u
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ GB : TNT SPORTS 1 | BOX🥊 UFC PAY-PER-VIEW (opt1)  
 http://mains.services:2086/live/507Vej3h3S/4632273/67062.ts
@@ -5277,200 +5170,6 @@ http://mains.services:2086/640939802963/IDC01478!/95409
 
 
 
-
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : ARLINGTON RENEGADES
-http://mains.services/live/507Vej3h3S/4632273/a3b52daa-2911-44c0-90f4-e2fa33fc6cdc.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : BIRMINGHAM STALLIONS
-http://mains.services/live/507Vej3h3S/4632273/92961704-6477-4e03-bf5f-7d3448307135.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : DC DEFENDERS
-http://mains.services/live/507Vej3h3S/4632273/fdff3fe2-5554-4a3b-9b18-37c67243223d.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : HOUSTON ROUGHNECKS
-http://mains.services/live/507Vej3h3S/4632273/d13f86c6-0dba-46e6-9cbe-ed271bb18963.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : MEMPHIS SHOWBOATS
-http://mains.services/live/507Vej3h3S/4632273/69446e91-0e0a-4db2-98a3-8326d63686e8.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : MICHIGAN PANTHERS
-http://mains.services/live/507Vej3h3S/4632273/fa7d5491-50fa-47ae-a65e-56acb3f38f5c.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : SAN ANTONIO BRAHMAS
-http://mains.services/live/507Vej3h3S/4632273/051d7dfc-aeb6-46f7-86ee-b49a8edf8a13.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UFL : ST LOUIS BATTLEHAWKS
-http://mains.services/live/507Vej3h3S/4632273/6847a90c-a72e-45af-962b-a91105395ca8.m3u
-
-
-
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 01
-http://mains.services/live/640939802963/IDC01478!/358896fe-6f9f-4964-a35e-89713861d491.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 02
-http://mains.services/live/640939802963/IDC01478!/41bf40ff-3c8e-4413-a97a-4ab2a9e768f2.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 03
-http://mains.services/live/640939802963/IDC01478!/31e74f13-46ae-4359-8d1d-585896565580.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 04
-http://mains.services/live/640939802963/IDC01478!/cb8365e0-adb2-47a0-b846-07f82721b2f5.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 05
-http://mains.services/live/640939802963/IDC01478!/e50d3664-2f66-4eb0-8a4c-fb5322bd87d4.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 06
-http://mains.services/live/640939802963/IDC01478!/1f85efc9-6aab-4dd2-be66-0c05cff061bd.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 07
-http://mains.services/live/640939802963/IDC01478!/22929c68-ae43-4ec1-a66f-0ce6bf64b19c.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 08
-http://mains.services/live/640939802963/IDC01478!/1b6d66f0-e096-4657-affc-0183b1853d8f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 09
-http://mains.services/live/640939802963/IDC01478!/4806fa6d-04cb-4507-bc94-355bdf0ad59a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 10
-http://mains.services/live/640939802963/IDC01478!/90d1bf31-6c24-4bb8-8d4e-ea277c1d83b8.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 11
-http://mains.services/live/640939802963/IDC01478!/d591930e-0075-4e29-ab3e-8aca54b32250.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 12
-http://mains.services/live/640939802963/IDC01478!/d93a0949-3004-4378-90b9-166f47f8c80a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 13
-http://mains.services/live/640939802963/IDC01478!/c7c5a6ef-4c60-4a17-827e-aeb1b579c40e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 14
-http://mains.services/live/640939802963/IDC01478!/34d088fe-f805-4ab2-a672-1d7ebb279e2b.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 15
-http://mains.services/live/640939802963/IDC01478!/04bf62e0-b733-47bb-9fb6-acc0ba602d2d.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 16
-http://mains.services/live/640939802963/IDC01478!/f473422a-d5e2-4512-b8bb-596a697fd1f1.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 17
-http://mains.services/live/640939802963/IDC01478!/650fa44e-f106-447b-abc0-74c3c27b875e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 18
-http://mains.services/live/640939802963/IDC01478!/e7ad49a4-9f0a-45ff-ac16-ae54a72c3665.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 19
-http://mains.services/live/640939802963/IDC01478!/0f10ca6c-a16f-47ae-92f5-c0f7da8e6887.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 20
-http://mains.services/live/640939802963/IDC01478!/fd4a7312-6326-472d-99b8-92134effe403.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 21
-http://mains.services/live/640939802963/IDC01478!/a98acac6-c8bc-4351-b542-bc5e5f7b10fc.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 22
-http://mains.services/live/640939802963/IDC01478!/4f6a987e-c037-475a-8249-d88266d2f26a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 23
-http://mains.services/live/640939802963/IDC01478!/43250799-f563-4a79-b7a3-5b727931c95b.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 24
-http://mains.services/live/640939802963/IDC01478!/082bbc25-b406-4ef4-9da9-e1d91f07824b.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 25
-http://mains.services/live/640939802963/IDC01478!/8b990517-2593-43eb-be99-a7b26542d18e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 26
-http://mains.services/live/640939802963/IDC01478!/68cdd59f-0427-4580-90cc-14aaffb0ab8f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 27
-http://mains.services/live/640939802963/IDC01478!/e3e9bb6b-3ce0-4df8-ba87-0014c69ed51a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ,UK EFL CUP GAME 28
-http://mains.services/live/640939802963/IDC01478!/f821c01b-cf7b-478a-96fe-e042d98d47a9.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 29
-http://mains.services/live/640939802963/IDC01478!/885c9e5e-128c-487b-9a55-6a35a104c3a9.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 30
-http://mains.services/live/640939802963/IDC01478!/5f333a31-8dd7-47c5-a96d-4503b5c70e3f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 31
-http://mains.services/live/640939802963/IDC01478!/44dea11b-5f8c-4b5c-95a5-e1686dc93f12.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 32
-http://mains.services/live/640939802963/IDC01478!/8ee487dc-ec39-4f24-854d-c88884f30315.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 33
-http://mains.services/live/640939802963/IDC01478!/aaf987c7-8c0a-49d5-a9a3-47b53bb5478d.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 34
-http://mains.services/live/640939802963/IDC01478!/e01dbbac-cc79-42d2-830b-dca3d7f0025f.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK EFL CUP GAME 35
-http://mains.services/live/640939802963/IDC01478!/b86525a3-b952-44f4-839a-c23271ec6f50.m3u
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 01
-http://mains.services/live/640939802963/IDC01478!/f48ae234-c5c8-4b57-9259-4672a1c5b286.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 02
-http://mains.services/live/640939802963/IDC01478!/b1b0390c-4e81-4c49-8cec-466009b247f3.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 03
-http://mains.services/live/640939802963/IDC01478!/a4d60638-18d3-495b-b229-45c54e7effcc.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 04
-http://mains.services/live/640939802963/IDC01478!/6f371497-593a-42f4-8825-53bce1ac7f8e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 05
-http://mains.services/live/640939802963/IDC01478!/78ac8562-4a7f-4a56-8a26-f02068c78a70.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 06
-http://mains.services/live/640939802963/IDC01478!/440ce56c-c580-405a-bc51-0aac27456e5c.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 07
-http://mains.services/live/640939802963/IDC01478!/44bff320-61a6-461f-b057-04500086911e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 08
-http://mains.services/live/640939802963/IDC01478!/febab0d5-38e0-4723-85cb-845c09b01fdc.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 09
-http://mains.services/live/640939802963/IDC01478!/0337b4f8-e4c7-43aa-9d5e-efa51682bd00.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 10
-http://mains.services/live/640939802963/IDC01478!/43cb075c-dcda-4acf-a125-6185ebf9859a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 11
-http://mains.services/live/640939802963/IDC01478!/183fb477-12e2-4581-8307-70d79f355265.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 12
-http://mains.services/live/640939802963/IDC01478!/057a1f47-d128-4772-b763-b6f8aa4156f8.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 13
-http://mains.services/live/640939802963/IDC01478!/70ae376c-72d3-494b-9d5f-45d3a36a0823.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 14
-http://mains.services/live/640939802963/IDC01478!/e71121e9-0c20-4bdd-b3f4-fa158175e682.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 15
-http://mains.services/live/640939802963/IDC01478!/21c42e64-0330-46f2-8f54-362a67aafa32.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 16
-http://mains.services/live/640939802963/IDC01478!/f7d96b25-b189-40b8-a21a-ee1a926dcda2.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 17
-http://mains.services/live/640939802963/IDC01478!/64571c83-5ec9-4ad1-a787-cb2363ee1f65.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 18
-http://mains.services/live/640939802963/IDC01478!/6b28cffb-4679-4545-affb-3db4390d1901.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 19
-http://mains.services/live/640939802963/IDC01478!/7f2c4460-4b1a-4b9b-ae1b-55acc74e9756.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 20
-http://mains.services/live/640939802963/IDC01478!/637eb44b-c343-47a9-8b73-81e59416f403.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 21
-http://mains.services/live/640939802963/IDC01478!/173c0090-9c2a-4cb2-af52-c99e9e6160b3.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FA CUP GAME 22
-http://mains.services/live/640939802963/IDC01478!/c22f15c8-9c80-4e51-9daf-029f97c43146.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ ,UK FA CUP GAME 23
-http://mains.services/live/640939802963/IDC01478!/0116ec03-5e6b-492e-9c01-a9d540bed390.m3u
-
-
-
-
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 01
-http://mains.services/live/640939802963/IDC01478!/ddc65a43-3d74-44c1-975b-d9530389a1ea.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 02
-http://mains.services/live/640939802963/IDC01478!/f4b2cfd4-91c7-498a-9644-96b2b095569c.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 03
-http://mains.services/live/640939802963/IDC01478!/886309ca-2816-44c2-bcb0-a0152ab7ba87.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 04
-http://mains.services/live/640939802963/IDC01478!/1cee7868-139f-4b87-b395-5a2a0e149c46.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 05
-http://mains.services/live/640939802963/IDC01478!/327a3b2b-35ef-4591-a649-279e0445d476.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 06
-http://mains.services/live/640939802963/IDC01478!/4ee6723a-93b6-4f51-bbc6-a89bd93a81d6.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 07
-http://mains.services/live/640939802963/IDC01478!/17c1aa6c-67ff-4fe6-9c93-1f20b7e341a2.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 08
-http://mains.services/live/640939802963/IDC01478!/840f7187-0a27-46bf-a7a9-a65628d24784.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 09
-http://mains.services/live/640939802963/IDC01478!/2d345eb8-8f92-4901-b18b-c9f93a943bc4.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 10
-http://mains.services/live/640939802963/IDC01478!/25ce3d3e-a517-4bff-b1f8-4cd0bc02c968.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 11
-http://mains.services/live/640939802963/IDC01478!/1af49c17-82e1-41f1-b8aa-5ebea0cfb7f5.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 12
-http://mains.services/live/640939802963/IDC01478!/c88fe96a-26a5-4da8-af2b-b6ecfdb142c6.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 13
-http://mains.services/live/640939802963/IDC01478!/6870797d-fabc-4c11-86e2-3ae1e212adb6.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 14
-http://mains.services/live/640939802963/IDC01478!/f221a20b-b4a9-41fd-999b-ddd1f931b790.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 15
-http://mains.services/live/640939802963/IDC01478!/9a6c74ec-81c8-4ad3-be88-211ed266190a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 16
-http://mains.services/live/640939802963/IDC01478!/519abf4d-5ab8-4c3d-b3a0-cc18cbcfa599.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 17
-http://mains.services/live/640939802963/IDC01478!/41e140e0-63b1-4a49-889c-4cf1d13a49e3.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 18
-http://mains.services/live/640939802963/IDC01478!/c0689a72-2777-4f45-ad7a-1abc05c08844.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 19
-http://mains.services/live/640939802963/IDC01478!/81c1e6a4-5888-42e6-9cbb-27655127241e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 20
-http://mains.services/live/640939802963/IDC01478!/0894c656-301f-43ae-9776-f9b88c6b2ebe.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 21
-http://mains.services/live/640939802963/IDC01478!/0cbbe26b-dbde-43ac-a6ab-5a094e38173a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 22
-http://mains.services/live/640939802963/IDC01478!/3f83a9ca-cb95-4f6a-a4cd-e6118c5ca1b3.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 23
-http://mains.services/live/640939802963/IDC01478!/523c7e6f-4d39-43c0-b0ce-b52f9eac073e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 24
-http://mains.services/live/640939802963/IDC01478!/bb00f698-8f1b-4270-8f9d-e12144aa97ed.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ UK FRIENDLY 25
-http://mains.services/live/640939802963/IDC01478!/696dffec-63f6-43d4-977f-d3ae095cf2f6.m3u
 
 
 
