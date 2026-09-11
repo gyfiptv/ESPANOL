@@ -1,0 +1,40 @@
+name: Detectar Caracteres Bidireccionales
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  detectar:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Ejecutar Detector
+        id: detector
+        run: |
+          python detectar_caracteres.py > reporte.txt 2>&1
+          cat reporte.txt
+      
+      - name: Crear Issue con Reporte
+        if: always()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const reporte = fs.readFileSync('reporte.txt', 'utf8');
+            
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '🔍 Reporte: Caracteres Bidireccionales Detectados',
+              body: '```\n' + reporte + '\n```\n\n📝 **Acciones recomendadas:**\n1. Revisar este reporte\n2. Identificar las líneas con caracteres ocultos\n3. Eliminar esas líneas del archivo Latino\n4. Hacer push de los cambios',
+              labels: ['bug', 'unicode']
+            });
