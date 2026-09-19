@@ -46,10 +46,6 @@ http://pfsv.io:80/6181288/27664/303988
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",®🇪🇸 ADRENALINA SPORTS NETWORK (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145469
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | AT&T SPORTSNET PITTSBURGH
@@ -74,8 +70,8 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98495.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ASTRO SUPERSPORT 5 
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/98496.ts
 
-
-
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ ADRENALINA SPORTS NETWORK HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1072
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ¹  🇪🇸 B 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
@@ -84,6 +80,10 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®SPORTS | BARCA TV
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/4296
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®27 | BALLY SPORTS SUN HD (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/140785
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | BTN B1G
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
@@ -279,6 +279,11 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131035
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸®43 | CSN SN Cleveland WOIO USA
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/131036
 
+
+
+
+
+
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
 http://mains.services/live/640939802963/IDC01478!/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt2)
@@ -373,6 +378,8 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2059
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
 
 
 
@@ -736,11 +743,25 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2364.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2367.ts
 
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",DEP | EUROSPORT 1 (FR)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1907.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",DEP | EUROSPORT 1 HD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1674
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",,DEP | EUROSPORT 2 (FR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1908
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",DEP | EXTREME SPORTS (FR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1910
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 ECUADOR🇪🇨ECDF 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇨90 ECDF EC ® (opt1)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/133846
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇨® ECDF EC (opt1)
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145444
@@ -770,6 +791,9 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®01 | ESPN DEPORTES HD (opt3)
+http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/134462
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸®39 | ESPN 2 ®
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/2821
@@ -934,6 +958,40 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30194.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22449.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | ESPN U
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2377.ts
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ ESPN 5 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1073
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ FOX SPORTS 3 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1076
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ ESPN HD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1080
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ ESPN HD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1081
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ ESPN 2 HD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1082
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN 3 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1086
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/1087
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN 4 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1090
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN PREMIUM HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1092
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ FOX SPORTS HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1093
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ FOX SPORTS 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1095
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN 6 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1097
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇦🇷ᵀᵛ¹ ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
+
+
+
 
 #EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/ESP-Logo.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² ESPN
 http://41.205.93.154/ESPN/index.m3u8
@@ -1247,6 +1305,41 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
 
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | FOX Deportes HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1384
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1074
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 1 FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1092
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | FOX SPORTS 1 FHD (CL)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1404
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1073
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 1 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1093
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 2 (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1076
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 2 FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1094
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 2 FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1075
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1095
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 3 (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1078
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 3 FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1096
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 3 FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1077
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports 3 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1097
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports Premium FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1098
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | Fox Sports Premium HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1099
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱᴺᴸᴬᶜᴱᴛv  🇪🇸 F 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
@@ -1277,8 +1370,10 @@ http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/140551
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸® Fᴜᴛʙᴏʟ NETWORK ᴴᴰ  | ZONA FUTBOL UHD
 http://00322.xyz:8000/carlosquiroz52/MQPM675V4S/145471
 
-
-
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | FUELTV
+http://disfruta.net:80/fpavas/raZFGMA7GT/1410
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | FUELTV FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1409
 
 
 
@@ -1511,12 +1606,12 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1821
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV | Premier League (ES)
 http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1680
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 TUDN 
-http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1219 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 TUDN FHD
-http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1400
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 TUDN (MX)
-http://disfruta.net:80/YmkvhXNesq/vgEWU3MaW1/1401
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ TUDN 
+http://disfruta.net:80/fpavas/raZFGMA7GT/1219 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ TUDN FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1400
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ TUDN (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1401
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 Liga BL 🇺🇸  ⭐🌎 BUNDESLIGA📺LIGA 🌎⭐
@@ -1543,29 +1638,34 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆GB : LA LIGA TV
 http://mains.services/live/4523074511/3178768/36097dae-f908-43cf-9bc8-84e8c3bd33b9.m3u
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 SKY SPORTS | LALIGA | IZZI LA HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ SKY SPORTS | LALIGA | IZZI LA HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 SKY SPORTS | LALIGA | IZZI LA HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ SKY SPORTS | LALIGA | IZZI LA HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 SKY SPORTS | LALIGA | IZZI LA HD
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ SKY SPORTS | LALIGA | IZZI LA HD
 http://disfruta.net:80/fpavas/raZFGMA7GT/4526
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 LaLIGA TV Hypermotion FHD (ES)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LaLIGA TV Hypermotion FHD (ES)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/1679.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 LaLIGA TV Hypermotion FHD (ES)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LaLIGA TV Hypermotion FHD (ES)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/1679.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 LaLIGA TV Hypermotion FHD (ES)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LaLIGA TV Hypermotion FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1679
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV FHD (ES)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ DAZN LaLIGA TV FHD (ES)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/1680.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV FHD (ES)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ DAZN LaLIGA TV FHD (ES)
 http://disfruta.net:80/live/fpavas/raZFGMA7GT/1680.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸 DAZN LaLIGA TV FHD (ES)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ DAZN LaLIGA TV FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1680
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M La Liga FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1682.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M La Liga FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1682.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M La Liga FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1682
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. DEPORTES (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1687
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. DEPORTES FHD (ES)
@@ -1574,22 +1674,41 @@ http://disfruta.net:80/fpavas/raZFGMA7GT/1683
 http://disfruta.net:80/fpavas/raZFGMA7GT/1694
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. GOLF HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1695
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. Liga De Campeones FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1691.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. Liga De Campeones FHD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1691.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ M. Liga De Campeones FHD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1691
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ MOTORSPORTS (FR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1912
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar Deportes CMD (PE)
 http://disfruta.net:80/fpavas/raZFGMA7GT/2902
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ MOVISTAR GOLF (FR)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1906
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar LaLiga (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1698.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar LaLiga (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1698.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar LaLiga (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1698
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LALIGA TV BAR HD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1699.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LALIGA TV BAR HD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1699.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ LALIGA TV BAR HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1699
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1701.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1701.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹ Movistar Liga Campeones HD (ES)
 http://disfruta.net:80/fpavas/raZFGMA7GT/1701
-
-
 
 
 
@@ -3319,6 +3438,31 @@ http://mains.best:2086/3003556325/2772007/100006
 http://mains.services:2086/4523074511/3178768/100006
 
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TNT SPORTS PREMIUM FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2795
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TOROS TV FHD (ES)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1707
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TUDN 
+http://disfruta.net:80/fpavas/raZFGMA7GT/1219 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TUDN FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1400
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TUDN (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1401
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TUDN HD (US)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1399
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | DEPORTES TVC
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1175.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | DEPORTES TVC
+http://disfruta.net:80/live/fpavas/raZFGMA7GT/1175.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | DEPORTES TVC
+http://disfruta.net:80/fpavas/raZFGMA7GT/1175
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | TYC Sports HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/2797
+
+
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TNT SPORTS AR *LQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/53187.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* TNT SPORTS AR *HQ
@@ -3427,6 +3571,10 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1986.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1822.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | TENNIS CHANNEL PLUS
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/30143.ts
+
+
+
+
 
 
 
@@ -4833,7 +4981,36 @@ http://pfsv.io:80/6181288/27664/130180.ts
 http://pfsv.io:80/6181288/27664/330699.ts
 
 
-
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹ ESPN 5 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1073
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹ FOX SPORTS 3 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1076
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹ ESPN HD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1080
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹ ESPN HD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1081
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹ ESPN 2 HD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1082
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN 3 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1086
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ TV
+http://disfruta.net:80/fpavas/raZFGMA7GT/1087
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN 4 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1090
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN PREMIUM HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1092
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ FOX SPORTS HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1093
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ FOX SPORTS 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1095
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN 6 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1097
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1084
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇦🇷ᵀᵛ¹ ESPN 2 HD (CO)
+http://disfruta.net:80/fpavas/raZFGMA7GT/5056
 
 
 
@@ -5330,7 +5507,38 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/1818.ts
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1818
 
 
-
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | FOX Deportes HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/1384
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1074
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 1 FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1092
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | FOX SPORTS 1 FHD (CL)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1404
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1073
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 1 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1093
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 2 (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1076
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 2 FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1094
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 2 FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1075
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 2 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1095
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 3 (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1078
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 3 FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1096
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 3 FHD (MX)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1077
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports 3 HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1097
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports Premium FHD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1098
+#EXTINF:-1 group-title="⚽ESPN🌐FOX⚽”,🇪🇸ᵀᵛ¹DEP | Fox Sports Premium HD (AR)
+http://disfruta.net:80/fpavas/raZFGMA7GT/1099
 
 
 
