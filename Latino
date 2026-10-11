@@ -1,4 +1,4 @@
-#EXTM3U
+6#EXTM3Utgyery
 #EXTINF:-1 tvg-name="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸", ##########  ♥ GROUP 01 📺ᴜɴɪvɪsɪᴏɴ NOW🌐sᴘᴀɴɪsh🇪🇸 ♥  ##########
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
@@ -5472,6 +5472,25 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS-2 (01)
+http://190.93.224.42/TNT-SPORTS-2/index.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS-2 (02)
+http://190.93.224.42/TNT-SPORTS-2/index.mpd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS-2 (03)
+http://190.93.224.42/TNT-SPORTS-2/playlist.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS-2 (04)
+http://190.93.224.42/TNT-SPORTS-2/mono.ts
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (01)
+http://190.93.224.42/TNT-SPORTS/index.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (02)
+http://190.93.224.42/TNT-SPORTS/index.mpd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (03)
+http://190.93.224.42/TNT-SPORTS/playlist.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (04)
+http://190.93.224.42/TNT-SPORTS/mono.ts
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7820 TENNIS (opt1)
