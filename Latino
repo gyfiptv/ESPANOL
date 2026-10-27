@@ -1343,12 +1343,10 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | BTN B1G
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | BARCA TV | TELECINCO ES
-http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277.ts
-
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸBeIN SPORTS XTRA en Espanol | 1080ᴾ [Geo-blocked]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸBeIN SPORTS XTRA en Espanol | 1080ᴾ [Geo-blocked]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ HBO BOXING by WB TV (1080p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
@@ -1359,6 +1357,12 @@ https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸ⓕ2538 BILLIARD TV (opt2)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2538
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | BTN B1G
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2056.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* SP | BARCA TV | TELECINCO ES
+http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/22277.ts
+
 
 
 
@@ -1457,6 +1461,39 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ CARACOL CO ʜᴅ2 | 720ᴾ (optt1) 
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2.co.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ CARACOL CO ʜᴅ2 | 720ᴾ (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2.co.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ CARACOL CO ʜᴅ2 | 720ᴾ (opt3)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2.co.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (01)
+http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (02)
+http://181.224.255.210:8001/play/a0qi/index.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (03)
+http://181.224.255.210:8001/play/a0qi/index.mpd
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (04)
+http://181.224.255.210:8001/play/a0qi/index.m4s
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴ᵀᵛ¹ CARACOL HD
+http://disfruta.net:80/fpavas/raZFGMA7GT/260
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴ᵀᵛ¹ CARACOL FHD
+http://disfruta.net:80/fpavas/raZFGMA7GT/261
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴ᵀᵛ¹ CARACOL HD 2
+http://disfruta.net:80/fpavas/raZFGMA7GT/262
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS SPORTS HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS SPORTS HQ
+https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBSN | CBS News 24/7 PRIME TIME
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS News 24/7
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN
 http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS
@@ -1474,17 +1511,6 @@ http://mains.services/live/507Vej3h3S/4632273/32782720-405c-46b2-a843-db09a6ea87
 http://mains.services/live/507Vej3h3S/4632273/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 04
 http://mains.services/live/507Vej3h3S/4632273/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBSN | CBS News 24/7 PRIME TIME
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS News 24/7
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS Sports Golazo Network
-https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS SPORTS HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS SPORTS HQ
-https://dai.google.com/linear/hls/event/9Lq0ERvoSR-z9AwvFS-xYA/master.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
 http://mains.services/live/640939802963/IDC01478!/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u8
@@ -1519,11 +1545,6 @@ http://mains.services/live/3003556325/2772007/50bf10e2-1cc4-45a7-9c3d-7f2866383d
 http://mains.services/live/507Vej3h3S/4632273/IDC01478!/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK FHD 1080 (opt4)
 http://mains.services:2086/live/4523074511/3178768/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
-
-#EXTINF:-1 tvg-id="CDNDeportes.do@SD" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ CDN Deportes (720p)
-http://200.125.170.122:8000/play/a03j/index.m3u8
-
-
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt1) 
 http://mains.best:2086/live/3003556325/2772007/349.m3u8
@@ -1615,6 +1636,14 @@ http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7811.ts
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ DAZN 2 IT | DISCOVERY IT (opt1)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.it.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ DAZN 2 IT | DISCOVERY IT (opt2)
+https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/discovery.it.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ DAZN : DAZN CA 01
 http://mains.services/live/507Vej3h3S/4632273/d15b2b93-de44-452f-aec9-5aa706d7783f.m3u
@@ -2312,8 +2341,20 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Fite 24/7
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸFox Sports en Espanol | 720ᴾ
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸFox Sports en Espanol | 720ᴾ
+https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸFite 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESV6qgH.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸFite 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network | 1080ᴾ 
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸFubo Sports Network | 1080ᴾ
+https://dnf08l6u6uxnz.cloudfront.net/master.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸ᵀᵛ¹DEP | FUELTV
 http://disfruta.net:80/fpavas/raZFGMA7GT/1410
@@ -3074,17 +3115,6 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NBC UNIVERSO
-http://mains.services/live/507Vej3h3S/4632273/feb6192a-2ed4-4422-bffa-9d745d1a014a.m3u
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NOTICIAS FL
-http://mains.services/live/507Vej3h3S/4632273/b9484914-504c-4e99-97e6-70c01812496a.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NOTICIAS LA
-http://mains.services/live/507Vej3h3S/4632273/912d194d-cb1f-42fd-8380-9fdbe51a92b0.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NOTICIAS NYC
-http://mains.services/live/507Vej3h3S/4632273/eaf99d2b-c1dc-44ef-9830-dbef1c3fce05.m3u
-
-
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🏀SPORTS🌐WORLD🎾",NBC 6 (opt1)
 https://streamer1.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🏀SPORTS🌐WORLD🎾",NBC 6 (opt2)
@@ -3094,6 +3124,22 @@ https://streamer1.nexgen.bz/NBC/mono.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png" group-title="🏀SPORTS🌐WORLD🎾",NBC 6 (opt4)
 https://streamer1.nexgen.bz/NBC/mono.ts
 
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸNHL | 1080ᴾ
+https://nhl-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-logo="https://i.imgur.com/UNZ8bef.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸNHL | 1080ᴾ
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NBC UNIVERSO
+http://mains.services/live/507Vej3h3S/4632273/feb6192a-2ed4-4422-bffa-9d745d1a014a.m3u
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NOTICIAS FL
+http://mains.services/live/507Vej3h3S/4632273/b9484914-504c-4e99-97e6-70c01812496a.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NOTICIAS LA
+http://mains.services/live/507Vej3h3S/4632273/912d194d-cb1f-42fd-8380-9fdbe51a92b0.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇪🇸☆ LATINO : NOTICIAS NYC
+http://mains.services/live/507Vej3h3S/4632273/eaf99d2b-c1dc-44ef-9830-dbef1c3fce05.m3u
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | NESN
@@ -3493,9 +3539,15 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.br.m
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇧🇷⚽ RECORD BR (opt2)
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/record.br.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" tvg-name="Red Bull TV" group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☑ Red Bull TV EN
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RedBull/picture?width=200&height=200" tvg-name="Red Bull TV" group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☑ Red Bull TV EN
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ Real Madrid TV ES | 720ᴾ
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Real Madrid TV EN | 720ᴾ
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ FR : RMC SPORT 1
 http://mains.services/live/507Vej3h3S/4632273/aa6df066-8c41-4c2f-b804-77d1533081cb.m3u
@@ -4015,31 +4067,7 @@ http://190.93.224.42/TNT-SPORTS-2/mono.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (01)
 http://190.93.224.42/TNT-SPORTS/index.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (02)
-http://190.93.224.42/TNT-SPORTS/index.mpd
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (03)
 http://190.93.224.42/TNT-SPORTS/playlist.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸① TNT-SPORTS (04)
-http://190.93.224.42/TNT-SPORTS/mono.ts
-
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (01)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (02)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (03)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/mono.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (04)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.m3u8
-
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (01)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.mpd
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (02)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/index.mpd
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (03)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/mono.mpd
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (04)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² TBS |E! (01)
@@ -4053,6 +4081,25 @@ http://41.205.93.154/TBS/playlist.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TeD4IOb.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² TBS |E! (05)
 http://41.205.93.154/TBS/mono.m3u8
 
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (01)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (02)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (03)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/mono.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel (04)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.m3u8
+
+
+#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ TR Sport IT | 480ᴾ
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TRSport.it" tvg-logo="https://i.imgur.com/ELXmaqg.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ TR Sport IT | 480ᴾ
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Trace Sport Stars (1080p) [Geo-blocked]
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ Trace Sport Stars (1080p) [Geo-blocked]
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾”,🇺🇸☆ GB : TNT SPORTS 01
@@ -4915,7 +4962,7 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* VTV *HQ
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* VTV PLUS *HQ
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/1805.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸* VTV *HQ | op2
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/17334.ts
