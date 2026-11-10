@@ -5065,7 +5065,179 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
 #EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 2 D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 2 D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 3 D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 3 D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 4 D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 4 D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 5 D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 5 D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 6 D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 6 D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.mpd
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 7 D+ | LAT 1080ᴾ (01)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN 7 D+ | LAT 1080ᴾ (02)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸 ESPN8: THE OCHO | LAT 432ᴾ
+http://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhMQrJk.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸 FOX SPORTS NEWS | LAT 1080ᴾ
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN_4 D+ | LAT 720ᴾ
+https://streaming.onnethn.com/ESPN_4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸88 ESPN 2 D+ | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/88.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸89 ESPN D+ | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/89.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸90 ESPN D+ | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/90.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸91 ESPN 4 D+ | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/91.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸92 ESPN 5 D+ | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/92.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸25 ESPN 6 D+ | LAT South 720ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/25.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸26 ESPN 7 D+ | LAT South 720ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/26.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸116 ESPN PREMIUM D+ | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/116.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960pxFOX_Sports_logo.svg.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸1552 FOX SPORTS | LAT South 1080ᴾ
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a085 FOX SPORTS | LAT 1080ᴾ
+http://138.59.227.20:8000/play/a085/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960pxFOX_Deportes_logo.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ FOX_DEPORTES_USA | 720ᴾ
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id=“Acc_Network.us" tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ ACC_NETWORK_USA | 720ᴾ
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
+#EXTINF:-1 tvg-id=“Sec_Network.us" tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸☑ SEC_NETWORK_USA | 720ᴾ
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² ESPN US | 1080ᴾ
+http://212.5.144.156:8080/espn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² ESPN US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² ESPN 2 US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² ESPN U US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² FOX SPORTS 1 US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² FOX SPORTS 2 US | LAT 720ᴾ
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸Ⓜ² ESPN_BRASIL D+ | LAT Brazil 720ᴾ
+http://45.162.64.114/ESPN_BRASIL/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇺🇸Ⓜ² ESPN 3 BR | LAT 720ᴾ
+http://193.33.39.108:9023/play/a01b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960pxESPN_4_logo.svg.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a07n ESPN 4 BR | LAT 1080ᴾ
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a07z ESPN BR | LAT 1080ᴾ
+http://181.78.197.59:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a00q ESPN D+ | LAT 720ᴾ
+http://38.134.250.110:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a00r ESPN 2 D+ | LAT 720ᴾ
+http://38.134.250.110:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a015 ESPN 3 D+ | LAT 720ᴾ
+http://38.134.250.110:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a00s ESPN 4 D+ | LAT 720ᴾ
+http://38.134.250.110:8000/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PhTaHp.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a01a ESPN 5 D+ | LAT 720ᴾ
+http://38.134.250.110:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a017 ESPN 6 D+ | LAT 1080ᴾ
+http://38.134.250.110:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a018 ESPN 7 D+ | LAT 1080ᴾ
+http://38.134.250.110:8000/play/a018/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a032 ESPN D+ | LAT 720ᴾ
+http://38.224.231.176:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a078 ESPN 2 D+ | LAT 480ᴾ
+http://38.224.231.176:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a024 ESPN 6 D+ | LAT 720ᴾ
+http://38.224.231.176:8000/play/a024/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a035 ESPN PREMIUM D+ | LAT 720ᴾ
+http://38.224.231.176:8000/play/a035/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a036 ESPN | LAT 480ᴾ
+http://45.171.64.30:6060/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a037 ESPN 2 | LAT 480ᴾ
+http://45.171.64.30:6060/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a0ao ESPN PREMIUM | LAT 1080ᴾ
+http://158.172.155.130:8000/play/a0ao/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes-c.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a0dz ESPN DEPORTES HD | LAT 720ᴾ
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes-c.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a06p ESPN MX | LAT 1080ᴾ
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇺🇸a092 ESPN 4 EN | LAT 1080ᴾ
+http://168.228.44.241:9997/play/a092/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a023 ESPN 6 D+ | LAT 1080ᴾ
+http://168.228.44.241:9997/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes-c.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a06p ESPN MX | LAT 1080ᴾ
+http://168.228.44.241:9997/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes-c.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a0dz ESPN DEPORTES HD | LAT 720ᴾ
+http://168.228.44.241:9998/play/a0dz/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a004 ESPN | LAT 720ᴾ
+http://190.61.47.54:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽ESPN🌐FOX⚽",🇪🇸a005 ESPN 2 CO | LAT 720ᴾ
+http://190.61.47.54:8000/play/a005/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqROJkn.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a02q ESPN | LAT 720p
+http://181.78.14.26:4000/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a080 ESPN 2 D+ | LAT 1080ᴾ
+http://181.78.197.59:8000/play/a080/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a081 ESPN 3 D+ | LAT 1080ᴾ
+http://181.78.197.59:8000/play/a081/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a074 ESPN 5 D+ | LAT 1080ᴾ
+http://181.78.197.59:8000/play/a074/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a052 FOX | 365 DEPORTES CENTROAMERICA 1080ᴾ
+http://168.228.44.241:9997/play/a052/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a053 FOX | DEPORTES CENTROAMERICA 1080ᴾ
+http://168.228.44.241:9997/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a054 FOX | DEPORTES CENTROAMERICA SV 1080ᴾ
+http://168.228.44.241:9997/play/a054/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a066 FOX | HN DEPORTES CENTROAMERICA | LAT 1080ᴾ
+http://168.228.44.241:9997/play/a066/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="⚽ESPN🌐FOX⚽",🇪🇸a067 FOX | 365 DEPORTES CENTROAMERICA | LAT 1080ᴾ
+http://168.228.44.241:9997/play/a067/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴛʙɴᵀᵛ  🇪🇸 ᴇsᴘɴ 🇺🇸  ⭐🌎 ESPN📺FOX 🌎⭐
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1021
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="⚽ESPN🌐FOX⚽",✝️ᴮⁱᴮᴸᴱ ᴹᵒᵛⁱᵉˢ ᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 #EXTINF:-1 group-title="⚽ESPN🌐FOX⚽",🇪🇸a0sa ESPN | 1080ᴾ (01)
 http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
