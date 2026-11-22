@@ -2644,6 +2644,35 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt1)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt2)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt3)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt2)
+http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt3)
+http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt2)
+http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt3)
+http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt1)
+http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt2)
+http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt3)
+http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.mpd
+
+
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ CARACOL CO ʜᴅ2 | 720ᴾ (optt1) 
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2.co.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸⚽ CARACOL CO ʜᴅ2 | 720ᴾ (opt2)
@@ -2675,42 +2704,7 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt1)
-http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt2)
-http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt3)
-http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.mpd
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt1)
-http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt2)
-http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt3)
-http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.mpd
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt1)
-http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt2)
-http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt3)
-http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.mpd
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt1)
-http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt2)
-http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.ts
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt3)
-http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.mpd
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 01
-http://mains.services/live/507Vej3h3S/4632273/fbe19fa0-b18f-4189-ae04-6faa55697656.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 02
-http://mains.services/live/507Vej3h3S/4632273/32782720-405c-46b2-a843-db09a6ea87db.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 03
-http://mains.services/live/507Vej3h3S/4632273/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 04
-http://mains.services/live/507Vej3h3S/4632273/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
 http://mains.services/live/640939802963/IDC01478!/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u8
@@ -2782,6 +2776,16 @@ http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2059.m3u8
 http://xdplay.tv:8080/live/dannyrx15/jvgKdjsjKC/2059.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸* SP | CBS SPORTS NETWORK (03)
 http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/2059
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 01
+http://mains.services/live/507Vej3h3S/4632273/fbe19fa0-b18f-4189-ae04-6faa55697656.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 02
+http://mains.services/live/507Vej3h3S/4632273/32782720-405c-46b2-a843-db09a6ea87db.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 03
+http://mains.services/live/507Vej3h3S/4632273/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 04
+http://mains.services/live/507Vej3h3S/4632273/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u8
+
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★ CLARO SPORTS (opt1)
 http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7378.m3u8
@@ -3231,6 +3235,12 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ ESPN 🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt1)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt2)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt3)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.mpd
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸Ⓜ² ESPN_4 Centam D+|720ᴾ (01)
 https://streaming.onnethn.com/ESPN_4/playlist.m3u8
@@ -3241,9 +3251,14 @@ https://streaming.onnethn.com/ESPN_4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸Ⓜ² ESPN_4 Centam D+|720ᴾ (04)
 https://streaming.onnethn.com/ESPN_4/playlist.mpd
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a06p ESPN MX | LAT 1080ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a06p ESPN MX | LAT 1080ᴾ (01)
 http://168.228.44.241:9997/play/a06p/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0dz ESPN DEPORTES HD | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a06p ESPN MX | LAT 1080ᴾ (02)
+http://168.228.44.241:9997/play/a06p/index.mpd
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a06p ESPN MX | LAT 1080ᴾ (03)
+http://168.228.44.241:9997/play/a06p/index.m4s
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0dz ESPN DEPORTES HD | LAT 720ᴾ (01)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
 
 
