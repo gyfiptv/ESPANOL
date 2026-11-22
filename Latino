@@ -579,9 +579,11 @@ https://tvlatina.live:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (01)
 https://streamer1.nexgen.bz/NBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (02)
-https://streamer1.nexgen.bz/NBC/playlist.m3u8
+https://streamer2.nexgen.bz/NBC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (03)
 https://streamer1.nexgen.bz/NBC/index.mpd
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² NBC 6 | 1080ᴾ (04)
+https://streamer2.nexgen.bz/NBC/playlist.mpd
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① OVACION PE |ᴰ+ 1080ᴾ (01)
 http://190.93.224.42/OVACION/index.m3u8
@@ -781,6 +783,62 @@ http://190.93.224.42/TELEMUNDO/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① TELEMUNDO INTERNACIONAL |ᴰ+ 480ᴾ (04)
 http://190.93.224.42/TELEMUNDO/playlist.mpd
 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 | 1080ᴾ (01)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 | 1080ᴾ (02)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 | 1080ᴾ (03)
+https://streamer1.nexgen.bz/TELEMUNDO/index.mpd
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 | 1080ᴾ (04)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (01)
+https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
+https://streaming.onnethn.com/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (03)
+https://streaming.onnethn.com/TELEMUNDO/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (01)
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (02)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (03)
+https://streamer1.nexgen.bz/TELEMUNDO/playlist.mpd
+
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.mpd
+
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
+#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.mpd
+
+#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo West (720p)
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (01)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (02)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (03)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/mono.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (04)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.mpd
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTNT East (720p) [01]
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
@@ -822,47 +880,19 @@ https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5
 #EXTINF:-1 tvg-id="TCMWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sbrSfhC.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTCM West (720p) [02]
 https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTastemade Travel | Cooking [Geo-blocked]
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTastemade Travel | Cooking [Geo-blocked]
+https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTastemade en Espanol | Cooking | 1080ᴾ [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTastemade en Espanol | Cooking | 1080ᴾ [Geo-blocked]
+https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TelemundoWest.us" tvg-shift="10800" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo West (720p)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
-#EXTINF:-1 tvg-id="TelemundoCorpusChristi.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelemundo Corpus Christi
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (01)
-https://streaming.onnethn.com/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (02)
-https://streaming.onnethn.com/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO | LATAM 720ᴾ (03)
-https://streaming.onnethn.com/TELEMUNDO/playlist.mpd
-
-
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (01)
-https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (02)
-https://streamer1.nexgen.bz/TELEMUNDO/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/telemundo_c.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² TELEMUNDO 51 EAST | NBC 6 | 1080ᴾ (03)
-https://streamer1.nexgen.bz/TELEMUNDO/playlist.mpd
-
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT1.pr" tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ TELEMUNDO PR | WKAQ-DT1 (1080ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 tvg-id="WKAQDT2.pr" tvg-logo="https://i.imgur.com/TL6xy4y.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ Telemundo PUNTO 2 PR | WKAQ-DT2 (720ᴾ)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 tvg-id="TUDNDT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ TUDN ɴᴏw ᵛᶦˣ TUDN-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.mpd
-
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.m3u8
-#EXTINF:-1 tvg-id="ZONADT.us@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Zona TUDN ɴᴏw ᵛᶦˣ ZONA-DT1 (1080ᴾ) [Geo-blocked]
-https://streaming-live-fcdn.api.prd.univisionnow.com/zona/zona.isml/hls/zona.mpd
-
+#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTeleSUR English VE (1080p)
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelevisora de Oriente VE | Music (406p)
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-id="TVUNO.pe" tvg-logo="https://i.imgur.com/dht94P4.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTVUNO PE | Music (720p)
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
@@ -871,30 +901,11 @@ https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTurbo Mix Radio TV PE (360p) [Music]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTastemade en Espanol | Cooking | 1080ᴾ [Geo-blocked]
-https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTastemade en Espanol | Cooking | 1080ᴾ [Geo-blocked]
-https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTeleislas CO (486p)
+https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTu Universo TV CO | Religious (720p)
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTastemade Travel | Cooking [Geo-blocked]
-https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTastemade Travel | Cooking [Geo-blocked]
-https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (01)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (02)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (03)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/mono.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://i.imgur.com/tsljAnY.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTennis Channel | 1080ᴾ (04)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/master.mpd
-
-#EXTINF:-1 tvg-id="TelesurEnglish.ve" tvg-logo="https://comteco.com.bo/img/upload/canales/1yD2hc.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇺🇸☑ ᶜᴬᴺᴬᴸTeleSUR English VE (1080p)
-https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/ve/telesur_eng.m3u8
-#EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-logo="https://i.imgur.com/wFC6Xxq.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelevisora de Oriente VE | Music (406p)
-https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/512px-TVE_Bahia_logo.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTVE RS BR (1080p)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
@@ -903,18 +914,10 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTV Brasil Oeste | Rede Brasil (720p) 
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Teleislas.co" tvg-logo="https://i.imgur.com/aKHGRyk.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTeleislas CO (486p)
-https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
-#EXTINF:-1 tvg-id="TuUniversoTV.co" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTu Universo TV CO | Religious (720p)
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr" tvg-logo="https://i.imgur.com/KUpgeOf.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTeleSUR Costa Rica (720p) [Not 24/7]
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-logo="https://i.imgur.com/eRwYxc2.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTele Uno TV CR (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸☑ ᶜᴬᴺᴬᴸTelevisión Metrópolis 19.1 HN (1080p)
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
@@ -941,7 +944,6 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 
-
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION |ᴰ+ 1080ᴾ (01)
 http://190.93.224.42/UNIVISION/index.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION |ᴰ+ 1080ᴾ (02)
@@ -950,6 +952,21 @@ http://190.93.224.42/UNIVISION/index.mpd
 http://190.93.224.42/UNIVISION/playlist.m3u8
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① UNIVISION |ᴰ+ 1080ᴾ (04)
 http://190.93.224.42/UNIVISION/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ (01)
+https://streaming.onnethn.com/UNIVISION/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ (02)
+https://streaming.onnethn.com/UNIVISION/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² UNIVISION | LAT 720ᴾ (03)
+https://streaming.onnethn.com/UNIVISION/playlist.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ (01)
+https://streaming.onnethn.com/UNIMAS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ (02)
+https://streaming.onnethn.com/UNIMAS/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸◉² UNIMAS | LAT 720ᴾ (03)
+https://streaming.onnethn.com/UNIMAS/playlist.mpd
+
 
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ UNIMAS 46 LA West ᵛᶦˣ KFTR-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
@@ -961,6 +978,16 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u
 #EXTINF:-1 tvg-id="KFTRDT1.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ UNIMAS 68 NJ East ᵛᶦˣ KFUT-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.mpd
 
+
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸♡ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ East ɴᴏw | 1080ᴾ (01)
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.m3u8
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸♡ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ East ɴᴏw | 1080ᴾ (02)
+https://streaming-live-fcdn.api.prd.univisionnow.com/unieast/unieast.isml/hls/unieast.mpd
+
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸♡ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ West ɴᴏw | 1080ᴾ (01)
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
+#EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸♡ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ West ɴᴏw | 1080ᴾ (02)
+https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.mpd
 
 #EXTINF:-1 tvg-id="N247DT.us@SD" tvg-logo="https://i.imgur.com/D65iNay.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ N+ ᴜɴɪvɪsɪᴏɴ 24/7 ɴᴏw ᵛᶦˣ N247-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/n247/n247.isml/hls/n247.m3u8
@@ -1011,6 +1038,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.mpd
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.m3u8
 #EXTINF:-1 tvg-id="VIXDT.us@SD" tvg-logo="https://i.imgur.com/e3Z2wzG.png" group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸ᵛᶦˣ Canal VIX ɴᴏw vɪx-DT1 (1080ᴾ) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/vix/vix.isml/hls/vix.mpd
+
 
 
 #EXTINF:-1 group-title="📺ᴛvᴾᴿᴱᴹᴵᵁᴹ①ᴱˢᴾᴬᴺᵒᴸ🇪🇸",🇪🇸① VIVA-TV 11 PE |ᴰ+ 1080ᴾ (01)
@@ -2530,11 +2558,6 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸBeIN SPORTS XTRA en Espanol | 1080ᴾ [Geo-blocked]
-https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸBeIN SPORTS XTRA en Espanol | 1080ᴾ [Geo-blocked]
-https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ HBO BOXING by WB TV (1080p) [Geo-blocked]
 https://live-manifest.production-public.tubi.io/live/9fe78734-1db2-49b4-af7b-3c89f5f256ad/playlist.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ HBO BOXING by WB TV (1080p) [Geo-blocked]
@@ -2558,6 +2581,28 @@ https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ²  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ BeIN SPORTS XTRA en Espanol | 1080ᴾ (01)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ BeIN SPORTS XTRA en Espanol | 1080ᴾ (02)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸◉² BeIN SPORTS USA | 432ᴾ (01)
+https://tvsen6.aynaott.com/beinsports/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸◉² BeIN SPORTS USA | 432ᴾ (01)
+https://tvsen6.aynaott.com/beinsports/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸◉² BeIN SPORTS USA | 432ᴾ (01)
+https://tvsen6.aynaott.com/beinsports/mono.m3u8
+
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸBeIN SPORTS XTRA en Espanol | 240ᴾ [01]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸☑ ᶜᴬᴺᴬᴸBeIN SPORTS XTRA en Espanol | 240ᴾ [02]
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ BeIN SPORTS XTRA USA | 240ᴾ (01)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ BeIN SPORTS XTRA USA | 240ᴾ (02)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 
 
 
@@ -2594,55 +2639,6 @@ http://xdplay.tv:8080/dannyrx15/jvgKdjsjKC/52688.ts
 
 
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7777 BeIN SPORTS XTRA (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7777.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7777 BeIN SPORTS XTRA (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7777.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7769 BeIN SPORTS Ñ (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7769.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸★7769 BeIN SPORTS Ñ (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7769.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7770 BeIN SPORTS (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7770.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7770 BeIN SPORTS (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7770.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7771 BeIN SPORTS 4 PPV 1 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7771.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7771 BeIN SPORTS 4 PPV 1 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7771.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7772 BeIN SPORTS 5 PPV 2 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7772.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7772 BeIN SPORTS 5 PPV 2 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7772.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7773 BeIN SPORTS 6 PPV 3 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7773.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7773 BeIN SPORTS 6 PPV 3 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7773.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7774 BeIN SPORTS PPV 4 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7774.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7774 BeIN SPORTS PPV 4 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7774.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7775 BeIN SPORTS PPV 5 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7775.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7775 BeIN SPORTS PPV 5 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7775.ts
-
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7365 BeIN SPORTS 3 PPV 6 (opt1)
-http://alfa.7057460.xyz:2095/live/Frulz2022/Junio2022/7365.m3u8
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸★7365 BeIN SPORTS 3 PPV 6 (opt2)
-http://alfa.7057460.xyz:2095/live/omarceja/MOC3om8611c7j/7365.ts
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MxlzJK.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴛʙɴᵀᵛ  🇪🇸 C 🇺🇸  ⭐🌎 SPORTS📺WORLD 🌎⭐
 https://streamer1.nexgen.bz/TBN/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️BibleMoviesᵀᵛ  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
@@ -2656,12 +2652,10 @@ https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2
 https://tvnow.best/api/stream/Babyboymdm5@gmail.com/Melon/livetv.epg/caracol.hd2.co.m3u8
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (01)
-http://181.224.255.210:8001/play/a0qi/index.m3u8?hls
+http://181.224.255.210:8001/play/a0qi/index.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (02)
-http://181.224.255.210:8001/play/a0qi/index.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (03)
 http://181.224.255.210:8001/play/a0qi/index.mpd
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (04)
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0qi RCN | 480ᴾ (03)
 http://181.224.255.210:8001/play/a0qi/index.m4s
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇨🇴ᵀᵛ¹ CARACOL HD
@@ -2681,64 +2675,85 @@ https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ CBS News 24/7
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN
-http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS
-http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS
-http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.m3u
-#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2
-http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.m3u
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt1)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt2)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : ESPN (opt3)
+http://mains.services/live/507Vej3h3S/4632273/a2a80367-b6fc-46b0-9007-e6cf9089669e.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt2)
+http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : FLOW SPORTS (opt3)
+http://mains.services/live/507Vej3h3S/4632273/dd3e1a4b-2fd0-4ff0-b539-7aab54e541cd.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt1)
+http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt2)
+http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH SPORTS (opt3)
+http://mains.services/live/507Vej3h3S/4632273/ce280785-0943-4f57-b576-8429d9e7e046.mpd
+
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt1)
+http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.m3u8
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt2)
+http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.ts
+#EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CARIBBEAN : RUSH 2 (opt3)
+http://mains.services/live/507Vej3h3S/4632273/2e4d0a83-3886-4b02-a851-63d9a0b3f2fe.mpd
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 01
-http://mains.services/live/507Vej3h3S/4632273/fbe19fa0-b18f-4189-ae04-6faa55697656.m3u
+http://mains.services/live/507Vej3h3S/4632273/fbe19fa0-b18f-4189-ae04-6faa55697656.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 02
-http://mains.services/live/507Vej3h3S/4632273/32782720-405c-46b2-a843-db09a6ea87db.m3u
+http://mains.services/live/507Vej3h3S/4632273/32782720-405c-46b2-a843-db09a6ea87db.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 03
-http://mains.services/live/507Vej3h3S/4632273/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u
+http://mains.services/live/507Vej3h3S/4632273/3e48af36-61ad-42ed-9c35-fd254ca01d4b.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CA: CFL GAME 04
-http://mains.services/live/507Vej3h3S/4632273/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u
+http://mains.services/live/507Vej3h3S/4632273/56364cd4-2f44-46a3-8df3-60eca863c0e6.m3u8
 
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt1)
 http://mains.services/live/640939802963/IDC01478!/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt2)
 http://mains.services/live/3003556325/2772007/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.ts
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt3)
-http://mains.services/live/507Vej3h3S/4632273/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m3u
+http://mains.services/live/507Vej3h3S/4632273/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.mpd
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS GOLAZO NETWORK (opt4)
+http://mains.services/live/507Vej3h3S/4632273/688788fa-16fd-4f8a-ac64-3691aa9cf1a1.m4s
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS HQ (opt1)
-http://mains.services/live/640939802963/IDC01478!/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
+http://mains.services/live/640939802963/IDC01478!/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS HQ (opt2)
-http://mains.services/live/3003556325/2772007/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
+http://mains.services/live/3003556325/2772007/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS HQ (opt3)
-http://mains.services/live/507Vej3h3S/4632273/IDC01478!/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
+http://mains.services/live/507Vej3h3S/4632273/IDC01478!/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.mpd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS HQ (opt4)
-http://mains.services:2086/live/4523074511/3178768/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m3u
+http://mains.services/live/507Vej3h3S/4632273/IDC01478!/d7a7bd8d-3dc0-4a94-9518-75ae1195fb13.m4s
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK (opt1)
-http://mains.services/live/640939802963/IDC01478!/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
+http://mains.services/live/640939802963/IDC01478!/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK (opt2)
-http://mains.services/live/3003556325/2772007/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
+http://mains.services/live/3003556325/2772007/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK (opt3)
-http://mains.services/live/507Vej3h3S/4632273/IDC01478!/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
+http://mains.services/live/507Vej3h3S/4632273/IDC01478!/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.mpd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK (opt4)
-http://mains.services:2086/live/4523074511/3178768/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m3u
+http://mains.services/live/507Vej3h3S/4632273/3178768/cfa7fd91-22ad-4a43-a835-ec87bdc4fd50.m4s
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK FHD 1080 (opt1)
-http://mains.services/live/640939802963/IDC01478!/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
+http://mains.services/live/640939802963/IDC01478!/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK FHD 1080 (opt2)
-http://mains.services/live/3003556325/2772007/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
+http://mains.services/live/3003556325/2772007/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK FHD 1080 (opt3)
-http://mains.services/live/507Vej3h3S/4632273/IDC01478!/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
+http://mains.services/live/507Vej3h3S/4632273/IDC01478!/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.mpd
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☆ CBS SPORTS NETWORK FHD 1080 (opt4)
-http://mains.services:2086/live/4523074511/3178768/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m3u
+http://mains.services/live/507Vej3h3S/4632273/3178768/50bf10e2-1cc4-45a7-9c3d-7f2866383de1.m4s
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt1) 
 http://mains.best:2086/live/3003556325/2772007/349.m3u8
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt2) 
 http://mains.services:2086/live/507Vej3h3S/4632273/349.ts
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt3) 
-http://mains.services/4523074511/3178768/349
+http://mains.services/live/640939802963/IDC01478!/349
 
 #EXTINF:-1 group-title="🏀SPORTS🌐WORLD🎾",☆ ⛹️CNBC (opt1) 
 http://mains.best:2086/live/3003556325/2772007/64142.m3u8
@@ -2781,12 +2796,10 @@ https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (01)
-http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+http://181.224.255.210:8001/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (02)
-http://181.224.255.210:8001/play/a0s8/index.m3u
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (03)
 http://181.224.255.210:8001/play/a0s8/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (04)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a0s8 DIRECTV SPORTS | 480ᴾ (03)
 http://181.224.255.210:8001/play/a0s8/index.m4s
 
 
@@ -3435,6 +3448,15 @@ https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="🏀SPORTS🌐WORLD🎾",✝️ᴱˣᵀᴿᴱᴹᴬᴛv  🇨🇭🙏🏻 Rᴇʟᴏᴀd Pʟᴀyʟɪsᴛ Daily 🙏🏻🇨🇭
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸◉² FOX | Tigo Sports | LAT 720ᴾ (01)
+https://streaming.onnethn.com/FOX/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸◉² FOX | Tigo Sports | LAT 720ᴾ (02)
+https://streaming.onnethn.com/FOX/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸◉² FOX | Tigo Sports | LAT 720ᴾ (03)
+https://streaming.onnethn.com/FOX/mono.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a052 FOX | 365 DEPORTES CENTROAMERICA 1080ᴾ
 http://168.228.44.241:9997/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸a053 FOX | DEPORTES CENTROAMERICA 1080ᴾ
@@ -3464,10 +3486,16 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960pxFOX_Sports_logo.svg.png" group-title="🏀SPORTS🌐WORLD🎾",🇪🇸1552 FOX SPORTS | LATAM 1080ᴾ
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² FOX SPORTS 1 US | LAT 720ᴾ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² FOX SPORTS 1 US | LAT 720ᴾ (01)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² FOX SPORTS 1 US | LAT 720ᴾ (02)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² FOX SPORTS 1 US | LAT 720ᴾ (03)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸Ⓜ² FOX SPORTS 2 US | LAT 720ᴾ
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960pxFOX_Deportes_logo.png" group-title="🏀SPORTS🌐WORLD🎾",🇺🇸☑ FOX_DEPORTES_USA | 720ᴾ
 http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 
